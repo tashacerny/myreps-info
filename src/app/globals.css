@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@layer base {
+  body {
+    @apply font-sans text-gray-900 bg-white;
+  }
+
+  a {
+    @apply text-civic-blue hover:underline;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-semibold;
+  }
+}
+
+@layer components {
+  .prose-wiki h2 {
+    @apply text-xl font-semibold text-gray-900 mt-8 mb-3 pb-1 border-b border-gray-200;
+  }
+  .prose-wiki h3 {
+    @apply text-lg font-semibold text-gray-800 mt-6 mb-2;
+  }
+  .prose-wiki p {
+    @apply text-gray-700 leading-relaxed mb-4;
+  }
+  .prose-wiki ul {
+    @apply list-disc list-inside mb-4 text-gray-700 space-y-1;
+  }
+  .prose-wiki a {
+    @apply text-civic-blue hover:underline;
+  }
+}
