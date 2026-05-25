@@ -8,8 +8,10 @@
  *   npx tsx scripts/ingest.ts [--federal] [--state] [--bills] [--dry-run]
  *
  * Requires these env vars (copy .env.example → .env):
- *   PROPUBLICA_API_KEY, OPENSTATES_API_KEY,
- *   CONGRESS_GOV_API_KEY, ANTHROPIC_API_KEY
+ *   CONGRESS_GOV_API_KEY, OPENSTATES_API_KEY, ANTHROPIC_API_KEY
+ *
+ * Note: Congress.gov API covers all federal data (members + votes + bills).
+ * ProPublica Congress API was removed — it is no longer available.
  */
 
 import fs from 'fs'
@@ -24,7 +26,6 @@ const WIKI_DIR = path.join(process.cwd(), 'wiki')
 const POLITICIANS_DIR = path.join(WIKI_DIR, 'politicians')
 const BILLS_DIR = path.join(WIKI_DIR, 'bills')
 
-const PROPUBLICA_KEY = process.env.PROPUBLICA_API_KEY
 const OPENSTATES_KEY = process.env.OPENSTATES_API_KEY
 const CONGRESS_GOV_KEY = process.env.CONGRESS_GOV_API_KEY
 const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY
@@ -46,7 +47,6 @@ async function main() {
 
 function checkEnvVars() {
   const missing: string[] = []
-  if (!PROPUBLICA_KEY) missing.push('PROPUBLICA_API_KEY')
   if (!OPENSTATES_KEY) missing.push('OPENSTATES_API_KEY')
   if (!CONGRESS_GOV_KEY) missing.push('CONGRESS_GOV_API_KEY')
   if (!ANTHROPIC_KEY) missing.push('ANTHROPIC_API_KEY')
@@ -58,135 +58,152 @@ function checkEnvVars() {
 }
 
 // ---------------------------------------------------------------------------
-// Federal members (ProPublica Congress API)
+// Federal members (Congress.gov API)
 // ---------------------------------------------------------------------------
 
 async function ingestFederalMembers() {
-  if (!PROPUBLICA_KEY) {
-    console.log('⏭️  Skipping federal members (no PROPUBLICA_API_KEY)')
+  if (!CONGRESS_GOV_KEY) {
+    console.log('⏭️  Skipping federal members (no CONGRESS_GOV_API_KEY)')
     return
   }
-  console.log('📥 Fetching federal members from ProPublica...')
+  console.log('📥 Fetching federal members from Congress.gov...')
 
-  const chambers = ['senate', 'house']
   const CURRENT_CONGRESS = 119
+  const chambers = ['senate', 'house']
 
   for (const chamber of chambers) {
-    const url = `https://api.propublica.org/congress/v1/${CURRENT_CONGRESS}/${chamber}/members.json`
-    const res = await fetch(url, { headers: { 'X-API-Key': PROPUBLICA_KEY } })
-    if (!res.ok) {
-      console.error(`  ❌ Failed to fetch ${chamber}: ${res.status}`)
-      continue
-    }
+    let offset = 0
+    const limit = 250
 
-    const json = await res.json() as {
-      results: Array<{
-        members: Array<{
-          id: string
-          first_name: string
-          last_name: string
-          party: string
-          state: string
-          district?: string
-          date_of_birth?: string
-          url?: string
-          twitter_account?: string
-          phone?: string
-          in_office: boolean
-          roles?: Array<{ title: string; congress: string; state: string; district?: string; start_date: string; end_date?: string }>
-        }>
-      }>
-    }
-
-    const members = json.results?.[0]?.members ?? []
-    console.log(`  Found ${members.length} ${chamber} members`)
-
-    for (const member of members) {
-      const slug = toSlug(`${member.first_name}-${member.last_name}`)
-      const filePath = path.join(POLITICIANS_DIR, `${slug}.md`)
-
-      // Fetch detailed member data including votes
-      const detail = await fetchMemberDetail(member.id)
-      const votes = await fetchMemberVotes(member.id)
-
-      const frontmatter = buildPoliticianFrontmatter({
-        name: `${member.first_name} ${member.last_name}`,
-        slug,
-        party: expandParty(member.party),
-        birthdate: member.date_of_birth,
-        state: member.state,
-        level: 'federal',
-        chamber: chamber === 'senate' ? 'Senate' : 'House',
-        office: chamber === 'senate'
-          ? `U.S. Senator`
-          : `U.S. Representative, ${member.state}-${member.district}`,
-        district: member.district ?? null,
-        in_office: member.in_office,
-        contact: {
-          phone: member.phone,
-          website: member.url,
-          twitter: member.twitter_account,
-        },
-        votes,
-        last_updated: new Date().toISOString().split('T')[0],
-      })
-
-      const bio = detail?.biography ?? ''
-      const content = `${frontmatter}\n${bio}`
-
-      if (!DRY_RUN) {
-        fs.writeFileSync(filePath, content, 'utf8')
-        console.log(`  ✍️  Wrote ${filePath}`)
-      } else {
-        console.log(`  [dry] Would write ${filePath}`)
+    while (true) {
+      const url = `https://api.congress.gov/v3/member?congress=${CURRENT_CONGRESS}&chamber=${chamber}&limit=${limit}&offset=${offset}&api_key=${CONGRESS_GOV_KEY}`
+      const res = await fetch(url)
+      if (!res.ok) {
+        console.error(`  ❌ Failed to fetch ${chamber}: ${res.status}`)
+        break
       }
 
-      // Rate limit: ProPublica allows ~5000 req/day but be polite
-      await sleep(200)
+      const json = await res.json() as {
+        members?: Array<{
+          bioguideId: string
+          name: string
+          partyName: string
+          state: string
+          district?: number
+          depiction?: { imageUrl?: string }
+          terms?: { item?: Array<{ chamber: string; startYear: number; endYear?: number }> }
+        }>
+        pagination?: { total: number }
+      }
+
+      const members = json.members ?? []
+      console.log(`  ${chamber}: fetched ${offset + members.length} / ${json.pagination?.total ?? '?'}`)
+
+      for (const member of members) {
+        const nameParts = member.name.split(', ')
+        const name = nameParts.length === 2
+          ? `${nameParts[1]} ${nameParts[0]}`
+          : member.name
+        const slug = toSlug(name)
+        const filePath = path.join(POLITICIANS_DIR, `${slug}.md`)
+
+        const detail = await fetchCongressMemberDetail(member.bioguideId)
+        const votes = await fetchCongressMemberVotes(member.bioguideId)
+        const termStart = member.terms?.item?.find(t =>
+          t.chamber.toLowerCase() === chamber
+        )?.startYear
+
+        const frontmatter = buildPoliticianFrontmatter({
+          name,
+          slug,
+          party: member.partyName,
+          state: member.state,
+          level: 'federal',
+          chamber: chamber === 'senate' ? 'Senate' : 'House',
+          office: chamber === 'senate'
+            ? 'U.S. Senator'
+            : `U.S. Representative, ${member.state}-${member.district ?? 'At Large'}`,
+          district: member.district?.toString() ?? null,
+          in_office: true,
+          photo_url: member.depiction?.imageUrl,
+          contact: {
+            website: detail?.officialWebsiteUrl,
+            phone: detail?.phoneNumber,
+          },
+          term_start: termStart ? `${termStart}-01-03` : undefined,
+          votes,
+          last_updated: new Date().toISOString().split('T')[0],
+        })
+
+        const bio = detail?.biography ?? ''
+        const content = `${frontmatter}\n${bio}`
+
+        if (!DRY_RUN) {
+          fs.writeFileSync(filePath, content, 'utf8')
+        } else {
+          console.log(`  [dry] Would write ${filePath}`)
+        }
+
+        await sleep(250)
+      }
+
+      if (members.length < limit) break
+      offset += limit
     }
   }
 }
 
-async function fetchMemberDetail(memberId: string) {
-  if (!PROPUBLICA_KEY) return null
+async function fetchCongressMemberDetail(bioguideId: string) {
+  if (!CONGRESS_GOV_KEY) return null
   try {
     const res = await fetch(
-      `https://api.propublica.org/congress/v1/members/${memberId}.json`,
-      { headers: { 'X-API-Key': PROPUBLICA_KEY } }
+      `https://api.congress.gov/v3/member/${bioguideId}?api_key=${CONGRESS_GOV_KEY}`
     )
-    const json = await res.json() as { results?: Array<{ biography?: string }> }
-    return json.results?.[0] ?? null
+    const json = await res.json() as {
+      member?: {
+        biography?: string
+        officialWebsiteUrl?: string
+        phoneNumber?: string
+        birthYear?: string
+        directOrderName?: string
+      }
+    }
+    return json.member ?? null
   } catch {
     return null
   }
 }
 
-async function fetchMemberVotes(memberId: string) {
-  if (!PROPUBLICA_KEY) return []
+async function fetchCongressMemberVotes(bioguideId: string) {
+  if (!CONGRESS_GOV_KEY) return []
   try {
     const res = await fetch(
-      `https://api.propublica.org/congress/v1/members/${memberId}/votes.json`,
-      { headers: { 'X-API-Key': PROPUBLICA_KEY } }
+      `https://api.congress.gov/v3/member/${bioguideId}/votes?limit=50&api_key=${CONGRESS_GOV_KEY}`
     )
     const json = await res.json() as {
-      results?: Array<{
-        votes?: Array<{
-          bill?: { bill_id?: string; title?: string; number?: string }
-          date?: string
-          position?: string
-          description?: string
-        }>
+      votes?: Array<{
+        bill?: { number?: string; type?: string; title?: string }
+        congress?: number
+        date?: string
+        votePosition?: string
+        description?: string
       }>
     }
-    const raw = json.results?.[0]?.votes ?? []
+    const raw = json.votes ?? []
 
-    return raw.slice(0, 50).map((v) => ({
-      bill_slug: toSlug(v.bill?.bill_id ?? 'unknown'),
-      bill_title: v.bill?.title ?? 'Unknown Bill',
-      date: v.date ?? '',
-      vote: normalizeVote(v.position ?? ''),
-      summary: v.description ?? '',
-    }))
+    return raw.map((v) => {
+      const billId = v.bill?.number
+        ? `${v.bill.type?.toLowerCase() ?? 'bill'}-${v.bill.number}-${v.congress ?? 119}th`
+        : 'unknown'
+      return {
+        bill_slug: toSlug(billId),
+        bill_title: v.bill?.title ?? 'Unknown Bill',
+        date: v.date ?? '',
+        vote: normalizeVote(v.votePosition ?? ''),
+        summary: v.description ?? '',
+        congress: v.congress,
+      }
+    })
   } catch {
     return []
   }
@@ -442,8 +459,10 @@ function buildPoliticianFrontmatter(data: {
   office: string
   district?: string | null
   in_office: boolean
+  photo_url?: string
+  term_start?: string
   contact?: { phone?: string; website?: string; twitter?: string }
-  votes?: Array<{ bill_slug: string; bill_title: string; date: string; vote: string; summary: string }>
+  votes?: Array<{ bill_slug: string; bill_title: string; date: string; vote: string; summary: string; congress?: number }>
   last_updated?: string
 }): string {
   const contactLines = data.contact
@@ -456,7 +475,7 @@ function buildPoliticianFrontmatter(data: {
       ).join('\n')}\n`
     : ''
 
-  return `---\nname: ${data.name}\nslug: ${data.slug}\nparty: ${data.party}\n${data.birthdate ? `birthdate: "${data.birthdate}"\n` : ''}${data.state ? `state: ${data.state}\n` : ''}level: ${data.level}\n${data.chamber ? `chamber: ${data.chamber}\n` : ''}office: ${data.office}\n${data.district != null ? `district: ${data.district}\n` : ''}in_office: ${data.in_office}\n${contactLines}${votesLines}last_updated: "${data.last_updated ?? new Date().toISOString().split('T')[0]}"\n---\n`
+  return `---\nname: ${data.name}\nslug: ${data.slug}\nparty: ${data.party}\n${data.birthdate ? `birthdate: "${data.birthdate}"\n` : ''}${data.state ? `state: ${data.state}\n` : ''}level: ${data.level}\n${data.chamber ? `chamber: ${data.chamber}\n` : ''}office: ${data.office}\n${data.district != null ? `district: ${data.district}\n` : ''}in_office: ${data.in_office}\n${data.photo_url ? `photo_url: "${data.photo_url}"\n` : ''}${data.term_start ? `term_start: "${data.term_start}"\n` : ''}${contactLines}${votesLines}last_updated: "${data.last_updated ?? new Date().toISOString().split('T')[0]}"\n---\n`
 }
 
 function buildBillFrontmatter(data: {
