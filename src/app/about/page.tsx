@@ -110,11 +110,9 @@ export default function AboutPage() {
           are temporarily unavailable.
         </p>
         <p className="text-gray-700 leading-relaxed">
-          The source code is available on{' '}
-          <a href="https://github.com/tashacerny/myreps-info" target="_blank" rel="noopener noreferrer" className="text-civic-blue hover:underline">
-            GitHub
-          </a>
-          .
+          All editorial decisions — what data to show, how summaries are worded, what sources
+          are trusted — are made by the site team and enforced through the pipeline. No
+          user-submitted content is accepted.
         </p>
       </section>
 
