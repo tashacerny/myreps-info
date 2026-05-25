@@ -1,0 +1,16 @@
+---
+name: Dina Titus
+slug: dina-titus
+party: Democratic
+state: Nevada
+level: federal
+chamber: House
+office: U.S. Representative, Nevada-1
+district: 1
+in_office: true
+photo_url: "https://www.congress.gov/img/member/6809296b6c2e6631263de728_200.jpg"
+contact:
+  website: "https://titus.house.gov/"
+last_updated: "2026-05-25"
+---
+

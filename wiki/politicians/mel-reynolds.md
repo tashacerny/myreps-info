@@ -1,0 +1,15 @@
+---
+name: Mel Reynolds
+slug: mel-reynolds
+party: Democratic
+state: Illinois
+level: federal
+chamber: House
+office: U.S. Representative, Illinois-2
+district: 2
+in_office: true
+photo_url: "https://www.congress.gov/img/member/r000178_200.jpg"
+contact:
+last_updated: "2026-05-25"
+---
+

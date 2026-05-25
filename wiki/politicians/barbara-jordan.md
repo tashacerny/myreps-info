@@ -1,0 +1,15 @@
+---
+name: Barbara Jordan
+slug: barbara-jordan
+party: Democratic
+state: Texas
+level: federal
+chamber: House
+office: U.S. Representative, Texas-18
+district: 18
+in_office: true
+photo_url: "https://www.congress.gov/img/member/j000266_200.jpg"
+contact:
+last_updated: "2026-05-25"
+---
+

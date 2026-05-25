@@ -1,0 +1,16 @@
+---
+name: Michelle Fischbach
+slug: michelle-fischbach
+party: Republican
+state: Minnesota
+level: federal
+chamber: House
+office: U.S. Representative, Minnesota-7
+district: 7
+in_office: true
+photo_url: "https://www.congress.gov/img/member/f000470_200.jpg"
+contact:
+  website: "https://fischbach.house.gov"
+last_updated: "2026-05-25"
+---
+

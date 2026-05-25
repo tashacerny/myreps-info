@@ -1,0 +1,15 @@
+---
+name: Toby Moffett
+slug: toby-moffett
+party: Democratic
+state: Connecticut
+level: federal
+chamber: House
+office: U.S. Representative, Connecticut-6
+district: 6
+in_office: true
+photo_url: "https://www.congress.gov/img/member/m000839_200.jpg"
+contact:
+last_updated: "2026-05-25"
+---
+

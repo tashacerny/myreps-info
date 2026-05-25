@@ -1,0 +1,15 @@
+---
+name: Charles E. Chamberlain
+slug: charles-e-chamberlain
+party: Republican
+state: Michigan
+level: federal
+chamber: House
+office: U.S. Representative, Michigan-6
+district: 6
+in_office: true
+photo_url: "https://www.congress.gov/img/member/c000275_200.jpg"
+contact:
+last_updated: "2026-05-25"
+---
+

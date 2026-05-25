@@ -1,0 +1,15 @@
+---
+name: Jack McDonald
+slug: jack-mcdonald
+party: Republican
+state: Michigan
+level: federal
+chamber: House
+office: U.S. Representative, Michigan-19
+district: 19
+in_office: true
+photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/0f96de07cb789940b3b225f6f3f32cd3.jpg"
+contact:
+last_updated: "2026-05-25"
+---
+

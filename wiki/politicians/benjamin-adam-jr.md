@@ -1,0 +1,14 @@
+---
+name: Benjamin, Adam, Jr.
+slug: benjamin-adam-jr
+party: Democratic
+state: Indiana
+level: federal
+chamber: House
+office: U.S. Representative, Indiana-1
+district: 1
+in_office: true
+contact:
+last_updated: "2026-05-25"
+---
+
