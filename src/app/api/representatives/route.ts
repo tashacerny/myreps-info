@@ -101,19 +101,20 @@ async function getCensusDistricts(
     const res = await fetch(url)
     const data = await res.json() as {
       result?: {
-        geographies?: {
-          'Congressional Districts'?: Array<{ GEOID?: string; STATE?: string; CD119FP?: string; NAMELSAD?: string }>
-        }
+        geographies?: Record<string, Array<{ GEOID?: string; STATE?: string; CD119?: string; NAMELSAD?: string }>>
       }
     }
 
-    const districts = data.result?.geographies?.['Congressional Districts']
+    // Layer name includes congress number e.g. "119th Congressional Districts"
+    const geos = data.result?.geographies ?? {}
+    const districtKey = Object.keys(geos).find((k) => k.includes('Congressional Districts'))
+    const districts = districtKey ? geos[districtKey] : []
     if (!districts?.length) return null
 
     const district = districts[0]
     const stateFips = district.STATE ?? ''
     const stateAbbr = FIPS_TO_STATE[stateFips] ?? ''
-    const districtNum = district.CD119FP ?? '00'
+    const districtNum = district.CD119 ?? '00'
 
     return {
       stateAbbr,
@@ -153,9 +154,9 @@ async function getFederalReps(stateAbbr: string, district?: string): Promise<Rep
     const reps: Representative[] = []
 
     for (const m of members) {
-      const chamber = m.terms?.item?.[0]?.chamber ?? ''
-      const isSenator = chamber.toLowerCase().includes('senate')
-      const isHouse = chamber.toLowerCase().includes('house')
+      const chamber = (m.terms?.item?.[0]?.chamber ?? '').toLowerCase()
+      const isSenator = chamber.includes('senate')
+      const isHouse = chamber.includes('house')
 
       // Include both senators + the rep for this district
       if (isSenator || (isHouse && (district === undefined || String(m.district ?? 0) === district))) {
