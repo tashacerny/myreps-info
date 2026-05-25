@@ -17,6 +17,33 @@
 import fs from 'fs'
 import path from 'path'
 
+// ---------------------------------------------------------------------------
+// Resilient fetch: auto-retry with backoff + 30s timeout per request
+// ---------------------------------------------------------------------------
+
+async function fetchWithRetry(
+  url: string,
+  options: RequestInit = {},
+  retries = 3
+): Promise<Response> {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const controller = new AbortController()
+    const timeout = setTimeout(() => controller.abort(), 30_000)
+    try {
+      const res = await fetch(url, { ...options, signal: controller.signal })
+      clearTimeout(timeout)
+      return res
+    } catch (err) {
+      clearTimeout(timeout)
+      if (attempt === retries) throw err
+      const delay = attempt * 2000
+      console.warn(`  ⚠️  Request failed (attempt ${attempt}/${retries}), retrying in ${delay / 1000}s...`)
+      await sleep(delay)
+    }
+  }
+  throw new Error('fetchWithRetry: exhausted retries')
+}
+
 const DRY_RUN = process.argv.includes('--dry-run')
 const RUN_FEDERAL = process.argv.includes('--federal') || !process.argv.slice(2).some(a => a.startsWith('--'))
 const RUN_STATE = process.argv.includes('--state') || !process.argv.slice(2).some(a => a.startsWith('--'))
@@ -77,7 +104,7 @@ async function ingestFederalMembers() {
 
     while (true) {
       const url = `https://api.congress.gov/v3/member?congress=${CURRENT_CONGRESS}&chamber=${chamber}&limit=${limit}&offset=${offset}&api_key=${CONGRESS_GOV_KEY}`
-      const res = await fetch(url)
+      const res = await fetchWithRetry(url)
       if (!res.ok) {
         console.error(`  ❌ Failed to fetch ${chamber}: ${res.status}`)
         break
@@ -156,7 +183,7 @@ async function ingestFederalMembers() {
 async function fetchCongressMemberDetail(bioguideId: string) {
   if (!CONGRESS_GOV_KEY) return null
   try {
-    const res = await fetch(
+    const res = await fetchWithRetry(
       `https://api.congress.gov/v3/member/${bioguideId}?api_key=${CONGRESS_GOV_KEY}`
     )
     const json = await res.json() as {
@@ -177,7 +204,7 @@ async function fetchCongressMemberDetail(bioguideId: string) {
 async function fetchCongressMemberVotes(bioguideId: string) {
   if (!CONGRESS_GOV_KEY) return []
   try {
-    const res = await fetch(
+    const res = await fetchWithRetry(
       `https://api.congress.gov/v3/member/${bioguideId}/votes?limit=50&api_key=${CONGRESS_GOV_KEY}`
     )
     const json = await res.json() as {
@@ -244,7 +271,7 @@ async function ingestStateMembers() {
     `
 
     try {
-      const res = await fetch('https://v3.openstates.org/graphql', {
+      const res = await fetchWithRetry('https://v3.openstates.org/graphql', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -325,7 +352,7 @@ async function ingestBills() {
   const url = `https://api.congress.gov/v3/bill/${CURRENT_CONGRESS}?limit=250&sort=updateDate+desc&api_key=${CONGRESS_GOV_KEY}`
 
   try {
-    const res = await fetch(url)
+    const res = await fetchWithRetry(url)
     const json = await res.json() as {
       bills?: Array<{
         number?: string
@@ -391,7 +418,7 @@ async function fetchBillDetail(congress: number, type: string, number: string) {
   if (!CONGRESS_GOV_KEY) return null
   try {
     const url = `https://api.congress.gov/v3/bill/${congress}/${type.toLowerCase()}/${number}?api_key=${CONGRESS_GOV_KEY}`
-    const res = await fetch(url)
+    const res = await fetchWithRetry(url)
     const json = await res.json() as {
       bill?: {
         summaries?: Array<{ text?: string; actionDate?: string }>
@@ -415,7 +442,7 @@ async function generateSummaryWithClaude(title: string, textUrl: string): Promis
   if (!ANTHROPIC_KEY) return null
 
   try {
-    const res = await fetch('https://api.anthropic.com/v1/messages', {
+    const res = await fetchWithRetry('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
