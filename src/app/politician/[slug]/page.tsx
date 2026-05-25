@@ -1,4 +1,3 @@
-import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { Phone, Globe, MapPin, Twitter, Mail, ArrowLeft } from 'lucide-react'
 import { getPoliticianBySlug, getAllPoliticians } from '@/lib/wiki'
@@ -23,7 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 export default async function PoliticianPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const p = await getPoliticianBySlug(slug)
-  if (!p) notFound()
+  if (!p) return <ProfileComingSoon slug={slug} />
 
   const votes = p.votes ?? []
   const sponsored = p.sponsored_bills ?? []
@@ -142,12 +141,32 @@ export default async function PoliticianPage({ params }: { params: Promise<{ slu
         {votes.length === 0 ? (
           <p className="text-gray-400 text-sm">No votes on record yet.</p>
         ) : (
-          <div className="overflow-x-auto">
+          <>
+            {/* Mobile: card layout */}
+            <div className="sm:hidden space-y-3">
+              {votes.map((vote, i) => (
+                <div key={i} className="border border-gray-200 rounded-lg p-4 space-y-2">
+                  <div className="flex items-start justify-between gap-2">
+                    <Link href={`/bill/${vote.bill_slug}`} className="font-medium text-civic-blue hover:underline text-sm leading-tight">
+                      {vote.bill_title}
+                    </Link>
+                    <VoteBadge vote={vote.vote} />
+                  </div>
+                  {vote.summary && <p className="text-xs text-gray-500">{vote.summary}</p>}
+                  <p className="text-xs text-gray-400">
+                    {new Date(vote.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                  </p>
+                </div>
+              ))}
+            </div>
+
+            {/* Desktop: table layout */}
+            <div className="hidden sm:block overflow-x-auto">
             <table className="w-full text-sm">
               <thead>
                 <tr className="text-left text-xs text-gray-500 border-b border-gray-200">
                   <th className="pb-2 pr-4 font-medium">Bill</th>
-                  <th className="pb-2 pr-4 font-medium hidden sm:table-cell">Summary</th>
+                  <th className="pb-2 pr-4 font-medium">Summary</th>
                   <th className="pb-2 pr-4 font-medium">Date</th>
                   <th className="pb-2 font-medium">Vote</th>
                 </tr>
@@ -160,7 +179,7 @@ export default async function PoliticianPage({ params }: { params: Promise<{ slu
                         {vote.bill_title}
                       </Link>
                     </td>
-                    <td className="py-3 pr-4 text-gray-500 hidden sm:table-cell max-w-xs">
+                    <td className="py-3 pr-4 text-gray-500 max-w-xs">
                       {vote.summary}
                     </td>
                     <td className="py-3 pr-4 text-gray-500 whitespace-nowrap">
@@ -177,7 +196,8 @@ export default async function PoliticianPage({ params }: { params: Promise<{ slu
                 ))}
               </tbody>
             </table>
-          </div>
+            </div>
+          </>
         )}
       </section>
 
@@ -217,6 +237,27 @@ export default async function PoliticianPage({ params }: { params: Promise<{ slu
           Data last updated: {new Date(p.last_updated).toLocaleDateString()}
         </p>
       )}
+    </div>
+  )
+}
+
+function ProfileComingSoon({ slug }: { slug: string }) {
+  const name = slug.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase())
+  return (
+    <div className="max-w-2xl mx-auto px-4 py-16 text-center space-y-6">
+      <Link href="/" className="inline-flex items-center gap-1 text-sm text-gray-500 hover:text-civic-blue no-underline">
+        <ArrowLeft className="w-4 h-4" />
+        Back to search
+      </Link>
+      <div className="bg-civic-light border border-civic-border rounded-xl p-10 space-y-4">
+        <div className="text-5xl">🏛️</div>
+        <h1 className="text-2xl font-bold text-gray-900">{name}</h1>
+        <p className="text-gray-600">
+          This profile is being built. Our weekly data update pulls full voting records,
+          biographical info, and sponsored legislation for every representative in all 50 states.
+        </p>
+        <p className="text-sm text-gray-400">Check back after the next scheduled update — every Sunday at 3am UTC.</p>
+      </div>
     </div>
   )
 }
