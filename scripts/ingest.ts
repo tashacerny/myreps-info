@@ -27,14 +27,12 @@ async function fetchWithRetry(
   retries = 3
 ): Promise<Response> {
   for (let attempt = 1; attempt <= retries; attempt++) {
-    const controller = new AbortController()
-    const timeout = setTimeout(() => controller.abort(), 30_000)
     try {
-      const res = await fetch(url, { ...options, signal: controller.signal })
-      clearTimeout(timeout)
+      // AbortSignal.timeout covers both the TCP handshake AND response body read —
+      // unlike clearTimeout-after-fetch, which left res.json() with no deadline.
+      const res = await fetch(url, { ...options, signal: AbortSignal.timeout(60_000) })
       return res
     } catch (err) {
-      clearTimeout(timeout)
       if (attempt === retries) throw err
       const delay = attempt * 2000
       console.warn(`  ⚠️  Request failed (attempt ${attempt}/${retries}), retrying in ${delay / 1000}s...`)

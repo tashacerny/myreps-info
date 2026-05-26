@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  ingest:
+  ingest-federal:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -25,16 +25,73 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run ingestion pipeline
-        run: npm run ingest
+      - name: Ingest federal members
+        run: npm run ingest -- --federal
         env:
           CONGRESS_GOV_API_KEY: ${{ secrets.CONGRESS_GOV_API_KEY }}
           OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Commit updated wiki files
+      - name: Commit federal wiki files
         run: |
           git config user.name "myreps-bot"
           git config user.email "bot@myreps.info"
-          git add wiki/
-          git diff --staged --quiet || (git commit -m "chore: weekly wiki update $(date -u +%Y-%m-%d)" && git pull --rebase && git push)
+          git add wiki/politicians/
+          git diff --staged --quiet || (git commit -m "chore: federal members update $(date -u +%Y-%m-%d)" && git pull --rebase && git push)
+
+  ingest-state:
+    needs: ingest-federal
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Ingest state members
+        run: npm run ingest -- --state
+        env:
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+
+      - name: Commit state wiki files
+        run: |
+          git config user.name "myreps-bot"
+          git config user.email "bot@myreps.info"
+          git add wiki/politicians/
+          git diff --staged --quiet || (git commit -m "chore: state members update $(date -u +%Y-%m-%d)" && git pull --rebase && git push)
+
+  ingest-bills:
+    needs: ingest-federal
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Ingest bills
+        run: npm run ingest -- --bills
+        env:
+          CONGRESS_GOV_API_KEY: ${{ secrets.CONGRESS_GOV_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit bill wiki files
+        run: |
+          git config user.name "myreps-bot"
+          git config user.email "bot@myreps.info"
+          git add wiki/bills/
+          git diff --staged --quiet || (git commit -m "chore: bills update $(date -u +%Y-%m-%d)" && git pull --rebase && git push)
