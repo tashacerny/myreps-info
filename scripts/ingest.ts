@@ -27,12 +27,14 @@ async function fetchWithRetry(
   retries = 3
 ): Promise<Response> {
   for (let attempt = 1; attempt <= retries; attempt++) {
+    const controller = new AbortController()
+    const timer = setTimeout(() => controller.abort(), 60_000)
     try {
-      // AbortSignal.timeout covers both the TCP handshake AND response body read —
-      // unlike clearTimeout-after-fetch, which left res.json() with no deadline.
-      const res = await fetch(url, { ...options, signal: AbortSignal.timeout(60_000) })
+      const res = await fetch(url, { ...options, signal: controller.signal })
+      clearTimeout(timer)
       return res
     } catch (err) {
+      clearTimeout(timer)
       if (attempt === retries) throw err
       const delay = attempt * 2000
       console.warn(`  ⚠️  Request failed (attempt ${attempt}/${retries}), retrying in ${delay / 1000}s...`)
@@ -40,6 +42,32 @@ async function fetchWithRetry(
     }
   }
   throw new Error('fetchWithRetry: exhausted retries')
+}
+
+// Like fetchWithRetry but also parses the JSON body — keeping the abort timer
+// active through the body read so slow/hung responses are reliably cancelled.
+async function fetchJSONWithRetry<T>(
+  url: string,
+  options: RequestInit = {},
+  retries = 3
+): Promise<{ status: number; json: T | null }> {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const controller = new AbortController()
+    const timer = setTimeout(() => controller.abort(), 60_000)
+    try {
+      const res = await fetch(url, { ...options, signal: controller.signal })
+      const json: T | null = res.ok ? await res.json() as T : null
+      clearTimeout(timer) // only cleared AFTER body read completes
+      return { status: res.status, json }
+    } catch (err) {
+      clearTimeout(timer)
+      if (attempt === retries) throw err
+      const delay = attempt * 2000
+      console.warn(`  ⚠️  Request failed (attempt ${attempt}/${retries}), retrying in ${delay / 1000}s...`)
+      await sleep(delay)
+    }
+  }
+  throw new Error('fetchJSONWithRetry: exhausted retries')
 }
 
 const DRY_RUN = process.argv.includes('--dry-run')
@@ -261,44 +289,39 @@ async function ingestStateMembers() {
       const url = `https://v3.openstates.org/people?jurisdiction=${state}&per_page=50&page=${page}`
 
       try {
-        const res = await fetchWithRetry(url, {
-          headers: { 'X-API-KEY': OPENSTATES_KEY },
-        })
-
-        if (res.status === 429) {
-          console.warn(`  ⚠️  Rate limited on ${state.toUpperCase()}, waiting 10s...`)
-          await sleep(10_000)
-          continue
-        }
-
-        if (!res.ok) {
-          console.error(`  ❌ OpenStates ${state.toUpperCase()} page ${page}: HTTP ${res.status}`)
-          break
-        }
-
-        const json = await res.json() as {
+        type StateResponse = {
           results?: Array<{
             id: string
             name: string
             party: string
             image?: string
-            email?: string
             birth_date?: string
             openstates_url?: string
-            current_role?: {
-              title?: string
-              org_classification?: string
-              district?: string
-            }
+            current_role?: { title?: string; org_classification?: string; district?: string }
           }>
           pagination?: { count: number; per_page: number; page: number; max_page: number; total_items: number }
         }
 
+        const { status, json } = await fetchJSONWithRetry<StateResponse>(url, {
+          headers: { 'X-API-KEY': OPENSTATES_KEY },
+        })
+
+        if (status === 429) {
+          console.warn(`  ⚠️  Rate limited on ${state.toUpperCase()}, waiting 10s...`)
+          await sleep(10_000)
+          continue
+        }
+
+        if (status !== 200 || !json) {
+          console.error(`  ❌ OpenStates ${state.toUpperCase()} page ${page}: HTTP ${status}`)
+          break
+        }
+
         const members = json.results ?? []
-        maxPage = json.pagination?.max_page ?? 1
+        maxPage = json!.pagination?.max_page ?? 1
 
         if (page === 1) {
-          console.log(`  ${state.toUpperCase()}: ${json.pagination?.total_items ?? '?'} state legislators`)
+          console.log(`  ${state.toUpperCase()}: ${json!.pagination?.total_items ?? '?'} state legislators`)
         }
 
         for (const member of members) {
