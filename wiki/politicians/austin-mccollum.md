@@ -1,0 +1,14 @@
+---
+name: Austin McCollum
+slug: austin-mccollum
+party: Republican
+state: AR
+level: state
+chamber: House
+office: AR State House, District 8
+in_office: true
+photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/531_sm.jpg"
+contact:
+  website: "https://openstates.org/person/austin-mccollum-1UIm09F4Qx1o48QGg0cUpZ/"
+last_updated: "2026-05-26"
+---

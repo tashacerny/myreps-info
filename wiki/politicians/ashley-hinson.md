@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/677ed0c7514c773869b6b920_200.jpg"
 contact:
   website: "https://hinson.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

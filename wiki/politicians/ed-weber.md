@@ -10,6 +10,6 @@ district: 9
 in_office: true
 photo_url: "https://www.congress.gov/img/member//assets/nomemberphoto-24c94324.png"
 contact:
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/67745d3b0b34857ecc909167_200.jpg"
 contact:
   website: "https://pou.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

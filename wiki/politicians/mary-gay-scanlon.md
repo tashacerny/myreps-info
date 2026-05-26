@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/116_rp_pa_5_scanlon_mary_200.jpg"
 contact:
   website: "https://scanlon.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

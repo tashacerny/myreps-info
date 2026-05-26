@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/67817e391f9ad6ea6fb1ebda_200.jpg"
 contact:
   website: "https://auchincloss.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

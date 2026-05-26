@@ -1,0 +1,14 @@
+---
+name: Josh Bryant
+slug: josh-bryant
+party: Republican
+state: AR
+level: state
+chamber: Senate
+office: AR State Senate, District 32
+in_office: true
+photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/633_sm.jpg"
+contact:
+  website: "https://openstates.org/person/josh-bryant-6oiH0qBg1hGPM2HrojlKuk/"
+last_updated: "2026-05-26"
+---

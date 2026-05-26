@@ -1,0 +1,14 @@
+---
+name: John Maddox
+slug: john-maddox
+party: Republican
+state: AR
+level: state
+chamber: House
+office: AR State House, District 86
+in_office: true
+photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/529_sm.jpg"
+contact:
+  website: "https://openstates.org/person/john-maddox-161wrTkW0OOXbpDIkAM7P1/"
+last_updated: "2026-05-26"
+---

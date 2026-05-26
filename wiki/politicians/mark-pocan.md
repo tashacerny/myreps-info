@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/p000607_200.jpg"
 contact:
   website: "https://pocan.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

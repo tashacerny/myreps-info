@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/677461060b34857ecc9091af_200.jpg"
 contact:
   website: "https://vanduyne.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

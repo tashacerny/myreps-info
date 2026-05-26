@@ -9,6 +9,6 @@ office: U.S. Representative, New Jersey-9
 district: 9
 in_office: true
 contact:
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

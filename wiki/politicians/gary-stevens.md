@@ -1,0 +1,15 @@
+---
+name: Gary Stevens
+slug: gary-stevens
+party: Republican
+birthdate: "1941-08-21"
+state: AK
+level: state
+chamber: Senate
+office: AK State Senate, District C
+in_office: true
+photo_url: "http://akleg.gov/images/legislators/450x600/STG.jpg"
+contact:
+  website: "https://openstates.org/person/gary-stevens-7TmbcTn42Eg38sHGYt7R9f/"
+last_updated: "2026-05-26"
+---

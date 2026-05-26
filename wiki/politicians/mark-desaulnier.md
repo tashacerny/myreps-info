@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/115_rp_ca_11_desaulnier_mark_200.jpg"
 contact:
   website: "https://desaulnier.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

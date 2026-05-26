@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/67745d860b34857ecc90916d_200.jpg"
 contact:
   website: "https://rivas.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

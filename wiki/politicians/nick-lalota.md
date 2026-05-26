@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/l000598_200.jpg"
 contact:
   website: "https://lalota.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

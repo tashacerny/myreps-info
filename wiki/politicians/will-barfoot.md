@@ -1,0 +1,14 @@
+---
+name: Will Barfoot
+slug: will-barfoot
+party: Republican
+state: AL
+level: state
+chamber: Senate
+office: AL State Senate, District 25
+in_office: true
+photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Barfoot_25.png"
+contact:
+  website: "https://openstates.org/person/will-barfoot-4HfH9wzqSweK6S9XxqOpZu/"
+last_updated: "2026-05-26"
+---

@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/678152c81f9ad6ea6fb1eb7f_200.jpg"
 contact:
   website: "https://simpson.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

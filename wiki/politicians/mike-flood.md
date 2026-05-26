@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/67b4de4a61bd80d04553b0a5_200.jpg"
 contact:
   website: "https://flood.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

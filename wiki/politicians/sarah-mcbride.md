@@ -10,6 +10,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/67744b460b34857ecc909143_200.jpg"
 contact:
   website: "https://mcbride.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/115_rp_pa_5_thompson_glenn_200.jpg"
 contact:
   website: "https://thompson.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/66b0ce45b0288a917d98f619_200.jpg"
 contact:
   website: "https://kiggans.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

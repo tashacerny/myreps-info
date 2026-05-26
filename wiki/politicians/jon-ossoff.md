@@ -10,6 +10,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/o000174_200.jpg"
 contact:
   website: "https://www.ossoff.senate.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

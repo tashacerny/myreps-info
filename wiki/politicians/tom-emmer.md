@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/e000294_200.jpg"
 contact:
   website: "https://emmer.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

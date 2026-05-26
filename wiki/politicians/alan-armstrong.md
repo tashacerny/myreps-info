@@ -9,6 +9,6 @@ office: U.S. Representative, Oklahoma-At Large
 in_office: true
 contact:
   website: "https://www.armstrong.senate.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

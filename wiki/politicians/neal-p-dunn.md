@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/115_rp_fl_2_dunn_neal_200.jpg"
 contact:
   website: "https://dunn.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

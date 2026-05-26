@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/j000295_200.jpg"
 contact:
   website: "https://joyce.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

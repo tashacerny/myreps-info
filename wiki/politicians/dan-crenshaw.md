@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/698a13d0a7af728d4e6c2038_200.jpg"
 contact:
   website: "https://crenshaw.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

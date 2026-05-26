@@ -1,0 +1,15 @@
+---
+name: Joe Lovvorn
+slug: joe-lovvorn
+party: Republican
+birthdate: "1976-09-05"
+state: AL
+level: state
+chamber: House
+office: AL State House, District 79
+in_office: true
+photo_url: "https://www.legislature.state.al.us/pdf/house/members/Lovvorn_79.png"
+contact:
+  website: "https://openstates.org/person/joe-lovvorn-4bGmCOS1Qpzy5CZHuh86YD/"
+last_updated: "2026-05-26"
+---

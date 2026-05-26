@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/67ffc962f22eaf56065817bb_200.jpg"
 contact:
   website: "https://morelle.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

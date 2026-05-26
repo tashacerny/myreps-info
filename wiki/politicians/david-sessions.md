@@ -1,0 +1,14 @@
+---
+name: David Sessions
+slug: david-sessions
+party: Republican
+state: AL
+level: state
+chamber: Senate
+office: AL State Senate, District 35
+in_office: true
+photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Sessions_35.png"
+contact:
+  website: "https://openstates.org/person/david-sessions-7c4LibnMobsZifeLTUcv1u/"
+last_updated: "2026-05-26"
+---

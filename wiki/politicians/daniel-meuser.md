@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/6776ebbf4f8a93753830ca7d_200.jpg"
 contact:
   website: "https://meuser.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

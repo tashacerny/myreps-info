@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/66e1aec832c796cea99fe06f_200.jpg"
 contact:
   website: "https://ruiz.house.gov"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

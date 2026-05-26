@@ -1,0 +1,15 @@
+---
+name: Jabo Waggoner
+slug: jabo-waggoner
+party: Republican
+birthdate: "1937-01-08"
+state: AL
+level: state
+chamber: Senate
+office: AL State Senate, District 16
+in_office: true
+photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Waggoner_16.png"
+contact:
+  website: "https://openstates.org/person/jabo-waggoner-5mU49YbOMLSsVCZiqdQ8Cc/"
+last_updated: "2026-05-26"
+---

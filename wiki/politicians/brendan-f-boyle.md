@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/69b30d648b7b84825b02d362_200.jpg"
 contact:
   website: "https://boyle.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 

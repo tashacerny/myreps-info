@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/116_rp_pa_1_fitzpatrick_brian_200.jpg"
 contact:
   website: "https://fitzpatrick.house.gov/"
-last_updated: "2026-05-25"
+last_updated: "2026-05-26"
 ---
 
