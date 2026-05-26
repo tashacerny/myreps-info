@@ -44,23 +44,27 @@ async function fetchWithRetry(
   throw new Error('fetchWithRetry: exhausted retries')
 }
 
-// Like fetchWithRetry but also parses the JSON body — keeping the abort timer
-// active through the body read so slow/hung responses are reliably cancelled.
+// Like fetchWithRetry but parses JSON and enforces a hard deadline via
+// Promise.race — guaranteed to timeout regardless of Node.js fetch internals.
 async function fetchJSONWithRetry<T>(
   url: string,
   options: RequestInit = {},
   retries = 3
 ): Promise<{ status: number; json: T | null }> {
   for (let attempt = 1; attempt <= retries; attempt++) {
-    const controller = new AbortController()
-    const timer = setTimeout(() => controller.abort(), 60_000)
     try {
-      const res = await fetch(url, { ...options, signal: controller.signal })
-      const json: T | null = res.ok ? await res.json() as T : null
-      clearTimeout(timer) // only cleared AFTER body read completes
-      return { status: res.status, json }
+      const result = await Promise.race([
+        (async () => {
+          const res = await fetch(url, options)
+          const json: T | null = res.ok ? await res.json() as T : null
+          return { status: res.status, json }
+        })(),
+        new Promise<never>((_, reject) =>
+          setTimeout(() => reject(new Error('Request timed out after 60s')), 60_000)
+        ),
+      ])
+      return result
     } catch (err) {
-      clearTimeout(timer)
       if (attempt === retries) throw err
       const delay = attempt * 2000
       console.warn(`  ⚠️  Request failed (attempt ${attempt}/${retries}), retrying in ${delay / 1000}s...`)
