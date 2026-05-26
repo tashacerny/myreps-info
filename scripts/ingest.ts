@@ -237,7 +237,7 @@ async function fetchCongressMemberVotes(bioguideId: string) {
 }
 
 // ---------------------------------------------------------------------------
-// State members (OpenStates GraphQL API)
+// State members (OpenStates REST API)
 // ---------------------------------------------------------------------------
 
 async function ingestStateMembers() {
@@ -245,94 +245,100 @@ async function ingestStateMembers() {
     console.log('⏭️  Skipping state members (no OPENSTATES_API_KEY)')
     return
   }
-  console.log('📥 Fetching state members from OpenStates...')
+  console.log('📥 Fetching state members from OpenStates REST API...')
 
   const STATES = [
-    'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA',
-    'HI','ID','IL','IN','IA','KS','KY','LA','ME','MD',
-    'MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ',
-    'NM','NY','NC','ND','OH','OK','OR','PA','RI','SC',
-    'SD','TN','TX','UT','VT','VA','WA','WV','WI','WY',
+    'al','ak','az','ar','ca','co','ct','de','fl','ga',
+    'hi','id','il','in','ia','ks','ky','la','me','md',
+    'ma','mi','mn','ms','mo','mt','ne','nv','nh','nj',
+    'nm','ny','nc','nd','oh','ok','or','pa','ri','sc',
+    'sd','tn','tx','ut','vt','va','wa','wv','wi','wy',
   ]
 
   for (const state of STATES) {
-    const query = `
-      query {
-        people(memberOf: { state: "${state}", current: true }, first: 200) {
-          edges {
-            node {
-              id name party
-              currentMemberships { organization { name } post { label } }
-              contactDetails { type value }
-            }
-          }
-        }
-      }
-    `
+    let page = 1
+    let maxPage = 1
 
-    try {
-      const res = await fetchWithRetry('https://v3.openstates.org/graphql', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'X-API-KEY': OPENSTATES_KEY,
-        },
-        body: JSON.stringify({ query }),
-      })
+    while (page <= maxPage) {
+      const url = `https://v3.openstates.org/people?jurisdiction=${state}&per_page=50&page=${page}`
 
-      const json = await res.json() as {
-        data?: {
-          people?: {
-            edges?: Array<{
-              node: {
-                id: string
-                name: string
-                party: string
-                currentMemberships: Array<{ organization: { name: string }; post?: { label: string } }>
-                contactDetails: Array<{ type: string; value: string }>
-              }
-            }>
-          }
-        }
-      }
-
-      const members = json.data?.people?.edges ?? []
-      console.log(`  ${state}: ${members.length} state legislators`)
-
-      for (const { node } of members) {
-        const slug = toSlug(node.name)
-        const filePath = path.join(POLITICIANS_DIR, `${slug}.md`)
-
-        // Skip if already exists (don't overwrite richer manually-written profiles)
-        if (fs.existsSync(filePath)) continue
-
-        const membership = node.currentMemberships?.[0]
-        const phone = node.contactDetails?.find((c) => c.type === 'voice')?.value
-        const website = node.contactDetails?.find((c) => c.type === 'url')?.value
-
-        const frontmatter = buildPoliticianFrontmatter({
-          name: node.name,
-          slug,
-          party: expandParty(node.party),
-          state,
-          level: 'state',
-          chamber: membership?.organization?.name ?? 'State Legislature',
-          office: `${state} ${membership?.organization?.name ?? 'Legislature'}${membership?.post?.label ? ', ' + membership.post.label : ''}`,
-          in_office: true,
-          contact: { phone, website },
-          last_updated: new Date().toISOString().split('T')[0],
+      try {
+        const res = await fetchWithRetry(url, {
+          headers: { 'X-API-KEY': OPENSTATES_KEY },
         })
 
-        if (!DRY_RUN) {
-          fs.writeFileSync(filePath, frontmatter, 'utf8')
-        } else {
-          console.log(`  [dry] Would write ${filePath}`)
+        if (!res.ok) {
+          console.error(`  ❌ OpenStates ${state.toUpperCase()} page ${page}: HTTP ${res.status}`)
+          break
         }
-      }
 
-      await sleep(500)
-    } catch (err) {
-      console.error(`  ❌ OpenStates error for ${state}:`, err)
+        const json = await res.json() as {
+          results?: Array<{
+            id: string
+            name: string
+            party: string
+            image?: string
+            email?: string
+            birth_date?: string
+            openstates_url?: string
+            current_role?: {
+              title?: string
+              org_classification?: string
+              district?: string
+            }
+          }>
+          pagination?: { count: number; per_page: number; page: number; max_page: number; total_items: number }
+        }
+
+        const members = json.results ?? []
+        maxPage = json.pagination?.max_page ?? 1
+
+        if (page === 1) {
+          console.log(`  ${state.toUpperCase()}: ${json.pagination?.total_items ?? '?'} state legislators`)
+        }
+
+        for (const member of members) {
+          // Only write people who currently hold a state legislative seat
+          if (!member.current_role) continue
+
+          const slug = toSlug(member.name)
+          const filePath = path.join(POLITICIANS_DIR, `${slug}.md`)
+
+          if (fs.existsSync(filePath)) continue
+
+          const role = member.current_role
+          const isUpper = role.org_classification === 'upper'
+          const chamberName = isUpper ? 'Senate' : 'House'
+          const office = `${state.toUpperCase()} State ${chamberName}${role.district ? ', District ' + role.district : ''}`
+
+          const frontmatter = buildPoliticianFrontmatter({
+            name: member.name,
+            slug,
+            party: expandParty(member.party),
+            state: state.toUpperCase(),
+            level: 'state',
+            chamber: chamberName,
+            office,
+            in_office: true,
+            birthdate: member.birth_date || undefined,
+            photo_url: member.image || undefined,
+            contact: { website: member.openstates_url },
+            last_updated: new Date().toISOString().split('T')[0],
+          })
+
+          if (!DRY_RUN) {
+            fs.writeFileSync(filePath, frontmatter, 'utf8')
+          } else {
+            console.log(`  [dry] Would write ${filePath}`)
+          }
+        }
+
+        page++
+        await sleep(300)
+      } catch (err) {
+        console.error(`  ❌ OpenStates error for ${state.toUpperCase()} (page ${page}):`, err)
+        break
+      }
     }
   }
 }
