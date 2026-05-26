@@ -267,6 +267,12 @@ async function ingestStateMembers() {
           headers: { 'X-API-KEY': OPENSTATES_KEY },
         })
 
+        if (res.status === 429) {
+          console.warn(`  ⚠️  Rate limited on ${state.toUpperCase()}, waiting 10s...`)
+          await sleep(10_000)
+          continue
+        }
+
         if (!res.ok) {
           console.error(`  ❌ OpenStates ${state.toUpperCase()} page ${page}: HTTP ${res.status}`)
           break
@@ -334,12 +340,15 @@ async function ingestStateMembers() {
         }
 
         page++
-        await sleep(300)
+        await sleep(1_000)
       } catch (err) {
         console.error(`  ❌ OpenStates error for ${state.toUpperCase()} (page ${page}):`, err)
         break
       }
     }
+
+    // Pause between states to stay well under rate limit
+    await sleep(2_000)
   }
 }
 
