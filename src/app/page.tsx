@@ -24,6 +24,21 @@ export default function HomePage() {
   const [showDropdown, setShowDropdown] = useState(false)
   const nameRef = useRef<HTMLDivElement>(null)
 
+  // Auto-search if ?zip= is in the URL (e.g. coming back from a politician profile)
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search)
+    const zipParam = params.get('zip')
+    if (zipParam && /^\d{5}$/.test(zipParam)) {
+      setZip(zipParam)
+      setLoading(true)
+      fetch(`/api/representatives?zip=${zipParam}`)
+        .then((r) => r.json())
+        .then((data: RepresentativesByLevel) => { setResults(data); setSearchedZip(zipParam) })
+        .catch(() => setError('Could not find representatives for that ZIP code. Please try again.'))
+        .finally(() => setLoading(false))
+    }
+  }, [])
+
   // Close dropdown on outside click
   useEffect(() => {
     function handler(e: MouseEvent) {
@@ -176,7 +191,7 @@ export default function HomePage() {
                 <span className="bg-civic-navy text-white text-xs px-2 py-0.5 rounded uppercase tracking-wide">Federal</span>
               </h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                {results.federal.map((rep) => <PoliticianCard key={rep.name} rep={rep} />)}
+                {results.federal.map((rep) => <PoliticianCard key={rep.name} rep={rep} zip={searchedZip} />)}
               </div>
             </div>
           )}
@@ -187,7 +202,7 @@ export default function HomePage() {
                 <span className="bg-indigo-700 text-white text-xs px-2 py-0.5 rounded uppercase tracking-wide">State</span>
               </h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                {results.state.map((rep) => <PoliticianCard key={rep.name} rep={rep} />)}
+                {results.state.map((rep) => <PoliticianCard key={rep.name} rep={rep} zip={searchedZip} />)}
               </div>
             </div>
           )}
@@ -198,7 +213,7 @@ export default function HomePage() {
                 <span className="bg-teal-700 text-white text-xs px-2 py-0.5 rounded uppercase tracking-wide">Local</span>
               </h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                {results.local.map((rep) => <PoliticianCard key={rep.name} rep={rep} />)}
+                {results.local.map((rep) => <PoliticianCard key={rep.name} rep={rep} zip={searchedZip} />)}
               </div>
             </div>
           )}

@@ -1,8 +1,10 @@
+import { Suspense } from 'react'
 import Link from 'next/link'
 import { Phone, Globe, MapPin, Twitter, Mail, ArrowLeft } from 'lucide-react'
 import { getPoliticianBySlug, getAllPoliticians } from '@/lib/wiki'
 import PartyBadge from '@/components/PartyBadge'
 import VoteBadge from '@/components/VoteBadge'
+import BackToResults from '@/components/BackToResults'
 
 export async function generateStaticParams() {
   const politicians = await getAllPoliticians()
@@ -30,10 +32,14 @@ export default async function PoliticianPage({ params }: { params: Promise<{ slu
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 space-y-10">
       {/* Back */}
-      <Link href="/" className="inline-flex items-center gap-1 text-sm text-gray-500 hover:text-civic-blue no-underline">
-        <ArrowLeft className="w-4 h-4" />
-        Back to search
-      </Link>
+      <Suspense fallback={
+        <Link href="/" className="inline-flex items-center gap-1 text-sm text-gray-500 hover:text-civic-blue no-underline">
+          <ArrowLeft className="w-4 h-4" />
+          Back to search
+        </Link>
+      }>
+        <BackToResults />
+      </Suspense>
 
       {/* Header */}
       <div className="bg-white rounded-xl border border-gray-200 p-6 flex flex-col sm:flex-row gap-6">

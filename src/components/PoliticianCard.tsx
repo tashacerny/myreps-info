@@ -6,11 +6,12 @@ function toSlug(name: string): string {
   return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
 }
 
-export default function PoliticianCard({ rep }: { rep: Representative }) {
+export default function PoliticianCard({ rep, zip }: { rep: Representative; zip?: string }) {
   const slug = rep.slug ?? toSlug(rep.name)
+  const href = zip ? `/politician/${slug}?zip=${encodeURIComponent(zip)}` : `/politician/${slug}`
 
   return (
-    <Link href={`/politician/${slug}`} className="block hover:no-underline">
+    <Link href={href} className="block hover:no-underline">
       <div className="bg-white rounded-lg border border-gray-200 p-4 hover:border-civic-blue hover:shadow-sm transition-all h-full flex flex-col gap-2">
         <div className="flex items-start justify-between gap-2">
           {rep.photo_url && (
