@@ -4,12 +4,12 @@ slug: james-d-santini
 party: Democratic
 state: Nevada
 level: federal
-chamber: House
-office: U.S. Representative, Nevada-98
+chamber: Senate
+office: U.S. Senator
 district: 98
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s000058_200.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

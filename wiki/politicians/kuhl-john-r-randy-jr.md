@@ -4,12 +4,12 @@ slug: kuhl-john-r-randy-jr
 party: Republican
 state: New York
 level: federal
-chamber: House
-office: U.S. Representative, New York-29
+chamber: Senate
+office: U.S. Senator
 district: 29
 in_office: true
 photo_url: "https://www.congress.gov/img/member/k000364_200.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

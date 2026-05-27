@@ -4,12 +4,13 @@ slug: brian-schatz
 party: Democratic
 state: Hawaii
 level: federal
-chamber: House
-office: U.S. Representative, Hawaii-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s001194_200.jpg"
+term_start: "2012-01-03"
 contact:
   website: "https://www.schatz.senate.gov"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

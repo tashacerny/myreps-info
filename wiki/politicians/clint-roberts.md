@@ -4,11 +4,11 @@ slug: clint-roberts
 party: Republican
 state: South Dakota
 level: federal
-chamber: House
-office: U.S. Representative, South Dakota-2
+chamber: Senate
+office: U.S. Senator
 district: 2
 in_office: true
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

@@ -4,11 +4,11 @@ slug: peter-smith
 party: Republican
 state: Vermont
 level: federal
-chamber: House
-office: U.S. Representative, Vermont-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s000601_200.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

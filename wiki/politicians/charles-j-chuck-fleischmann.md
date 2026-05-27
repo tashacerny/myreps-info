@@ -4,13 +4,13 @@ slug: charles-j-chuck-fleischmann
 party: Republican
 state: Tennessee
 level: federal
-chamber: House
-office: U.S. Representative, Tennessee-3
+chamber: Senate
+office: U.S. Senator
 district: 3
 in_office: true
 photo_url: "https://www.congress.gov/img/member/f000459_200.jpg"
 contact:
   website: "https://fleischmann.house.gov/"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

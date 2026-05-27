@@ -4,12 +4,12 @@ slug: jay-w-johnson
 party: Democratic
 state: Wisconsin
 level: federal
-chamber: House
-office: U.S. Representative, Wisconsin-8
+chamber: Senate
+office: U.S. Senator
 district: 8
 in_office: true
 photo_url: "https://www.congress.gov/img/member/j000149_200.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

@@ -4,13 +4,13 @@ slug: jim-costa
 party: Democratic
 state: California
 level: federal
-chamber: House
-office: U.S. Representative, California-21
+chamber: Senate
+office: U.S. Senator
 district: 21
 in_office: true
 photo_url: "https://www.congress.gov/img/member/6973c909ded7781a35cc1fd7_200.jpg"
 contact:
   website: "https://costa.house.gov/"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

@@ -4,11 +4,12 @@ slug: baker-howard-h-jr
 party: Republican
 state: Tennessee
 level: federal
-chamber: House
-office: U.S. Representative, Tennessee-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/b000063_200.jpg"
+term_start: "1967-01-03"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

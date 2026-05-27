@@ -4,13 +4,13 @@ slug: randy-feenstra
 party: Republican
 state: Iowa
 level: federal
-chamber: House
-office: U.S. Representative, Iowa-4
+chamber: Senate
+office: U.S. Senator
 district: 4
 in_office: true
 photo_url: "https://www.congress.gov/img/member/f000446_200.jpg"
 contact:
   website: "https://feenstra.house.gov"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

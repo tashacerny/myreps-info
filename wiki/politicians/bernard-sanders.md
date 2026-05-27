@@ -4,12 +4,13 @@ slug: bernard-sanders
 party: Independent
 state: Vermont
 level: federal
-chamber: House
-office: U.S. Representative, Vermont-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s000033_200.jpg"
+term_start: "2007-01-03"
 contact:
   website: "https://www.sanders.senate.gov/"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

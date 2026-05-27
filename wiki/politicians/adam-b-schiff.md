@@ -4,12 +4,13 @@ slug: adam-b-schiff
 party: Democratic
 state: California
 level: federal
-chamber: House
-office: U.S. Representative, California-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/677d870dfdb6cf36bbb649b3_200.jpg"
+term_start: "2024-01-03"
 contact:
   website: "https://www.schiff.senate.gov"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

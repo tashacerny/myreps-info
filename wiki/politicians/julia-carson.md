@@ -4,12 +4,12 @@ slug: julia-carson
 party: Democratic
 state: Indiana
 level: federal
-chamber: House
-office: U.S. Representative, Indiana-7
+chamber: Senate
+office: U.S. Senator
 district: 7
 in_office: true
 photo_url: "https://www.congress.gov/img/member/c000191_200.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

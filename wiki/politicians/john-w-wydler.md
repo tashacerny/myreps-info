@@ -4,12 +4,12 @@ slug: john-w-wydler
 party: Republican
 state: New York
 level: federal
-chamber: House
-office: U.S. Representative, New York-5
+chamber: Senate
+office: U.S. Senator
 district: 5
 in_office: true
 photo_url: "https://www.congress.gov/img/member/w000780_200.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

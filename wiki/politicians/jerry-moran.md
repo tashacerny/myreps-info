@@ -4,12 +4,13 @@ slug: jerry-moran
 party: Republican
 state: Kansas
 level: federal
-chamber: House
-office: U.S. Representative, Kansas-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/m000934_200.jpg"
+term_start: "2011-01-03"
 contact:
   website: "https://www.moran.senate.gov"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

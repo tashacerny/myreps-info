@@ -4,12 +4,12 @@ slug: rogers-morton
 party: Republican
 state: Maryland
 level: federal
-chamber: House
-office: U.S. Representative, Maryland-1
+chamber: Senate
+office: U.S. Senator
 district: 1
 in_office: true
 photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/b31939aab90bfa86d0a35f4890a582b8.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

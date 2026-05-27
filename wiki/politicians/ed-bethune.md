@@ -4,11 +4,11 @@ slug: ed-bethune
 party: Republican
 state: Arkansas
 level: federal
-chamber: House
-office: U.S. Representative, Arkansas-2
+chamber: Senate
+office: U.S. Senator
 district: 2
 in_office: true
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

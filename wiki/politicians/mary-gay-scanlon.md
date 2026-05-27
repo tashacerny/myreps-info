@@ -4,13 +4,13 @@ slug: mary-gay-scanlon
 party: Democratic
 state: Pennsylvania
 level: federal
-chamber: House
-office: U.S. Representative, Pennsylvania-5
+chamber: Senate
+office: U.S. Senator
 district: 5
 in_office: true
 photo_url: "https://www.congress.gov/img/member/116_rp_pa_5_scanlon_mary_200.jpg"
 contact:
   website: "https://scanlon.house.gov/"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

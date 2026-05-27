@@ -4,13 +4,13 @@ slug: virginia-foxx
 party: Republican
 state: North Carolina
 level: federal
-chamber: House
-office: U.S. Representative, North Carolina-5
+chamber: Senate
+office: U.S. Senator
 district: 5
 in_office: true
 photo_url: "https://www.congress.gov/img/member/116_rp_nc_5_foxx_virginia_200.jpg"
 contact:
   website: "https://foxx.house.gov/"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

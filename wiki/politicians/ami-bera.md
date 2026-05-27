@@ -4,13 +4,13 @@ slug: ami-bera
 party: Democratic
 state: California
 level: federal
-chamber: House
-office: U.S. Representative, California-6
+chamber: Senate
+office: U.S. Senator
 district: 6
 in_office: true
 photo_url: "https://www.congress.gov/img/member/b001287_200.jpg"
 contact:
   website: "https://bera.house.gov"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

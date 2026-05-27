@@ -4,13 +4,13 @@ slug: ralph-norman
 party: Republican
 state: South Carolina
 level: federal
-chamber: House
-office: U.S. Representative, South Carolina-5
+chamber: Senate
+office: U.S. Senator
 district: 5
 in_office: true
 photo_url: "https://www.congress.gov/img/member/n000190_200.jpg"
 contact:
   website: "https://norman.house.gov"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

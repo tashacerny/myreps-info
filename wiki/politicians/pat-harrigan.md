@@ -4,13 +4,13 @@ slug: pat-harrigan
 party: Republican
 state: North Carolina
 level: federal
-chamber: House
-office: U.S. Representative, North Carolina-10
+chamber: Senate
+office: U.S. Senator
 district: 10
 in_office: true
 photo_url: "https://www.congress.gov/img/member/67742ca40b34857ecc9090d7_200.jpg"
 contact:
   website: "https://harrigan.house.gov/"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

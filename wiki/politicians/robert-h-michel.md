@@ -4,12 +4,12 @@ slug: robert-h-michel
 party: Republican
 state: Illinois
 level: federal
-chamber: House
-office: U.S. Representative, Illinois-18
+chamber: Senate
+office: U.S. Senator
 district: 18
 in_office: true
 photo_url: "https://www.congress.gov/img/member/m000692_200.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

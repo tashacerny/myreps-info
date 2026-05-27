@@ -4,12 +4,12 @@ slug: eddie-bernice-johnson
 party: Democratic
 state: Texas
 level: federal
-chamber: House
-office: U.S. Representative, Texas-30
+chamber: Senate
+office: U.S. Senator
 district: 30
 in_office: true
 photo_url: "https://www.congress.gov/img/member/116_rp_tx_30_johnson_eddie_200.jpg"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

@@ -4,11 +4,11 @@ slug: david-l-cornwell
 party: Democratic
 state: Indiana
 level: federal
-chamber: House
-office: U.S. Representative, Indiana-8
+chamber: Senate
+office: U.S. Senator
 district: 8
 in_office: true
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

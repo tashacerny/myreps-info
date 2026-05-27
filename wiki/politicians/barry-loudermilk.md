@@ -4,13 +4,13 @@ slug: barry-loudermilk
 party: Republican
 state: Georgia
 level: federal
-chamber: House
-office: U.S. Representative, Georgia-11
+chamber: Senate
+office: U.S. Senator
 district: 11
 in_office: true
 photo_url: "https://www.congress.gov/img/member/115_rp_ga_11_loudermilk_barry_200.jpg"
 contact:
   website: "https://loudermilk.house.gov"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

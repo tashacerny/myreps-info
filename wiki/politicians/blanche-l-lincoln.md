@@ -4,11 +4,12 @@ slug: blanche-l-lincoln
 party: Democratic
 state: Arkansas
 level: federal
-chamber: House
-office: U.S. Representative, Arkansas-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/l000035_200.jpg"
+term_start: "1999-01-03"
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

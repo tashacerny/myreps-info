@@ -4,11 +4,11 @@ slug: smith-henry-p-iii
 party: Republican
 state: New York
 level: federal
-chamber: House
-office: U.S. Representative, New York-36
+chamber: Senate
+office: U.S. Senator
 district: 36
 in_office: true
 contact:
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

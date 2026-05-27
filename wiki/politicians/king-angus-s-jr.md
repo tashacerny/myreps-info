@@ -4,12 +4,13 @@ slug: king-angus-s-jr
 party: Independent
 state: Maine
 level: federal
-chamber: House
-office: U.S. Representative, Maine-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/k000383_200.jpg"
+term_start: "2013-01-03"
 contact:
   website: "https://www.king.senate.gov/"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

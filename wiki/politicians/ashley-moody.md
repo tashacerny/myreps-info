@@ -4,12 +4,13 @@ slug: ashley-moody
 party: Republican
 state: Florida
 level: federal
-chamber: House
-office: U.S. Representative, Florida-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/695d82c8550dfb80c3063bee.jpg"
+term_start: "2025-01-03"
 contact:
   website: "https://www.moody.senate.gov"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 

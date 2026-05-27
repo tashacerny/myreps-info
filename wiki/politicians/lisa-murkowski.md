@@ -4,12 +4,13 @@ slug: lisa-murkowski
 party: Republican
 state: Alaska
 level: federal
-chamber: House
-office: U.S. Representative, Alaska-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
 photo_url: "https://www.congress.gov/img/member/m001153_200.jpg"
+term_start: "2002-01-03"
 contact:
   website: "https://www.murkowski.senate.gov/"
-last_updated: "2026-05-26"
+last_updated: "2026-05-27"
 ---
 
