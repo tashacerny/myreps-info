@@ -1,0 +1,15 @@
+---
+name: David Meade
+slug: david-meade
+party: Republican
+birthdate: "1976-06-22"
+state: KY
+level: state
+chamber: House
+office: KY State House, District 80
+in_office: true
+photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house80.jpg"
+contact:
+  website: "https://openstates.org/person/david-meade-1eOLZcAyEQN6XowWfsqxJu/"
+last_updated: "2026-05-27"
+---

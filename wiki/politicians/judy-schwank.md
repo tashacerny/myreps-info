@@ -1,0 +1,14 @@
+---
+name: Judy Schwank
+slug: judy-schwank
+party: Democratic
+state: PA
+level: state
+chamber: Senate
+office: PA State Senate, District 11
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1234.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/judy-schwank-1cPLr1dG8V4UO6Yo8UzCmg/"
+last_updated: "2026-05-27"
+---

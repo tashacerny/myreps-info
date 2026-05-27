@@ -1,0 +1,15 @@
+---
+name: Dan Deasy
+slug: dan-deasy
+party: Democratic
+birthdate: "1966-08-01"
+state: PA
+level: state
+chamber: House
+office: PA State House, District 27
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1166.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/dan-deasy-19lbfMl09g8QjO6xRqSb3n/"
+last_updated: "2026-05-27"
+---

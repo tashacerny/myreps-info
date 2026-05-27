@@ -1,0 +1,14 @@
+---
+name: Nicholas Muscarello
+slug: nicholas-muscarello
+party: Republican
+state: LA
+level: state
+chamber: House
+office: LA State House, District 86
+in_office: true
+photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep86.jpg"
+contact:
+  website: "https://openstates.org/person/nicholas-muscarello-5jrJzufG9GhwGlanuV3AO9/"
+last_updated: "2026-05-27"
+---

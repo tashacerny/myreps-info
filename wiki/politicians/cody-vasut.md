@@ -1,0 +1,15 @@
+---
+name: Cody Vasut
+slug: cody-vasut
+party: Republican
+birthdate: "1987-08-13"
+state: TX
+level: state
+chamber: House
+office: TX State House, District 25
+in_office: true
+photo_url: "https://house.texas.gov/images/members/4065.jpg?v=1"
+contact:
+  website: "https://openstates.org/person/cody-vasut-1VYgVzV0Yln1ZPqFcFTAbN/"
+last_updated: "2026-05-27"
+---

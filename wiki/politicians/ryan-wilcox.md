@@ -1,0 +1,14 @@
+---
+name: Ryan Wilcox
+slug: ryan-wilcox
+party: Republican
+state: UT
+level: state
+chamber: House
+office: UT State House, District 7
+in_office: true
+photo_url: "https://le.utah.gov/images/legislator/WILCORD.jpg"
+contact:
+  website: "https://openstates.org/person/ryan-wilcox-4ZgoM4rl4r97tuNGNpPxS9/"
+last_updated: "2026-05-27"
+---

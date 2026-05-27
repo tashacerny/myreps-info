@@ -1,0 +1,15 @@
+---
+name: Sam Watson
+slug: sam-watson
+party: Republican
+birthdate: "1978-09-19"
+state: GA
+level: state
+chamber: Senate
+office: GA State Senate, District 11
+in_office: true
+photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/watson-sam-837.jpg"
+contact:
+  website: "https://openstates.org/person/sam-watson-6CZZsIyrJSVTRidvK3CwW7/"
+last_updated: "2026-05-27"
+---

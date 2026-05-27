@@ -1,0 +1,14 @@
+---
+name: Cory Criswell
+slug: cory-criswell
+party: Republican
+state: IN
+level: state
+chamber: House
+office: IN State House, District 54
+in_office: true
+photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Rep._Criswell_2023_mainlist.png"
+contact:
+  website: "https://openstates.org/person/cory-criswell-6wsipFogvt07p8UaHQsvVi/"
+last_updated: "2026-05-27"
+---

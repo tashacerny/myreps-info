@@ -1,0 +1,15 @@
+---
+name: Patty Lundstrom
+slug: patty-lundstrom
+party: Democratic
+birthdate: "1959-02-06"
+state: NM
+level: state
+chamber: House
+office: NM State House, District 9
+in_office: true
+photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HLUND.jpg"
+contact:
+  website: "https://openstates.org/person/patty-lundstrom-4X20O4HbTvHes6HLfoReKu/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,14 @@
+---
+name: Pat Chludzinski
+slug: pat-chludzinski
+party: Republican
+state: NY
+level: state
+chamber: House
+office: NY State House, District 143
+in_office: true
+photo_url: "https://static.wixstatic.com/media/892f79_39baff731e7e42719b93232045f0f29e~mv2.jpg/v1/fill/w_580,h_868,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/892f79_39baff731e7e42719b93232045f0f29e~mv2.jpg"
+contact:
+  website: "https://openstates.org/person/pat-chludzinski-7k2lBWyzy08V5bqYtlCRFT/"
+last_updated: "2026-05-27"
+---

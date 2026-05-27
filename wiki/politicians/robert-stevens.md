@@ -1,0 +1,14 @@
+---
+name: Robert Stevens
+slug: robert-stevens
+party: Republican
+state: TN
+level: state
+chamber: House
+office: TN State House, District 13
+in_office: true
+photo_url: "https://capitol.tn.gov/house/members/images/H13.jpg"
+contact:
+  website: "https://openstates.org/person/robert-stevens-66nK77FC6FZRNMrBAH0YAy/"
+last_updated: "2026-05-27"
+---

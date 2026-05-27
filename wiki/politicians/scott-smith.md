@@ -1,0 +1,14 @@
+---
+name: Scott Smith
+slug: scott-smith
+party: Republican
+state: WY
+level: state
+chamber: House
+office: WY State House, District 5
+in_office: true
+photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/67th-SmithScott.jpg"
+contact:
+  website: "https://openstates.org/person/scott-smith-yaGPYyPh5zbFx3aD4ZB3H/"
+last_updated: "2026-05-27"
+---

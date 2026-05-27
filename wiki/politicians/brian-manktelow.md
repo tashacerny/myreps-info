@@ -1,0 +1,15 @@
+---
+name: Brian Manktelow
+slug: brian-manktelow
+party: Republican
+birthdate: "1963-07-26"
+state: NY
+level: state
+chamber: House
+office: NY State House, District 130
+in_office: true
+photo_url: "https://assembly.state.ny.us/write/upload/member_files/130/headshot/130.jpg?hst=1660074813"
+contact:
+  website: "https://openstates.org/person/brian-manktelow-1QcZWnL28xX7qDDnIRuPYV/"
+last_updated: "2026-05-27"
+---

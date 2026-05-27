@@ -1,0 +1,14 @@
+---
+name: Dori Hauck
+slug: dori-hauck
+party: Republican
+state: ND
+level: state
+chamber: House
+office: ND State House, District 36
+in_office: true
+photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/dorihauck2023.jpg?itok=l1MjUhcA"
+contact:
+  website: "https://openstates.org/person/dori-hauck-2vXtDiaHKKDqKyhJmvgzIe/"
+last_updated: "2026-05-27"
+---

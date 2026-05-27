@@ -1,0 +1,15 @@
+---
+name: Matthew Schindler
+slug: matthew-schindler
+party: Democratic
+birthdate: "1983-11-22"
+state: MD
+level: state
+chamber: House
+office: MD State House, District 2B
+in_office: true
+photo_url: "https://mgaleg.maryland.gov/2025RS/images/schindler01.jpg"
+contact:
+  website: "https://openstates.org/person/matthew-schindler-25b1wCJr4eMuVC2Yf7R3yb/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,14 @@
+---
+name: Penny Demar
+slug: penny-demar
+party: Republican
+state: VT
+level: state
+chamber: House
+office: VT State House, District Franklin-7
+in_office: true
+photo_url: "https://legislature.vermont.gov/Documents/Legislators/Demar,Allen.jpg"
+contact:
+  website: "https://openstates.org/person/penny-demar-3oLBAbiPoYErhJEeEK1usD/"
+last_updated: "2026-05-27"
+---

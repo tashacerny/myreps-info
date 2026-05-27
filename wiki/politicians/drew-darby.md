@@ -1,0 +1,15 @@
+---
+name: Drew Darby
+slug: drew-darby
+party: Republican
+birthdate: "1947-02-22"
+state: TX
+level: state
+chamber: House
+office: TX State House, District 72
+in_office: true
+photo_url: "https://house.texas.gov/images/members/2645.jpg?v=1"
+contact:
+  website: "https://openstates.org/person/drew-darby-1yXbSFI1v9zvUWO53rjo5R/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,15 @@
+---
+name: Terri Leo-Wilson
+slug: terri-leo-wilson
+party: Republican
+birthdate: "1960-01-03"
+state: TX
+level: state
+chamber: House
+office: TX State House, District 23
+in_office: true
+photo_url: "https://house.texas.gov/images/members/4290.jpg?v=1"
+contact:
+  website: "https://openstates.org/person/terri-leo-wilson-6IPtMHxpr1eXiw8p82O7bs/"
+last_updated: "2026-05-27"
+---

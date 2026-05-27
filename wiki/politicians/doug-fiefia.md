@@ -1,0 +1,14 @@
+---
+name: Doug Fiefia
+slug: doug-fiefia
+party: Republican
+state: UT
+level: state
+chamber: House
+office: UT State House, District 48
+in_office: true
+photo_url: "https://dougfiefia.com/wp-content/uploads/2023/11/Doug-Fiefia-header.png"
+contact:
+  website: "https://openstates.org/person/doug-fiefia-77gJSv9Xm8Gli7CPjLhN2u/"
+last_updated: "2026-05-27"
+---

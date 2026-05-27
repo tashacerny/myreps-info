@@ -1,0 +1,15 @@
+---
+name: Parke Wentling
+slug: parke-wentling
+party: Republican
+birthdate: "1972-05-14"
+state: PA
+level: state
+chamber: House
+office: PA State House, District 7
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1709.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/parke-wentling-4Mjj6L65kZAsIbNuNeupAw/"
+last_updated: "2026-05-27"
+---

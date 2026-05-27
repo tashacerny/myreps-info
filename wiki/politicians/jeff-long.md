@@ -1,0 +1,15 @@
+---
+name: Jeff Long
+slug: jeff-long
+party: Democratic
+birthdate: "1996-11-12"
+state: MD
+level: state
+chamber: House
+office: MD State House, District 27B
+in_office: true
+photo_url: "https://mgaleg.maryland.gov/2023RS/images/long02.jpg"
+contact:
+  website: "https://openstates.org/person/jeff-long-10DFkWA2lAzQUO60hH0hHB/"
+last_updated: "2026-05-27"
+---

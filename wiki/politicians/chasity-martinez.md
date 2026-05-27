@@ -1,0 +1,14 @@
+---
+name: Chasity Martinez
+slug: chasity-martinez
+party: Democratic
+state: LA
+level: state
+chamber: House
+office: LA State House, District 60
+in_office: true
+photo_url: "https://ibervilleparish.com/wp-content/uploads/District-10-Chasity-Martinez.png"
+contact:
+  website: "https://openstates.org/person/chasity-martinez-60lrHt4kL1oLK5635JTvzi/"
+last_updated: "2026-05-27"
+---

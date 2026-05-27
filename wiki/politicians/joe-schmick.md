@@ -1,0 +1,15 @@
+---
+name: Joe Schmick
+slug: joe-schmick
+party: Republican
+birthdate: "1958-04-07"
+state: WA
+level: state
+chamber: House
+office: WA State House, District 9
+in_office: true
+photo_url: "https://leg.wa.gov/memberphoto/13209.jpg"
+contact:
+  website: "https://openstates.org/person/joe-schmick-7GjwiJmQZiWbYw3ajsxqJa/"
+last_updated: "2026-05-27"
+---

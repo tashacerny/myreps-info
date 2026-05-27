@@ -1,0 +1,15 @@
+---
+name: Kristine Howard
+slug: kristine-howard
+party: Democratic
+birthdate: "1961-06-07"
+state: PA
+level: state
+chamber: House
+office: PA State House, District 167
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1856.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/kristine-howard-7R1Ym9TJABUSqZNJb3AXhe/"
+last_updated: "2026-05-27"
+---

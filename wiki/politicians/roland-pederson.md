@@ -1,0 +1,14 @@
+---
+name: Roland Pederson
+slug: roland-pederson
+party: Republican
+state: OK
+level: state
+chamber: Senate
+office: OK State Senate, District 19
+in_office: true
+photo_url: "https://oksenate.gov/sites/default/files/Pederson%2C%20Roland%202022%20flags.jpg"
+contact:
+  website: "https://openstates.org/person/roland-pederson-5rul9mxtO5eTdQLM7LdyM3/"
+last_updated: "2026-05-27"
+---

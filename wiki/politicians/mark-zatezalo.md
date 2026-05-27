@@ -1,0 +1,15 @@
+---
+name: Mark Zatezalo
+slug: mark-zatezalo
+party: Republican
+birthdate: "1952-03-16"
+state: WV
+level: state
+chamber: House
+office: WV State House, District 2
+in_office: true
+photo_url: "http://www.wvlegislature.gov/images/members/2023/house/zatezalo_mark.jpg"
+contact:
+  website: "https://openstates.org/person/mark-zatezalo-5KIvFtvZ0X1kZBjFqxXtYF/"
+last_updated: "2026-05-27"
+---

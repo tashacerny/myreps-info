@@ -1,0 +1,15 @@
+---
+name: Penny Morales Shaw
+slug: penny-morales-shaw
+party: Democratic
+birthdate: "1966-03-17"
+state: TX
+level: state
+chamber: House
+office: TX State House, District 148
+in_office: true
+photo_url: "https://house.texas.gov/images/members/4035.jpg?v=1"
+contact:
+  website: "https://openstates.org/person/penny-morales-shaw-2U2dyRsG0IIIuugOuXoZ8v/"
+last_updated: "2026-05-27"
+---

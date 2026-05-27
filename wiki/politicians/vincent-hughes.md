@@ -1,0 +1,15 @@
+---
+name: Vincent Hughes
+slug: vincent-hughes
+party: Democratic
+birthdate: "1956-10-26"
+state: PA
+level: state
+chamber: Senate
+office: PA State Senate, District 7
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/152.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/vincent-hughes-2Xq2Yb5OHwPmYQ8uQdTNFk/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,15 @@
+---
+name: Kellee Hennessy
+slug: kellee-hennessy
+party: Republican
+birthdate: "1970-02-06"
+state: LA
+level: state
+chamber: House
+office: LA State House, District 64
+in_office: true
+photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep64.jpg"
+contact:
+  website: "https://openstates.org/person/kellee-hennessy-62CJAcZBTuRQAZUd1ajMDT/"
+last_updated: "2026-05-27"
+---

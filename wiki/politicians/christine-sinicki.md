@@ -1,0 +1,15 @@
+---
+name: Christine Sinicki
+slug: christine-sinicki
+party: Democratic
+birthdate: "1960-03-28"
+state: WI
+level: state
+chamber: House
+office: WI State House, District 20
+in_office: true
+photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2512.jpg"
+contact:
+  website: "https://openstates.org/person/christine-sinicki-1O9XqW8jMhGl5jmLtDxOV6/"
+last_updated: "2026-05-27"
+---

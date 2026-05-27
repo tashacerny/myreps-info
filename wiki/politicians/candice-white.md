@@ -1,0 +1,15 @@
+---
+name: Candice White
+slug: candice-white
+party: Democratic
+birthdate: "1969-06-02"
+state: VT
+level: state
+chamber: House
+office: VT State House, District Washington-2
+in_office: true
+photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Candice_White_20240808_101349.jpeg"
+contact:
+  website: "https://openstates.org/person/candice-white-7C9pY0IyeO5h64IewJ32nJ/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,14 @@
+---
+name: Gregg Bush
+slug: gregg-bush
+party: Democratic
+state: MO
+level: state
+chamber: House
+office: MO State House, District 50
+in_office: true
+photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/GreggBush24.jpeg"
+contact:
+  website: "https://openstates.org/person/gregg-bush-7BwQ0sgJt1d4LVcTDauBEr/"
+last_updated: "2026-05-27"
+---

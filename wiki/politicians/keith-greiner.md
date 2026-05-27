@@ -1,0 +1,15 @@
+---
+name: Keith Greiner
+slug: keith-greiner
+party: Republican
+birthdate: "1965-05-02"
+state: PA
+level: state
+chamber: House
+office: PA State House, District 43
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1632.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/keith-greiner-6ifNDLZGHS6Ap4avBemJbO/"
+last_updated: "2026-05-27"
+---

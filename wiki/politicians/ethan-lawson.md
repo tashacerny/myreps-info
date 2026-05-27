@@ -1,0 +1,14 @@
+---
+name: Ethan Lawson
+slug: ethan-lawson
+party: Republican
+state: IN
+level: state
+chamber: House
+office: IN State House, District 53
+in_office: true
+photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/157772.jpg"
+contact:
+  website: "https://openstates.org/person/ethan-lawson-5gKcMMeS78a8Oqub9UcBM7/"
+last_updated: "2026-05-27"
+---

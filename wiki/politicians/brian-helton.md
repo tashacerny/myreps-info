@@ -1,0 +1,15 @@
+---
+name: Brian Helton
+slug: brian-helton
+party: Republican
+birthdate: "1970-07-27"
+state: WV
+level: state
+chamber: Senate
+office: WV State Senate, District 9
+in_office: true
+photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/helton_brian.jpg"
+contact:
+  website: "https://openstates.org/person/brian-helton-5nDZ4bpaeJUpYUvnTG684i/"
+last_updated: "2026-05-27"
+---

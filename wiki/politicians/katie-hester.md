@@ -1,0 +1,15 @@
+---
+name: Katie Hester
+slug: katie-hester
+party: Democratic
+birthdate: "1974-12-31"
+state: MD
+level: state
+chamber: Senate
+office: MD State Senate, District 9
+in_office: true
+photo_url: "http://mgaleg.maryland.gov/2019RS/images/hester01.jpg"
+contact:
+  website: "https://openstates.org/person/katie-hester-14MXw9WyO4a3uhBwcBGPrg/"
+last_updated: "2026-05-27"
+---

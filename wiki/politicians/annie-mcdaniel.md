@@ -1,0 +1,15 @@
+---
+name: Annie McDaniel
+slug: annie-mcdaniel
+party: Democratic
+birthdate: "1960-05-28"
+state: SC
+level: state
+chamber: House
+office: SC State House, District 41
+in_office: true
+photo_url: "https://scstatehouse.gov/images/members/1221590763.jpg"
+contact:
+  website: "https://openstates.org/person/annie-mcdaniel-46Xj6pIJSOxPz9v5KX1DEm/"
+last_updated: "2026-05-27"
+---

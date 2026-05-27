@@ -1,0 +1,14 @@
+---
+name: Mike Pohanka
+slug: mike-pohanka
+party: Republican
+state: ID
+level: state
+chamber: House
+office: ID State House, District 26A
+in_office: true
+photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Pohanka9427.jpg"
+contact:
+  website: "https://openstates.org/person/mike-pohanka-6b2YD5iCBjPOZ4Yvn6TehI/"
+last_updated: "2026-05-27"
+---

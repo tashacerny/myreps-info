@@ -1,0 +1,15 @@
+---
+name: María Isa Pérez-Vega
+slug: mar-a-isa-p-rez-vega
+party: Democratic-Farmer-Labor
+birthdate: "1987-05-01"
+state: MN
+level: state
+chamber: House
+office: MN State House, District 65B
+in_office: true
+photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/65B.gif?v=112221"
+contact:
+  website: "https://openstates.org/person/maria-isa-perez-vega-6NnPBALoxxhmrKJRnNvppj/"
+last_updated: "2026-05-27"
+---

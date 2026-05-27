@@ -1,0 +1,14 @@
+---
+name: Jo Ella Hoye
+slug: jo-ella-hoye
+party: Democratic
+state: KS
+level: state
+chamber: House
+office: KS State House, District 17
+in_office: true
+photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jo-Ella-Hoye.PNG"
+contact:
+  website: "https://openstates.org/person/jo-ella-hoye-7UwzjqC59pi6XoqnS6YP67/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,14 @@
+---
+name: Charity Clark
+slug: charity-clark
+party: Democratic
+state: VT
+level: state
+chamber: House
+office: VT State House
+in_office: true
+photo_url: "https://ago.vermont.gov/sites/ago/files/inline-images/Charity%20R%20Clark%20headshot.jpg"
+contact:
+  website: "https://openstates.org/person/charity-clark-2v60hcIz3UOB0xaAHHFTD9/"
+last_updated: "2026-05-27"
+---

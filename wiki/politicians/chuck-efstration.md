@@ -1,0 +1,15 @@
+---
+name: Chuck Efstration
+slug: chuck-efstration
+party: Republican
+birthdate: "1983-04-24"
+state: GA
+level: state
+chamber: House
+office: GA State House, District 104
+in_office: true
+photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/efstration-chuck-846.jpg"
+contact:
+  website: "https://openstates.org/person/chuck-efstration-1wi7Lg6ypsXtcneCNaNe1z/"
+last_updated: "2026-05-27"
+---

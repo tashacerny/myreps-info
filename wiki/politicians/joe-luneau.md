@@ -1,0 +1,14 @@
+---
+name: Joe Luneau
+slug: joe-luneau
+party: Republican
+state: VT
+level: state
+chamber: House
+office: VT State House, District Franklin-3
+in_office: true
+photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/251355/251355.jpg"
+contact:
+  website: "https://openstates.org/person/joe-luneau-1f996uabShzUGGRSZHWFVi/"
+last_updated: "2026-05-27"
+---

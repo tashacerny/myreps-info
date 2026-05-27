@@ -1,0 +1,14 @@
+---
+name: Anne Westbrook
+slug: anne-westbrook
+party: Democratic
+state: GA
+level: state
+chamber: House
+office: GA State House, District 163
+in_office: true
+photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/westbrook-anne-allen-5054.jpg"
+contact:
+  website: "https://openstates.org/person/anne-westbrook-6rNGZ0KeoQWh2t2ZjPlx0y/"
+last_updated: "2026-05-27"
+---

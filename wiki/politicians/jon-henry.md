@@ -1,0 +1,14 @@
+---
+name: Jon Henry
+slug: jon-henry
+party: Republican
+state: NM
+level: state
+chamber: House
+office: NM State House, District 54
+in_office: true
+photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/810348/810348.jpg"
+contact:
+  website: "https://openstates.org/person/jon-henry-1pWMUbErwA7swSPdYaw1Sx/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,15 @@
+---
+name: Danilo Burgos
+slug: danilo-burgos
+party: Democratic
+birthdate: "1978-01-19"
+state: PA
+level: state
+chamber: House
+office: PA State House, District 197
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1863.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/danilo-burgos-4wKmiCmMHLgCLSmgDBZiys/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,15 @@
+---
+name: Lee Bright
+slug: lee-bright
+party: Republican
+birthdate: "1970-03-21"
+state: SC
+level: state
+chamber: Senate
+office: SC State Senate, District 12
+in_office: true
+photo_url: "http://www.scstatehouse.gov/images/members/0193181795.jpg"
+contact:
+  website: "https://openstates.org/person/lee-bright-1uNNco3V1gm0AHxpsjTHo9/"
+last_updated: "2026-05-27"
+---

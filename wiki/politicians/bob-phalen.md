@@ -1,0 +1,13 @@
+---
+name: Bob Phalen
+slug: bob-phalen
+party: Republican
+state: MT
+level: state
+chamber: Senate
+office: MT State Senate, District 17
+in_office: true
+contact:
+  website: "https://openstates.org/person/bob-phalen-6JXeNfppxYwygmyrNS6OGF/"
+last_updated: "2026-05-27"
+---

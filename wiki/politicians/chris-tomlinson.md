@@ -1,0 +1,15 @@
+---
+name: Chris Tomlinson
+slug: chris-tomlinson
+party: Republican
+birthdate: "1986-08-29"
+state: MD
+level: state
+chamber: House
+office: MD State House, District 5
+in_office: true
+photo_url: "https://mgaleg.maryland.gov/2023RS/images/tomlinson01.jpg"
+contact:
+  website: "https://openstates.org/person/chris-tomlinson-5ZZWlK1VVPfRkhmn8ezPix/"
+last_updated: "2026-05-27"
+---

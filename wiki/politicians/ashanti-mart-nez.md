@@ -1,0 +1,15 @@
+---
+name: Ashanti Martínez
+slug: ashanti-mart-nez
+party: Democratic
+birthdate: "1996-04-25"
+state: MD
+level: state
+chamber: House
+office: MD State House, District 22
+in_office: true
+photo_url: "https://mgaleg.maryland.gov/2023RS/images/martinez01.jpg"
+contact:
+  website: "https://openstates.org/person/ashanti-martinez-2yfa44ME8GvsNLjRydXXN6/"
+last_updated: "2026-05-27"
+---

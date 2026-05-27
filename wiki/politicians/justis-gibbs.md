@@ -1,0 +1,15 @@
+---
+name: Justis Gibbs
+slug: justis-gibbs
+party: Democratic
+birthdate: "1995-11-05"
+state: MS
+level: state
+chamber: House
+office: MS State House, District 72
+in_office: true
+photo_url: "https://billstatus.ls.state.ms.us/members/house/gibbs_(72nd).jpg"
+contact:
+  website: "https://openstates.org/person/justis-gibbs-2D9Zi9JkmgZYK8oGUwYXup/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,15 @@
+---
+name: Bill Cowsert
+slug: bill-cowsert
+party: Republican
+birthdate: "1958-09-01"
+state: GA
+level: state
+chamber: Senate
+office: GA State Senate, District 46
+in_office: true
+photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cowsert-bill-9.jpg"
+contact:
+  website: "https://openstates.org/person/bill-cowsert-2Mm0knXw6zeZFhy7VbJo8o/"
+last_updated: "2026-05-27"
+---

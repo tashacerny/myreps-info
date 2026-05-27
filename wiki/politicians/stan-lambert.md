@@ -1,0 +1,15 @@
+---
+name: Stan Lambert
+slug: stan-lambert
+party: Republican
+birthdate: "1952-12-21"
+state: TX
+level: state
+chamber: House
+office: TX State House, District 71
+in_office: true
+photo_url: "https://house.texas.gov/images/members/3225.jpg?v=1"
+contact:
+  website: "https://openstates.org/person/stan-lambert-518y4TDpzStPupIFO389Im/"
+last_updated: "2026-05-27"
+---

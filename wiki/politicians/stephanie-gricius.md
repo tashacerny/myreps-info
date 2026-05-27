@@ -1,0 +1,14 @@
+---
+name: Stephanie Gricius
+slug: stephanie-gricius
+party: Republican
+state: UT
+level: state
+chamber: House
+office: UT State House, District 50
+in_office: true
+photo_url: "https://le.utah.gov/images/legislator/GRICIS.jpg"
+contact:
+  website: "https://openstates.org/person/stephanie-gricius-14rLaj4gsP3EsxIXnSLrOu/"
+last_updated: "2026-05-27"
+---

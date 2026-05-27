@@ -1,0 +1,14 @@
+---
+name: Steve Hobbs
+slug: steve-hobbs
+party: Democratic
+state: WA
+level: state
+chamber: House
+office: WA State House
+in_office: true
+photo_url: "https://www.sos.wa.gov/sites/default/files/styles/max_650x650/public/2022-08/Hobbs.jpg"
+contact:
+  website: "https://openstates.org/person/steve-hobbs-2Fs9LwK9HteixVclfRbaJ2/"
+last_updated: "2026-05-27"
+---

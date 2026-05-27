@@ -1,0 +1,15 @@
+---
+name: Will Smith
+slug: will-smith
+party: Democratic
+birthdate: "1982-02-06"
+state: MD
+level: state
+chamber: Senate
+office: MD State Senate, District 20
+in_office: true
+photo_url: "http://mgaleg.maryland.gov/2017RS/images/smith02.jpg"
+contact:
+  website: "https://openstates.org/person/will-smith-3Lly5smr1Coac2OIoUaAgh/"
+last_updated: "2026-05-27"
+---

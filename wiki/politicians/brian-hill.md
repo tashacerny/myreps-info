@@ -1,0 +1,14 @@
+---
+name: Brian Hill
+slug: brian-hill
+party: Republican
+state: OK
+level: state
+chamber: House
+office: OK State House, District 47
+in_office: true
+photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Hill,%20Brian.jpg"
+contact:
+  website: "https://openstates.org/person/brian-hill-6x38HaSNN66E2nVRRxqrV/"
+last_updated: "2026-05-27"
+---

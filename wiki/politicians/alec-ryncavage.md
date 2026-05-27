@@ -1,0 +1,15 @@
+---
+name: Alec Ryncavage
+slug: alec-ryncavage
+party: Republican
+birthdate: "2001-03-27"
+state: PA
+level: state
+chamber: House
+office: PA State House, District 119
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1967.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/alec-ryncavage-5nTK2huv4eZf166iRogeQD/"
+last_updated: "2026-05-27"
+---

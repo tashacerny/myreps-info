@@ -1,0 +1,15 @@
+---
+name: Wayne Harper
+slug: wayne-harper
+party: Republican
+birthdate: "1956-02-27"
+state: UT
+level: state
+chamber: Senate
+office: UT State Senate, District 16
+in_office: true
+photo_url: "https://le.utah.gov/images/legislator/HARPEWA.jpg"
+contact:
+  website: "https://openstates.org/person/wayne-harper-5wYtgNpyNkwkE5uiOKh7PQ/"
+last_updated: "2026-05-27"
+---

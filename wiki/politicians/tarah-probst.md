@@ -1,0 +1,14 @@
+---
+name: Tarah Probst
+slug: tarah-probst
+party: Democratic
+state: PA
+level: state
+chamber: House
+office: PA State House, District 189
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1982.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/tarah-probst-4HQwXfC1X8DoiWFHdl0jrC/"
+last_updated: "2026-05-27"
+---

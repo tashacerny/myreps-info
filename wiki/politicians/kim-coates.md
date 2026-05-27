@@ -1,0 +1,14 @@
+---
+name: Kim Coates
+slug: kim-coates
+party: Republican
+state: LA
+level: state
+chamber: House
+office: LA State House, District 73
+in_office: true
+photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep73.jpg"
+contact:
+  website: "https://openstates.org/person/kim-coates-6XQk5x4wh5y9W9dZAEIyw7/"
+last_updated: "2026-05-27"
+---

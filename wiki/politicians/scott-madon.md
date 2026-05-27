@@ -1,0 +1,15 @@
+---
+name: Scott Madon
+slug: scott-madon
+party: Republican
+birthdate: "1962-03-08"
+state: KY
+level: state
+chamber: Senate
+office: KY State Senate, District 29
+in_office: true
+photo_url: "https://thecityofpineville.com/wp-content/uploads/2018/08/mayor-scott-madon-228x300.jpg"
+contact:
+  website: "https://openstates.org/person/scott-madon-6YypQfsbLsPGGzSU3i06mS/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,14 @@
+---
+name: Rob Plunkett
+slug: rob-plunkett
+party: Democratic
+state: VT
+level: state
+chamber: Senate
+office: VT State Senate, District Bennington
+in_office: true
+photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Robert_Plunkett_2025.jpg"
+contact:
+  website: "https://openstates.org/person/rob-plunkett-5CA9BABxyM75KMgnrcNKkx/"
+last_updated: "2026-05-27"
+---

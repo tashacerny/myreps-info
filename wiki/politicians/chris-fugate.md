@@ -1,0 +1,15 @@
+---
+name: Chris Fugate
+slug: chris-fugate
+party: Republican
+birthdate: "1969-12-28"
+state: KY
+level: state
+chamber: House
+office: KY State House, District 84
+in_office: true
+photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house84.jpg"
+contact:
+  website: "https://openstates.org/person/chris-fugate-3AkEhTMKaJLR1JMYmxPS1f/"
+last_updated: "2026-05-27"
+---

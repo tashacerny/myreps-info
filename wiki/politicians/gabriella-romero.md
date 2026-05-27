@@ -1,0 +1,14 @@
+---
+name: Gabriella Romero
+slug: gabriella-romero
+party: Democratic/Working Families
+state: NY
+level: state
+chamber: House
+office: NY State House, District 109
+in_office: true
+photo_url: "https://albanyny.gov/ImageRepository/Document?documentID=6737"
+contact:
+  website: "https://openstates.org/person/gabriella-romero-IuJWcmpnwzgLAt6BJPVsK/"
+last_updated: "2026-05-27"
+---

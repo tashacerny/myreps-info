@@ -1,0 +1,14 @@
+---
+name: Jenny Graham
+slug: jenny-graham
+party: Republican
+state: WA
+level: state
+chamber: House
+office: WA State House, District 6
+in_office: true
+photo_url: "https://leg.wa.gov/memberphoto/29093.jpg"
+contact:
+  website: "https://openstates.org/person/jenny-graham-2iAHaZ2JkbNpy3RiMh1C8z/"
+last_updated: "2026-05-27"
+---

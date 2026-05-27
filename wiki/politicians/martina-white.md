@@ -1,0 +1,15 @@
+---
+name: Martina White
+slug: martina-white
+party: Republican
+birthdate: "1988-07-07"
+state: PA
+level: state
+chamber: House
+office: PA State House, District 170
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1732.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/martina-white-4TsdhXZJGNHSo528iPnaHC/"
+last_updated: "2026-05-27"
+---

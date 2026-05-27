@@ -1,0 +1,14 @@
+---
+name: Lou Juris
+slug: lou-juris
+party: Democratic
+state: NH
+level: state
+chamber: House
+office: NH State House, District Hillsborough 7
+in_office: true
+photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123326.jpg"
+contact:
+  website: "https://openstates.org/person/lou-juris-4oDcVcrDQizO5bc8wsfxao/"
+last_updated: "2026-05-27"
+---

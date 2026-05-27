@@ -1,0 +1,14 @@
+---
+name: Ron Muzzall
+slug: ron-muzzall
+party: Republican
+state: WA
+level: state
+chamber: Senate
+office: WA State Senate, District 10
+in_office: true
+photo_url: "https://leg.wa.gov/memberphoto/29908.jpg"
+contact:
+  website: "https://openstates.org/person/ron-muzzall-2fvqTxPrVedOtrQlElP1jd/"
+last_updated: "2026-05-27"
+---

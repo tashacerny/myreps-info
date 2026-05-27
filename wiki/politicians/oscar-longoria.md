@@ -1,0 +1,15 @@
+---
+name: Oscar Longoria
+slug: oscar-longoria
+party: Democratic
+birthdate: "1981-10-02"
+state: TX
+level: state
+chamber: House
+office: TX State House, District 35
+in_office: true
+photo_url: "https://house.texas.gov/images/members/2485.jpg?v=1"
+contact:
+  website: "https://openstates.org/person/oscar-longoria-4BKTT4xorYeYr1wMkxyKxx/"
+last_updated: "2026-05-27"
+---

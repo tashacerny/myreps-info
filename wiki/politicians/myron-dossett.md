@@ -1,0 +1,15 @@
+---
+name: Myron Dossett
+slug: myron-dossett
+party: Republican
+birthdate: "1961-01-09"
+state: KY
+level: state
+chamber: House
+office: KY State House, District 9
+in_office: true
+photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house9.jpg"
+contact:
+  website: "https://openstates.org/person/myron-dossett-62gPt960U2YJ9RZjIYfVwi/"
+last_updated: "2026-05-27"
+---

@@ -1,0 +1,15 @@
+---
+name: Park Cannon
+slug: park-cannon
+party: Democratic
+birthdate: "1991-06-06"
+state: GA
+level: state
+chamber: House
+office: GA State House, District 58
+in_office: true
+photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cannon-park-4880.jpg"
+contact:
+  website: "https://openstates.org/person/park-cannon-2oGkQ7HBFCy0ZCG5IjPfAU/"
+last_updated: "2026-05-27"
+---

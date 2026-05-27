@@ -1,0 +1,15 @@
+---
+name: Larry Springer
+slug: larry-springer
+party: Democratic
+birthdate: "1947-01-30"
+state: WA
+level: state
+chamber: House
+office: WA State House, District 45
+in_office: true
+photo_url: "https://leg.wa.gov/memberphoto/10039.jpg"
+contact:
+  website: "https://openstates.org/person/larry-springer-547VJzkVXJ3ceL2gysZZLV/"
+last_updated: "2026-05-27"
+---

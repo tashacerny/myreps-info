@@ -1,0 +1,14 @@
+---
+name: Debbie Sariñana
+slug: debbie-sari-ana
+party: Democratic
+state: NM
+level: state
+chamber: House
+office: NM State House, District 21
+in_office: true
+photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HSARI.jpg"
+contact:
+  website: "https://openstates.org/person/debbie-sarinana-4HUUtZs5eXArOzoGK6Udfy/"
+last_updated: "2026-05-27"
+---

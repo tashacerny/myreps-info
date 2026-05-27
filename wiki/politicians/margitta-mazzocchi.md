@@ -1,0 +1,14 @@
+---
+name: Margitta Mazzocchi
+slug: margitta-mazzocchi
+party: Republican
+state: WV
+level: state
+chamber: House
+office: WV State House, District 31
+in_office: true
+photo_url: "https://www.wvlegislature.gov/images/members/2025/house/mazzocchi_margitta.jpg"
+contact:
+  website: "https://openstates.org/person/margitta-mazzocchi-4S9pQaulW8wYZmb9MFdjsb/"
+last_updated: "2026-05-27"
+---

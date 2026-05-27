@@ -1,0 +1,15 @@
+---
+name: James Talarico
+slug: james-talarico
+party: Democratic
+birthdate: "1989-05-17"
+state: TX
+level: state
+chamber: House
+office: TX State House, District 50
+in_office: true
+photo_url: "https://house.texas.gov/images/members/3685.jpg?v=1"
+contact:
+  website: "https://openstates.org/person/james-talarico-2rx0dFFgYWCgtwueUfIfqF/"
+last_updated: "2026-05-27"
+---

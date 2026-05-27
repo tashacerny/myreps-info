@@ -1,0 +1,15 @@
+---
+name: Chris Karr
+slug: chris-karr
+party: Republican
+birthdate: "1980-01-31"
+state: SD
+level: state
+chamber: Senate
+office: SD State Senate, District 11
+in_office: true
+photo_url: "https://sdlegislature.gov/inc/img/Legislators/Karr_2017.jpg"
+contact:
+  website: "https://openstates.org/person/chris-karr-43gUuCT7dtskG7714SuvoX/"
+last_updated: "2026-05-27"
+---

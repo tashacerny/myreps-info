@@ -1,0 +1,15 @@
+---
+name: Tim Bonner
+slug: tim-bonner
+party: Republican
+birthdate: "1950-06-07"
+state: PA
+level: state
+chamber: House
+office: PA State House, District 17
+in_office: true
+photo_url: "https://www.legis.state.pa.us/images/members/200/1877.jpg?1703415645672"
+contact:
+  website: "https://openstates.org/person/tim-bonner-Us67cYq5VOML4nUuWDZrl/"
+last_updated: "2026-05-27"
+---

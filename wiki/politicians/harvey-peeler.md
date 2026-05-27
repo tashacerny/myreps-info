@@ -1,0 +1,15 @@
+---
+name: Harvey Peeler
+slug: harvey-peeler
+party: Republican
+birthdate: "1948-09-08"
+state: SC
+level: state
+chamber: Senate
+office: SC State Senate, District 14
+in_office: true
+photo_url: "https://scstatehouse.gov/images/members/1454545280.jpg"
+contact:
+  website: "https://openstates.org/person/harvey-peeler-4FEtlmViXJujBg0SFW2UDU/"
+last_updated: "2026-05-27"
+---

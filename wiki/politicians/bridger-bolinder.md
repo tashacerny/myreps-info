@@ -1,0 +1,14 @@
+---
+name: Bridger Bolinder
+slug: bridger-bolinder
+party: Republican
+state: UT
+level: state
+chamber: House
+office: UT State House, District 29
+in_office: true
+photo_url: "https://le.utah.gov/images/legislator/BOLINB.jpg"
+contact:
+  website: "https://openstates.org/person/bridger-bolinder-1tPMwrcNUchbTM6XRrbsRb/"
+last_updated: "2026-05-27"
+---

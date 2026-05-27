@@ -1,0 +1,15 @@
+---
+name: Mary Washington
+slug: mary-washington
+party: Democratic
+birthdate: "1962-05-20"
+state: MD
+level: state
+chamber: Senate
+office: MD State Senate, District 43
+in_office: true
+photo_url: "http://mgaleg.maryland.gov/2016RS/images/washington.jpg"
+contact:
+  website: "https://openstates.org/person/mary-washington-MOngdYD7AECvWKRhhoU1D/"
+last_updated: "2026-05-27"
+---

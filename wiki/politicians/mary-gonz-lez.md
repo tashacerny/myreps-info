@@ -1,0 +1,15 @@
+---
+name: Mary González
+slug: mary-gonz-lez
+party: Democratic
+birthdate: "1983-10-30"
+state: TX
+level: state
+chamber: House
+office: TX State House, District 75
+in_office: true
+photo_url: "https://house.texas.gov/images/members/2410.jpg?v=1"
+contact:
+  website: "https://openstates.org/person/mary-gonzalez-4TnHgAl7QCLnDENiZr2kp0/"
+last_updated: "2026-05-27"
+---

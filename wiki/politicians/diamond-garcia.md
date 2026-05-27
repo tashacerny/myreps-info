@@ -1,0 +1,15 @@
+---
+name: Diamond Garcia
+slug: diamond-garcia
+party: Republican
+birthdate: "1997-11-03"
+state: HI
+level: state
+chamber: House
+office: HI State House, District 42
+in_office: true
+photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Garcia.jpg"
+contact:
+  website: "https://openstates.org/person/diamond-garcia-3vUqS16zuX7PLF67lq2P6A/"
+last_updated: "2026-05-27"
+---

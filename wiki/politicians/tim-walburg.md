@@ -1,0 +1,14 @@
+---
+name: Tim Walburg
+slug: tim-walburg
+party: Republican
+state: SD
+level: state
+chamber: House
+office: SD State House, District 8
+in_office: true
+photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/208150/208150.jpg"
+contact:
+  website: "https://openstates.org/person/tim-walburg-6Dpe8Ycn442Dn6d9UeG0XL/"
+last_updated: "2026-05-27"
+---

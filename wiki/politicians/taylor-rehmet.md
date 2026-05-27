@@ -1,0 +1,15 @@
+---
+name: Taylor Rehmet
+slug: taylor-rehmet
+party: Democratic
+birthdate: "1992-07-17"
+state: TX
+level: state
+chamber: Senate
+office: TX State Senate, District 9
+in_office: true
+photo_url: "https://senate.texas.gov/members/d09/img/Rehmet-89-0739D-017-web.jpg"
+contact:
+  website: "https://openstates.org/person/taylor-rehmet-4ZZfji4p4MPSuM3KHPMaik/"
+last_updated: "2026-05-27"
+---

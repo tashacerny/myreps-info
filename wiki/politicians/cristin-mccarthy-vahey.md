@@ -1,0 +1,14 @@
+---
+name: Cristin McCarthy Vahey
+slug: cristin-mccarthy-vahey
+party: Democratic
+state: CT
+level: state
+chamber: House
+office: CT State House, District 133
+in_office: true
+photo_url: "http://www2.housedems.ct.gov/McCarthyVahey/images/McCarthyVahey_HS.jpg"
+contact:
+  website: "https://openstates.org/person/cristin-mccarthy-vahey-6oDpUeDQ2sxaZ1fBiAriTR/"
+last_updated: "2026-05-27"
+---

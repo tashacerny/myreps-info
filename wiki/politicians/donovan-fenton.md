@@ -1,0 +1,15 @@
+---
+name: Donovan Fenton
+slug: donovan-fenton
+party: Democratic
+birthdate: "1988-11-26"
+state: NH
+level: state
+chamber: Senate
+office: NH State Senate, District 10
+in_office: true
+photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59154.jpg"
+contact:
+  website: "https://openstates.org/person/donovan-fenton-4JxThoVfrxdMd49e5igTsi/"
+last_updated: "2026-05-27"
+---

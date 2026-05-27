@@ -1,0 +1,15 @@
+---
+name: Lisa Hernandez
+slug: lisa-hernandez
+party: Democratic
+birthdate: "1961-07-14"
+state: IL
+level: state
+chamber: House
+office: IL State House, District 2
+in_office: true
+photo_url: "https://cdn.ilga.gov/assets/img/members/{4E4C2A21-FDC2-48CA-9BA8-462A62E7A33B}.jpg"
+contact:
+  website: "https://openstates.org/person/lisa-hernandez-5ZAQyMYmcCEmEAEUMoLS3h/"
+last_updated: "2026-05-27"
+---

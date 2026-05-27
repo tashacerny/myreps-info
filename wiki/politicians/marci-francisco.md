@@ -1,0 +1,15 @@
+---
+name: Marci Francisco
+slug: marci-francisco
+party: Democratic
+birthdate: "1950-04-22"
+state: KS
+level: state
+chamber: Senate
+office: KS State Senate, District 2
+in_office: true
+photo_url: "https://www.kslegislature.gov/li/s/images/pics/sen_francisco_marci_1.jpg"
+contact:
+  website: "https://openstates.org/person/marci-francisco-2QYveTBwAJSO4r50MP5rgu/"
+last_updated: "2026-05-27"
+---

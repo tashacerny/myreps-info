@@ -1,0 +1,15 @@
+---
+name: Brent Powell
+slug: brent-powell
+party: Republican
+birthdate: "1969-02-08"
+state: MS
+level: state
+chamber: House
+office: MS State House, District 59
+in_office: true
+photo_url: "http://billstatus.ls.state.ms.us/members/house/powell.jpg"
+contact:
+  website: "https://openstates.org/person/brent-powell-12OZnMOelqubFBiSe46qGw/"
+last_updated: "2026-05-27"
+---

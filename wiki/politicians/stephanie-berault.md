@@ -1,0 +1,14 @@
+---
+name: Stephanie Berault
+slug: stephanie-berault
+party: Republican
+state: LA
+level: state
+chamber: House
+office: LA State House, District 76
+in_office: true
+photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep76.jpg"
+contact:
+  website: "https://openstates.org/person/stephanie-berault-7JXnNeQtX2RaNJZOvEj4UR/"
+last_updated: "2026-05-27"
+---

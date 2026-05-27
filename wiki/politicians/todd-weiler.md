@@ -1,0 +1,15 @@
+---
+name: Todd Weiler
+slug: todd-weiler
+party: Republican
+birthdate: "1967-05-04"
+state: UT
+level: state
+chamber: Senate
+office: UT State Senate, District 8
+in_office: true
+photo_url: "https://le.utah.gov/images/legislator/WEILET.jpg"
+contact:
+  website: "https://openstates.org/person/todd-weiler-3KDxU9BmAikCSSK8DxNaWn/"
+last_updated: "2026-05-27"
+---

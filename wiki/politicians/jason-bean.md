@@ -1,0 +1,14 @@
+---
+name: Jason Bean
+slug: jason-bean
+party: Republican
+state: MO
+level: state
+chamber: Senate
+office: MO State Senate, District 25
+in_office: true
+photo_url: "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Bean-200x300.jpg"
+contact:
+  website: "https://openstates.org/person/jason-bean-48HC0y59nwtR1W3lnxP1HK/"
+last_updated: "2026-05-27"
+---

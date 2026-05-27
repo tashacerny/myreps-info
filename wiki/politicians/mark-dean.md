@@ -1,0 +1,15 @@
+---
+name: Mark Dean
+slug: mark-dean
+party: Republican
+birthdate: "1980-06-18"
+state: WV
+level: state
+chamber: House
+office: WV State House, District 34
+in_office: true
+photo_url: "http://www.wvlegislature.gov/images/members/2023/house/dean_mark.jpg"
+contact:
+  website: "https://openstates.org/person/mark-dean-16eEOt7bYZEV8hE94ajoCq/"
+last_updated: "2026-05-27"
+---

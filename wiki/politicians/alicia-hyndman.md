@@ -1,0 +1,15 @@
+---
+name: Alicia Hyndman
+slug: alicia-hyndman
+party: Democratic
+birthdate: "1971-08-05"
+state: NY
+level: state
+chamber: House
+office: NY State House, District 29
+in_office: true
+photo_url: "https://assembly.state.ny.us/write/upload/member_files/029/headshot/029.jpg?hst=1660073230"
+contact:
+  website: "https://openstates.org/person/alicia-hyndman-11NkHrtUpk5xLhBvNgmE5d/"
+last_updated: "2026-05-27"
+---

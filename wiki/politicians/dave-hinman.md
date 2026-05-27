@@ -1,0 +1,14 @@
+---
+name: Dave Hinman
+slug: dave-hinman
+party: Republican
+state: MO
+level: state
+chamber: House
+office: MO State House, District 103
+in_office: true
+photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2357"
+contact:
+  website: "https://openstates.org/person/dave-hinman-2ESZm21J5YgEz7Aoqmo50p/"
+last_updated: "2026-05-27"
+---

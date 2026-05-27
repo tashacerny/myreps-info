@@ -1,0 +1,15 @@
+---
+name: Jerome Moon
+slug: jerome-moon
+party: Republican
+birthdate: "1947-06-20"
+state: TN
+level: state
+chamber: House
+office: TN State House, District 8
+in_office: true
+photo_url: "http://www.capitol.tn.gov/house/members/images/h8.jpg"
+contact:
+  website: "https://openstates.org/person/jerome-moon-1By3VHXIwZR8vgtN8nyr0d/"
+last_updated: "2026-05-27"
+---

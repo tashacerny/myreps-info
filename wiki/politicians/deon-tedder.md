@@ -1,0 +1,15 @@
+---
+name: Deon Tedder
+slug: deon-tedder
+party: Democratic
+birthdate: "1990-04-26"
+state: SC
+level: state
+chamber: Senate
+office: SC State Senate, District 42
+in_office: true
+photo_url: "https://scstatehouse.gov/images/members/1811931601.jpg"
+contact:
+  website: "https://openstates.org/person/deon-tedder-2P7sV5AuHpZU5xnjKm9fwi/"
+last_updated: "2026-05-27"
+---

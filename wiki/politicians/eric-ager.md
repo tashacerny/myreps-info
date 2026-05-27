@@ -1,0 +1,14 @@
+---
+name: Eric Ager
+slug: eric-ager
+party: Democratic
+state: NC
+level: state
+chamber: House
+office: NC State House, District 114
+in_office: true
+photo_url: "https://www.ncleg.gov/Members/MemberImage/H/819/Low"
+contact:
+  website: "https://openstates.org/person/eric-ager-4GIXlZ6DGv46990MKzTLvX/"
+last_updated: "2026-05-27"
+---

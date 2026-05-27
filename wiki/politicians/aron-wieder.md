@@ -1,0 +1,14 @@
+---
+name: Aron Wieder
+slug: aron-wieder
+party: Democratic
+state: NY
+level: state
+chamber: House
+office: NY State House, District 97
+in_office: true
+photo_url: "https://monseyscoop.com/wp-content/uploads/2024/11/638525825463770000-scaled-e1719329897582-1068x716-1-1024x687.jpeg"
+contact:
+  website: "https://openstates.org/person/aron-wieder-28KMl1d1SV7MrpUrO12ZDk/"
+last_updated: "2026-05-27"
+---

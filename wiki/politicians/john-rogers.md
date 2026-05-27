@@ -1,0 +1,15 @@
+---
+name: John Rogers
+slug: john-rogers
+party: Democratic
+birthdate: "1964-10-22"
+state: MA
+level: state
+chamber: House
+office: MA State House, District 12th Norfolk
+in_office: true
+photo_url: "https://malegislature.gov/Legislators/Profile/170/JHR1.jpg"
+contact:
+  website: "https://openstates.org/person/john-rogers-2S35WTFX4vrFVfjl9YdE9r/"
+last_updated: "2026-05-27"
+---

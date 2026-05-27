@@ -1,0 +1,15 @@
+---
+name: Gary Click
+slug: gary-click
+party: Republican
+birthdate: "1965-12-29"
+state: OH
+level: state
+chamber: House
+office: OH State House, District 88
+in_office: true
+photo_url: "https://www.legislature.ohio.gov/assets/people/gary-click/headshots/thumbnails/medium/gary-click-january-2023-headshot_medium.jpg"
+contact:
+  website: "https://openstates.org/person/gary-click-9E4EqoLlN3dhPLUxCuhoi/"
+last_updated: "2026-05-27"
+---

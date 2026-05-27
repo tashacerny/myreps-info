@@ -1,0 +1,14 @@
+---
+name: Veronica Klinefelt
+slug: veronica-klinefelt
+party: Democratic
+state: MI
+level: state
+chamber: Senate
+office: MI State Senate, District 11
+in_office: true
+photo_url: "https://senatedems.com/klinefelt/wp-content/uploads/sites/15/2022/12/Portrait_Klinefelt_Web.jpg"
+contact:
+  website: "https://openstates.org/person/veronica-klinefelt-1qysi9HctV4eDhngcZAyo3/"
+last_updated: "2026-05-27"
+---

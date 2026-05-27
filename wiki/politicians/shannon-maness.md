@@ -1,0 +1,13 @@
+---
+name: Shannon Maness
+slug: shannon-maness
+party: Republican
+state: MT
+level: state
+chamber: House
+office: MT State House, District 70
+in_office: true
+contact:
+  website: "https://openstates.org/person/shannon-maness-4flRqvt0px5yS1JMQxeXbF/"
+last_updated: "2026-05-27"
+---

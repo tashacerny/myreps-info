@@ -1,0 +1,15 @@
+---
+name: Wendy McNamara
+slug: wendy-mcnamara
+party: Republican
+birthdate: "1970-01-26"
+state: IN
+level: state
+chamber: House
+office: IN State House, District 76
+in_office: true
+photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/McNamara_mainlist2.png"
+contact:
+  website: "https://openstates.org/person/wendy-mcnamara-5Et272w20LVUtyFKpUhmoR/"
+last_updated: "2026-05-27"
+---
