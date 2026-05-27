@@ -4,11 +4,12 @@ slug: chip-roy
 party: Republican
 state: Texas
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Texas-21
 district: 21
 in_office: true
 photo_url: "https://www.congress.gov/img/member/r000614_200.jpg"
+bioguide_id: R000614
 contact:
   website: "https://roy.house.gov"
 last_updated: "2026-05-27"

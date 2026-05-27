@@ -4,11 +4,12 @@ slug: frank-j-mrvan
 party: Democratic
 state: Indiana
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Indiana-1
 district: 1
 in_office: true
 photo_url: "https://www.congress.gov/img/member/m001214_200.jpg"
+bioguide_id: M001214
 contact:
   website: "https://mrvan.house.gov"
 last_updated: "2026-05-27"

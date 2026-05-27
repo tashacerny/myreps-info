@@ -4,11 +4,12 @@ slug: scott-h-peters
 party: Democratic
 state: California
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, California-50
 district: 50
 in_office: true
 photo_url: "https://www.congress.gov/img/member/p000608_200.jpg"
+bioguide_id: P000608
 contact:
   website: "https://scottpeters.house.gov"
 last_updated: "2026-05-27"

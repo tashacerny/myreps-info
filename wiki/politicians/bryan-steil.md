@@ -4,11 +4,12 @@ slug: bryan-steil
 party: Republican
 state: Wisconsin
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Wisconsin-1
 district: 1
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s001213_200.jpg"
+bioguide_id: S001213
 contact:
   website: "https://steil.house.gov"
 last_updated: "2026-05-27"

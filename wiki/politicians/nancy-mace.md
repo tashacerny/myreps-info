@@ -4,11 +4,12 @@ slug: nancy-mace
 party: Republican
 state: South Carolina
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, South Carolina-1
 district: 1
 in_office: true
 photo_url: "https://www.congress.gov/img/member/m000194_200.jpg"
+bioguide_id: M000194
 contact:
   website: "https://mace.house.gov"
 last_updated: "2026-05-27"

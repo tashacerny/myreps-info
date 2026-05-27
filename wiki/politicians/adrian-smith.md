@@ -4,11 +4,12 @@ slug: adrian-smith
 party: Republican
 state: Nebraska
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Nebraska-3
 district: 3
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s001172_200.jpg"
+bioguide_id: S001172
 contact:
   website: "https://adriansmith.house.gov/"
 last_updated: "2026-05-27"

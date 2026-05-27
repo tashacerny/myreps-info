@@ -4,11 +4,12 @@ slug: haley-m-stevens
 party: Democratic
 state: Michigan
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Michigan-11
 district: 11
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s001215_200.jpg"
+bioguide_id: S001215
 contact:
   website: "https://stevens.house.gov/"
 last_updated: "2026-05-27"

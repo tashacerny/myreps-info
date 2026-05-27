@@ -4,11 +4,12 @@ slug: steve-womack
 party: Republican
 state: Arkansas
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Arkansas-3
 district: 3
 in_office: true
 photo_url: "https://www.congress.gov/img/member/117_rp_ar_3_womack_steve_200.jpg"
+bioguide_id: W000809
 contact:
   website: "https://womack.house.gov/"
 last_updated: "2026-05-27"

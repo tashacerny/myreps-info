@@ -4,11 +4,12 @@ slug: yassamin-ansari
 party: Democratic
 state: Arizona
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Arizona-3
 district: 3
 in_office: true
 photo_url: "https://www.congress.gov/img/member/67741fc30b34857ecc90902e_200.jpg"
+bioguide_id: A000381
 contact:
   website: "https://ansari.house.gov/"
 last_updated: "2026-05-27"
