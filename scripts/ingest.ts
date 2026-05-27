@@ -95,9 +95,18 @@ async function main() {
   console.log(`\n🗳️  MyReps.info ingestion pipeline${DRY_RUN ? ' (DRY RUN)' : ''}\n`)
   checkEnvVars()
 
-  if (RUN_FEDERAL) await ingestFederalMembers()
-  if (RUN_STATE) await ingestStateMembers()
-  if (RUN_BILLS) await ingestBills()
+  if (RUN_FEDERAL) {
+    try { await ingestFederalMembers() }
+    catch (err) { console.error('❌ Federal ingestion crashed:', err) }
+  }
+  if (RUN_STATE) {
+    try { await ingestStateMembers() }
+    catch (err) { console.error('❌ State ingestion crashed:', err) }
+  }
+  if (RUN_BILLS) {
+    try { await ingestBills() }
+    catch (err) { console.error('❌ Bills ingestion crashed:', err) }
+  }
 
   console.log('\n✅ Ingestion complete.\n')
 }
@@ -134,7 +143,13 @@ async function ingestFederalMembers() {
 
     while (true) {
       const url = `https://api.congress.gov/v3/member?congress=${CURRENT_CONGRESS}&chamber=${chamber}&limit=${limit}&offset=${offset}&api_key=${CONGRESS_GOV_KEY}`
-      const res = await fetchWithRetry(url)
+      let res: Response
+      try {
+        res = await fetchWithRetry(url)
+      } catch (err) {
+        console.error(`  ❌ Network error fetching ${chamber} at offset ${offset}:`, err)
+        break
+      }
       if (!res.ok) {
         console.error(`  ❌ Failed to fetch ${chamber}: ${res.status}`)
         break
