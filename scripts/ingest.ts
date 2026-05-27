@@ -5,20 +5,18 @@
  * any bill lacking one, and writes/updates wiki Markdown files.
  *
  * Usage:
- *   npx tsx scripts/ingest.ts [--federal] [--state] [--bills] [--dry-run]
+ *   npx tsx scripts/ingest.ts [--federal] [--state] [--bills] [--votes] [--dry-run]
  *
  * Requires these env vars (copy .env.example → .env):
  *   CONGRESS_GOV_API_KEY, OPENSTATES_API_KEY, ANTHROPIC_API_KEY
- *
- * Note: Congress.gov API covers all federal data (members + votes + bills).
- * ProPublica Congress API was removed — it is no longer available.
  */
 
 import fs from 'fs'
 import path from 'path'
+import matter from 'gray-matter'
 
 // ---------------------------------------------------------------------------
-// Resilient fetch: auto-retry with backoff + 30s timeout per request
+// Resilient fetch helpers
 // ---------------------------------------------------------------------------
 
 async function fetchWithRetry(
@@ -44,8 +42,7 @@ async function fetchWithRetry(
   throw new Error('fetchWithRetry: exhausted retries')
 }
 
-// Like fetchWithRetry but parses JSON and enforces a hard deadline via
-// Promise.race — guaranteed to timeout regardless of Node.js fetch internals.
+// Parses JSON body with a hard deadline via Promise.race (avoids Node body-read hangs)
 async function fetchJSONWithRetry<T>(
   url: string,
   options: RequestInit = {},
@@ -74,18 +71,60 @@ async function fetchJSONWithRetry<T>(
   throw new Error('fetchJSONWithRetry: exhausted retries')
 }
 
-const DRY_RUN = process.argv.includes('--dry-run')
-const RUN_FEDERAL = process.argv.includes('--federal') || !process.argv.slice(2).some(a => a.startsWith('--'))
-const RUN_STATE = process.argv.includes('--state') || !process.argv.slice(2).some(a => a.startsWith('--'))
-const RUN_BILLS = process.argv.includes('--bills') || !process.argv.slice(2).some(a => a.startsWith('--'))
+// Fetches plain text (for XML files) with timeout + null on 404/error
+async function fetchTextWithRetry(url: string, retries = 2): Promise<string | null> {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const result = await Promise.race([
+        (async () => {
+          const res = await fetch(url)
+          if (res.status === 404 || res.status === 403) return null
+          if (!res.ok) throw new Error(`HTTP ${res.status}`)
+          return await res.text()
+        })(),
+        new Promise<never>((_, reject) =>
+          setTimeout(() => reject(new Error('Fetch timed out after 30s')), 30_000)
+        ),
+      ])
+      return result
+    } catch {
+      if (attempt === retries) return null
+      await sleep(1000)
+    }
+  }
+  return null
+}
 
-const WIKI_DIR = path.join(process.cwd(), 'wiki')
+// ---------------------------------------------------------------------------
+// Config
+// ---------------------------------------------------------------------------
+
+const DRY_RUN   = process.argv.includes('--dry-run')
+const hasFlags  = process.argv.slice(2).some(a => a.startsWith('--') && a !== '--dry-run')
+const RUN_FEDERAL = process.argv.includes('--federal') || !hasFlags
+const RUN_STATE   = process.argv.includes('--state')   || !hasFlags
+const RUN_BILLS   = process.argv.includes('--bills')   || !hasFlags
+const RUN_VOTES   = process.argv.includes('--votes')   || !hasFlags
+
+const WIKI_DIR       = path.join(process.cwd(), 'wiki')
 const POLITICIANS_DIR = path.join(WIKI_DIR, 'politicians')
-const BILLS_DIR = path.join(WIKI_DIR, 'bills')
+const BILLS_DIR      = path.join(WIKI_DIR, 'bills')
 
-const OPENSTATES_KEY = process.env.OPENSTATES_API_KEY
+const OPENSTATES_KEY  = process.env.OPENSTATES_API_KEY
 const CONGRESS_GOV_KEY = process.env.CONGRESS_GOV_API_KEY
-const ANTHROPIC_KEY = process.env.ANTHROPIC_API_KEY
+const ANTHROPIC_KEY   = process.env.ANTHROPIC_API_KEY
+
+// ---------------------------------------------------------------------------
+// Types
+// ---------------------------------------------------------------------------
+
+type VoteRecord = {
+  bill_slug: string
+  bill_title: string
+  date: string
+  vote: string
+  summary: string
+}
 
 // ---------------------------------------------------------------------------
 // Entry point
@@ -107,6 +146,12 @@ async function main() {
     try { await ingestBills() }
     catch (err) { console.error('❌ Bills ingestion crashed:', err) }
   }
+  if (RUN_VOTES) {
+    try { await ingestFederalVotes() }
+    catch (err) { console.error('❌ Federal votes ingestion crashed:', err) }
+    try { await ingestStateVotes() }
+    catch (err) { console.error('❌ State votes ingestion crashed:', err) }
+  }
 
   console.log('\n✅ Ingestion complete.\n')
 }
@@ -116,7 +161,6 @@ function checkEnvVars() {
   if (!OPENSTATES_KEY) missing.push('OPENSTATES_API_KEY')
   if (!CONGRESS_GOV_KEY) missing.push('CONGRESS_GOV_API_KEY')
   if (!ANTHROPIC_KEY) missing.push('ANTHROPIC_API_KEY')
-
   if (missing.length) {
     console.warn(`⚠️  Missing env vars: ${missing.join(', ')}`)
     console.warn('   Some steps will be skipped. Copy .env.example → .env and add your keys.\n')
@@ -142,20 +186,10 @@ async function ingestFederalMembers() {
     const limit = 250
 
     while (true) {
-      const url = `https://api.congress.gov/v3/member?congress=${CURRENT_CONGRESS}&chamber=${chamber}&limit=${limit}&offset=${offset}&api_key=${CONGRESS_GOV_KEY}`
-      let res: Response
-      try {
-        res = await fetchWithRetry(url)
-      } catch (err) {
-        console.error(`  ❌ Network error fetching ${chamber} at offset ${offset}:`, err)
-        break
-      }
-      if (!res.ok) {
-        console.error(`  ❌ Failed to fetch ${chamber}: ${res.status}`)
-        break
-      }
+      // currentMember=true limits to ~100 senators + ~435 reps (not 2,250+ historical)
+      const url = `https://api.congress.gov/v3/member?congress=${CURRENT_CONGRESS}&chamber=${chamber}&currentMember=true&limit=${limit}&offset=${offset}&api_key=${CONGRESS_GOV_KEY}`
 
-      const json = await res.json() as {
+      type MemberListResponse = {
         members?: Array<{
           bioguideId: string
           name: string
@@ -168,8 +202,21 @@ async function ingestFederalMembers() {
         pagination?: { total: number }
       }
 
-      const members = json.members ?? []
-      console.log(`  ${chamber}: fetched ${offset + members.length} / ${json.pagination?.total ?? '?'}`)
+      let memberPage: MemberListResponse
+      try {
+        const { status, json } = await fetchJSONWithRetry<MemberListResponse>(url)
+        if (status !== 200 || !json) {
+          console.error(`  ❌ Failed to fetch ${chamber} at offset ${offset}: HTTP ${status}`)
+          break
+        }
+        memberPage = json
+      } catch (err) {
+        console.error(`  ❌ Network error fetching ${chamber} at offset ${offset}:`, err)
+        break
+      }
+
+      const members = memberPage.members ?? []
+      console.log(`  ${chamber}: fetched ${offset + members.length} / ${memberPage.pagination?.total ?? '?'}`)
 
       for (const member of members) {
         const nameParts = member.name.split(', ')
@@ -179,8 +226,9 @@ async function ingestFederalMembers() {
         const slug = toSlug(name)
         const filePath = path.join(POLITICIANS_DIR, `${slug}.md`)
 
-        const detail = await fetchCongressMemberDetail(member.bioguideId)
-        const votes = await fetchCongressMemberVotes(member.bioguideId)
+        let detail: Awaited<ReturnType<typeof fetchCongressMemberDetail>> = null
+        try { detail = await fetchCongressMemberDetail(member.bioguideId) } catch { /* skip */ }
+
         const termStart = member.terms?.item?.find(t =>
           t.chamber.toLowerCase() === chamber
         )?.startYear
@@ -203,7 +251,7 @@ async function ingestFederalMembers() {
             phone: detail?.phoneNumber,
           },
           term_start: termStart ? `${termStart}-01-03` : undefined,
-          votes,
+          bioguide_id: member.bioguideId,
           last_updated: new Date().toISOString().split('T')[0],
         })
 
@@ -243,41 +291,6 @@ async function fetchCongressMemberDetail(bioguideId: string) {
     return json.member ?? null
   } catch {
     return null
-  }
-}
-
-async function fetchCongressMemberVotes(bioguideId: string) {
-  if (!CONGRESS_GOV_KEY) return []
-  try {
-    const res = await fetchWithRetry(
-      `https://api.congress.gov/v3/member/${bioguideId}/votes?limit=50&api_key=${CONGRESS_GOV_KEY}`
-    )
-    const json = await res.json() as {
-      votes?: Array<{
-        bill?: { number?: string; type?: string; title?: string }
-        congress?: number
-        date?: string
-        votePosition?: string
-        description?: string
-      }>
-    }
-    const raw = json.votes ?? []
-
-    return raw.map((v) => {
-      const billId = v.bill?.number
-        ? `${v.bill.type?.toLowerCase() ?? 'bill'}-${v.bill.number}-${v.congress ?? 119}th`
-        : 'unknown'
-      return {
-        bill_slug: toSlug(billId),
-        bill_title: v.bill?.title ?? 'Unknown Bill',
-        date: v.date ?? '',
-        vote: normalizeVote(v.votePosition ?? ''),
-        summary: v.description ?? '',
-        congress: v.congress,
-      }
-    })
-  } catch {
-    return []
   }
 }
 
@@ -330,26 +343,23 @@ async function ingestStateMembers() {
           await sleep(10_000)
           continue
         }
-
         if (status !== 200 || !json) {
           console.error(`  ❌ OpenStates ${state.toUpperCase()} page ${page}: HTTP ${status}`)
           break
         }
 
         const members = json.results ?? []
-        maxPage = json!.pagination?.max_page ?? 1
+        maxPage = json.pagination?.max_page ?? 1
 
         if (page === 1) {
-          console.log(`  ${state.toUpperCase()}: ${json!.pagination?.total_items ?? '?'} state legislators`)
+          console.log(`  ${state.toUpperCase()}: ${json.pagination?.total_items ?? '?'} state legislators`)
         }
 
         for (const member of members) {
-          // Only write people who currently hold a state legislative seat
           if (!member.current_role) continue
 
           const slug = toSlug(member.name)
           const filePath = path.join(POLITICIANS_DIR, `${slug}.md`)
-
           if (fs.existsSync(filePath)) continue
 
           const role = member.current_role
@@ -369,6 +379,7 @@ async function ingestStateMembers() {
             birthdate: member.birth_date || undefined,
             photo_url: member.image || undefined,
             contact: { website: member.openstates_url },
+            openstates_id: member.id,
             last_updated: new Date().toISOString().split('T')[0],
           })
 
@@ -387,7 +398,6 @@ async function ingestStateMembers() {
       }
     }
 
-    // Pause between states to stay well under rate limit
     await sleep(2_000)
   }
 }
@@ -432,7 +442,6 @@ async function ingestBills() {
         continue
       }
 
-      // Fetch full bill detail including CRS summary
       const detail = await fetchBillDetail(CURRENT_CONGRESS, bill.type ?? '', bill.number ?? '')
       const crsSummary = detail?.summaries?.[0]?.text ?? null
       const summary = crsSummary ?? (ANTHROPIC_KEY
@@ -490,6 +499,229 @@ async function fetchBillDetail(congress: number, type: string, number: string) {
 }
 
 // ---------------------------------------------------------------------------
+// Federal votes (House Clerk XML + Senate XML)
+// ---------------------------------------------------------------------------
+
+async function ingestFederalVotes() {
+  console.log('📥 Ingesting federal votes from House Clerk and Senate XMLs...')
+
+  // Build lookup maps from existing politician files
+  const bioguideMap = new Map<string, string>() // bioguideId → filePath
+  const senatorMap  = new Map<string, string>() // "lastName|STATE" → filePath
+
+  for (const file of fs.readdirSync(POLITICIANS_DIR).filter(f => f.endsWith('.md'))) {
+    const filePath = path.join(POLITICIANS_DIR, file)
+    const content  = fs.readFileSync(filePath, 'utf8')
+
+    const bioguide = content.match(/^bioguide_id:\s*(\S+)/m)?.[1]?.trim()
+    if (bioguide) bioguideMap.set(bioguide, filePath)
+
+    const chamber = content.match(/^chamber:\s*(\S+)/m)?.[1]
+    const level   = content.match(/^level:\s*(\S+)/m)?.[1]
+    const state   = content.match(/^state:\s*(\S+)/m)?.[1]
+    const name    = content.match(/^name:\s*(.+)/m)?.[1]?.trim()
+    if (chamber === 'Senate' && level === 'federal' && state && name) {
+      const lastName = name.split(' ').pop() ?? ''
+      senatorMap.set(`${lastName.toLowerCase()}|${state.toUpperCase()}`, filePath)
+    }
+  }
+
+  console.log(`  Indexed ${bioguideMap.size} members by bioguide, ${senatorMap.size} senators by name`)
+
+  // Accumulate votes in memory: filePath → VoteRecord[]
+  const memberVotes = new Map<string, VoteRecord[]>()
+  const addVote = (filePath: string, vote: VoteRecord) => {
+    if (!memberVotes.has(filePath)) memberVotes.set(filePath, [])
+    memberVotes.get(filePath)!.push(vote)
+  }
+
+  // ---- House Clerk XML: https://clerk.house.gov/evs/{year}/roll{NNN}.xml ----
+  for (const year of [2025, 2026]) {
+    console.log(`  Fetching House ${year} roll calls...`)
+    let misses = 0
+    for (let roll = 1; roll <= 600; roll++) {
+      const rollStr = String(roll).padStart(3, '0')
+      const xml = await fetchTextWithRetry(`https://clerk.house.gov/evs/${year}/roll${rollStr}.xml`)
+
+      if (!xml) { if (++misses >= 5) break; continue }
+      misses = 0
+
+      const legislNum = extractXMLTag(xml, 'legis-num')
+      // Skip if no bill number (quorum calls, journal votes, etc.)
+      if (!legislNum || !legislNum.match(/\d/)) continue
+
+      const billSlug  = legislNumToSlug(legislNum)
+      const date      = parseHouseDate(extractXMLTag(xml, 'action-date'))
+      const question  = extractXMLTag(xml, 'vote-question')
+      const title     = `${legislNum} — ${question}`
+
+      for (const [, block] of xml.matchAll(/<recorded-vote>([\s\S]*?)<\/recorded-vote>/g)) {
+        const bioguide = block.match(/name-id="([A-Z0-9]+)"/)?.[1]
+        const vote     = block.match(/<vote>([^<]+)<\/vote>/)?.[1]?.trim()
+        if (!bioguide || !vote) continue
+
+        const filePath = bioguideMap.get(bioguide)
+        if (filePath) addVote(filePath, { bill_slug: billSlug, bill_title: title, date, vote: normalizeVote(vote), summary: question })
+      }
+
+      await sleep(80)
+    }
+  }
+
+  // ---- Senate XML: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_{NNNNN}.xml ----
+  // Continuous numbering for all of 119th Congress session 1 (2025–2026)
+  console.log('  Fetching Senate 119th Congress roll calls...')
+  let senateMisses = 0
+  for (let roll = 1; roll <= 600; roll++) {
+    const rollStr = String(roll).padStart(5, '0')
+    const xml = await fetchTextWithRetry(
+      `https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_${rollStr}.xml`
+    )
+
+    if (!xml) { if (++senateMisses >= 5) break; continue }
+    senateMisses = 0
+
+    const docType = extractXMLTag(xml, 'document_type')
+    const docNum  = extractXMLTag(xml, 'document_number')
+    const date    = parseSenateDate(extractXMLTag(xml, 'vote_date'))
+    const title   = extractXMLTag(xml, 'vote_document_text') || extractXMLTag(xml, 'vote_question_text')
+    const question = extractXMLTag(xml, 'vote_question_text')
+
+    const billSlug = (docType && docNum && docType !== 'PN')
+      ? toSlug(`${docType} ${docNum} 119th`)
+      : toSlug(`senate-vote-119-${roll}`)
+
+    for (const [, block] of xml.matchAll(/<member>([\s\S]*?)<\/member>/g)) {
+      const lastName = extractXMLTag(block, 'last_name')
+      const state    = extractXMLTag(block, 'state')
+      const vote     = extractXMLTag(block, 'vote_cast')
+      if (!lastName || !state || !vote) continue
+
+      const filePath = senatorMap.get(`${lastName.toLowerCase()}|${state.toUpperCase()}`)
+      if (filePath) addVote(filePath, { bill_slug: billSlug, bill_title: title, date, vote: normalizeVote(vote), summary: question })
+    }
+
+    await sleep(80)
+  }
+
+  // Write all accumulated votes to files
+  console.log(`  Writing votes for ${memberVotes.size} federal members...`)
+  let written = 0
+  for (const [filePath, votes] of memberVotes) {
+    updateVotesInFile(filePath, votes)
+    if (++written % 50 === 0) console.log(`  Progress: ${written}/${memberVotes.size}`)
+  }
+  console.log(`  ✅ Federal votes written for ${written} members`)
+}
+
+// ---------------------------------------------------------------------------
+// State votes (OpenStates bills with embedded votes)
+// ---------------------------------------------------------------------------
+
+async function ingestStateVotes() {
+  if (!OPENSTATES_KEY) {
+    console.log('⏭️  Skipping state votes (no OPENSTATES_API_KEY)')
+    return
+  }
+  console.log('📥 Ingesting state votes from OpenStates...')
+
+  // Index state politicians: slug → {filePath, state}
+  const stateMemberMap = new Map<string, { filePath: string; state: string }>()
+  for (const file of fs.readdirSync(POLITICIANS_DIR).filter(f => f.endsWith('.md'))) {
+    const filePath = path.join(POLITICIANS_DIR, file)
+    const content  = fs.readFileSync(filePath, 'utf8')
+    if (!content.includes('\nlevel: state')) continue
+    const state = content.match(/^state:\s*(\S+)/m)?.[1] ?? ''
+    stateMemberMap.set(file.replace('.md', ''), { filePath, state })
+  }
+  console.log(`  Indexed ${stateMemberMap.size} state politicians`)
+
+  const STATES = [
+    'al','ak','az','ar','ca','co','ct','de','fl','ga',
+    'hi','id','il','in','ia','ks','ky','la','me','md',
+    'ma','mi','mn','ms','mo','mt','ne','nv','nh','nj',
+    'nm','ny','nc','nd','oh','ok','or','pa','ri','sc',
+    'sd','tn','tx','ut','vt','va','wa','wv','wi','wy',
+  ]
+
+  type OpenStatesBillsResponse = {
+    results?: Array<{
+      identifier: string
+      title: string
+      legislative_session?: string
+      votes?: Array<{
+        start_date?: string
+        votes?: Array<{ voter_name?: string; option?: string }>
+      }>
+    }>
+    pagination?: { max_page: number }
+  }
+
+  for (const state of STATES) {
+    await sleep(2_000)
+    const stateVoteBuffer = new Map<string, VoteRecord[]>()
+    let page = 1
+    let billsProcessed = 0
+
+    while (billsProcessed < 60) {
+      const url = `https://v3.openstates.org/bills?jurisdiction=${state}&per_page=20&page=${page}&include=votes&sort=updated_desc`
+
+      try {
+        const { status, json } = await fetchJSONWithRetry<OpenStatesBillsResponse>(url, {
+          headers: { 'X-API-KEY': OPENSTATES_KEY },
+        })
+
+        if (status === 429) { await sleep(10_000); continue }
+        if (status !== 200 || !json) break
+
+        const bills = json.results ?? []
+        if (bills.length === 0) break
+
+        for (const bill of bills) {
+          billsProcessed++
+          const billSlug = toSlug(`${state}-${bill.identifier}-${bill.legislative_session ?? ''}`)
+
+          for (const voteEvent of bill.votes ?? []) {
+            const date = voteEvent.start_date?.split('T')[0] ?? new Date().toISOString().split('T')[0]
+
+            for (const v of voteEvent.votes ?? []) {
+              if (!v.voter_name) continue
+              const voterSlug = toSlug(v.voter_name)
+              const member = stateMemberMap.get(voterSlug)
+              if (!member || member.state.toUpperCase() !== state.toUpperCase()) continue
+
+              if (!stateVoteBuffer.has(member.filePath)) stateVoteBuffer.set(member.filePath, [])
+              stateVoteBuffer.get(member.filePath)!.push({
+                bill_slug: billSlug,
+                bill_title: bill.title,
+                date,
+                vote: normalizeVote(v.option ?? ''),
+                summary: '',
+              })
+            }
+          }
+        }
+
+        if (bills.length < 20 || page >= (json.pagination?.max_page ?? 1)) break
+        page++
+        await sleep(1_000)
+      } catch (err) {
+        console.error(`  ❌ OpenStates votes error for ${state.toUpperCase()}:`, err)
+        break
+      }
+    }
+
+    for (const [filePath, votes] of stateVoteBuffer) {
+      updateVotesInFile(filePath, votes)
+    }
+    if (stateVoteBuffer.size > 0) {
+      console.log(`  ${state.toUpperCase()}: updated ${stateVoteBuffer.size} members with votes`)
+    }
+  }
+  console.log('  ✅ State votes ingestion complete')
+}
+
+// ---------------------------------------------------------------------------
 // Claude summary generation
 // ---------------------------------------------------------------------------
 
@@ -507,15 +739,13 @@ async function generateSummaryWithClaude(title: string, textUrl: string): Promis
       body: JSON.stringify({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 600,
-        messages: [
-          {
-            role: 'user',
-            content: `You are a nonpartisan legislative assistant. Write a clear, factual, plain-English summary of the following bill. Do not include political opinions or partisan framing. Cover: what the bill proposes, who it affects, and the key provisions. Keep it to 2–3 paragraphs.
+        messages: [{
+          role: 'user',
+          content: `You are a nonpartisan legislative assistant. Write a clear, factual, plain-English summary of the following bill. Do not include political opinions or partisan framing. Cover: what the bill proposes, who it affects, and the key provisions. Keep it to 2–3 paragraphs.
 
 Bill title: ${title}
 ${textUrl ? `Full text URL: ${textUrl}` : '(Full text not available — summarize based on the title.)'}`,
-          },
-        ],
+        }],
       }),
     })
 
@@ -527,7 +757,71 @@ ${textUrl ? `Full text URL: ${textUrl}` : '(Full text not available — summariz
 }
 
 // ---------------------------------------------------------------------------
-// Helpers
+// XML helpers (regex-based, no external parser needed)
+// ---------------------------------------------------------------------------
+
+function extractXMLTag(xml: string, tag: string): string {
+  const match = xml.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`))
+  return match?.[1]?.trim() ?? ''
+}
+
+function legislNumToSlug(legislNum: string, congress = 119): string {
+  // "H.R. 1" → "hr-1-119th", "H.J.Res. 7" → "hjres-7-119th"
+  return toSlug(legislNum.replace(/\./g, '').trim() + ` ${congress}th`)
+}
+
+function parseHouseDate(dateStr: string): string {
+  // "3-Jan-2025" → "2025-01-03"
+  const MONTHS: Record<string, string> = {
+    Jan:'01', Feb:'02', Mar:'03', Apr:'04', May:'05', Jun:'06',
+    Jul:'07', Aug:'08', Sep:'09', Oct:'10', Nov:'11', Dec:'12',
+  }
+  const parts = dateStr.split('-')
+  if (parts.length !== 3) return dateStr
+  const [day, mon, year] = parts
+  return `${year}-${MONTHS[mon] ?? '01'}-${day.padStart(2, '0')}`
+}
+
+function parseSenateDate(dateStr: string): string {
+  // "March 14, 2025, 11:33 AM" → "2025-03-14"
+  const MONTHS: Record<string, string> = {
+    January:'01', February:'02', March:'03', April:'04', May:'05', June:'06',
+    July:'07', August:'08', September:'09', October:'10', November:'11', December:'12',
+  }
+  const match = dateStr.match(/(\w+)\s+(\d+),\s+(\d{4})/)
+  if (!match) return new Date().toISOString().split('T')[0]
+  const [, mon, day, year] = match
+  return `${year}-${MONTHS[mon] ?? '01'}-${day.padStart(2, '0')}`
+}
+
+// ---------------------------------------------------------------------------
+// Vote file updater — merges new votes into existing frontmatter
+// ---------------------------------------------------------------------------
+
+function updateVotesInFile(filePath: string, newVotes: VoteRecord[]): void {
+  try {
+    const raw    = fs.readFileSync(filePath, 'utf8')
+    const parsed = matter(raw)
+
+    const existing: VoteRecord[] = Array.isArray(parsed.data.votes) ? parsed.data.votes : []
+    const existingKeys = new Set(existing.map(v => `${v.bill_slug}|${v.date}`))
+    const toAdd = newVotes.filter(v => v.bill_slug && !existingKeys.has(`${v.bill_slug}|${v.date}`))
+
+    if (toAdd.length === 0) return
+
+    parsed.data.votes = [...existing, ...toAdd]
+    parsed.data.last_updated = new Date().toISOString().split('T')[0]
+
+    if (!DRY_RUN) {
+      fs.writeFileSync(filePath, matter.stringify(parsed.content, parsed.data), 'utf8')
+    }
+  } catch (err) {
+    console.error(`  ❌ Failed to update ${path.basename(filePath)}:`, err)
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Frontmatter builders
 // ---------------------------------------------------------------------------
 
 function buildPoliticianFrontmatter(data: {
@@ -544,20 +838,43 @@ function buildPoliticianFrontmatter(data: {
   photo_url?: string
   term_start?: string
   contact?: { phone?: string; website?: string; twitter?: string }
-  votes?: Array<{ bill_slug: string; bill_title: string; date: string; vote: string; summary: string; congress?: number }>
+  votes?: VoteRecord[]
+  bioguide_id?: string
+  openstates_id?: string
   last_updated?: string
 }): string {
   const contactLines = data.contact
-    ? `contact:\n${data.contact.phone ? `  phone: "${data.contact.phone}"\n` : ''}${data.contact.website ? `  website: "${data.contact.website}"\n` : ''}${data.contact.twitter ? `  twitter: "${data.contact.twitter}"\n` : ''}`
+    ? `contact:\n${data.contact.phone   ? `  phone: "${data.contact.phone}"\n`   : ''}${data.contact.website ? `  website: "${data.contact.website}"\n` : ''}${data.contact.twitter ? `  twitter: "${data.contact.twitter}"\n` : ''}`
     : ''
 
   const votesLines = data.votes?.length
-    ? `votes:\n${data.votes.map((v) =>
-        `  - bill_slug: ${v.bill_slug}\n    bill_title: "${v.bill_title}"\n    date: "${v.date}"\n    vote: "${v.vote}"\n    summary: "${v.summary.replace(/"/g, '\\"')}"`
+    ? `votes:\n${data.votes.map(v =>
+        `  - bill_slug: ${v.bill_slug}\n    bill_title: "${v.bill_title.replace(/"/g, '\\"')}"\n    date: "${v.date}"\n    vote: "${v.vote}"\n    summary: "${v.summary.replace(/"/g, '\\"')}"`
       ).join('\n')}\n`
     : ''
 
-  return `---\nname: ${data.name}\nslug: ${data.slug}\nparty: ${data.party}\n${data.birthdate ? `birthdate: "${data.birthdate}"\n` : ''}${data.state ? `state: ${data.state}\n` : ''}level: ${data.level}\n${data.chamber ? `chamber: ${data.chamber}\n` : ''}office: ${data.office}\n${data.district != null ? `district: ${data.district}\n` : ''}in_office: ${data.in_office}\n${data.photo_url ? `photo_url: "${data.photo_url}"\n` : ''}${data.term_start ? `term_start: "${data.term_start}"\n` : ''}${contactLines}${votesLines}last_updated: "${data.last_updated ?? new Date().toISOString().split('T')[0]}"\n---\n`
+  return [
+    '---',
+    `name: ${data.name}`,
+    `slug: ${data.slug}`,
+    `party: ${data.party}`,
+    ...(data.birthdate     ? [`birthdate: "${data.birthdate}"`]     : []),
+    ...(data.state         ? [`state: ${data.state}`]               : []),
+    `level: ${data.level}`,
+    ...(data.chamber       ? [`chamber: ${data.chamber}`]           : []),
+    `office: ${data.office}`,
+    ...(data.district != null ? [`district: ${data.district}`]      : []),
+    `in_office: ${data.in_office}`,
+    ...(data.photo_url     ? [`photo_url: "${data.photo_url}"`]     : []),
+    ...(data.term_start    ? [`term_start: "${data.term_start}"`]   : []),
+    ...(data.bioguide_id   ? [`bioguide_id: ${data.bioguide_id}`]   : []),
+    ...(data.openstates_id ? [`openstates_id: ${data.openstates_id}`] : []),
+    contactLines.trimEnd(),
+    votesLines.trimEnd(),
+    `last_updated: "${data.last_updated ?? new Date().toISOString().split('T')[0]}"`,
+    '---',
+    '',
+  ].filter(line => line !== '').join('\n') + '\n'
 }
 
 function buildBillFrontmatter(data: {
@@ -576,11 +893,12 @@ function buildBillFrontmatter(data: {
   return `---\nid: ${data.id}\nslug: ${data.slug}\ntitle: "${data.title.replace(/"/g, '\\"')}"\n${data.congress ? `congress: ${data.congress}\n` : ''}${data.chamber ? `chamber: ${data.chamber}\n` : ''}status: ${data.status}\n${data.date_introduced ? `date_introduced: "${data.date_introduced}"\n` : ''}${data.sponsor_name ? `sponsor_name: "${data.sponsor_name.replace(/"/g, '\\"')}"\n` : ''}${data.summary ? `summary: "${data.summary.replace(/"/g, '\\"').replace(/\n/g, ' ')}"\n` : ''}${data.summary_source ? `summary_source: ${data.summary_source}\n` : ''}last_updated: "${data.last_updated ?? new Date().toISOString().split('T')[0]}"\n---\n`
 }
 
+// ---------------------------------------------------------------------------
+// Utility helpers
+// ---------------------------------------------------------------------------
+
 function toSlug(str: string): string {
-  return str
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
+  return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
 }
 
 function expandParty(code: string): string {
@@ -592,30 +910,31 @@ function expandParty(code: string): string {
 }
 
 function normalizeVote(position: string): string {
-  const p = position.toLowerCase()
-  if (p === 'yes' || p === 'yea') return 'Yea'
-  if (p === 'no' || p === 'nay') return 'Nay'
-  if (p === 'abstain') return 'Abstain'
-  if (p === 'not voting') return 'Not Voting'
-  return 'Absent'
+  const p = position.toLowerCase().trim()
+  if (p === 'yes' || p === 'yea' || p === 'aye')              return 'Yea'
+  if (p === 'no'  || p === 'nay')                              return 'Nay'
+  if (p === 'abstain' || p === 'present')                      return 'Present'
+  if (p === 'not voting' || p === 'not_voting' || p === 'no vote') return 'Not Voting'
+  if (p === 'excused' || p === 'absent')                       return 'Absent'
+  return 'Not Voting'
 }
 
 function mapBillStatus(latestAction: string): string {
   const a = latestAction.toLowerCase()
   if (a.includes('became public law') || a.includes('signed by president')) return 'signed'
-  if (a.includes('passed senate')) return 'passed-senate'
-  if (a.includes('passed house')) return 'passed-house'
+  if (a.includes('passed senate'))   return 'passed-senate'
+  if (a.includes('passed house'))    return 'passed-house'
   if (a.includes('reported by committee') || a.includes('ordered reported')) return 'passed-committee'
-  if (a.includes('vetoed')) return 'vetoed'
-  if (a.includes('failed')) return 'failed'
+  if (a.includes('vetoed'))  return 'vetoed'
+  if (a.includes('failed'))  return 'failed'
   return 'introduced'
 }
 
 function sleep(ms: number) {
-  return new Promise((resolve) => setTimeout(resolve, ms))
+  return new Promise(resolve => setTimeout(resolve, ms))
 }
 
-main().catch((err) => {
+main().catch(err => {
   console.error('Fatal error:', err)
   process.exit(1)
 })
