@@ -59,7 +59,7 @@ async function getRepsByLocation(lat: number, lon: number): Promise<Representati
   const result: RepresentativesByLevel = { federal: [], state: [], local: [] }
 
   if (!OPENSTATES_KEY) {
-    console.warn('No OPENSTATES_API_KEY — returning empty results')
+    console.error('OPENSTATES_API_KEY is not set — cannot look up representatives')
     return result
   }
 
@@ -70,7 +70,8 @@ async function getRepsByLocation(lat: number, lon: number): Promise<Representati
     })
 
     if (!res.ok) {
-      console.error('OpenStates geo error:', res.status, await res.text())
+      const body = await res.text()
+      console.error(`OpenStates geo error: HTTP ${res.status}`, body)
       return result
     }
 
