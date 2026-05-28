@@ -4,13 +4,13 @@ slug: tim-sheehy
 party: Republican
 state: Montana
 level: federal
-chamber: House
-office: U.S. Representative, Montana-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/677d8231fdb6cf36bbb6498b_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/677d8231fdb6cf36bbb6498b_200.jpg'
 bioguide_id: S001232
 contact:
-  website: "https://www.sheehy.senate.gov/"
-last_updated: "2026-05-27"
+  website: 'https://www.sheehy.senate.gov/'
+last_updated: '2026-05-28'
 ---
 

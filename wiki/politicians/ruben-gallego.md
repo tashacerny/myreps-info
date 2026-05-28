@@ -4,13 +4,13 @@ slug: ruben-gallego
 party: Democratic
 state: Arizona
 level: federal
-chamber: House
-office: U.S. Representative, Arizona-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/c6870f487cf4bc9a568d8afbe61d754b_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/c6870f487cf4bc9a568d8afbe61d754b_200.jpg'
 bioguide_id: G000574
 contact:
-  website: "https://www.gallego.senate.gov/"
-last_updated: "2026-05-27"
+  website: 'https://www.gallego.senate.gov/'
+last_updated: '2026-05-28'
 ---
 

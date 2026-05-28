@@ -4,13 +4,13 @@ slug: mike-crapo
 party: Republican
 state: Idaho
 level: federal
-chamber: House
-office: U.S. Representative, Idaho-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/c000880_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/c000880_200.jpg'
 bioguide_id: C000880
 contact:
-  website: "https://www.crapo.senate.gov"
-last_updated: "2026-05-27"
+  website: 'https://www.crapo.senate.gov'
+last_updated: '2026-05-28'
 ---
 

@@ -4,13 +4,13 @@ slug: john-w-hickenlooper
 party: Democratic
 state: Colorado
 level: federal
-chamber: House
-office: U.S. Representative, Colorado-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/h000273_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/h000273_200.jpg'
 bioguide_id: H000273
 contact:
-  website: "https://www.hickenlooper.senate.gov"
-last_updated: "2026-05-27"
+  website: 'https://www.hickenlooper.senate.gov'
+last_updated: '2026-05-28'
 ---
 

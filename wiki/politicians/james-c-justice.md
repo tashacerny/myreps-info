@@ -4,13 +4,13 @@ slug: james-c-justice
 party: Republican
 state: West Virginia
 level: federal
-chamber: House
-office: U.S. Representative, West Virginia-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/67c86b5e6159152e59828b1a_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/67c86b5e6159152e59828b1a_200.jpg'
 bioguide_id: J000312
 contact:
-  website: "https://www.justice.senate.gov/"
-last_updated: "2026-05-27"
+  website: 'https://www.justice.senate.gov/'
+last_updated: '2026-05-28'
 ---
 

@@ -4,13 +4,13 @@ slug: ben-ray-luj-n
 party: Democratic
 state: New Mexico
 level: federal
-chamber: House
-office: U.S. Representative, New Mexico-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/l000570_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/l000570_200.jpg'
 bioguide_id: L000570
 contact:
-  website: "https://www.lujan.senate.gov"
-last_updated: "2026-05-27"
+  website: 'https://www.lujan.senate.gov'
+last_updated: '2026-05-28'
 ---
 

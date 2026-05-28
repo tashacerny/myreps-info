@@ -4,13 +4,13 @@ slug: rand-paul
 party: Republican
 state: Kentucky
 level: federal
-chamber: House
-office: U.S. Representative, Kentucky-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/p000603_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/p000603_200.jpg'
 bioguide_id: P000603
 contact:
-  website: "https://www.paul.senate.gov"
-last_updated: "2026-05-27"
+  website: 'https://www.paul.senate.gov'
+last_updated: '2026-05-28'
 ---
 

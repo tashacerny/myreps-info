@@ -4,13 +4,13 @@ slug: john-fetterman
 party: Democratic
 state: Pennsylvania
 level: federal
-chamber: House
-office: U.S. Representative, Pennsylvania-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/f000479_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/f000479_200.jpg'
 bioguide_id: F000479
 contact:
-  website: "https://www.fetterman.senate.gov/"
-last_updated: "2026-05-27"
+  website: 'https://www.fetterman.senate.gov/'
+last_updated: '2026-05-28'
 ---
 

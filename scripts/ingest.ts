@@ -179,7 +179,10 @@ async function ingestFederalMembers() {
   console.log('📥 Fetching federal members from Congress.gov...')
 
   const CURRENT_CONGRESS = 119
-  const chambers = ['senate', 'house']
+  // Process house first, senate second — so senate data wins when Congress.gov
+  // returns the same member under both chamber queries (which happens for senators
+  // who previously served in the House during the same Congress).
+  const chambers = ['house', 'senate']
 
   for (const chamber of chambers) {
     let offset = 0

@@ -4,13 +4,13 @@ slug: john-barrasso
 party: Republican
 state: Wyoming
 level: federal
-chamber: House
-office: U.S. Representative, Wyoming-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/b001261_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/b001261_200.jpg'
 bioguide_id: B001261
 contact:
-  website: "https://www.barrasso.senate.gov"
-last_updated: "2026-05-27"
+  website: 'https://www.barrasso.senate.gov'
+last_updated: '2026-05-28'
 ---
 

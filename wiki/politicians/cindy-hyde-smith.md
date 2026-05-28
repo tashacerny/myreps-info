@@ -4,13 +4,13 @@ slug: cindy-hyde-smith
 party: Republican
 state: Mississippi
 level: federal
-chamber: House
-office: U.S. Representative, Mississippi-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/h001079_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/h001079_200.jpg'
 bioguide_id: H001079
 contact:
-  website: "https://www.hydesmith.senate.gov/"
-last_updated: "2026-05-27"
+  website: 'https://www.hydesmith.senate.gov/'
+last_updated: '2026-05-28'
 ---
 

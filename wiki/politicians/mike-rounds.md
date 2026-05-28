@@ -4,13 +4,13 @@ slug: mike-rounds
 party: Republican
 state: South Dakota
 level: federal
-chamber: House
-office: U.S. Representative, South Dakota-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/r000605_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/r000605_200.jpg'
 bioguide_id: R000605
 contact:
-  website: "https://www.rounds.senate.gov"
-last_updated: "2026-05-27"
+  website: 'https://www.rounds.senate.gov'
+last_updated: '2026-05-28'
 ---
 

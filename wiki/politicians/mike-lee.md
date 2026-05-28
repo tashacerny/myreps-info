@@ -4,13 +4,13 @@ slug: mike-lee
 party: Republican
 state: Utah
 level: federal
-chamber: House
-office: U.S. Representative, Utah-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/l000577_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/l000577_200.jpg'
 bioguide_id: L000577
 contact:
-  website: "https://www.lee.senate.gov/"
-last_updated: "2026-05-27"
+  website: 'https://www.lee.senate.gov/'
+last_updated: '2026-05-28'
 ---
 

@@ -4,13 +4,13 @@ slug: john-kennedy
 party: Republican
 state: Louisiana
 level: federal
-chamber: House
-office: U.S. Representative, Louisiana-At Large
+chamber: Senate
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.congress.gov/img/member/k000393_200.jpg"
+photo_url: 'https://www.congress.gov/img/member/k000393_200.jpg'
 bioguide_id: K000393
 contact:
-  website: "https://www.kennedy.senate.gov"
-last_updated: "2026-05-27"
+  website: 'https://www.kennedy.senate.gov'
+last_updated: '2026-05-28'
 ---
 
