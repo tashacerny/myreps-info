@@ -7,7 +7,7 @@ level: federal
 chamber: House
 office: U.S. Representative, California-9
 district: 9
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/d000222_200.jpg"
 contact:
 last_updated: "2026-05-26"

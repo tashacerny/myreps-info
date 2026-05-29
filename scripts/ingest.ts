@@ -179,6 +179,9 @@ async function ingestFederalMembers() {
   console.log('📥 Fetching federal members from Congress.gov...')
 
   const CURRENT_CONGRESS = 119
+  // Track which slugs the API returns so we can mark the rest inactive at the end.
+  const writtenSlugs = new Set<string>()
+
   // Process house first, senate second — so senate data wins when Congress.gov
   // returns the same member under both chamber queries (which happens for senators
   // who previously served in the House during the same Congress).
@@ -266,12 +269,33 @@ async function ingestFederalMembers() {
         } else {
           console.log(`  [dry] Would write ${filePath}`)
         }
+        writtenSlugs.add(slug)
 
         await sleep(250)
       }
 
       if (members.length < limit) break
       offset += limit
+    }
+  }
+
+  // Mark any federal politician no longer returned by the API as inactive.
+  if (!DRY_RUN && writtenSlugs.size > 0) {
+    const allFiles = fs.readdirSync(POLITICIANS_DIR).filter(f => f.endsWith('.md'))
+    let markedInactive = 0
+    for (const file of allFiles) {
+      const fp = path.join(POLITICIANS_DIR, file)
+      const raw = fs.readFileSync(fp, 'utf8')
+      if (!raw.includes('level: federal')) continue
+      if (!raw.includes('in_office: true')) continue
+      const slug = file.replace(/\.md$/, '')
+      if (!writtenSlugs.has(slug)) {
+        fs.writeFileSync(fp, raw.replace(/^in_office: true$/m, 'in_office: false'), 'utf8')
+        markedInactive++
+      }
+    }
+    if (markedInactive > 0) {
+      console.log(`  ✅ Marked ${markedInactive} former federal politicians as in_office: false`)
     }
   }
 }
@@ -319,6 +343,7 @@ async function ingestStateMembers() {
   for (const state of STATES) {
     let page = 1
     let maxPage = 1
+    const stateWrittenSlugs = new Set<string>()
 
     while (page <= maxPage) {
       const url = `https://v3.openstates.org/people?jurisdiction=${state}&per_page=50&page=${page}`
@@ -363,7 +388,6 @@ async function ingestStateMembers() {
 
           const slug = toSlug(member.name)
           const filePath = path.join(POLITICIANS_DIR, `${slug}.md`)
-          if (fs.existsSync(filePath)) continue
 
           const role = member.current_role
           const isUpper = role.org_classification === 'upper'
@@ -391,6 +415,7 @@ async function ingestStateMembers() {
           } else {
             console.log(`  [dry] Would write ${filePath}`)
           }
+          stateWrittenSlugs.add(slug)
         }
 
         page++
@@ -398,6 +423,28 @@ async function ingestStateMembers() {
       } catch (err) {
         console.error(`  ❌ OpenStates error for ${state.toUpperCase()} (page ${page}):`, err)
         break
+      }
+    }
+
+    // Mark state politicians for this state who weren't in the API response as inactive.
+    if (!DRY_RUN && stateWrittenSlugs.size > 0) {
+      const stateUpper = state.toUpperCase()
+      const allFiles = fs.readdirSync(POLITICIANS_DIR).filter(f => f.endsWith('.md'))
+      let markedInactive = 0
+      for (const file of allFiles) {
+        const fp = path.join(POLITICIANS_DIR, file)
+        const raw = fs.readFileSync(fp, 'utf8')
+        if (!raw.includes('level: state')) continue
+        if (!raw.includes(`state: ${stateUpper}`)) continue
+        if (!raw.includes('in_office: true')) continue
+        const slug = file.replace(/\.md$/, '')
+        if (!stateWrittenSlugs.has(slug)) {
+          fs.writeFileSync(fp, raw.replace(/^in_office: true$/m, 'in_office: false'), 'utf8')
+          markedInactive++
+        }
+      }
+      if (markedInactive > 0) {
+        console.log(`  ✅ ${stateUpper}: marked ${markedInactive} former state legislators as in_office: false`)
       }
     }
 

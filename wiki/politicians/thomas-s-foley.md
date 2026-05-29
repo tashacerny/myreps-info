@@ -7,7 +7,7 @@ level: federal
 chamber: House
 office: U.S. Representative, Washington-5
 district: 5
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/f000239_200.jpg"
 contact:
 last_updated: "2026-05-26"

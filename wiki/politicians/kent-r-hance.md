@@ -7,7 +7,7 @@ level: federal
 chamber: House
 office: U.S. Representative, Texas-19
 district: 19
-in_office: true
+in_office: false
 contact:
 last_updated: "2026-05-26"
 ---

@@ -7,7 +7,7 @@ level: federal
 chamber: House
 office: U.S. Representative, Texas-22
 district: 22
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/g000036_200.jpg"
 contact:
 last_updated: "2026-05-26"

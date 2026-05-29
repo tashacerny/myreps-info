@@ -7,7 +7,7 @@ level: federal
 chamber: House
 office: U.S. Representative, Massachusetts-4
 district: 4
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/d000499_200.jpg"
 contact:
 last_updated: "2026-05-26"

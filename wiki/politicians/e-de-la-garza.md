@@ -7,7 +7,7 @@ level: federal
 chamber: House
 office: U.S. Representative, Texas-15
 district: 15
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/d000203_200.jpg"
 contact:
 last_updated: "2026-05-26"

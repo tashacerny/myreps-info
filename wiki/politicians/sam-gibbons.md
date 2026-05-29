@@ -7,7 +7,7 @@ level: federal
 chamber: House
 office: U.S. Representative, Florida-11
 district: 11
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/g000153_200.jpg"
 contact:
 last_updated: "2026-05-26"
