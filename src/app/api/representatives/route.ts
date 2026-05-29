@@ -69,6 +69,16 @@ type Districts = {
   sldl: string | null      // state house district
 }
 
+// Census FIPS code → state abbreviation (States layer is often absent from response)
+const FIPS_TO_ABBR: Record<string, string> = {
+  '01':'AL','02':'AK','04':'AZ','05':'AR','06':'CA','08':'CO','09':'CT','10':'DE','11':'DC',
+  '12':'FL','13':'GA','15':'HI','16':'ID','17':'IL','18':'IN','19':'IA','20':'KS','21':'KY',
+  '22':'LA','23':'ME','24':'MD','25':'MA','26':'MI','27':'MN','28':'MS','29':'MO','30':'MT',
+  '31':'NE','32':'NV','33':'NH','34':'NJ','35':'NM','36':'NY','37':'NC','38':'ND','39':'OH',
+  '40':'OK','41':'OR','42':'PA','44':'RI','45':'SC','46':'SD','47':'TN','48':'TX','49':'UT',
+  '50':'VT','51':'VA','53':'WA','54':'WV','55':'WI','56':'WY',
+}
+
 async function getDistrictsFromCensus(lat: number, lon: number): Promise<Districts | null> {
   try {
     const url =
@@ -83,34 +93,36 @@ async function getDistrictsFromCensus(lat: number, lon: number): Promise<Distric
 
     const data = await res.json() as {
       result?: {
-        geographies?: {
-          States?: Array<{ STUSAB: string; NAME: string }>
-          '119th Congressional Districts'?: Array<{ CD119FP: string }>
-          'Congressional Districts'?: Array<{ CD: string; BASENAME?: string }>
-          'State Legislative Districts - Upper'?: Array<{ SLDU: string }>
-          'State Legislative Districts - Lower'?: Array<{ SLDL: string }>
-        }
+        geographies?: Record<string, Array<Record<string, string>>>
       }
     }
 
     const geos = data.result?.geographies
-    const stateData = geos?.States?.[0]
-    if (!stateData) return null
+    if (!geos) return null
 
-    // Congressional district — try 119th first, fall back to generic key
-    const cdData119 = geos?.['119th Congressional Districts']?.[0]
-    const cdDataGeneric = geos?.['Congressional Districts']?.[0]
-    const cdRaw = cdData119?.CD119FP ?? cdDataGeneric?.CD ?? null
+    // Congressional district — field is CD119 (not CD119FP)
+    const cdEntry = (geos['119th Congressional Districts'] ?? geos['Congressional Districts'])?.[0]
+    if (!cdEntry) return null
 
+    // Derive state from the congressional district's FIPS STATE field
+    const fips = cdEntry.STATE ?? ''
+    const stateAbbr = FIPS_TO_ABBR[fips]
+    if (!stateAbbr) return null
+    const stateName = STATE_ABBR_TO_NAME[stateAbbr] ?? stateAbbr
+
+    const cdRaw = cdEntry.CD119 ?? cdEntry.CD119FP ?? cdEntry.CD ?? null
     // "00" means at-large (single district state like WY, AK, etc.)
     const cd = cdRaw && cdRaw !== '00' && cdRaw !== '0' ? String(parseInt(cdRaw)) : null
 
-    const sldu = geos?.['State Legislative Districts - Upper']?.[0]?.SLDU ?? null
-    const sldl = geos?.['State Legislative Districts - Lower']?.[0]?.SLDL ?? null
+    // State legislative districts: Census prefixes keys with the year (e.g. "2024 State Legislative...")
+    const slduEntry = Object.entries(geos).find(([k]) => k.includes('Legislative Districts - Upper'))?.[1]?.[0]
+    const sldlEntry = Object.entries(geos).find(([k]) => k.includes('Legislative Districts - Lower'))?.[1]?.[0]
+    const sldu = slduEntry?.SLDU ?? null
+    const sldl = sldlEntry?.SLDL ?? null
 
     return {
-      stateAbbr: stateData.STUSAB,
-      stateName: stateData.NAME,
+      stateAbbr,
+      stateName,
       cd,
       sldu: sldu ? String(parseInt(sldu)) : null,
       sldl: sldl ? String(parseInt(sldl)) : null,
