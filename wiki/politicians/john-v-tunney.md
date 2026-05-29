@@ -6,7 +6,7 @@ state: California
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/t000410_200.jpg"
 term_start: "1973-01-03"
 contact:

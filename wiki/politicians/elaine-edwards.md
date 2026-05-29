@@ -6,7 +6,7 @@ state: Louisiana
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/d8e21f352499f4bf6c53b0bd35fec443.jpg"
 term_start: "1972-01-03"
 contact:

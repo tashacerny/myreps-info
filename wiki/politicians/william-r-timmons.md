@@ -4,14 +4,14 @@ slug: william-r-timmons
 party: Republican
 state: South Carolina
 level: federal
-chamber: House
-office: U.S. Representative, South Carolina-4
+chamber: Senate
+office: U.S. Senator
 district: 4
 in_office: true
 photo_url: "https://www.congress.gov/img/member/t000480_200.jpg"
 bioguide_id: T000480
 contact:
   website: "https://timmons.house.gov/"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 ---
 

@@ -7,7 +7,7 @@ level: federal
 chamber: Senate
 office: U.S. Senator
 district: 25
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/w000099_200.jpg"
 contact:
 last_updated: "2026-05-27"

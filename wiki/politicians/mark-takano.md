@@ -4,14 +4,14 @@ slug: mark-takano
 party: Democratic
 state: California
 level: federal
-chamber: House
-office: U.S. Representative, California-39
+chamber: Senate
+office: U.S. Senator
 district: 39
 in_office: true
 photo_url: "https://www.congress.gov/img/member/t000472_200.jpg"
 bioguide_id: T000472
 contact:
   website: "https://takano.house.gov"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 ---
 

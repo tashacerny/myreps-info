@@ -7,7 +7,7 @@ level: federal
 chamber: Senate
 office: U.S. Senator
 district: 1
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/116_rp_fl_1_gaetz_matt_200.jpg"
 contact:
   website: "https://gaetz.house.gov"

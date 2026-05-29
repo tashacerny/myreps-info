@@ -6,7 +6,7 @@ state: Nevada
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/h001041_200.jpg"
 term_start: "2011-01-03"
 contact:

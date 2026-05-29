@@ -11,7 +11,7 @@ level: federal
 chamber: Senate
 office: U.S. Senator
 district: null
-in_office: true
+in_office: false
 running_for: null
 contact:
   phone: "(202) 555-0198"

@@ -4,14 +4,14 @@ slug: adam-smith
 party: Democratic
 state: Washington
 level: federal
-chamber: House
-office: U.S. Representative, Washington-9
+chamber: Senate
+office: U.S. Senator
 district: 9
 in_office: true
 photo_url: "https://www.congress.gov/img/member/116_rp_wa_9_smith_adam_200.jpg"
 bioguide_id: S000510
 contact:
   website: "https://adamsmith.house.gov/"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 ---
 

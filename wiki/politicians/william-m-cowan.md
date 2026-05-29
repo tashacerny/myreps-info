@@ -6,7 +6,7 @@ state: Massachusetts
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/c001099_200.jpg"
 term_start: "2013-01-03"
 contact:

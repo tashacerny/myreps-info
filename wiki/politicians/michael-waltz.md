@@ -7,7 +7,7 @@ level: federal
 chamber: Senate
 office: U.S. Senator
 district: 6
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/w000823_200.jpg"
 contact:
   website: "https://waltz.house.gov"

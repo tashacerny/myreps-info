@@ -6,7 +6,7 @@ state: North Carolina
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/b000966_200.jpg"
 term_start: "1986-01-03"
 contact:

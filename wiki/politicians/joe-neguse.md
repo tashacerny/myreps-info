@@ -4,14 +4,14 @@ slug: joe-neguse
 party: Democratic
 state: Colorado
 level: federal
-chamber: House
-office: U.S. Representative, Colorado-2
+chamber: Senate
+office: U.S. Senator
 district: 2
 in_office: true
 photo_url: "https://www.congress.gov/img/member/n000191_200.jpg"
 bioguide_id: N000191
 contact:
   website: "https://neguse.house.gov/"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 ---
 

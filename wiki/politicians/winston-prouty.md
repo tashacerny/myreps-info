@@ -6,7 +6,7 @@ state: Vermont
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/922ed2ec467eeef75f25c35e556ee7f3.jpg"
 term_start: "1959-01-03"
 contact:

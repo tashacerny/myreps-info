@@ -6,7 +6,7 @@ state: New Jersey
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/l000123_200.jpg"
 term_start: "1983-01-03"
 contact:

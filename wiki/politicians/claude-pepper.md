@@ -7,7 +7,7 @@ level: federal
 chamber: Senate
 office: U.S. Senator
 district: 18
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/p000218_200.jpg"
 term_start: "1935-01-03"
 contact:

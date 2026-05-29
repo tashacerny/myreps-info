@@ -6,7 +6,7 @@ state: Idaho
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/9dbd744d77a1a1e43be8840154474856.jpg"
 term_start: "1962-01-03"
 contact:

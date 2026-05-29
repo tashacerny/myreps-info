@@ -6,7 +6,7 @@ state: Maine
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/0f072f065cbc886ea5b68b3f4303bfc3.jpg"
 term_start: "1949-01-03"
 contact:

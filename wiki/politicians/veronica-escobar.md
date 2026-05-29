@@ -4,14 +4,14 @@ slug: veronica-escobar
 party: Democratic
 state: Texas
 level: federal
-chamber: House
-office: U.S. Representative, Texas-16
+chamber: Senate
+office: U.S. Senator
 district: 16
 in_office: true
 photo_url: "https://www.congress.gov/img/member/e000299_200.jpg"
 bioguide_id: E000299
 contact:
   website: "https://escobar.house.gov"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 ---
 

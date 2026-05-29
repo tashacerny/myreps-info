@@ -11,7 +11,7 @@ level: federal
 chamber: House
 office: U.S. Representative, CA-11
 district: "CA-11"
-in_office: true
+in_office: false
 running_for: null
 contact:
   phone: "(202) 555-0177"

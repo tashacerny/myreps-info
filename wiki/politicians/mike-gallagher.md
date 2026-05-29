@@ -7,7 +7,7 @@ level: federal
 chamber: Senate
 office: U.S. Senator
 district: 8
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/115_rp_wi_8_gallagher_mike_200.jpg"
 contact:
   website: "https://gallagher.house.gov"

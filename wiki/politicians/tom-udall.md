@@ -6,7 +6,7 @@ state: New Mexico
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/u000039_200.jpg"
 term_start: "2009-01-03"
 contact:

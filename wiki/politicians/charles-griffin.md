@@ -7,7 +7,7 @@ level: federal
 chamber: Senate
 office: U.S. Senator
 district: 3
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/cfb0e279c18627d9254707f5391548cc.jpg"
 contact:
 last_updated: "2026-05-27"

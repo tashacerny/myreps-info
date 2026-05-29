@@ -6,7 +6,7 @@ state: Washington
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/j000013_200.jpg"
 term_start: "1953-01-03"
 contact:

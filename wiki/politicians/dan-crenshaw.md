@@ -4,14 +4,14 @@ slug: dan-crenshaw
 party: Republican
 state: Texas
 level: federal
-chamber: House
-office: U.S. Representative, Texas-2
+chamber: Senate
+office: U.S. Senator
 district: 2
 in_office: true
 photo_url: "https://www.congress.gov/img/member/698a13d0a7af728d4e6c2038_200.jpg"
 bioguide_id: C001120
 contact:
   website: "https://crenshaw.house.gov/"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 ---
 

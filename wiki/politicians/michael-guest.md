@@ -4,14 +4,14 @@ slug: michael-guest
 party: Republican
 state: Mississippi
 level: federal
-chamber: House
-office: U.S. Representative, Mississippi-3
+chamber: Senate
+office: U.S. Senator
 district: 3
 in_office: true
 photo_url: "https://www.congress.gov/img/member/g000591_200.jpg"
 bioguide_id: G000591
 contact:
   website: "https://guest.house.gov"
-last_updated: "2026-05-27"
+last_updated: "2026-05-29"
 ---
 

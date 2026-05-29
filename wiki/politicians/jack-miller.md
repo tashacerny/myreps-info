@@ -6,7 +6,7 @@ state: Iowa
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/https://bioguide.congress.gov/photo/7cf3669a2de8b3685ca49a0d0966cf21.jpg"
 term_start: "1961-01-03"
 contact:

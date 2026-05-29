@@ -7,10 +7,11 @@ level: federal
 chamber: Senate
 office: U.S. Senator
 in_office: true
-photo_url: 'https://www.congress.gov/img/member/f000479_200.jpg'
+photo_url: "https://www.congress.gov/img/member/f000479_200.jpg"
+term_start: "2023-01-03"
 bioguide_id: F000479
 contact:
-  website: 'https://www.fetterman.senate.gov/'
-last_updated: '2026-05-28'
+  website: "https://www.fetterman.senate.gov/"
+last_updated: "2026-05-29"
 ---
 

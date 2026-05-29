@@ -6,7 +6,7 @@ state: Arizona
 level: federal
 chamber: Senate
 office: U.S. Senator
-in_office: true
+in_office: false
 photo_url: "https://www.congress.gov/img/member/f000013_200.jpg"
 term_start: "1965-01-03"
 contact:
