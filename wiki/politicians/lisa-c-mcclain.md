@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/677836d41658e791a384976d_200.jpg
 bioguide_id: M001136
 contact:
   website: "https://mcclain.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

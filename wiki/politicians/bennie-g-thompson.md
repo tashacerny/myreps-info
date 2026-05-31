@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/t000193_200.jpg"
 bioguide_id: T000193
 contact:
   website: "https://benniethompson.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

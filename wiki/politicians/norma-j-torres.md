@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/t000474_200.jpg"
 bioguide_id: T000474
 contact:
   website: "https://torres.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/e000299_200.jpg"
 bioguide_id: E000299
 contact:
   website: "https://escobar.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

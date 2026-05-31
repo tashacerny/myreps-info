@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/677430a40b34857ecc909113_200.jpg
 bioguide_id: M001230
 contact:
   website: "https://mackenzie.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

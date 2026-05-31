@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/a000371_200.jpg"
 bioguide_id: A000371
 contact:
   website: "https://aguilar.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/115_rp_fl_2_dunn_neal_200.jpg"
 bioguide_id: D000628
 contact:
   website: "https://dunn.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

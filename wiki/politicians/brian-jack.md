@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67742e330b34857ecc9090ef_200.jpg
 bioguide_id: J000311
 contact:
   website: "https://jack.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

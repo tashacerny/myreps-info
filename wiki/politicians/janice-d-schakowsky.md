@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_il_9_schakowsky_janice_20
 bioguide_id: S001145
 contact:
   website: "https://schakowsky.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

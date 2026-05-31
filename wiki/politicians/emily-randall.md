@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67745dcf0b34857ecc909173_200.jpg
 bioguide_id: R000621
 contact:
   website: "https://randall.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

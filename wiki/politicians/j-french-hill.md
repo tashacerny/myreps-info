@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/h001072_200.jpg"
 bioguide_id: H001072
 contact:
   website: "https://hill.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

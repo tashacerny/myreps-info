@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/c001053_200.jpg"
 bioguide_id: C001053
 contact:
   website: "https://cole.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

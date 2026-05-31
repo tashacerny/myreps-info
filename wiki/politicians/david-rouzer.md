@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/r000603_200.jpg"
 bioguide_id: R000603
 contact:
   website: "https://rouzer.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

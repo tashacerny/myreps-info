@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_nc_5_foxx_virginia_200.jp
 bioguide_id: F000450
 contact:
   website: "https://foxx.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

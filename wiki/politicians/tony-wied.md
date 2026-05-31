@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/6734b6724c72e343a6aff9e6_200.jpg
 bioguide_id: W000829
 contact:
   website: "https://wied.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

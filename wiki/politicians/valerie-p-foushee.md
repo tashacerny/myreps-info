@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/68122e57246d1b6bd8d9f6ab_200.jpg
 bioguide_id: F000477
 contact:
   website: "https://foushee.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

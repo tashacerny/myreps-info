@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_oh_12_balderson_troy_200.
 bioguide_id: B001306
 contact:
   website: "https://balderson.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

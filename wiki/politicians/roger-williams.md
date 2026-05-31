@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/w000816_200.jpg"
 bioguide_id: W000816
 contact:
   website: "https://williams.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

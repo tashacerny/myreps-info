@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/677461060b34857ecc9091af_200.jpg
 bioguide_id: V000134
 contact:
   website: "https://vanduyne.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

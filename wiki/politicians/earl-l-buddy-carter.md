@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/c001103_200.jpg"
 bioguide_id: C001103
 contact:
   website: "https://buddycarter.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

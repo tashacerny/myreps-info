@@ -11,6 +11,6 @@ photo_url: "https://www.congress.gov/img/member/116_dg_vi_plaskett_stacey_200.jp
 bioguide_id: P000610
 contact:
   website: "https://plaskett.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

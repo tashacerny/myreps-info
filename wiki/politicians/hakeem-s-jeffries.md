@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/j000294_200.jpg"
 bioguide_id: J000294
 contact:
   website: "https://jeffries.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

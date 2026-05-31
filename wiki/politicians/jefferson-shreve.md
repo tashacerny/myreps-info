@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67745f0e0b34857ecc90918b_200.jpg
 bioguide_id: S001229
 contact:
   website: "https://shreve.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

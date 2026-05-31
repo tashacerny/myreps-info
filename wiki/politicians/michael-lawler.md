@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/l000599_200.jpg"
 bioguide_id: L000599
 contact:
   website: "https://lawler.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

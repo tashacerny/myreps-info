@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/115_rp_pa_5_thompson_glenn_200.j
 bioguide_id: T000467
 contact:
   website: "https://thompson.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

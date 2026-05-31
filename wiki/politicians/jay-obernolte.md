@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/o000019_200.jpg"
 bioguide_id: O000019
 contact:
   website: "https://obernolte.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

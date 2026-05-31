@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/s001199_200.jpg"
 bioguide_id: S001199
 contact:
   website: "https://smucker.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

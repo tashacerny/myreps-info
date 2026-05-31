@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/a000055_200.jpg"
 bioguide_id: A000055
 contact:
   website: "https://aderholt.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/674dfc6b5c48ff736e6e1762_200.jpg
 bioguide_id: C001067
 contact:
   website: "https://clarke.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

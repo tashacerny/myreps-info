@@ -12,6 +12,6 @@ term_start: "2013-01-03"
 bioguide_id: W000817
 contact:
   website: "https://www.warren.senate.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

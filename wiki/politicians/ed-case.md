@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/c001055_200.jpg"
 bioguide_id: C001055
 contact:
   website: "https://case.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

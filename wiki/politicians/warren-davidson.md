@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/115_rp_oh_8_davidson_warren_200.
 bioguide_id: D000626
 contact:
   website: "https://davidson.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

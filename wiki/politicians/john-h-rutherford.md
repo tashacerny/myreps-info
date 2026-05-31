@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/r000609_200.jpg"
 bioguide_id: R000609
 contact:
   website: "https://rutherford.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

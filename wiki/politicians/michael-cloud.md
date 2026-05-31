@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/115_rp_tx_27_cloud_michael_200.j
 bioguide_id: C001115
 contact:
   website: "https://cloud.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ term_start: "2007-01-03"
 bioguide_id: B001261
 contact:
   website: "https://www.barrasso.senate.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

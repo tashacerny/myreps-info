@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/680901e76c2e6631263de716_200.jpg
 bioguide_id: L000600
 contact:
   website: "https://langworthy.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

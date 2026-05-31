@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67744f970b34857ecc909161_200.jpg
 bioguide_id: O000177
 contact:
   website: "https://onder.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

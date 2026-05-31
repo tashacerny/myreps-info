@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/677425260b34857ecc90907d_200.jpg
 bioguide_id: D000635
 contact:
   website: "https://dexter.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

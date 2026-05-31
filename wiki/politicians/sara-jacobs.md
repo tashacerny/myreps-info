@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/j000305_200.jpg"
 bioguide_id: J000305
 contact:
   website: "https://sarajacobs.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

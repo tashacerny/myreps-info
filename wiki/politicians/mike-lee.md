@@ -12,6 +12,6 @@ term_start: "2011-01-03"
 bioguide_id: L000577
 contact:
   website: "https://www.lee.senate.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

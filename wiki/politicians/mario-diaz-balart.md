@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_fl_25_diazbalart_mario_20
 bioguide_id: D000600
 contact:
   website: "https://mariodiazbalart.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

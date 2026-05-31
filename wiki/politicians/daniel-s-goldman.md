@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/g000599_200.jpg"
 bioguide_id: G000599
 contact:
   website: "https://goldman.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

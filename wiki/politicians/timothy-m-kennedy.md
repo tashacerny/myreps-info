@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/668e9306658443009a697c8c_200.jpg
 bioguide_id: K000402
 contact:
   website: "https://kennedy.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

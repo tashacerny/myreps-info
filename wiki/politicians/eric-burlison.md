@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/b001316_200.jpg"
 bioguide_id: B001316
 contact:
   website: "https://burlison.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/677446860b34857ecc909119_200.jpg
 bioguide_id: M001231
 contact:
   website: "https://mannion.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

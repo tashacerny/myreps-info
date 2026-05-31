@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: B001303
 contact:
   website: "https://www.bluntrochester.senate.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

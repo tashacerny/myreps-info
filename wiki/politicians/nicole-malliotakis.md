@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/m000317_200.jpg"
 bioguide_id: M000317
 contact:
   website: "https://malliotakis.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/d000629_200.jpg"
 bioguide_id: D000629
 contact:
   website: "https://davids.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

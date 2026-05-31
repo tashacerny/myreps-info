@@ -12,6 +12,6 @@ term_start: "2009-01-03"
 bioguide_id: W000805
 contact:
   website: "https://www.warner.senate.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

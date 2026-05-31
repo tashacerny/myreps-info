@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/s001183_200.jpg"
 bioguide_id: S001183
 contact:
   website: "https://schweikert.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

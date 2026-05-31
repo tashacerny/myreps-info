@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/c001132_200.jpg"
 bioguide_id: C001132
 contact:
   website: "https://crane.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

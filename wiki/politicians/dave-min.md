@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67744ed90b34857ecc909155_200.jpg
 bioguide_id: M001241
 contact:
   website: "https://min.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

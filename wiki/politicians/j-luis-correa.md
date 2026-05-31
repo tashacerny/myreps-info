@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/115_rp_ca_46_correa_j_200.jpg"
 bioguide_id: C001110
 contact:
   website: "https://correa.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

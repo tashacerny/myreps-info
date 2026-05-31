@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_fl_23_wassermanschultz_de
 bioguide_id: W000797
 contact:
   website: "https://wassermanschultz.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

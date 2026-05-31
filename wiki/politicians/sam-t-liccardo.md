@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/6774305d0b34857ecc90910d_200.jpg
 bioguide_id: L000607
 contact:
   website: "https://liccardo.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

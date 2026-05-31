@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/s000522_200.jpg"
 bioguide_id: S000522
 contact:
   website: "https://chrissmith.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

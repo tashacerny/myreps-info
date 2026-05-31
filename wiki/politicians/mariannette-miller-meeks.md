@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/m001215_200.jpg"
 bioguide_id: M001215
 contact:
   website: "https://millermeeks.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

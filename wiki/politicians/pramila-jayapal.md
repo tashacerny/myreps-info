@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_wa_7_jayapal_pramila_200.
 bioguide_id: J000298
 contact:
   website: "https://jayapal.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

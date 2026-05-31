@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/115_rp_ca_24_carbajal_salud_200.
 bioguide_id: C001112
 contact:
   website: "https://carbajal.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/s001196_200.jpg"
 bioguide_id: S001196
 contact:
   website: "https://stefanik.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

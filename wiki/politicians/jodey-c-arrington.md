@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/115_rp_tx_19_arrington_jodey_200
 bioguide_id: A000375
 contact:
   website: "https://arrington.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

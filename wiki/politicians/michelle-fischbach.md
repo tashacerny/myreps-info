@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/f000470_200.jpg"
 bioguide_id: F000470
 contact:
   website: "https://fischbach.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

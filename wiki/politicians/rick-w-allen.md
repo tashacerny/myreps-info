@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/a000372_200.jpg"
 bioguide_id: A000372
 contact:
   website: "https://allen.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

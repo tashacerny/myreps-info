@@ -12,6 +12,6 @@ term_start: "1999-01-03"
 bioguide_id: C000880
 contact:
   website: "https://www.crapo.senate.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/t000482_200.jpg"
 bioguide_id: T000482
 contact:
   website: "https://trahan.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/w000822_200.jpg"
 bioguide_id: W000822
 contact:
   website: "https://watsoncoleman.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

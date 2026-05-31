@@ -12,6 +12,6 @@ term_start: "2013-01-03"
 bioguide_id: C001098
 contact:
   website: "https://www.cruz.senate.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

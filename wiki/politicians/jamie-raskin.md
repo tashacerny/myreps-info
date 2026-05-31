@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/r000606_200.jpg"
 bioguide_id: R000606
 contact:
   website: "https://raskin.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

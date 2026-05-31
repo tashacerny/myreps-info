@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/6774207d0b34857ecc909034_200.jpg
 bioguide_id: B001321
 contact:
   website: "https://barrett.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

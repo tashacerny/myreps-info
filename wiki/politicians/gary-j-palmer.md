@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/p000609_200.jpg"
 bioguide_id: P000609
 contact:
   website: "https://palmer.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

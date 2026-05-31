@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/e000297_200.jpg"
 bioguide_id: E000297
 contact:
   website: "https://espaillat.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

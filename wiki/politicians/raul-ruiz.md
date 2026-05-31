@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/66e1aec832c796cea99fe06f_200.jpg
 bioguide_id: R000599
 contact:
   website: "https://ruiz.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

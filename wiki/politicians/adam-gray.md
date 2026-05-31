@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67742a160b34857ecc9090bf_200.jpg
 bioguide_id: G000605
 contact:
   website: "https://gray.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/f000462_200.jpg"
 bioguide_id: F000462
 contact:
   website: "https://frankel.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

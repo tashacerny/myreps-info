@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/671024d7ec807bca66057fcb_200.jpg
 bioguide_id: L000397
 contact:
   website: "https://lofgren.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

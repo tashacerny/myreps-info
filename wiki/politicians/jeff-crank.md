@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/677424810b34857ecc909071_200.jpg
 bioguide_id: C001137
 contact:
   website: "https://crank.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

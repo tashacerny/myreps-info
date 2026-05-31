@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/66d9fd54f440bf1dc174fbf6_200.jpg
 bioguide_id: D000594
 contact:
   website: "https://delacruz.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

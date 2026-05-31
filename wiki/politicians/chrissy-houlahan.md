@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/681bc0e6b763f94d6e471f50_200.jpg
 bioguide_id: H001085
 contact:
   website: "https://houlahan.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

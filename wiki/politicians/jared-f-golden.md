@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/g000592_200.jpg"
 bioguide_id: G000592
 contact:
   website: "https://golden.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/v000135_200.jpg"
 bioguide_id: V000135
 contact:
   website: "https://vanorden.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

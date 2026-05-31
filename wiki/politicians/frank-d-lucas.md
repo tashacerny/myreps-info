@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_ok_3_lucas_frank_200.jpg"
 bioguide_id: L000491
 contact:
   website: "https://lucas.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

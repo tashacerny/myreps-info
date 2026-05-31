@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_ca_38_snchez_linda_200.jp
 bioguide_id: S001156
 contact:
   website: "https://lindasanchez.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

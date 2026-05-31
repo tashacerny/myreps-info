@@ -11,6 +11,6 @@ photo_url: "https://www.congress.gov/img/member/j000301_200.jpg"
 bioguide_id: J000301
 contact:
   website: "https://dustyjohnson.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

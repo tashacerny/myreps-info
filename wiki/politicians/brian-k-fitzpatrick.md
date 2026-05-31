@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_pa_1_fitzpatrick_brian_20
 bioguide_id: F000466
 contact:
   website: "https://fitzpatrick.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ term_start: "2003-01-03"
 bioguide_id: G000359
 contact:
   website: "https://www.lgraham.senate.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

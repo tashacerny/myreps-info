@@ -11,6 +11,6 @@ in_office: true
 photo_url: "https://www.congress.gov/img/member/69eb9743277642362f6112ce_200.jpg"
 bioguide_id: M001246
 contact:
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

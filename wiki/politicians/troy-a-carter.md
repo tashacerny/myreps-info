@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/c001125_200.jpg"
 bioguide_id: C001125
 contact:
   website: "https://troycarter.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

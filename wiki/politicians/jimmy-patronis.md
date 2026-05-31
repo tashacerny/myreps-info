@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67efdb991b05a5a598f7fde9_200.jpg
 bioguide_id: P000622
 contact:
   website: "https://patronis.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

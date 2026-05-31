@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/s001216_200.jpg"
 bioguide_id: S001216
 contact:
   website: "https://schrier.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

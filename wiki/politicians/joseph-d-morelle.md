@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67ffc962f22eaf56065817bb_200.jpg
 bioguide_id: M001206
 contact:
   website: "https://morelle.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

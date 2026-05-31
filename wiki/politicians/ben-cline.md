@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/69825a92eb30d32718993747_200.jpg
 bioguide_id: C001118
 contact:
   website: "https://cline.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

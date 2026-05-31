@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/6807d8d63e52ea7df920ef05_200.jpg
 bioguide_id: C001123
 contact:
   website: "https://cisneros.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

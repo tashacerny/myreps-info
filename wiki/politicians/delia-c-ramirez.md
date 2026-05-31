@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/684c2356333714e4aee2e1fd_200.jpg
 bioguide_id: R000617
 contact:
   website: "https://ramirez.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

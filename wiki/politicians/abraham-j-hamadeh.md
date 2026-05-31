@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67742a6f0b34857ecc9090c5_200.jpg
 bioguide_id: H001098
 contact:
   website: "https://hamadeh.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

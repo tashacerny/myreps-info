@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/117_rp_ma_2_mcgovern_james_200.j
 bioguide_id: M000312
 contact:
   website: "https://mcgovern.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

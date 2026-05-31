@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_tn_8_kustoff_david_200.jp
 bioguide_id: K000392
 contact:
   website: "https://kustoff.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

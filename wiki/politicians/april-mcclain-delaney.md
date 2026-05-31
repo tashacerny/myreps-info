@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/677446d80b34857ecc90911f_200.jpg
 bioguide_id: M001232
 contact:
   website: "https://mcclaindelaney.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

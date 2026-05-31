@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67745f940b34857ecc909197_200.jpg
 bioguide_id: S001231
 contact:
   website: "https://simon.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67742fc60b34857ecc909101_200.jpg
 bioguide_id: K000405
 contact:
   website: "https://knott.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

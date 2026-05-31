@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/v000081_200.jpg"
 bioguide_id: V000081
 contact:
   website: "https://velazquez.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

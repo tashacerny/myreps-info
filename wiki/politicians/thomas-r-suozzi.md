@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_ny_3_suozzi_thomas_200.jp
 bioguide_id: S001201
 contact:
   website: "https://suozzi.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

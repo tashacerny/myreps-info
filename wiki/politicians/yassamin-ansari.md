@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/67741fc30b34857ecc90902e_200.jpg
 bioguide_id: A000381
 contact:
   website: "https://ansari.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/116_rp_mo_5_cleaver_emanuel_200.
 bioguide_id: C001061
 contact:
   website: "https://cleaver.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

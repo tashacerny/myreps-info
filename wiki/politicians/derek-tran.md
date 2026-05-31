@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/6774606d0b34857ecc9091a9_200.jpg
 bioguide_id: T000491
 contact:
   website: "https://tran.house.gov/"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 

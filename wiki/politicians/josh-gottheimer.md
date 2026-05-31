@@ -12,6 +12,6 @@ photo_url: "https://www.congress.gov/img/member/115_rp_nj_5_gottheimer_josh_200.
 bioguide_id: G000583
 contact:
   website: "https://gottheimer.house.gov"
-last_updated: "2026-05-29"
+last_updated: "2026-05-31"
 ---
 
