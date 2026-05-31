@@ -25,9 +25,12 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ federal: [], state: [], local: [] })
     }
 
-    // Step 3: Look up politicians from the local wiki — zero external API calls
-    const reps = await lookupRepsFromWiki(districts)
-    return NextResponse.json(reps)
+    // Step 3: Wiki lookup + Google Civic local officials run in parallel
+    const [reps, local] = await Promise.all([
+      lookupRepsFromWiki(districts),
+      fetchLocalReps(zip),
+    ])
+    return NextResponse.json({ ...reps, local })
   } catch (err) {
     console.error('Representatives API error:', err)
     return NextResponse.json(
@@ -202,6 +205,74 @@ async function lookupRepsFromWiki(districts: Districts): Promise<Representatives
   }
 
   return { federal, state, local: [] }
+}
+
+// ---------------------------------------------------------------------------
+// Step 3b: Local officials via Google Civic Information API
+// ---------------------------------------------------------------------------
+
+type GoogleCivicResponse = {
+  offices?: Array<{
+    name: string
+    levels?: string[]
+    officialIndices: number[]
+  }>
+  officials?: Array<{
+    name: string
+    party?: string
+    photoUrl?: string
+    urls?: string[]
+    phones?: string[]
+  }>
+}
+
+async function fetchLocalReps(zip: string): Promise<Representative[]> {
+  const key = process.env.GOOGLE_CIVIC_API_KEY
+  if (!key) return []
+
+  try {
+    const levels = ['locality', 'administrativeArea2', 'special']
+      .map(l => `levels=${l}`)
+      .join('&')
+    const url = `https://civicinfo.googleapis.com/civicinfo/v2/representatives?address=${zip}&${levels}&key=${key}`
+
+    const res = await fetch(url)
+    if (!res.ok) return []
+
+    const data = await res.json() as GoogleCivicResponse
+    const officials = data.officials ?? []
+    const result: Representative[] = []
+
+    for (const office of data.offices ?? []) {
+      for (const idx of office.officialIndices) {
+        const official = officials[idx]
+        if (!official) continue
+        result.push({
+          name: official.name,
+          party: normalizeGoogleParty(official.party),
+          office: office.name,
+          level: 'local',
+          photo_url: official.photoUrl,
+          website: official.urls?.[0],
+        })
+      }
+    }
+    return result
+  } catch {
+    return []
+  }
+}
+
+function normalizeGoogleParty(party: string | undefined): string {
+  if (!party) return 'Unknown'
+  const p = party.toLowerCase()
+  if (p.includes('democrat')) return 'Democrat'
+  if (p.includes('republican')) return 'Republican'
+  if (p.includes('independent')) return 'Independent'
+  if (p.includes('libertarian')) return 'Libertarian'
+  if (p.includes('green')) return 'Green'
+  if (p === 'nonpartisan') return 'Nonpartisan'
+  return party
 }
 
 function toRep(p: Awaited<ReturnType<typeof getAllPoliticians>>[number]): Representative {
