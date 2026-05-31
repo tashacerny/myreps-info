@@ -4,11 +4,12 @@ slug: ayanna-pressley
 party: Democratic
 state: Massachusetts
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Massachusetts-7
 district: 7
 in_office: true
 photo_url: "https://www.congress.gov/img/member/p000617_200.jpg"
+term_start: "2019-01-03"
 bioguide_id: P000617
 contact:
   website: "https://pressley.house.gov"

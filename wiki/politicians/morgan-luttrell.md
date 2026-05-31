@@ -4,11 +4,12 @@ slug: morgan-luttrell
 party: Republican
 state: Texas
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Texas-8
 district: 8
 in_office: true
 photo_url: "https://www.congress.gov/img/member/l000603_200.jpg"
+term_start: "2023-01-03"
 bioguide_id: L000603
 contact:
   website: "https://luttrell.house.gov"

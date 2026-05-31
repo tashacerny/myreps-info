@@ -4,11 +4,12 @@ slug: mike-flood
 party: Republican
 state: Nebraska
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Nebraska-1
 district: 1
 in_office: true
 photo_url: "https://www.congress.gov/img/member/67b4de4a61bd80d04553b0a5_200.jpg"
+term_start: "2022-01-03"
 bioguide_id: F000474
 contact:
   website: "https://flood.house.gov/"

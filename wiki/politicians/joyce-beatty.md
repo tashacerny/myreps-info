@@ -4,11 +4,12 @@ slug: joyce-beatty
 party: Democratic
 state: Ohio
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Ohio-3
 district: 3
 in_office: true
 photo_url: "https://www.congress.gov/img/member/b001281_200.jpg"
+term_start: "2013-01-03"
 bioguide_id: B001281
 contact:
   website: "https://beatty.house.gov"

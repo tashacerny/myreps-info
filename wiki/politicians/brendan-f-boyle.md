@@ -4,11 +4,12 @@ slug: brendan-f-boyle
 party: Democratic
 state: Pennsylvania
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Pennsylvania-2
 district: 2
 in_office: true
 photo_url: "https://www.congress.gov/img/member/69b30d648b7b84825b02d362_200.jpg"
+term_start: "2015-01-03"
 bioguide_id: B001296
 contact:
   website: "https://boyle.house.gov/"

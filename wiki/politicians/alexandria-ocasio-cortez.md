@@ -4,11 +4,12 @@ slug: alexandria-ocasio-cortez
 party: Democratic
 state: New York
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, New York-14
 district: 14
 in_office: true
 photo_url: "https://www.congress.gov/img/member/o000172_200.jpg"
+term_start: "2019-01-03"
 bioguide_id: O000172
 contact:
   website: "https://ocasio-cortez.house.gov/"

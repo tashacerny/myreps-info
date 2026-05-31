@@ -4,11 +4,12 @@ slug: april-mcclain-delaney
 party: Democratic
 state: Maryland
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Maryland-6
 district: 6
 in_office: true
 photo_url: "https://www.congress.gov/img/member/677446d80b34857ecc90911f_200.jpg"
+term_start: "2025-01-03"
 bioguide_id: M001232
 contact:
   website: "https://mcclaindelaney.house.gov/"

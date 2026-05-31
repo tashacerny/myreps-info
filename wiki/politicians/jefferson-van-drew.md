@@ -4,11 +4,12 @@ slug: jefferson-van-drew
 party: Republican
 state: New Jersey
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, New Jersey-2
 district: 2
 in_office: true
 photo_url: "https://www.congress.gov/img/member/67c0c39d53fe81a4b3c0cac1_200.jpg"
+term_start: "2019-01-03"
 bioguide_id: V000133
 contact:
   website: "https://vandrew.house.gov"

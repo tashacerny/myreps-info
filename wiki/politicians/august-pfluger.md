@@ -4,11 +4,12 @@ slug: august-pfluger
 party: Republican
 state: Texas
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Texas-11
 district: 11
 in_office: true
 photo_url: "https://www.congress.gov/img/member/p000048_200.jpg"
+term_start: "2021-01-03"
 bioguide_id: P000048
 contact:
   website: "https://pfluger.house.gov"

@@ -4,11 +4,12 @@ slug: kim-schrier
 party: Democratic
 state: Washington
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Washington-8
 district: 8
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s001216_200.jpg"
+term_start: "2019-01-03"
 bioguide_id: S001216
 contact:
   website: "https://schrier.house.gov"

@@ -4,11 +4,12 @@ slug: john-b-larson
 party: Democratic
 state: Connecticut
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Connecticut-1
 district: 1
 in_office: true
 photo_url: "https://www.congress.gov/img/member/l000557_200.jpg"
+term_start: "1999-01-03"
 bioguide_id: L000557
 contact:
   website: "https://larson.house.gov/"

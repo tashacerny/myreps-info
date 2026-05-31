@@ -4,11 +4,12 @@ slug: randy-k-sr-weber
 party: Republican
 state: Texas
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Texas-14
 district: 14
 in_office: true
 photo_url: "https://www.congress.gov/img/member/w000814_200.jpg"
+term_start: "2013-01-03"
 bioguide_id: W000814
 contact:
   website: "https://weber.house.gov"

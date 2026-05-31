@@ -4,11 +4,12 @@ slug: w-gregory-steube
 party: Republican
 state: Florida
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Florida-17
 district: 17
 in_office: true
 photo_url: "https://www.congress.gov/img/member/s001214_200.jpg"
+term_start: "2019-01-03"
 bioguide_id: S001214
 contact:
   website: "https://steube.house.gov/"

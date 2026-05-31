@@ -4,11 +4,12 @@ slug: mike-collins
 party: Republican
 state: Georgia
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Georgia-10
 district: 10
 in_office: true
 photo_url: "https://www.congress.gov/img/member/c001129_200.jpg"
+term_start: "2023-01-03"
 bioguide_id: C001129
 contact:
   website: "https://collins.house.gov"

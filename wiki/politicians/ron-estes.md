@@ -4,11 +4,12 @@ slug: ron-estes
 party: Republican
 state: Kansas
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Kansas-4
 district: 4
 in_office: true
 photo_url: "https://www.congress.gov/img/member/e000298_200.jpg"
+term_start: "2017-01-03"
 bioguide_id: E000298
 contact:
   website: "https://estes.house.gov/"

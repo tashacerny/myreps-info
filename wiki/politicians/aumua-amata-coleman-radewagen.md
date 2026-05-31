@@ -4,10 +4,11 @@ slug: aumua-amata-coleman-radewagen
 party: Republican
 state: American Samoa
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, American Samoa-At Large
 in_office: true
 photo_url: "https://www.congress.gov/img/member/r000600_200.jpg"
+term_start: "2015-01-03"
 bioguide_id: R000600
 contact:
   website: "https://radewagen.house.gov"

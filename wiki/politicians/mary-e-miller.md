@@ -4,11 +4,12 @@ slug: mary-e-miller
 party: Republican
 state: Illinois
 level: federal
-chamber: Senate
-office: U.S. Senator
+chamber: House
+office: U.S. Representative, Illinois-15
 district: 15
 in_office: true
 photo_url: "https://www.congress.gov/img/member/m001211_200.jpg"
+term_start: "2021-01-03"
 bioguide_id: M001211
 contact:
   website: "https://marymiller.house.gov"
