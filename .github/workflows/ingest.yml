@@ -65,7 +65,7 @@ jobs:
           git config user.name "myreps-bot"
           git config user.email "bot@myreps.info"
           git add wiki/politicians/
-          git diff --staged --quiet || (git commit -m "chore: state members update $(date -u +%Y-%m-%d)" && git pull --rebase && git push)
+          git diff --staged --quiet || (git commit -m "chore: state members update $(date -u +%Y-%m-%d)" && git pull --rebase -X theirs && git push)
 
   ingest-bills:
     needs: ingest-federal
@@ -123,4 +123,4 @@ jobs:
           git config user.name "myreps-bot"
           git config user.email "bot@myreps.info"
           git add wiki/politicians/
-          git diff --staged --quiet || (git commit -m "chore: votes update $(date -u +%Y-%m-%d)" && git pull --rebase && git push)
+          git diff --staged --quiet || (git commit -m "chore: votes update $(date -u +%Y-%m-%d)" && git pull --rebase -X theirs && git push)
