@@ -235,9 +235,18 @@ async function ingestFederalMembers() {
         let detail: Awaited<ReturnType<typeof fetchCongressMemberDetail>> = null
         try { detail = await fetchCongressMemberDetail(member.bioguideId) } catch { /* skip */ }
 
-        const termStart = member.terms?.item?.find(t =>
-          t.chamber.toLowerCase() === chamber
-        )?.startYear
+        // Use the member's active (no endYear) term to determine their actual current
+        // chamber. Congress.gov sometimes returns members in both chamber queries, so
+        // relying on the loop variable causes House members to be overwritten as Senate.
+        const activeTerm = member.terms?.item
+          ?.filter(t => !t.endYear)
+          ?.sort((a, b) => (b.startYear ?? 0) - (a.startYear ?? 0))[0]
+        const termChamberStr = activeTerm?.chamber?.toLowerCase() ?? ''
+        const actualChamber = termChamberStr.includes('senate') ? 'senate'
+          : termChamberStr.includes('house') ? 'house'
+          : chamber
+        const chamberLabel = actualChamber === 'senate' ? 'Senate' : 'House'
+        const termStart = activeTerm?.startYear
 
         const frontmatter = buildPoliticianFrontmatter({
           name,
@@ -245,11 +254,11 @@ async function ingestFederalMembers() {
           party: member.partyName,
           state: member.state,
           level: 'federal',
-          chamber: chamber === 'senate' ? 'Senate' : 'House',
-          office: chamber === 'senate'
+          chamber: chamberLabel,
+          office: chamberLabel === 'Senate'
             ? 'U.S. Senator'
             : `U.S. Representative, ${member.state}-${member.district ?? 'At Large'}`,
-          district: member.district?.toString() ?? null,
+          district: chamberLabel === 'House' ? (member.district?.toString() ?? null) : null,
           in_office: true,
           photo_url: member.depiction?.imageUrl,
           contact: {
@@ -402,6 +411,7 @@ async function ingestStateMembers() {
             level: 'state',
             chamber: chamberName,
             office,
+            district: role.district ?? null,
             in_office: true,
             birthdate: member.birth_date || undefined,
             photo_url: member.image || undefined,
