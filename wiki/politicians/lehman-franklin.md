@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 160
+district: 160
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/franklin-lehman-5053.jpg"
 contact:

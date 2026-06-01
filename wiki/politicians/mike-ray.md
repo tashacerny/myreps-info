@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 40
+district: 40
 in_office: true
 photo_url: "https://d34zq6icsxu12y.cloudfront.net/assets/uploads/Mike%20Ray%20%20%20%20D%20Ray%20%20%20%20Maine.png"
 contact:

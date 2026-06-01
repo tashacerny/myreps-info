@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{87402198-6E85-4CFE-BDD2-B9DC58948869}.jpg"
 contact:

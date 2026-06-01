@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 31
+district: 31
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Goss-Reaves_mainlist.png"
 contact:

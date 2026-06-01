@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: Senate
 office: NJ State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/timberlake_britnee_2018.jpg"
 contact:

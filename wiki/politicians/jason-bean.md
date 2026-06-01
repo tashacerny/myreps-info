@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 25
+district: 25
 in_office: true
 photo_url: "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Bean-200x300.jpg"
 contact:

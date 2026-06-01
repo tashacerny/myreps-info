@@ -7,6 +7,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/MIRANDA.jpg"
 contact:

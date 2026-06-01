@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 43
+district: Hillsborough
 in_office: true
 photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/candidate-images/PaulDargie.jpg?itok=ss_z_Alb"
 contact:

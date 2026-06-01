@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: Senate
 office: KS State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://www.kslegislature.gov/li/s/images/pics/sen_owens_stephen_1.jpg"
 contact:

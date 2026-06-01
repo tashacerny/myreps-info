@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 36
+district: 36
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/hershey.jpg"
 contact:

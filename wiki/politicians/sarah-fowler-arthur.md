@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 99
+district: 99
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/sarah-fowler-arthur/headshots/thumbnails/medium/sarah-fowler-arthur-february-2023-headshot_medium.jpg"
 contact:

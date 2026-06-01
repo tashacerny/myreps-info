@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 41
+district: 41
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SGADM.jpg"
 contact:

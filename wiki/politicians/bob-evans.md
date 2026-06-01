@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 91
+district: 91
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/evans_(91st).jpg"
 contact:

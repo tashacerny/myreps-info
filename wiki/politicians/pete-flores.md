@@ -6,6 +6,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://senate.texas.gov/members/d24/img/Flores_86-0634D-001-web.jpg"
 contact:

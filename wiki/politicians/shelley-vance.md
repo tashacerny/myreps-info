@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 34
+district: 34
 in_office: true
 contact:
   website: "https://openstates.org/person/shelley-vance-1TPjZ3kPrQTJZ3Y8Rxd576/"

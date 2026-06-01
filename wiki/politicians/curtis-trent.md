@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 20
+district: 20
 in_office: true
 contact:
   website: "https://openstates.org/person/curtis-trent-61PTpG9taPXEBAsQMADXaa/"

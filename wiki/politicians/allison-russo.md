@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 7
+district: 7
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/c-allison-russo/headshots/thumbnails/medium/c-allison-russo-january-2021-headshot_medium.jpg"
 contact:

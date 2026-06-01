@@ -6,6 +6,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 3
+district: 3
 in_office: true
 contact:
   website: "https://openstates.org/person/heather-simmons-2qCtUgr1hUksjT7uIlB9AJ/"

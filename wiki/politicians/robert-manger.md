@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 101
+district: 101
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Manger,%20Robert.jpg"
 contact:

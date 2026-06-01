@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 61
+district: 61
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Bolton_61.png"
 contact:

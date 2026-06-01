@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 43
+district: 43
 in_office: true
 photo_url: "https://cdn.zephyrcms.com/78226b9f-d4ad-4d02-8f18-d1bc45ce3c44/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/maxwell-website.jpg"
 contact:

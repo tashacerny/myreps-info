@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://ctsenaterepublicans.com/wp-content/uploads/2020/12/HeatherHeadshot-e1608139012865.jpg"
 contact:

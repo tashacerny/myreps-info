@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 73
+district: 73
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/bonner-josh-4893.jpg"
 contact:

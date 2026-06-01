@@ -7,6 +7,7 @@ state: HI
 level: state
 chamber: Senate
 office: HI State Senate, District 24
+district: 24
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/keohokalole.jpg"
 contact:

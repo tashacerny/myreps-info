@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 32
+district: 32
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Hansen.Alexis.366.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/neron/PublishingImages/member_photo.jpg"
 contact:

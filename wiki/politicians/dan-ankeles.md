@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 100
+district: 100
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/4ce09159-182e-48aa-93cb-0c127b0abe7c_ANKELES.jpg"
 contact:

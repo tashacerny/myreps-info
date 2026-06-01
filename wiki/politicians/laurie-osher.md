@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 25
+district: 25
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/62af6ace-cea8-45d3-b863-ada1f65c3a25_Osher.jpg"
 contact:

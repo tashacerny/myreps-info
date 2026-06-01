@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 28
+district: 28
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Butler_28.png"
 contact:

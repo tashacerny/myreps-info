@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 52
+district: 52
 in_office: true
 photo_url: "https://lakeandsumterstyle.com/wp-content/uploads/2025/09/548330102_10238294438960625_7665889559183237490_n-e1758302240695-1200x730.jpg"
 contact:

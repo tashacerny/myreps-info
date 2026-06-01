@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 30
+district: 30
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Kirt%2C%20Julia%202023%20Flags%20S.jpg"
 contact:

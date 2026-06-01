@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 58
+district: 58
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/levy/PublishingImages/member_photo.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 40
+district: 40
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Hicks%2C%20Carri%20Flags%202022.jpg"
 contact:

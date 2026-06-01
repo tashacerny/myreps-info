@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 12
+district: 12
 in_office: true
 contact:
   website: "https://openstates.org/person/wendy-mckamey-4MnWveOzJqATnCWoTu4Y48/"

@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 1
+district: 1
 in_office: true
 photo_url: "http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s01_4804.jpg"
 contact:

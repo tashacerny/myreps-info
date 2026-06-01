@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/ef1b37a7-5997-414d-9ae4-6f38e8f619d8_haggdg.jpg"
 contact:

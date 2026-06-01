@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Grafton 2
+district: Grafton
 in_office: true
 photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2022-10/jared-sullivan.jpg?itok=-ZrM4eNJ"
 contact:

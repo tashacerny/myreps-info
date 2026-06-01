@@ -7,6 +7,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 53
+district: 53
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/620_sm.jpg"
 contact:

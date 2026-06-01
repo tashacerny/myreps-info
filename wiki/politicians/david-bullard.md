@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Bullard_David.jpg"
 contact:

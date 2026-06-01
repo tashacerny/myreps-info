@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Orange
+district: Orange
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Hart,Lawrence.jpg"
 contact:

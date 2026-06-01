@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 61
+district: 61
 in_office: true
 photo_url: "https://www.senate.mn/graphics/61Dibble.jpg"
 contact:

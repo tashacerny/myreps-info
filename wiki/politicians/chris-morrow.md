@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Windham-Windsor-Bennington
+district: Windham
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Morrow,Chris.jpg"
 contact:

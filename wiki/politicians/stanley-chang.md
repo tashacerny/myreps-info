@@ -7,6 +7,7 @@ state: HI
 level: state
 chamber: Senate
 office: HI State Senate, District 9
+district: 9
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/schang.jpg"
 contact:

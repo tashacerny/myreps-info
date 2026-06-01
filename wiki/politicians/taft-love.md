@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: Senate
 office: WY State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-LoveTaft.jpg"
 contact:

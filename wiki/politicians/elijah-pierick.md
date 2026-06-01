@@ -7,6 +7,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 39
+district: 39
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Pierick.jpg"
 contact:

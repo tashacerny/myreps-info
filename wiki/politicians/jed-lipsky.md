@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Lamoille-1
+district: Lamoille
 in_office: true
 photo_url: "https://bloximages.chicago2.vip.townnews.com/vtcng.com/content/tncms/assets/v3/editorial/b/61/b61c72f4-e286-11ec-823a-9b701652a585/6298d426f0838.image.jpg?resize=375%2C500"
 contact:

@@ -6,6 +6,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 29
+district: 29
 in_office: true
 photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Bush.jpg"
 contact:

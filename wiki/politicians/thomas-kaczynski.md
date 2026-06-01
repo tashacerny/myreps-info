@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Strafford 5
+district: Strafford
 in_office: true
 photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/candidate-images/tkaczynskisth22.jpg"
 contact:

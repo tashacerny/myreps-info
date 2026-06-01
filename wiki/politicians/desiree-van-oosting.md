@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 36
+district: 36
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgQlKUMR3p-uneRcuoLPMxOOnOdNKtaUbkA&s"
 contact:

@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 99
+district: 99
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/099/headshot/099.jpg?hst=1672570603"
 contact:

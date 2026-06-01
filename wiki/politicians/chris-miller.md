@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 101
+district: 101
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{2A519012-9070-494B-9FFC-C2646374202E}.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 97
+district: 97
 in_office: true
 contact:
   website: "https://openstates.org/person/aletia-timmons-5961HWkQqKpvrz5jafOKk6/"

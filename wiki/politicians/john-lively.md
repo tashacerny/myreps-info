@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 7
+district: 7
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/lively/PublishingImages/member_photo.jpg"
 contact:

@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Chesteen_29.png"
 contact:

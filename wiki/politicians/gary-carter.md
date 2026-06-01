@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen7.jpg"
 contact:

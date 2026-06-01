@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 42
+district: 42
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/west02.jpg"
 contact:

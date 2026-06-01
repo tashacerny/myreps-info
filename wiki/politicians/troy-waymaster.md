@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 109
+district: 109
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_waymaster_troy_1.jpg"
 contact:

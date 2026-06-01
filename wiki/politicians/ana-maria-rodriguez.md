@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 40
+district: 40
 in_office: true
 photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s40_5379.jpg"
 contact:

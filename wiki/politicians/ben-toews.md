@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Toews7795.jpg"
 contact:

@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 16
+district: 16
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Culp_Main_List.jpg"
 contact:

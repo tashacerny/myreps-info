@@ -6,6 +6,7 @@ state: IA
 level: state
 chamber: House
 office: IA State House, District 23
+district: 23
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27020"
 contact:

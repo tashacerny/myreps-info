@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: House
 office: ID State House, District 28A
+district: 28A
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/directory/Cheatum7812.jpg"
 contact:

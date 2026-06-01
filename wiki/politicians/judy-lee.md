@@ -7,6 +7,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/jlee2023.jpg?itok=Om_GrVrc"
 contact:

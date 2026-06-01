@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 18
+district: 18
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/butler_jim.jpg"
 contact:

@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Addison-4
+district: Addison
 in_office: true
 photo_url: "https://addisonindymediaoffload.s3.amazonaws.com/wp-content/uploads/2024/05/30094825/Herb-Olsen-at-Ilsley.jpg"
 contact:

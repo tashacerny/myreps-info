@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 28
+district: 28
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSorGMaPu0r-cmKNo0wUJlamXWmBuybfdPUA&s"
 contact:

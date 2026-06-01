@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 50
+district: 50
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/810/Low"
 contact:

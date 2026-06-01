@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: Senate
 office: RI State Senate, District 24
+district: 24
 in_office: true
 photo_url: "http://www.rilegislature.gov/Senators/Pictures/murray.jpg"
 openstates_id: ocd-person/e7d41b59-5619-4a67-a1ec-221fdc24e6c3

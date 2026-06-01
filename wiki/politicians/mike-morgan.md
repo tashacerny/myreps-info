@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Grand Isle-Chittenden
+district: Grand
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Morgan,Michael.jpg"
 contact:

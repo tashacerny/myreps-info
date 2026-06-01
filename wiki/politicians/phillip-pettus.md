@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 1
+district: 1
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Pettus_1.png"
 contact:

@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: Senate
 office: RI State Senate, District 36
+district: 36
 in_office: true
 photo_url: "https://www.rilegislature.gov/senators/pictures/dimario.jpg"
 openstates_id: ocd-person/9dbec823-aab4-40bb-a26a-e51a896dcc1f

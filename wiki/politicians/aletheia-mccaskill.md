@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 44B
+district: 44B
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/mccaskill01.jpg"
 contact:

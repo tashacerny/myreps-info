@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/zmyriemainheadimage_0.jpg?itok=O2-EZTeD"
 contact:

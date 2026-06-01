@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 98
+district: 98
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Bracy_98.png"
 contact:

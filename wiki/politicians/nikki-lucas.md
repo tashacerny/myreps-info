@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 60
+district: 60
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/060/headshot/060.jpg?hst=1660073727"
 contact:

@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: Senate
 office: CO State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2hTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7e5bc18c718b71be8507a78ac7fd5c9f047b70ae/Baisley,%20Mark.jpg"
 contact:

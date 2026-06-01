@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Cape and Islands
+district: Cape
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/JAC0.jpg"
 contact:

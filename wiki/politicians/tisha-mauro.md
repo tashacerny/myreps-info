@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 46
+district: 46
 in_office: true
 photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlJUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c083d9d0c61aec511c97d0802cd5873416f901d9/Mauro,%20Tisha.jpg"
 contact:

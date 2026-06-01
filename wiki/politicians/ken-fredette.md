@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 33
+district: 33
 in_office: true
 contact:
   website: "https://openstates.org/person/ken-fredette-rRaAA2Ac9VC3n2Ff3cBIh/"

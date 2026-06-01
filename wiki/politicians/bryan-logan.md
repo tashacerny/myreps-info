@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://nondoc.com/wp-content/uploads/2025/05/Bryan-Logan-mug-cropped-640x373.jpg"
 contact:

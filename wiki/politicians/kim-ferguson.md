@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 1st Worcester
+district: 1st
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kimberly-Ferguson.jpg"
 contact:

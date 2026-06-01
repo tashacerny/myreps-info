@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Strafford 21
+district: Strafford
 in_office: true
 photo_url: "https://www.gannett-cdn.com/presto/2022/09/08/NFDD/05d04a1f-87b2-4f2f-be88-18c7eefc1bc2-Gsmith_Headshot.jpg?width=300&height=355&fit=crop&format=pjpg&auto=webp"
 contact:

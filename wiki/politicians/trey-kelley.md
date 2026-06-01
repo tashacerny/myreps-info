@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 16
+district: 16
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/kelley-trey-825.jpg"
 contact:

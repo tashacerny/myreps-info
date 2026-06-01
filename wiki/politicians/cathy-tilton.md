@@ -6,6 +6,7 @@ state: AK
 level: state
 chamber: Senate
 office: AK State Senate, District M
+district: M
 in_office: true
 photo_url: "http://akleg.gov/images/legislators/450x600/TLT.jpg"
 contact:

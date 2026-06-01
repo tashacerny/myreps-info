@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 75
+district: 75
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/1903.jpg?1703415645672"
 contact:

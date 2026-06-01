@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: House
 office: WY State House, District 39
+district: 39
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/67th-WylieCody.jpg"
 contact:

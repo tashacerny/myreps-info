@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 20
+district: 20
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/782561/782561.jpg"
 contact:

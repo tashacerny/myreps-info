@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/ashby_angelique_d-08.jpg"
 contact:

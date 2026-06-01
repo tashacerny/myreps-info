@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 42
+district: 42
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Brenda-Stanley_1.jpg"
 contact:

@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 1
+district: 1
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cameron-mike-4986.jpg"
 contact:

@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 44
+district: 44
 in_office: true
 photo_url: "https://www.burbankca.gov/documents/1626247/0/20210330-nick-schultz-001.jpg"
 contact:

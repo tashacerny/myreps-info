@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 2
+district: 2
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/osborne/PublishingImages/member_photo.jpg"
 contact:

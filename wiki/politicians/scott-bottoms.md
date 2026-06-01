@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 15
+district: 15
 in_office: true
 photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMCtIQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2fb56df7ac0ddd22f63e0eb99a03b0d30e48bff5/Rep%20Bottoms%202026.jpg"
 contact:

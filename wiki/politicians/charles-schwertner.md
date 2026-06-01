@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 5
+district: 5
 in_office: true
 photo_url: "https://senate.texas.gov/members/d05/img/headshot.jpg"
 contact:

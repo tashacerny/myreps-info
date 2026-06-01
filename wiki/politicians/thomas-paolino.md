@@ -6,6 +6,7 @@ state: RI
 level: state
 chamber: Senate
 office: RI State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://www.rilegislature.gov/senators/Pictures/Paolino%202022.jpg"
 openstates_id: ocd-person/285c33e3-5c40-44d8-9c16-22e49b6a0a81

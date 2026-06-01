@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 27
+district: 27
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Turco/images/Turco_HS.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 45
+district: 45
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/jennifer-gross/headshots/thumbnails/medium/jennifer-gross-july-2023-headshot_medium.jpg"
 contact:

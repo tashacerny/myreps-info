@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 9
+district: 9
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Stadthagen_9.png"
 contact:

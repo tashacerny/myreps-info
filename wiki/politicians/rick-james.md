@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 4
+district: 4
 in_office: true
 photo_url: "https://fortscott.biz/wp-content/uploads/2024/06/rick-james-submitted-.jpg"
 contact:

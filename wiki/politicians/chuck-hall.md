@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/hall.jpg"
 contact:

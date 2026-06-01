@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: Senate
 office: WY State Senate, District 26
+district: 26
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-SalazarTim.jpg"
 contact:

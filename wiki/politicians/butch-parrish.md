@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 158
+district: 158
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/parrish-butch-183.jpg"
 contact:

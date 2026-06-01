@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 36
+district: 36
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist36/highres/dist36.jpg"
 contact:

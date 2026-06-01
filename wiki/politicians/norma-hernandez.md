@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 77
+district: 77
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{3E520E2E-5D7A-491B-9744-0F0137816162}.jpg"
 contact:

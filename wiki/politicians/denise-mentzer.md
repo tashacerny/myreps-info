@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 61
+district: 61
 in_office: true
 contact:
   website: "https://openstates.org/person/denise-mentzer-3qJhxlYWoNdI9KwRbDJXcL/"

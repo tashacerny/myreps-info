@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 14
+district: 14
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/35414.jpg"
 contact:

@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 30
+district: Rockingham
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AboulKhan.jpg"
 contact:

@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 130
+district: 130
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3535.jpg?v=1"
 contact:

@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 18
+district: 18
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/STEVENS_2017.jpg"
 contact:

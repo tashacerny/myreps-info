@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/12-27-22_fernandez-hs.jpg?itok=0m96AhyY"
 contact:

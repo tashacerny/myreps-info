@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 57
+district: 57
 in_office: true
 photo_url: "http://www.oregonlegislature.gov/house/MemberPhotos/smithg.jpg"
 contact:

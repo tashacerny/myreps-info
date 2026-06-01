@@ -6,6 +6,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 75
+district: 75
 in_office: true
 photo_url: "https://house.vga.virginia.gov/delegate_photos/H0391.jpg"
 contact:

@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 87
+district: 87
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2023/house/howell_gary.jpg"
 contact:

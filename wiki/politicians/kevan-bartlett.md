@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 8
+district: 8
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2019/house/bartlett_t.jpg"
 contact:

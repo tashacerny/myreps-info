@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 33
+district: 33
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/rhett-michael--doc--855.jpg"
 contact:

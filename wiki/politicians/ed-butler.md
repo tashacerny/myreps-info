@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 41
+district: 41
 in_office: true
 photo_url: "http://edbutlerfortn.com/wp-content/uploads/2018/04/Ed-Butler.jpg"
 contact:

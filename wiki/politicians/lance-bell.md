@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Bell_11.png"
 contact:

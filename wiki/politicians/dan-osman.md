@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 48
+district: 48
 in_office: true
 photo_url: "http://www.kslegislature.org/li/s/images/pics/rep_osman_dan_1.jpg"
 contact:

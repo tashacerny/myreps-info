@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 75
+district: 75
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{AFBDE3F1-DE4D-419A-A7AB-D27678B015BE}.jpg"
 contact:

@@ -7,6 +7,7 @@ state: NV
 level: state
 chamber: Senate
 office: NV State Senate, District 20
+district: 20
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Stone.Jeff.390.jpg"
 contact:

@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 82
+district: 82
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/banners/Miller_Kyle-web_800_999_80.jpg"
 contact:

@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 5
+district: 5
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/woelfel_michael.jpg"
 contact:

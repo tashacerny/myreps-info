@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 25
+district: 25
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/duff/images/duff-headshot.jpg"
 contact:

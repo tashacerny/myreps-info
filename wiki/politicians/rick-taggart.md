@@ -7,6 +7,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 55
+district: 55
 in_office: true
 photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3BUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b1fb5526e7780f89f9b2fb79535d4e7c39fc37b/TaggartRick.jpg"
 contact:

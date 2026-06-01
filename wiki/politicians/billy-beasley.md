@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Beasley_28.png"
 contact:

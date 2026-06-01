@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 14
+district: 14
 in_office: true
 contact:
   website: "https://openstates.org/person/mike-mcfall-5SFxvsv7pSgvUqVRUeAn6Y/"

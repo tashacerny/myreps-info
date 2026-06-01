@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 62
+district: 62
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2021/house/hanshaw_roger.jpg"
 contact:

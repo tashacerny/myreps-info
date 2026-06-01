@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 25
+district: 25
 in_office: true
 photo_url: "https://senate.texas.gov/members/d25/img/headshot.jpg"
 contact:

@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 28
+district: 28
 in_office: true
 photo_url: "https://data.openstates.org/images/small/ocd-person/73d17744-fdda-495d-b5a8-c44342fc5b38"
 contact:

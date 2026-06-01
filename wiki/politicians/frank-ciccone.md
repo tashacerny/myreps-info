@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: Senate
 office: RI State Senate, District 7
+district: 7
 in_office: true
 photo_url: "http://www.rilegislature.gov/Senators/Pictures/ciccone.jpg"
 openstates_id: ocd-person/d688b16c-5bf2-41df-b1c9-e8c5de7e437c

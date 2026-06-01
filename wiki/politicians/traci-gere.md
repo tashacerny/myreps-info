@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 134
+district: 134
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/593607d8-2dcf-4adc-8351-ebf61eeda842_Gere2021.jpg"
 contact:

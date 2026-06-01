@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 60
+district: 60
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AlanahGriffith2024.jpg"
 contact:

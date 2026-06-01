@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 15
+district: 15
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Hulsey_15.png"
 contact:

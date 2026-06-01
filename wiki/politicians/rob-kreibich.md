@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 28
+district: 28
 in_office: true
 photo_url: "https://www.kreibichforassembly.com/hobenug/themes/kreibich-wi/assets/kreibich_1.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 41
+district: 41
 in_office: true
 contact:
   website: "https://openstates.org/person/julie-rogers-2TSlt3VIcKTzPS8creg2or/"

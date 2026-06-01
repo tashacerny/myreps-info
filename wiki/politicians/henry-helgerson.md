@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 83
+district: 83
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rep_helgerson_henry_1.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 41A
+district: 41A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/41A.gif?v=112221"
 contact:

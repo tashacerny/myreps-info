@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 100
+district: 100
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0456249946.jpg"
 contact:

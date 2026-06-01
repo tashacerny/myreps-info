@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 37th Middlesex
+district: 37th
 in_office: true
 photo_url: "http://malegislature.gov/Legislators/Profile/170/DAS1.jpg"
 contact:

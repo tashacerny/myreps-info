@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 74
+district: 74
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/775/Low"
 contact:

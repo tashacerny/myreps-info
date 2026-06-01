@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 37A
+district: 37A
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/sample01.jpg"
 contact:

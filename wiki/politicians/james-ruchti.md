@@ -7,6 +7,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Ruchti52.jpg"
 contact:

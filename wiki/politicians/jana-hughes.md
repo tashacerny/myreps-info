@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 24
+district: 24
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist24/highres/dist24.jpg"
 contact:

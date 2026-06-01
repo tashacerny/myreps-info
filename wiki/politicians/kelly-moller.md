@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 40A
+district: 40A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/40A.gif?v=112221"
 contact:

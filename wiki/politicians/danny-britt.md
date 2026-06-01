@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: Senate
 office: NC State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/S/399/Low"
 contact:

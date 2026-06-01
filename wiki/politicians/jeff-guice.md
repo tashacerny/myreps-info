@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 114
+district: 114
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/guice.jpg"
 contact:

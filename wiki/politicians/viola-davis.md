@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 87
+district: 87
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/davis-viola-4947.jpg"
 contact:

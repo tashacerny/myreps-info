@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 47
+district: 47
 in_office: true
 contact:
   website: "https://openstates.org/person/ellie-boldman-2NyE8NsDaf8O0TK9AWJUNe/"

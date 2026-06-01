@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 33
+district: 33
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Figures_33.png"
 contact:

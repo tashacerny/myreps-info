@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 18
+district: 18
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_neighbor_cindy_1.jpg"
 contact:

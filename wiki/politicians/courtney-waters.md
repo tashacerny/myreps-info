@@ -6,6 +6,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 113
+district: 113
 in_office: true
 photo_url: "https://courtneywaters.com/wp-content/uploads/2024/11/courtney-waters.jpg"
 contact:

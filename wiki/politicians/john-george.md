@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 36
+district: 36
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/George,%20John.jpg"
 contact:

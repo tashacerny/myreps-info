@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Sullivan 6
+district: Sullivan
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50190.jpg"
 contact:

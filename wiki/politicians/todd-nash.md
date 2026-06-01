@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/nash/PublishingImages/member_photo.jpg"
 contact:

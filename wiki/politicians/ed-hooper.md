@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s21_5344.jpg"
 contact:

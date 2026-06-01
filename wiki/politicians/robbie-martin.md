@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 65
+district: 65
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2019/house/martin_carl.jpg"
 contact:

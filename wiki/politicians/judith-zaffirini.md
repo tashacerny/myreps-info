@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://senate.texas.gov/members/d21/img/Zaffirini_2017.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://www.senate.mn/graphics/19Frentz.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 37
+district: 37
 in_office: true
 photo_url: "https://www.misenategop.com/wp-content/uploads/2023/01/Damoose-580x770.jpg"
 contact:

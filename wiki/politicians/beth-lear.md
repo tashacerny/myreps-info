@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 61
+district: 61
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/beth-lear/headshots/thumbnails/medium/beth-lear-january-2023-headshot_medium.jpg"
 contact:

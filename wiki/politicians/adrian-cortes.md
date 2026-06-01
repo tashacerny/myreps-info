@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/35473.jpg"
 contact:

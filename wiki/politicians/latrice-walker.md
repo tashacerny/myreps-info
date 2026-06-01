@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 55
+district: 55
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/055/headshot/055.jpg?hst=1660073650"
 contact:

@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 8
+district: 8
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/5660bc77e4b02bc8dd3c055f/1463509030796-7AM0VGR04ZZUTAOF9TQW/image-asset.jpeg?format=500w"
 contact:

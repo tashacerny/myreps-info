@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 111
+district: 111
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jimmy_Fondren.jpg"
 contact:

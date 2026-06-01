@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 7
+district: 7
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tonya_Myers_Phillips_20241022_115414.png"
 contact:

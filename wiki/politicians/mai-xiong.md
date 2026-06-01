@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 13
+district: 13
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MaiXiong.jpeg"
 contact:

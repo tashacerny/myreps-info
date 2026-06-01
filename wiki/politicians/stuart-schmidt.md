@@ -6,6 +6,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 33B
+district: 33B
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/schmidt01.jpg"
 contact:

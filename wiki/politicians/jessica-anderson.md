@@ -6,6 +6,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 71
+district: 71
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jessica_Anderson_20251008_030628.jpg"
 contact:

@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 123
+district: 123
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/1906.jpg?1703415645672"
 contact:

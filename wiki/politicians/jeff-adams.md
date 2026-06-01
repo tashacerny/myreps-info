@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 144
+district: 144
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/19be31f4-e0c7-4466-bcc7-ba2191307f59_ADAMS.jpg"
 contact:

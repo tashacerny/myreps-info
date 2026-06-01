@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: House
 office: LA State House, District 45
+district: 45
 in_office: true
 contact:
   website: "https://openstates.org/person/annie-spell-54U6omTGEYGc2kKTAk6EYo/"

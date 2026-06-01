@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/GABALD%C3%93N.gif"
 contact:

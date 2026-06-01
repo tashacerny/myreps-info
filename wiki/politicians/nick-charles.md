@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 25
+district: 25
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2024RS/images/charles02.jpg"
 contact:

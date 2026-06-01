@@ -6,6 +6,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 83
+district: 83
 in_office: true
 photo_url: "https://arkansasadvocate.com/wp-content/uploads/2024/09/Paul-Childress-SOS-2024.jpg"
 contact:

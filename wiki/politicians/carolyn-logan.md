@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 101
+district: 101
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/750/Low"
 contact:

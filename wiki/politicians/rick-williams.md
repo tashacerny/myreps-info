@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 25
+district: 25
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/williams-rick-4905.jpg"
 contact:

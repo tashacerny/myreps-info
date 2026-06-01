@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 12
+district: 12
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2023/senate/queen_ben.jpg"
 contact:

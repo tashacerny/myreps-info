@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 36
+district: 36
 in_office: true
 photo_url: "https://ctsenaterepublicans.com/wp-content/uploads/2021/08/225217195_346200893664334_4626743322505851539_n-scaled-e1629858004858.jpg"
 contact:

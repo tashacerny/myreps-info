@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 19
+district: 19
 in_office: true
 contact:
   website: "https://openstates.org/person/tameika-isaac-devine-2TK6TLwyd3JulBGQpM0Gyg/"

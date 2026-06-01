@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Smitherman_18.png"
 contact:

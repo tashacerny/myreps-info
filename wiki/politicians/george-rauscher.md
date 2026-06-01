@@ -6,6 +6,7 @@ state: AK
 level: state
 chamber: Senate
 office: AK State Senate, District O
+district: O
 in_office: true
 photo_url: "http://akleg.gov/images/legislators/450x600/RAU.jpg"
 contact:

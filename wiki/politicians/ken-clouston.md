@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: House
 office: WY State House, District 32
+district: 32
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-CloustonKen.jpg"
 contact:

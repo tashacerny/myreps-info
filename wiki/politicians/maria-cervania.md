@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 41
+district: 41
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/798/Low"
 contact:

@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 109
+district: 109
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/mcclain-dewey-845.jpg"
 contact:

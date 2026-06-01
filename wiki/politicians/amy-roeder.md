@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 23
+district: 23
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/3265b5dc-e744-46e5-8ff5-317b5e4842ae_RoederNEW.jpg"
 contact:

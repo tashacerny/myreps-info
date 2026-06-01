@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 36
+district: 36
 in_office: true
 photo_url: "https://californiaglobe.com/wp-content/uploads/2024/10/Screenshot-2024-10-03-at-7.03.49%E2%80%AFAM-708x642.png"
 contact:

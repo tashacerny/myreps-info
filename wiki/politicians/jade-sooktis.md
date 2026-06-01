@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 41
+district: 41
 in_office: true
 contact:
   website: "https://openstates.org/person/jade-sooktis-I10PaTeDNONJDPDWFObRj/"

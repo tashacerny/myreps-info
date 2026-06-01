@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: Senate
 office: UT State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/MCCAYD.jpg"
 contact:

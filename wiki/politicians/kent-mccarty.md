@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 101
+district: 101
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/mccarty.jpg"
 contact:

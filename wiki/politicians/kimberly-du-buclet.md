@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 5
+district: 5
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{4858CB21-EEE1-409B-9A4C-FA760BB6905E}.jpg"
 contact:

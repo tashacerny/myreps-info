@@ -6,6 +6,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 22
+district: 22
 in_office: true
 photo_url: "https://www.ilikemikesmith.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-19-at-7.22.01-AM.png"
 contact:

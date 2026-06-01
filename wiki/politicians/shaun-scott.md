@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 43
+district: 43
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/35430.jpg"
 contact:

@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s18_5365.jpg"
 contact:

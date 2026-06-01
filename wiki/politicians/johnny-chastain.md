@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 7
+district: 7
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/chastain-johnny-5057.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 57
+district: 57
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Sellers_57.png"
 contact:

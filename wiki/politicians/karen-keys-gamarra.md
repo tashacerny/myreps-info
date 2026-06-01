@@ -6,6 +6,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 7
+district: 7
 in_office: true
 photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0370"
 contact:

@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 6
+district: 6
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/wallan/PublishingImages/member_photo.jpg"
 contact:

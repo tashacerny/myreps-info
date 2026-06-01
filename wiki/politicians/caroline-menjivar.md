@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/menjivar_caroline_d-20.jpg"
 contact:

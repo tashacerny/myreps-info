@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: Senate
 office: NV State Senate, District 8
+district: 8
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/DonderoLoop.Marilyn.92.jpg"
 contact:

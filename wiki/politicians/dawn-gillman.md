@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 17A
+district: 17A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/17A.gif?v=112221"
 contact:

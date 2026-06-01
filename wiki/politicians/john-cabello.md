@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 90
+district: 90
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{9E64DAD4-4264-42B1-AFDA-AB8F652472A3}.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 82
+district: 82
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/house/elliott.jpg"
 contact:

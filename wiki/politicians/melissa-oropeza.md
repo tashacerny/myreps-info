@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 37
+district: 37
 in_office: true
 photo_url: "https://static.wixstatic.com/media/b85886_bf3234c73f3d4fc9860eabd10f95d123~mv2.jpg"
 contact:

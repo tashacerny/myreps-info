@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 90
+district: 90
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3060.jpg?v=1"
 contact:

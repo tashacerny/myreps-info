@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 24
+district: 24
 in_office: true
 photo_url: "http://www.flhouse.gov/FileStores/Web/Imaging/Member/4422.jpg"
 contact:

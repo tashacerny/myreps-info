@@ -7,6 +7,7 @@ state: UT
 level: state
 chamber: Senate
 office: UT State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/VICKEEJ.jpg"
 contact:

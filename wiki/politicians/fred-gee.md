@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 126
+district: 126
 in_office: true
 contact:
   website: "https://openstates.org/person/fred-gee-1O21EGwq51Xu1tQqqXtIe0/"

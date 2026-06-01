@@ -6,6 +6,7 @@ state: IA
 level: state
 chamber: Senate
 office: IA State Senate, District 46
+district: 46
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30548"
 contact:

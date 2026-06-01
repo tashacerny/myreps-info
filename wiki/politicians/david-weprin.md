@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 24
+district: 24
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/024/headshot/024.jpg?hst=1660073135"
 contact:

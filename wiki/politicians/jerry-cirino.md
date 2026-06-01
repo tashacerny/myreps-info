@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: Senate
 office: OH State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/jerry-c-cirino/headshots/thumbnails/medium/jerry-c-cirino-march-2023-headshot_medium.jpg"
 contact:

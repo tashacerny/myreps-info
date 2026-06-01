@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 11
+district: 11
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/0cea9b69-973d-411d-bbd7-b5c6e1e6d559_TSTROUT.jpg"
 contact:

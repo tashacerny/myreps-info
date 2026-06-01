@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 110
+district: 110
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Godfrey/images/Godfrey_HS.jpg"
 contact:

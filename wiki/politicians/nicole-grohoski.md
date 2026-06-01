@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/senator-grohoski-photo-web.jpg"
 contact:

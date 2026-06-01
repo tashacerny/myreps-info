@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 60
+district: 60
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Aragona-060.jpg"
 contact:

@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 47
+district: 47
 in_office: true
 photo_url: "https://www.kslegislature.gov/li/s/images/pics/rep_ellis_ronald_1.jpg"
 contact:

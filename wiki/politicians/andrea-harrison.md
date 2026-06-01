@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 24
+district: 24
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/harrison01.jpg"
 contact:

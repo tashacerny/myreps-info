@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 39
+district: 39
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HTERR.jpg"
 contact:

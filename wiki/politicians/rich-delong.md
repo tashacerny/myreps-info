@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 26
+district: 26
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/DeLong.Rich.399.jpg"
 contact:

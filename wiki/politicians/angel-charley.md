@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 30
+district: 30
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/65a92fa05202ee2b13428333/630e642f-dfc6-48c0-930b-c25b16d80e76/Headshot.jpg"
 contact:

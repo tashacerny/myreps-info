@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 92
+district: 92
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/Pack_Renee_web_800_999_80.jpg"
 contact:

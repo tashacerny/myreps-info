@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/mcguire-mike.jpg"
 contact:

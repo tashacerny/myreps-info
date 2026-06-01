@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: House
 office: WY State House, District 2
+district: 2
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-WilliamsJD.jpg"
 contact:

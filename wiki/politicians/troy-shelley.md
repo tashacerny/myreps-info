@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 66
+district: 66
 in_office: true
 photo_url: "https://cdn.prod.website-files.com/659704f376348afc7dd40409/670080f6423ccdeef1b4812e_Troy-Shelley.png"
 contact:

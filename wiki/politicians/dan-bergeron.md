@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 16
+district: Hillsborough
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/325902/325902.jpg"
 contact:

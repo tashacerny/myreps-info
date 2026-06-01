@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 19
+district: 19
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/crutchfield01.jpg"
 contact:

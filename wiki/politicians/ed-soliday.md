@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 4
+district: 4
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Soliday_Main_List.jpg"
 contact:

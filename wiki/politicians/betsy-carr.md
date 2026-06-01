@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 78
+district: 78
 in_office: true
 photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0212"
 contact:

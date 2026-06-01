@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 17
+district: Rockingham
 in_office: true
 photo_url: "https://upload.wikimedia.org/wikipedia/commons/4/42/Robert_J._Lynn.png"
 contact:

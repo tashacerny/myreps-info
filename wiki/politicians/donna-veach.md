@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 30
+district: 30
 in_office: true
 photo_url: "https://cga.ct.gov/legpics/030.png?ver="
 contact:

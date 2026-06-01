@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 107
+district: 107
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ParkerFairbairn2024.JPG"
 contact:

@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/cyrway-5x7-1.jpg"
 contact:

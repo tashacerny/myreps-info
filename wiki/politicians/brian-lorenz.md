@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 60
+district: 60
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/brian-lorenz/headshots/thumbnails/medium/brian-lorenz-november-2023-headshot_medium.jpg"
 contact:

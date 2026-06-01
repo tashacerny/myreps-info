@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 4
+district: 4
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Culver,%20BobEd.jpg"
 contact:

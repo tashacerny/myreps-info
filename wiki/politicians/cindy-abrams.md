@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 29
+district: 29
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/cindy-abrams/headshots/thumbnails/medium/cindy-abrams-january-2023-headshot_medium.jpg"
 contact:

@@ -7,6 +7,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 57
+district: 57
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/ABBOTN.jpg"
 contact:

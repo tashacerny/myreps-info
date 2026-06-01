@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 32
+district: 32
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Cook6686.jpg"
 contact:

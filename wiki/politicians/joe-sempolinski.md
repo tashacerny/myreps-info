@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 148
+district: 148
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/29175.jpg"
 contact:

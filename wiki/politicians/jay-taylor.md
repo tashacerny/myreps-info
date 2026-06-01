@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 14
+district: 14
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/taylor_jay.jpg"
 contact:

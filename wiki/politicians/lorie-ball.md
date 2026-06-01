@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 25
+district: Rockingham
 in_office: true
 photo_url: "https://lorieball.com/assets/lorie-340x285.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 105
+district: 105
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Brown_105.png"
 contact:

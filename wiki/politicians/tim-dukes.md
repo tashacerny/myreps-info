@@ -7,6 +7,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 40
+district: 40
 in_office: true
 photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2023/01/dukes-headshot-compressed2-jan-23.png"
 contact:

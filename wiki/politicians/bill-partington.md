@@ -6,6 +6,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 28
+district: 28
 in_office: true
 photo_url: "https://www.billpartington.com/images/Partington,-Bill-WEB-FILE.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164676.jpg"
 contact:

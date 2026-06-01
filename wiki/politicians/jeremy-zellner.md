@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 61
+district: 61
 in_office: true
 photo_url: "https://ecdems.com/wp-content/uploads/2011/02/Jeremy-J-Zellner-headshot-2-200x300.jpg"
 contact:

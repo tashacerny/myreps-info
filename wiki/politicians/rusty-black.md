@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 12
+district: 12
 in_office: true
 contact:
   website: "https://openstates.org/person/rusty-black-5hzM20QdT8AqHhA5fwtfOa/"

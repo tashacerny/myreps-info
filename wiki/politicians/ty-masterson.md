@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: Senate
 office: KS State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/sen_masterson_ty_1.jpg"
 contact:

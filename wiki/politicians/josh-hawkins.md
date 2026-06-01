@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 10
+district: 10
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/80182230_83452a1c-4a99-4e85-9c86-d12418dab31b.jpeg"
 contact:

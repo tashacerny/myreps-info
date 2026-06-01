@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 56
+district: 56
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2024/house/young_kayla.jpg"
 contact:

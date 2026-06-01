@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 75
+district: 75
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Danny_Nix.jpg"
 contact:

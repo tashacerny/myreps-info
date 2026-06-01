@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Merrimack 30
+district: Merrimack
 in_office: true
 photo_url: "https://static.votesmart.org/static/canphoto/185380.jpg"
 contact:

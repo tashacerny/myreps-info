@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 66B
+district: 66B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/66B.gif?v=112221"
 contact:

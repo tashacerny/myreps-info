@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 20
+district: 20
 in_office: true
 photo_url: "https://votestephenfrank.com/wp-content/uploads/2024/05/430804199_10168719229715314_3862493250670651338_n.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 29
+district: 29
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Gidley_29.png"
 contact:

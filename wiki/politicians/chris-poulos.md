@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 81
+district: 81
 in_office: true
 contact:
   website: "https://openstates.org/person/chris-poulos-3tFu9RMizN9NPOpHhZlZi2/"

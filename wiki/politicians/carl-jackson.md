@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/jackson04.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 61
+district: 61
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Kenton-Patzkowsky,.jpg"
 contact:

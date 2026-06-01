@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 98
+district: 98
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Alexander-098.jpg"
 contact:

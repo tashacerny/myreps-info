@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 117
+district: 117
 in_office: true
 photo_url: "http://www.kslegislature.org/li/s/images/pics/rep_turk_adam_1.jpg"
 contact:

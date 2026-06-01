@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: Senate
 office: VA State Senate, District 23
+district: 23
 in_office: true
 photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Locke23"
 contact:

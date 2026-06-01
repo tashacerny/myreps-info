@@ -7,6 +7,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 32
+district: 32
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/ddever2023.jpg?itok=W1J0-NtI"
 contact:

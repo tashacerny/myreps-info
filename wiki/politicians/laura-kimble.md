@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 71
+district: 71
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/kimble_laura.jpg"
 contact:

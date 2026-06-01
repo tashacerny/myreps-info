@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 48
+district: 48
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Miller_mainlist2.jpg"
 contact:

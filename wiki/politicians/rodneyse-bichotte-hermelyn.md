@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 42
+district: 42
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/042/headshot/042.jpg?hst=1660073454"
 contact:

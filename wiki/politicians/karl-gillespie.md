@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 120
+district: 120
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/771/Low"
 contact:

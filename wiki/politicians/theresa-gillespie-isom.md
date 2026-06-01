@@ -6,6 +6,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/Senate/Gillespie_Isom.jpg"
 contact:

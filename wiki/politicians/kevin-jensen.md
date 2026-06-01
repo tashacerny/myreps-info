@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Jensen_2017.jpg"
 contact:

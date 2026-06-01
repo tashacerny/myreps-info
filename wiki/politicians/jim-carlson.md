@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 52
+district: 52
 in_office: true
 photo_url: "https://www.senate.mn/graphics/51Carlson.jpg"
 contact:

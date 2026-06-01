@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 63
+district: 63
 in_office: true
 photo_url: "https://www4.erie.gov/baskin/sites/www4.erie.gov.baskin/files/styles/large/public/2021-12/legislator-baskin.jpg?itok=CSDw5X2I"
 contact:

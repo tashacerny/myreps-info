@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Chittenden North
+district: Chittenden
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Mattos,Chris.jpg"
 contact:

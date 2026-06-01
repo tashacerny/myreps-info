@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 70
+district: 70
 in_office: true
 photo_url: "https://i0.wp.com/robertreeseforsc70.com/wp-content/uploads/2024/05/Rob_Marketing_-08-removebg-preview.png?w=408&ssl=1"
 contact:

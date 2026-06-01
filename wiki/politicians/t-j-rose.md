@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: Senate
 office: KS State Senate, District 35
+district: 35
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TJ_Rose_20240808_093657.jpeg"
 contact:

@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 29
+district: 29
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Wood/images/Wood_HS.jpg"
 contact:

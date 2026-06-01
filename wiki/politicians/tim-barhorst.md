@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 85
+district: 85
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/tim-barhorst/headshots/thumbnails/medium/tim-barhorst-january-2023-headshot_medium.jpg"
 contact:

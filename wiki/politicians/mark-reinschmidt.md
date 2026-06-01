@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 75
+district: 75
 in_office: true
 photo_url: "https://www.whitehallledger.com/IMG/GgZmsn7rWaScoesaeXeK1AhXw0Fk0/XPATH/home/cms_data/dfault/photos/stories/id/8/2/9982/s_bottomXEXT1570x35634is.jpg"
 contact:

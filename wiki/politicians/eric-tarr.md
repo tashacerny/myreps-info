@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 4
+district: 4
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/tarr_eric.jpg"
 contact:

@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 11
+district: 11
 in_office: true
 photo_url: "https://www.house.texas.gov/images/members/4755.jpg?v=1"
 contact:

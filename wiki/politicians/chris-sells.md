@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 90
+district: 90
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Sells_90.png"
 contact:

@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 21
+district: Hillsborough
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73178.jpg"
 contact:

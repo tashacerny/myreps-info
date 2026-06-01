@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 12
+district: 12
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Luxenberg/images/Luxenberg_HS.jpg"
 contact:

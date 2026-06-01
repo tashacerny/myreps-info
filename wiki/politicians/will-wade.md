@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 9
+district: 9
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/wade-will-4988.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 24th Middlesex
+district: 24th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/DMR1.jpg"
 contact:

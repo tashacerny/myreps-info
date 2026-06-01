@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: Senate
 office: VA State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/McPike29.jpg"
 contact:

@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://governor.sd.gov/doc/IMG_4416-scaled.jpg"
 contact:

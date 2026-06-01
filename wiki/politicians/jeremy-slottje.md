@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 13
+district: Hillsborough
 in_office: true
 photo_url: "https://advocacyassets.congressplus.net/pictures/52660.jpg"
 contact:

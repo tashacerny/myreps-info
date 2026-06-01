@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 32
+district: 32
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Boyd_32.png"
 contact:

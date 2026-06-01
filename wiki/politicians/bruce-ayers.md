@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 1st Norfolk
+district: 1st
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/BJA1.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 3
+district: 3
 in_office: true
 photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=1944"
 contact:

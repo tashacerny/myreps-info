@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: House
 office: LA State House, District 58
+district: 58
 in_office: true
 photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep58.jpg"
 contact:

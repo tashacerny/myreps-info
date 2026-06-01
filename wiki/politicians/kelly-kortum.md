@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 64
+district: 64
 in_office: true
 contact:
   website: "https://openstates.org/person/kelly-kortum-7HY5DazOSGnPrmyP8juyhN/"

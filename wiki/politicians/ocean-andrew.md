@@ -7,6 +7,7 @@ state: WY
 level: state
 chamber: House
 office: WY State House, District 46
+district: 46
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/66th-AndrewOcean.jpg"
 contact:

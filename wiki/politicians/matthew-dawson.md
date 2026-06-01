@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 65
+district: 65
 in_office: true
 photo_url: "https://www.lynchpine.com/wp-content/uploads/sites/1101520/2020/04/dawson_matthew_s.jpg"
 openstates_id: ocd-person/bffdb553-5c5c-403e-8e2c-47b34a7b50f5

@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 37
+district: Rockingham
 in_office: true
 photo_url: "https://www.citizenscount.org/sites/default/files/candidate-images/davidmeuse.jpg"
 contact:

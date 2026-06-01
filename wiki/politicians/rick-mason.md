@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 97
+district: 97
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/00d3edf9-afa9-42a9-894e-6f123441a00b_MasonNEW.jpg"
 contact:

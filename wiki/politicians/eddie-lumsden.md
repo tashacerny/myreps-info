@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 12
+district: 12
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/lumsden-eddie-826.jpg"
 contact:

@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 161
+district: 161
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hitchens-bill-823.jpg"
 contact:

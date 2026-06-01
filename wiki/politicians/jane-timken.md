@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: Senate
 office: OH State Senate, District 29
+district: 29
 in_office: true
 contact:
   website: "https://openstates.org/person/jane-timken-5xGmkqiHddbskqovhTvfDB/"

@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 41
+district: 41
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/pugh.jpg"
 contact:

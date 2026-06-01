@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Chittenden-5
+district: Chittenden
 in_office: true
 photo_url: "https://media2.fdncms.com/sevendaysvt/imager/u/blog/36217611/img-5981.jpg?cb=1660179942"
 contact:

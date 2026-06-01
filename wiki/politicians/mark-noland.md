@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 6
+district: 6
 in_office: true
 contact:
   website: "https://openstates.org/person/mark-noland-4rgH2ER9qV9Hn6PhuSPwOd/"

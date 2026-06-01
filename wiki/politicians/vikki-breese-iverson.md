@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 59
+district: 59
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/breese-iverson/PublishingImages/member_photo.jpg"
 contact:

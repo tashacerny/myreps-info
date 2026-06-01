@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 39
+district: 39
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{CF3F6473-4E6D-4E84-A0A4-4FF7335132E2}.jpg"
 contact:

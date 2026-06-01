@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 4th Suffolk
+district: 4th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/D_B1.jpg"
 contact:

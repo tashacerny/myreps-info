@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.senate.mo.gov/19web/wp-content/uploads/2019/01/Bernskoetter-200x300.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 36
+district: 36
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Haste%2C%20John%202022%20Flags.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 27C
+district: 27C
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/fisher.jpg"
 contact:

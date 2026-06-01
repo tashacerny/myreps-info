@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 89
+district: 89
 in_office: true
 photo_url: "https://www.cthousegop.com/zupkus/wp-content/uploads/sites/73/2016/11/Zupkus_Bio_Web.jpg"
 contact:

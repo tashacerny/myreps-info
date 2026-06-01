@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 67
+district: 67
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/824926/824926.jpg"
 contact:

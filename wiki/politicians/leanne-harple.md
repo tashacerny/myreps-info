@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Orleans-4
+district: Orleans
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Harple,Leanne.jpeg"
 contact:

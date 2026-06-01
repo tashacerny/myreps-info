@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 170
+district: 170
 in_office: true
 photo_url: "https://jaclynforgeorgia.com/wp-content/uploads/sites/127/2024/02/photo-mobile-2.jpg"
 contact:

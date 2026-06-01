@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 12
+district: 12
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Jamison_2017.jpg"
 contact:

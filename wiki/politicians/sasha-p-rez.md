@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 25
+district: 25
 in_office: true
 photo_url: "https://www.cityofalhambra.org/ImageRepository/Document?documentId=1262"
 contact:

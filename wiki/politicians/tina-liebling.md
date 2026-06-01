@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 24B
+district: 24B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/24B.gif?v=112221"
 contact:

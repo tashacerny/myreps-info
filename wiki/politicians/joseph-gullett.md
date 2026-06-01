@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 19
+district: 19
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/gullett-joseph-4936.jpg"
 contact:

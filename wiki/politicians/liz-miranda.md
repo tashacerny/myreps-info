@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Second Suffolk
+district: Second
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/L%20M0.jpg"
 contact:

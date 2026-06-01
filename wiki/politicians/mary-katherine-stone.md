@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Chittenden-14
+district: Chittenden
 in_office: true
 photo_url: "https://vermontbiz.com/sites/default/files/images/stone-mary-katherine.jpg"
 contact:

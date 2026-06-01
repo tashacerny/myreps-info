@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 83
+district: 83
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Judy_Main_List_2022.jpg"
 contact:

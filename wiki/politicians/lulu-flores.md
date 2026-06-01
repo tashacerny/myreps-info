@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 51
+district: 51
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4150.jpg?v=1"
 contact:

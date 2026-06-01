@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 35
+district: 35
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Randolph_2019.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Coleman-Madison_20.png"
 contact:

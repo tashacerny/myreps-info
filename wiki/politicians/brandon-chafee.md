@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 33
+district: 33
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Chafee/images/Chafee_HS.jpg"
 contact:

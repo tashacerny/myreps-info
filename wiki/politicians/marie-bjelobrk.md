@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Grafton 5
+district: Grafton
 in_office: true
 photo_url: "https://img1.wsimg.com/isteam/ip/68dec262-1b58-48db-9d8d-810d96aa4e9f/IMG_5259.jpeg/:/cr=t:0%25,l:12.5%25,w:75%25,h:100%25/rs=w:600,h:600,cg:true"
 contact:

@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 51
+district: 51
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JodiSalvo.jpg"
 contact:

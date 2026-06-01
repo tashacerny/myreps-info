@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 29
+district: 29
 in_office: true
 photo_url: "https://www.capitol.tn.gov/house/members/images/h29.jpg"
 contact:

@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 50
+district: 50
 in_office: true
 contact:
   website: "https://openstates.org/person/keishan-scott-6RA0THAgQPAIVOFrUBR14y/"

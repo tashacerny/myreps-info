@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 40
+district: 40
 in_office: true
 contact:
   website: "https://openstates.org/person/al-barlas-2VP32SGEELg7V34z0PfL3H/"

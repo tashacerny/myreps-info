@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 2
+district: 2
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WILMETH.jpg"
 contact:

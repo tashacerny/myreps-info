@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 2
+district: 2
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Allie-Brennan/images/Allie-Brennan_HS.jpg"
 contact:

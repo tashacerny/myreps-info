@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 20
+district: 20
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/637/Low"
 contact:

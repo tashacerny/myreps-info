@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/maxtman2023.jpg?itok=RtENCCkC"
 contact:

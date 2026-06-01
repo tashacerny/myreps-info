@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kenya_Wicks.JPG"
 contact:

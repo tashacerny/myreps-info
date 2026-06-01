@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 38
+district: 38
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/18265.jpg"
 contact:

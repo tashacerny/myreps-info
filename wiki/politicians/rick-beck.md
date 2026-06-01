@@ -7,6 +7,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 43
+district: 43
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/467_sm.jpg"
 contact:

@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 21
+district: 21
 in_office: true
 photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_21.jpg"
 contact:

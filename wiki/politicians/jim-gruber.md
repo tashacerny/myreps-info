@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Cheshire 16
+district: Cheshire
 in_office: true
 photo_url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/8/6b/86bd474a-7adb-50c5-9491-7676f44ac2ca/67202db7ba624.image.jpg"
 contact:

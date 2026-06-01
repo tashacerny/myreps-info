@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 41
+district: 41
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{4B315A2D-F104-4613-BD17-77ECA3955B30}.jpg"
 contact:

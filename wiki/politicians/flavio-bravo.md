@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 26
+district: 26
 in_office: true
 photo_url: "https://chci.org/wp-content/uploads/2019/09/Bravo-Flavio.jpg"
 contact:

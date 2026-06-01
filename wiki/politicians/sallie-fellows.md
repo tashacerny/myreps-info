@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Grafton 8
+district: Grafton
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73134.jpg"
 contact:

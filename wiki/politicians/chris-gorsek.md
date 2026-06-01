@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 25
+district: 25
 in_office: true
 photo_url: "http://www.oregonlegislature.gov/house/MemberPhotos/gorsek.jpg"
 contact:

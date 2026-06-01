@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 43
+district: 43
 in_office: true
 photo_url: "https://ci.san-fernando.ca.us/wp-content/uploads/2021/07/Rodriguez-Celeste-2021-267x300.png"
 contact:

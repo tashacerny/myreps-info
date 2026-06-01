@@ -6,6 +6,7 @@ state: IA
 level: state
 chamber: House
 office: IA State House, District 65
+district: 65
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18046"
 contact:

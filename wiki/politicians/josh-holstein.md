@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 32
+district: 32
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2024/house/holstein_josh.jpg"
 contact:

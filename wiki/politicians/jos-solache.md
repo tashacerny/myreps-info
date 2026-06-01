@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 62
+district: 62
 in_office: true
 photo_url: "https://www.lynwoodca.gov/ImageRepository/Document?documentID=302"
 contact:

@@ -7,6 +7,7 @@ state: DE
 level: state
 chamber: Senate
 office: DE State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Paradee.png"
 contact:

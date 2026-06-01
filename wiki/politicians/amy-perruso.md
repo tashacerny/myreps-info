@@ -7,6 +7,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 46
+district: 46
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Perruso.jpg"
 contact:

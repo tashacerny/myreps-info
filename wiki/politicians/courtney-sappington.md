@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 5
+district: 5
 in_office: true
 photo_url: "https://www.kslegislature.gov/li/s/images/pics/rep_sappington_courtney_1.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 9
+district: 9
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/boyd.jpg"
 contact:

@@ -6,6 +6,7 @@ state: WI
 level: state
 chamber: Senate
 office: WI State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2546.jpg"
 contact:

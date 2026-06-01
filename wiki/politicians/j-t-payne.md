@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: House
 office: KY State House, District 11
+district: 11
 in_office: true
 photo_url: "https://thenews.org/wp-content/uploads/2018/08/7BD9AD2B-7439-4C90-86BE-692CC9C4D09A-777x437.jpeg"
 contact:

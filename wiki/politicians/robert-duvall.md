@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: House
 office: KY State House, District 17
+district: 17
 in_office: true
 photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house17.jpg"
 contact:

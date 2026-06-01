@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 93
+district: 93
 in_office: true
 photo_url: "http://www.capitol.tn.gov/house/members/images/h93.jpg"
 contact:

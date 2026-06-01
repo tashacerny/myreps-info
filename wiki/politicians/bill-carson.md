@@ -7,6 +7,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 28
+district: 28
 in_office: true
 photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Carson.jpg"
 contact:

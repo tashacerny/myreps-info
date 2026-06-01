@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 81
+district: 81
 in_office: true
 photo_url: "https://www.carpenterforkansas.com/wp-content/uploads/2022/07/Carpenter-Blues-Photo.png"
 contact:

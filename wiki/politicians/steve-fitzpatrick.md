@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 24
+district: 24
 in_office: true
 contact:
   website: "https://openstates.org/person/steve-fitzpatrick-5LjUIfRklBkjojyApIpVFS/"

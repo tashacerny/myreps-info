@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 87
+district: 87
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/riordan-t-mcclain/headshots/thumbnails/medium/riordan-t-mcclain-january-2021-headshot_medium.jpg"
 contact:

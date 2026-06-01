@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 23
+district: 23
 in_office: true
 photo_url: "https://www.cthousegop.com/carney/wp-content/uploads/sites/13/2016/11/Carney-2017-Web-Bio-Pict-216x300.jpg"
 contact:

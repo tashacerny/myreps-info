@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 1B
+district: 1B
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/buckel01.jpg"
 contact:

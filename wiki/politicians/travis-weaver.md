@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 93
+district: 93
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{0A077509-6D57-4C96-8525-0480C8338827}.jpg"
 contact:

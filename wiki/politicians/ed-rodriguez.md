@@ -6,6 +6,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 20
+district: 20
 in_office: true
 contact:
   website: "https://openstates.org/person/ed-rodriguez-5t2bLPbTSyZZuBoZhDHw5O/"

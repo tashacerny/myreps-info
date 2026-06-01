@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Merrimack 8
+district: Merrimack
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/EileenKellyNH-min.jpeg"
 contact:

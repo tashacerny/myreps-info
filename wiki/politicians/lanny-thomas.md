@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 53
+district: 53
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/69373488c86b8056febeb404/1f53a219-dd13-4b1b-8ab7-c71996cab9b7/Lanny+Thomas+for+Senate+in+road.jpg?content-type=image%2Fjpeg"
 contact:

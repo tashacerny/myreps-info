@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/smith_randy.jpg"
 contact:

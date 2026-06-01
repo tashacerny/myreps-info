@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 32
+district: 32
 in_office: true
 contact:
   website: "https://openstates.org/person/stan-ellis-3l0PWm5XgrhksPLGJoV8z/"

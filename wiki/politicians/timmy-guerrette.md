@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 4
+district: 4
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/140ecd56-dda0-495a-8f55-a372f209dcea_TGUERRETTE.jpg"
 contact:

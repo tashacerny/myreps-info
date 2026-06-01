@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 18
+district: 18
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/handy.jpg"
 openstates_id: ocd-person/6d4c7be7-4e68-4aa1-9262-81995fcc231e

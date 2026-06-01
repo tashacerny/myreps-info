@@ -6,6 +6,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 123
+district: 123
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3110.jpg?v=1"
 contact:

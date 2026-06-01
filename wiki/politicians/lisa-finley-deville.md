@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 4A
+district: 4A
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/lfinleydeville2023.jpg?itok=__y0zred"
 contact:

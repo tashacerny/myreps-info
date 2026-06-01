@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: Senate
 office: NJ State Senate, District 8
+district: 8
 in_office: true
 contact:
   website: "https://openstates.org/person/latham-tiver-RXdTeUljoim5UaU52GzoE/"

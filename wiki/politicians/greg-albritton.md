@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Albritton_22.png"
 contact:

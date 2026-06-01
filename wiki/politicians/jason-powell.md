@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 53
+district: 53
 in_office: true
 photo_url: "https://www.tennessean.com/gcdn/-mm-/6f03ca527b37558797b9ff3612df6f1ca4cc9386/c=0-42-1946-2637/local/-/media/Nashville/2015/02/11/B9316214695Z.1_20150211202701_000_GF79UD55G.1-0.jpg"
 contact:

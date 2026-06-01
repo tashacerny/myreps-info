@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 72
+district: 72
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Butler/images/Butler_HS.jpg?ver="
 contact:

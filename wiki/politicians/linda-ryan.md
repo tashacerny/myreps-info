@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 4
+district: Hillsborough
 in_office: true
 photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2022-09/linda-v-ryan.jpg"
 contact:

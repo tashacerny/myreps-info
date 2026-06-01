@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 113
+district: 113
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/bce0954f-21de-45f6-a3a2-2b5485271493_LooknerNEW.jpg"
 contact:

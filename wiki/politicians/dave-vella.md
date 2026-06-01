@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 68
+district: 68
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{E0F72B4C-2737-483E-84FE-E596DB8F2DCF}.jpg"
 contact:

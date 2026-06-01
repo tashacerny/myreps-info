@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Sullivan 8
+district: Sullivan
 in_office: true
 photo_url: "https://aron4nh.com/wp-content/uploads/2024/06/17951-550x413.jpeg"
 contact:

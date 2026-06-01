@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 26
+district: 26
 in_office: true
 photo_url: "https://senate.texas.gov/members/d26/img/headshot.jpg"
 contact:

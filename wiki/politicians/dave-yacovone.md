@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Lamoille-Washington
+district: Lamoille
 in_office: true
 photo_url: "https://vtdigger.org/wp-content/uploads/2024/07/David-Yacovone-2024-1.jpg"
 contact:

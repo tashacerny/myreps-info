@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 42
+district: 42
 in_office: true
 photo_url: "http://www.oregonlegislature.gov/house/MemberPhotos/nosse.jpg"
 contact:

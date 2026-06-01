@@ -7,6 +7,7 @@ state: PA
 level: state
 chamber: Senate
 office: PA State Senate, District 5
+district: 5
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Abdullah_Muzammil_20240808_100242.png"
 contact:

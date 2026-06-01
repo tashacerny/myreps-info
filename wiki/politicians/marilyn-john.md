@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 76
+district: 76
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/marilyn-s-john/headshots/thumbnails/medium/marilyn-s-john-january-2023-headshot_medium.jpg"
 contact:

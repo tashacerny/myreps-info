@@ -6,6 +6,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 33
+district: 33
 in_office: true
 photo_url: "https://tnhousegop.org/wp-content/uploads/2025/01/Scarbrough-scaled.jpg"
 contact:

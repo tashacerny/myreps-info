@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/mallow-derek-5007.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 9
+district: 9
 in_office: true
 contact:
   website: "https://openstates.org/person/barbara-washington-6luSZiaKeYJXMaDUH6aQTC/"

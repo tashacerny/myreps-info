@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 10th Hampden
+district: 10th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/C_G1.jpg"
 contact:

@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 92
+district: 92
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0428124949.jpg"
 contact:

@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 31
+district: 31
 in_office: true
 photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_31.jpg"
 contact:

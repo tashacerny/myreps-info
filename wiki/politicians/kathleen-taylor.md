@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/taylor/PublishingImages/member_photo.jpg"
 contact:

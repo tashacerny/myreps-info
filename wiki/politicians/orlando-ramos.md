@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 9th Hampden
+district: 9th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/O_R1.jpg"
 contact:

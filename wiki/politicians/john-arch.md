@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 14
+district: 14
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist14/highres/dist14.jpg"
 contact:

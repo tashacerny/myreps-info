@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: Senate
 office: NJ State Senate, District 36
+district: 36
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/sarlo_color.jpg"
 contact:

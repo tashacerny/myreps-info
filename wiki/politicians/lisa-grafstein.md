@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: Senate
 office: NC State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/S/439/Low"
 contact:

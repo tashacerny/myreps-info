@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 49
+district: 49
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/049/headshot/049.jpg?hst=1674060585"
 contact:

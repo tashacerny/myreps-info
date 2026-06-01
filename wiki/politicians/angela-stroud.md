@@ -6,6 +6,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 73
+district: 73
 in_office: true
 photo_url: "https://www.northland.edu/wp-content/uploads/2015/08/AngelaStroud-800x800.jpg"
 contact:

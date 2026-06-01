@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: House
 office: WY State House, District 61
+district: 61
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-SinghDaniel.jpg"
 contact:

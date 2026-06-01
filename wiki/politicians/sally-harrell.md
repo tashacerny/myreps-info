@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 40
+district: 40
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/harrell-sally-311.jpg"
 contact:

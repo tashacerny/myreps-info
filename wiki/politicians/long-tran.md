@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 80
+district: 80
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/tran-long-5034.jpg"
 contact:

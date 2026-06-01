@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 121
+district: 121
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Gresko/images/gresko_HS.jpg"
 contact:

@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 52
+district: 52
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/gayle-manning/headshots/thumbnails/medium/gayle-manning-january-2019-headshot_medium.jpg"
 contact:

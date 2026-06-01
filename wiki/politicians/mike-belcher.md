@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Carroll 4
+district: Carroll
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Michael_Belcher.jpg"
 contact:

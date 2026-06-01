@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 104
+district: 104
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{7520D666-0725-4963-B643-C1106551E922}.jpg"
 contact:

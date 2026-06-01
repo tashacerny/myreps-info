@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Bennington-3
+district: Bennington
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Durfee,David.jpg"
 contact:

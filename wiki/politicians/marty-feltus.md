@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Caledonia-3
+district: Caledonia
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Feltus,Marty%20037.jpg"
 contact:

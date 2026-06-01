@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SHICK.jpg"
 contact:

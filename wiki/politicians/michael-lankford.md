@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 75
+district: 75
 in_office: true
 photo_url: "https://montgomerytn.gov/storage/departments/commission/commissioner/Commissioners-Sept-2022/MichaelLankford.jpg"
 contact:

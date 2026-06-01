@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 40
+district: 40
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Michael_Hale_20230524_083209.jpeg"
 contact:

@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://housedemocrats.wa.gov/tmp/2021/01/Rep-Bateman_Jessica-2021_150x200.jpg"
 contact:

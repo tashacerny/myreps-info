@@ -6,6 +6,7 @@ state: IA
 level: state
 chamber: House
 office: IA State House, District 42
+district: 42
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27023"
 contact:

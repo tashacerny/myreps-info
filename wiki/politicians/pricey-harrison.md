@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 61
+district: 61
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/504/Low"
 contact:

@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: Senate
 office: NV State Senate, District 1
+district: 1
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/CruzCrawford.MicheleeShelly.419.jpg"
 contact:

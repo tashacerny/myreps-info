@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 12
+district: 12
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/simmons_(12th).jpg"
 contact:

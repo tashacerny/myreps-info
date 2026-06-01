@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 45
+district: 45
 in_office: true
 photo_url: "https://assets.lawrenceks.org/images/commission/mike-amyx.jpg"
 contact:

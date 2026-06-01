@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 33
+district: 33
 in_office: true
 contact:
   website: "https://openstates.org/person/rex-wilson-G4ZBxTmEJw0YTGi0Onecd/"

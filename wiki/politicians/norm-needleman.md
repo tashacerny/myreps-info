@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 33
+district: 33
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/Needleman/images/Needleman-hi.jpg"
 contact:

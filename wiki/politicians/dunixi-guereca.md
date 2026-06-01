@@ -6,6 +6,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 7
+district: 7
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/161473.jpg"
 contact:

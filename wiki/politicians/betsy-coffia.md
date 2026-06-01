@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 103
+district: 103
 in_office: true
 contact:
   website: "https://openstates.org/person/betsy-coffia-3v2gtB38whmUSLKfX2A67q/"

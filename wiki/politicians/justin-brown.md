@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://www.senate.mo.gov/19web/wp-content/uploads/2019/09/Brown2019-200x300.jpg"
 contact:

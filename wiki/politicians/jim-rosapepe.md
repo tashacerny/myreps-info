@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 21
+district: 21
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/rosapepe.jpg"
 contact:

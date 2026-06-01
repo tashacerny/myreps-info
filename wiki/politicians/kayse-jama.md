@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/Jama/PublishingImages/member_photo.jpg"
 contact:

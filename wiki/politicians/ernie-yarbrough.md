@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 7
+district: 7
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Yarbrough_7.png"
 contact:

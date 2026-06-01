@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 38C
+district: 38C
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/hartman01.jpg"
 contact:

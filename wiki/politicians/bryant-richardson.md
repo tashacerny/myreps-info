@@ -6,6 +6,7 @@ state: DE
 level: state
 chamber: Senate
 office: DE State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/10/Richardson.Headshot.2023.Downsized-710x710.jpg"
 contact:

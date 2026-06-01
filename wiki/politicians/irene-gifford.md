@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 28
+district: 28
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/af5019e3-ac57-47c4-bc0e-b9eb39973a6f_GIFFORD.jpg"
 contact:

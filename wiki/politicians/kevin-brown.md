@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 56
+district: 56
 in_office: true
 contact:
   website: "https://openstates.org/person/kevin-brown-5Erg11HG7AnkkQV4o3MRab/"

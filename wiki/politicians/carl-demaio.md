@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 75
+district: 75
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/159263.jpg"
 contact:

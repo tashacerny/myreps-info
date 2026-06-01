@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 24
+district: 24
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/elmer/PublishingImages/member_photo.jpg"
 contact:

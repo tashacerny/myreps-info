@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 18
+district: 18
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brennan_Balestrieri_20240808_094539.jpg"
 contact:

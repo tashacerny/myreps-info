@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 29
+district: 29
 in_office: true
 photo_url: "https://www.azcentral.com/gcdn/authoring/authoring-images/2024/05/29/PPHX/73887409007-james-taylor-gop-candidate-for-the-arizona-house-of-representatives-in-ld-29.jpg?width=300&height=359&fit=crop&format=pjpg&auto=webp"
 contact:

@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 98
+district: 98
 in_office: true
 photo_url: "https://www.cairoklahoma.com/wp-content/uploads/2024/06/gabe-960x958.jpg"
 contact:

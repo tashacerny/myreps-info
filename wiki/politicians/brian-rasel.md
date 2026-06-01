@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 56
+district: 56
 in_office: true
 photo_url: "https://www.palegis.us/resources/images/members/200/2025.jpg?20241220"
 contact:

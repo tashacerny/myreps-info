@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 12
+district: 12
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/brian-stewart/headshots/thumbnails/medium/brian-stewart-november-2023-headshot_medium.jpg"
 contact:

@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 63
+district: 63
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/063/headshot/063.jpg?hst=1672573792"
 contact:

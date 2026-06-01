@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 35
+district: 35
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/gblanc2.png"
 contact:

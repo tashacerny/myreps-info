@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: House
 office: WY State House, District 27
+district: 27
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-LawleyMartha.jpg"
 contact:

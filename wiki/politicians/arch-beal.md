@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 12
+district: 12
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/BEAL_2017.jpg"
 contact:

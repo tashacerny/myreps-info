@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 92
+district: 92
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/1e90c36e-1b64-464a-8371-c4bb4bad5925_woodsj[1].jpg"
 contact:

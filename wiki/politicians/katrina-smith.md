@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 62
+district: 62
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/5d2a8b6b-bea9-4f98-ad05-6d20c8f83aa6_KSMITH.jpg"
 contact:

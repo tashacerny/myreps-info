@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 85
+district: 85
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2021/house/hott_john.jpg"
 contact:

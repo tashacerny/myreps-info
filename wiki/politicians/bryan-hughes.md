@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://senate.texas.gov/members/d01/img/Hughes_86-0702D-030-web.jpg"
 contact:

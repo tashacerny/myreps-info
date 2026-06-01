@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Rutland
+district: Rutland
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Williams,Terry.jpg"
 contact:

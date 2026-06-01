@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 16
+district: Rockingham
 in_office: true
 photo_url: "https://www.voterondunn.com/images/109810/Ron_Dunn.png"
 contact:

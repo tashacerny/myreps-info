@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 48
+district: 48
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/828599/828599.jpg"
 contact:

@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 29
+district: 29
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist29/highres/dist29.jpg"
 contact:

@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 22
+district: 22
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Snow_mainlist2023.png"
 contact:

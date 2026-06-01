@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://senatedems.com/anthony/wp-content/uploads/sites/21/2022/12/MDS_Anthony_DSC5449.jpg"
 contact:

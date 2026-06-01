@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 12
+district: 12
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/House/TRAVERS.jpg"
 contact:

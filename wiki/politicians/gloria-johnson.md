@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 90
+district: 90
 in_office: true
 photo_url: "https://capitol.tn.gov/house/members/images/H90.jpg"
 contact:

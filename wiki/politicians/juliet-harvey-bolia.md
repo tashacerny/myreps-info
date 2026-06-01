@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Belknap 3
+district: Belknap
 in_office: true
 photo_url: "https://static.votesmart.org/static/canphoto/194686.jpg"
 contact:

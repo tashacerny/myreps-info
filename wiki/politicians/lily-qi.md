@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 15
+district: 15
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/qi01.jpg"
 contact:

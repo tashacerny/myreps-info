@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://www.senate.mn/graphics/04Kupec.jpg"
 contact:

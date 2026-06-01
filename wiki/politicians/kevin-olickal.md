@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 16
+district: 16
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{23C3BBA7-3179-41B5-A3EF-A372F88DD9C9}.jpg"
 contact:

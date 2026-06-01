@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Lamoille-2
+district: Lamoille
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Bailey,Richard.jpeg"
 contact:

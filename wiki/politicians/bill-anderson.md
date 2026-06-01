@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 10
+district: 10
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2022/house/anderson_bill.jpg"
 contact:

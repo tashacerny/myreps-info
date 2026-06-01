@@ -6,6 +6,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 10
+district: 10
 in_office: true
 photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/image-2-1-710x710.jpg"
 contact:

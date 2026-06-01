@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 97
+district: 97
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/Moed_resized_800_1000.png"
 contact:

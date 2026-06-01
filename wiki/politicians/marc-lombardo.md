@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 22nd Middlesex
+district: 22nd
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MTL1.jpg"
 contact:

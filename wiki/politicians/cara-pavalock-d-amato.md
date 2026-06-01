@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 77
+district: 77
 in_office: true
 photo_url: "https://www.cga.ct.gov/legpics/077.png?ver="
 contact:

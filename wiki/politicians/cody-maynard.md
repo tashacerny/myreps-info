@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 21
+district: 21
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Maynard,%20Cody.jpg"
 contact:

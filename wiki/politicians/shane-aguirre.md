@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 17
+district: 17
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/house/aguirre.jpg"
 contact:

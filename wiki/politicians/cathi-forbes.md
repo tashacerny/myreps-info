@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 43B
+district: 43B
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/forbes01.jpg"
 contact:

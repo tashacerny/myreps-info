@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 70
+district: 70
 in_office: true
 photo_url: "https://anita4newmexico.com/wp-content/uploads/2024/02/Anita-ABOUT.jpg"
 contact:

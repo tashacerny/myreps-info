@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 1
+district: 1
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/26168.jpg"
 contact:

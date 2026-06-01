@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 32
+district: 32
 in_office: true
 photo_url: "https://static.wixstatic.com/media/78a712_6c314e5806da4a328efc91387de831c7~mv2.jpg/v1/fill/w_321,h_446,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DSC_6157-Edit.jpg"
 contact:

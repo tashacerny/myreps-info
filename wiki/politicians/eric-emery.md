@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 26A
+district: 26A
 in_office: true
 photo_url: "https://www.sfsimplified.com/content/images/2022/09/Eric-Emery.jpg"
 contact:

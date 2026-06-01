@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{402F0454-4EAF-4721-993D-53C7459BA35B}.jpg"
 contact:

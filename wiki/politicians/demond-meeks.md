@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 137
+district: 137
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/137/headshot/137.jpg?hst=1660074888"
 contact:

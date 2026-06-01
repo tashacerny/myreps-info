@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 19
+district: 19
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/019/headshot/019.jpg?hst=1660073018"
 contact:

@@ -6,6 +6,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 15
+district: 15
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LauraJaneCohen.jpg"
 contact:

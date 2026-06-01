@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Coos 2
+district: Coos
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/126565.jpg"
 contact:

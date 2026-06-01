@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 48
+district: 48
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Townley,%20Tammy.jpg"
 contact:

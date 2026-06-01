@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 31
+district: 31
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_ruiz_louis_1.jpg"
 contact:

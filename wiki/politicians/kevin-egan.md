@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 17
+district: 17
 in_office: true
 contact:
   website: "https://openstates.org/person/kevin-egan-2jN7NtgU9ZiW0As4CPUJaV/"

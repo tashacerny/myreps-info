@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 96
+district: 96
 in_office: true
 photo_url: "https://www.clarkstown.gov/wp-content/uploads/2021/10/Patrick-Carroll.jpg"
 contact:

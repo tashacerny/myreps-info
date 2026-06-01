@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 68
+district: 68
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2019/house/phillips_chris.jpg"
 contact:

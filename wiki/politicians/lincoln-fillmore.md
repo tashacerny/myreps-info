@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: Senate
 office: UT State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/FILLML.jpg"
 contact:

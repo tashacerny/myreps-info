@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Boren%2C%20Mary%20Flags%202022.jpg"
 contact:

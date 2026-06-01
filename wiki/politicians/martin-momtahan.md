@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 17
+district: 17
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/momtahan-martin-4935.jpg"
 contact:

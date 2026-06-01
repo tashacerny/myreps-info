@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 11
+district: 11
 in_office: true
 photo_url: "https://cdnsm5-ss10.sharpschool.com/UserFiles/Servers/Server_19398796/Image/Board%20of%20Education/BOEMembers2019/New%20Headshots/Biggins2023.jpg"
 contact:

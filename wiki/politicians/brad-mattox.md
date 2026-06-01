@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 2
+district: 2
 in_office: true
 photo_url: "https://www.supertalk.fm/wp-content/uploads/2023/08/Brad-Mattox-960x540.png.webp"
 contact:

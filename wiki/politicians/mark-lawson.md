@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 30
+district: 30
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Lawson,%20Mark.jpg"
 contact:

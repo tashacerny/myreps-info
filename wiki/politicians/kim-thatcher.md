@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/thatcher/PublishingImages/thatcher2023.jpg"
 contact:

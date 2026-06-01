@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 54
+district: 54
 in_office: true
 photo_url: "https://www.sgvtribune.com/wp-content/uploads/2024/10/LDN-L-ELX-VG-ASSMD54-GONZALEZ.jpg?w=520"
 contact:

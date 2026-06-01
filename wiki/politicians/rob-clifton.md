@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 131
+district: 131
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RobClifton2024.jpg"
 contact:

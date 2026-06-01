@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: Senate
 office: WI State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/senate/2426.jpg"
 contact:

@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 45
+district: 45
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Rosino%2C%20Paul%20Flags%202022.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 89
+district: 89
 in_office: true
 photo_url: "http://files.ctctcdn.com/ee25b30f001/08bd0580-a7b2-481a-a9d2-198a61aec56d.jpg"
 contact:

@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 1
+district: 1
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/fonfara/images/fonfara-hi.jpg"
 contact:

@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 24
+district: 24
 in_office: true
 contact:
   website: "https://openstates.org/person/dawn-fantasia-3gOz6q2920bBLMYGxD8axq/"

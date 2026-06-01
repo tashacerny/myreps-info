@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 51
+district: 51
 in_office: true
 photo_url: "https://friendsoftonyisa.com/wp-content/uploads/2023/12/Tony_Cutout.png"
 contact:

@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 23
+district: 23
 in_office: true
 contact:
   website: "https://openstates.org/person/bill-fincher-7N9KhnJhLvonDRhyYZR3nv/"

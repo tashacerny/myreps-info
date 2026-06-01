@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2024/senate/grady_amy.jpg"
 contact:

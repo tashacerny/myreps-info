@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 27
+district: Hillsborough
 in_office: true
 photo_url: "https://www.marymurphynh.com/__static/f58f47d1-c80b-4bd0-84ac-d2baddf9754f/image_desktop"
 contact:

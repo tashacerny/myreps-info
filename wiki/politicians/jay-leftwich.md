@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 90
+district: 90
 in_office: true
 photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0262"
 contact:

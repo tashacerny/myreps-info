@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 1
+district: 1
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2021/senate/weld_ryan.jpg"
 contact:

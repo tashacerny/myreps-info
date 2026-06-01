@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 5
+district: 5
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/sparks.jpg"
 contact:

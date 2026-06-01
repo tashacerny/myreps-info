@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 19
+district: 19
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Hall_19.png"
 contact:

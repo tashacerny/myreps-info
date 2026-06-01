@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/HATATHLIE.jpg"
 contact:

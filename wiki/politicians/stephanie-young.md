@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 16
+district: 16
 in_office: true
 contact:
   website: "https://openstates.org/person/stephanie-young-77pEHPWWt4DhZSf4S0qGsE/"

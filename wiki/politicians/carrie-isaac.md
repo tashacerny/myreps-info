@@ -6,6 +6,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 73
+district: 73
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4265.jpg?v=3"
 contact:

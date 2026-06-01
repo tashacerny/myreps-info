@@ -6,6 +6,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 24
+district: 24
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2026RS/images/coley01.jpg"
 contact:

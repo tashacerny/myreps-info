@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 15
+district: 15
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Beth_Luther_Waldo.jpeg"
 contact:

@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 91
+district: 91
 in_office: true
 photo_url: "https://www.kslegislature.gov/li/s/images/pics/rep_bergquist_emil_1.jpg"
 contact:

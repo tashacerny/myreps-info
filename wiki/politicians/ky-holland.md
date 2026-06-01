@@ -6,6 +6,7 @@ state: AK
 level: state
 chamber: House
 office: AK State House, District 9
+district: 9
 in_office: true
 photo_url: "https://kyholland.com/wp-content/uploads/2024/04/Ky-headshot-new.jpeg"
 contact:

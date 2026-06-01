@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 25
+district: Rockingham
 in_office: true
 photo_url: "https://mcdonnellforsalem.files.wordpress.com/2022/05/img-8527.jpg?w=1024"
 contact:

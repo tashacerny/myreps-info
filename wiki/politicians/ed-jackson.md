@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: Senate
 office: TN State Senate, District 25
+district: 25
 in_office: true
 photo_url: "https://capitol.tn.gov/senate/members/images/S25.jpg"
 contact:

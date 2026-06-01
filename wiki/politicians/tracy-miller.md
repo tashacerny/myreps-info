@@ -7,6 +7,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 45
+district: 45
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tracy_Miller.jpeg"
 contact:

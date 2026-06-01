@@ -6,6 +6,7 @@ state: KY
 level: state
 chamber: House
 office: KY State House, District 85
+district: 85
 in_office: true
 photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house85.jpg"
 contact:

@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 142
+district: 142
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Dathan/images/Dathan_HS.jpg"
 contact:

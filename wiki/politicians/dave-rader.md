@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 39
+district: 39
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Rader%2C%20Dave%20Flags%202022.jpg"
 contact:

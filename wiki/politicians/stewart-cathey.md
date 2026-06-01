@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 33
+district: 33
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen33.jpg"
 contact:

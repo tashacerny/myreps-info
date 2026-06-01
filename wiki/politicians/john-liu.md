@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/liu-760-article-photonysenate.jpg?itok=Nyrv_a2O"
 contact:

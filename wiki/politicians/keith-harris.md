@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 195
+district: 195
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-public-general/legislative-people-photos/150757.jpg"
 contact:

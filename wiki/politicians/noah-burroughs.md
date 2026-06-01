@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 18
+district: 18
 in_office: true
 photo_url: "https://www.villageofhempstead.org/ImageRepository/Document?documentID=14368"
 contact:

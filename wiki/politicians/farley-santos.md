@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 109
+district: 109
 in_office: true
 contact:
   website: "https://openstates.org/person/farley-santos-5euPp5tYvliH9sBZMFEjwC/"

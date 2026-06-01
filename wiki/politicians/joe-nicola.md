@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoeNicola2023.jpeg"
 contact:

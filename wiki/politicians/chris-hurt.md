@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 82
+district: 82
 in_office: true
 photo_url: "https://capitol.tn.gov/house/members/images/H82.jpg"
 contact:

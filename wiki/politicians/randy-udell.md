@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 47
+district: 47
 in_office: true
 photo_url: "https://bloximages.chicago2.vip.townnews.com/captimes.com/content/tncms/assets/v3/editorial/c/7b/c7b832ac-dbcf-11ee-ab35-771e1438be52/65e88e3c05aed.image.jpg?crop=1163%2C871%2C26%2C52&resize=668%2C500&order=crop%2Cresize"
 contact:

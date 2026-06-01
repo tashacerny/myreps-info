@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 84
+district: 84
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{96E18070-8D3D-4EEC-8432-8A30FEC19E5C}.jpg"
 contact:

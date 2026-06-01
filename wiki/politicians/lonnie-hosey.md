@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 91
+district: 91
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0874999895.jpg"
 contact:

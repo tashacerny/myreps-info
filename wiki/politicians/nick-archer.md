@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 55
+district: 55
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Archer,%20Nick.jpg"
 contact:

@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Addison
+district: Addison
 in_office: true
 photo_url: "https://addisonindymediaoffload.s3.amazonaws.com/wp-content/uploads/2024/07/11101738/Steven-Hefernan_4455-619x1024.jpg"
 contact:

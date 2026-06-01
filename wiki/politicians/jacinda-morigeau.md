@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 46
+district: 46
 in_office: true
 photo_url: "https://cdn.runforsomething.net/candidates/2024/05/campaign/190178bc3c51a6be225f4f2a711a5814.jpg"
 contact:

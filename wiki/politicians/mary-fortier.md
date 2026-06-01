@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 79
+district: 79
 in_office: true
 contact:
   website: "https://openstates.org/person/mary-fortier-6gSSOlw7RL6x8itXxyQwAv/"

@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 32
+district: 32
 in_office: true
 contact:
   website: "https://openstates.org/person/katie-brennan-4sUIzQnPzRMK7gVF4yjuR2/"

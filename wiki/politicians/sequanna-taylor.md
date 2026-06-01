@@ -6,6 +6,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 11
+district: 11
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/IMG_5830-min.JPG"
 contact:

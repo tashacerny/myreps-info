@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Stewart%2C%20Jack%20Flags%202022.jpg"
 contact:

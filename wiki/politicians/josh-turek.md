@@ -7,6 +7,7 @@ state: IA
 level: state
 chamber: House
 office: IA State House, District 20
+district: 20
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33969"
 contact:

@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 141
+district: 141
 in_office: true
 photo_url: "https://static.wixstatic.com/media/530e0b_df591691a465401684e3625621398fd5~mv2.jpg/v1/fill/w_952,h_721,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/530e0b_df591691a465401684e3625621398fd5~mv2.jpg"
 contact:

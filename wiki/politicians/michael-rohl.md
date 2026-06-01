@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/rohl,%20michael%20sen-2772%20full%20rt.webp"
 contact:

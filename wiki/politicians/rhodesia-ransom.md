@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 13
+district: 13
 in_office: true
 photo_url: "https://ca.emergeamerica.org/wp-content/uploads/sites/4/2023/01/Rhodesia-Ransom.jpg"
 contact:

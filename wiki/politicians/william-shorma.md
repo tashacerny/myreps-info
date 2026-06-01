@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 17
+district: 17
 in_office: true
 photo_url: "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/shorma,%20william%20rep-1194%20rt.webp"
 contact:

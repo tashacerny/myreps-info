@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Cheshire 7
+district: Cheshire
 in_office: true
 photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Terri-ORorke-768x1024.jpeg"
 contact:

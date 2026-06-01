@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 93
+district: 93
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Clouse_93.png"
 contact:

@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 27
+district: 27
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{170C17F3-38A1-42E5-B222-020B43077D53}.jpg"
 contact:

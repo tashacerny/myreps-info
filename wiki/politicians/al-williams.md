@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 168
+district: 168
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/williams-al-230.jpg"
 contact:

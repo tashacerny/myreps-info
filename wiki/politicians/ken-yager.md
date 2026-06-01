@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: Senate
 office: TN State Senate, District 12
+district: 12
 in_office: true
 photo_url: "http://www.capitol.tn.gov/senate/members/images/s12.jpg"
 contact:

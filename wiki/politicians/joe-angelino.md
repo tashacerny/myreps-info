@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 121
+district: 121
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/121/headshot/121.jpg?hst=1660074724"
 contact:

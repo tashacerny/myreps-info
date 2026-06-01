@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Rutland-3
+district: Rutland
 in_office: true
 photo_url: "https://vtdigger.org/wp-content/uploads/2025/01/zachary-harvey.jpg"
 contact:

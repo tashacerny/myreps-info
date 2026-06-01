@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 91
+district: 91
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Kannady,%20Chris.jpg"
 contact:

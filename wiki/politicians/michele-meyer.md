@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 150
+district: 150
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/b1004d88-844a-4d6d-9e4a-e6a329b430c9_meyer.jpg"
 contact:

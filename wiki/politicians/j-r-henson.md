@@ -6,6 +6,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 19
+district: 19
 in_office: true
 photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0365"
 contact:

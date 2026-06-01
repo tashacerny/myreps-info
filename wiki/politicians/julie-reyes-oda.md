@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 40
+district: 40
 in_office: true
 photo_url: "https://i0.wp.com/thefilipinochronicle.com/wp-content/uploads/2024/07/Julie-Reyes-Oda-scaled.jpg?resize=733%2C1024&ssl=1"
 contact:

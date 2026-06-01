@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 14
+district: 14
 in_office: true
 photo_url: "https://cga.ct.gov/legpics/014.png?ver="
 contact:

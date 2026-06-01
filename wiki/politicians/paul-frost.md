@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 7th Worcester
+district: 7th
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Paul-Frost.jpg"
 contact:

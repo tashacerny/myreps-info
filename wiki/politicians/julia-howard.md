@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 77
+district: 77
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/53/Low"
 contact:

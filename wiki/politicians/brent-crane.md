@@ -7,6 +7,7 @@ state: ID
 level: state
 chamber: House
 office: ID State House, District 13A
+district: 13A
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Crane21.jpg"
 contact:

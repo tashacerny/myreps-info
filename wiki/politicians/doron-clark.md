@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 60
+district: 60
 in_office: true
 photo_url: "https://www.senate.mn/graphics/60Clark.jpg"
 contact:

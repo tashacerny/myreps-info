@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 38
+district: 38
 in_office: true
 photo_url: "http://www.starkvilledailynews.com/sites/default/files/styles/galleria_zoom/public/field/image/TAYLOR%20MUG_0.png?itok=jRnUfeN0"
 contact:

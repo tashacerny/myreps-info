@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Carroll 3
+district: Carroll
 in_office: true
 photo_url: "https://lh3.googleusercontent.com/9PpyqvnxL-_EDZreC-j_BhwrWNQfFmzOa0LJZZN3ZQb2bQL1-4-Ydqb5dIDmBNVw_-wH7o1IHIJLT9umwqybtvBFcceDHPTFOlxETjMyktrePP02rsizB4FAIzDsy9AFWA=w1280"
 contact:

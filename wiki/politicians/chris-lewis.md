@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: House
 office: KY State House, District 29
+district: 29
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ChrisLewis2024.jpeg"
 contact:

@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: Senate
 office: HI State Senate, District 4
+district: 4
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/richards.jpg"
 contact:

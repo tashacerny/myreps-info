@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 9
+district: 9
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Frix,%20Avery.jpg"
 contact:

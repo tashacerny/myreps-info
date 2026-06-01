@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep67.jpg"
 contact:

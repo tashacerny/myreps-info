@@ -6,6 +6,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 26
+district: 26
 in_office: true
 photo_url: "https://sheehanforassembly.com/wp-content/uploads/2024/08/Joe_Sheehan-scaled-e1724167126836-1024x825.jpeg"
 contact:

@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: Senate
 office: NV State Senate, District 2
+district: 2
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Flores.Edgar.273.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 18
+district: 18
 in_office: true
 contact:
   website: "https://openstates.org/person/llew-jones-7Dfe6axe6vP2aIFmAwRvh7/"

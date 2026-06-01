@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 111
+district: 111
 in_office: true
 photo_url: "https://cdn.ballotpedia.org/images/thumb/0/06/Yvonne_Davis.jpg/200px-Yvonne_Davis.jpg"
 contact:

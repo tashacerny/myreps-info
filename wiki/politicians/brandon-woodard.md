@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 108
+district: 108
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_woodard_brandon_1.jpg"
 contact:

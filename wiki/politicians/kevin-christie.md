@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Windsor-6
+district: Windsor
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/KChristie.jpg"
 contact:

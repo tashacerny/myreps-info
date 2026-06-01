@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 90
+district: 90
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/draper-saira-5038.jpg"
 contact:

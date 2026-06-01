@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: Senate
 office: NH State Senate, District 12
+district: 12
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50507.jpg"
 contact:

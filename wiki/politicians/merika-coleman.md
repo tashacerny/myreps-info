@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Coleman_19.png"
 contact:

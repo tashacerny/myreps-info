@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 53
+district: 53
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/157772.jpg"
 contact:

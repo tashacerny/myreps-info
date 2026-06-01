@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 20
+district: 20
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{BD3836AC-CD0C-4E20-AD4C-1F2AEA56A8A2}.jpg"
 contact:

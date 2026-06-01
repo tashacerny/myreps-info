@@ -7,6 +7,7 @@ state: AR
 level: state
 chamber: Senate
 office: AR State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/339_sm.jpg"
 contact:

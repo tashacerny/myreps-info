@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 11
+district: 11
 in_office: true
 photo_url: "https://i0.wp.com/lettsgoohio.com/wp-content/uploads/2024/07/Meet-Crystal.webp?resize=674%2C1024&ssl=1"
 contact:

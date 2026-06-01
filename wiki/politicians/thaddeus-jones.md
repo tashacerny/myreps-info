@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 29
+district: 29
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{6EE82A11-2CC6-48E9-9DE6-61D83EBCAB6B}.jpg"
 contact:

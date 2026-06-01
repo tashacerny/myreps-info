@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 29
+district: 29
 in_office: true
 contact:
   website: "https://openstates.org/person/mike-moon-233tPwN2d0cpPAvE8klXM1/"

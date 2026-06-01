@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 18
+district: 18
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/smvetter2023.jpg?itok=Wpd0aojC"
 contact:

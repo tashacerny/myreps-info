@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 100
+district: 100
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/clark-david-867.jpg"
 contact:

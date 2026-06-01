@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Washington
+district: Washington
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Cummings,Ann%20064.jpg"
 contact:

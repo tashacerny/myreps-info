@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://nicolefornm.com/wp-content/uploads/2023/06/Nicole-Tobiassen-Headshot-3-768x512.jpg"
 contact:

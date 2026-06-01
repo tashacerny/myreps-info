@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 17
+district: 17
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HBORR.jpg"
 contact:

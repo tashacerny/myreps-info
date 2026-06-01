@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/senate/mccaughn.jpg"
 contact:

@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Goodwin,%20Regina.jpg"
 contact:

@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 49
+district: 49
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{F62525B8-2C23-49B7-AAB8-EFA6AE575F68}.jpg"
 contact:

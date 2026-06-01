@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 33
+district: 33
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/harrington-matt.jpg"
 contact:

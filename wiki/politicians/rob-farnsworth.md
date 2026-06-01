@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://www.senate.mn/graphics/07Farnsworth.jpg"
 contact:

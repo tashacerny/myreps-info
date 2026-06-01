@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 94
+district: 94
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{07D3914D-440A-4891-99AE-256F657BBFFF}.jpg"
 contact:

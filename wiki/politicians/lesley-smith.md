@@ -7,6 +7,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 49
+district: 49
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lesley_Smith_20230524_083227.jpg"
 contact:

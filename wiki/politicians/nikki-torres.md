@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/34047.jpg"
 contact:

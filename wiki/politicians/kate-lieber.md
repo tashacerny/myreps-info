@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/lieber/PublishingImages/member_photo.jpg"
 contact:

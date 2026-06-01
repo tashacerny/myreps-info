@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Grafton 9
+district: Grafton
 in_office: true
 photo_url: "https://www.nhnonprofits.org/sites/default/files/profile-photos/consultants/ThomasPOppel%20Close%20Up.jpeg"
 contact:

@@ -7,6 +7,7 @@ state: LA
 level: state
 chamber: House
 office: LA State House, District 7
+district: 7
 in_office: true
 photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep7.jpg"
 contact:

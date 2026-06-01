@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 105
+district: 105
 in_office: true
 photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2021/01/HS_BORTON_0121_NSC_7600-scaled.jpg"
 contact:

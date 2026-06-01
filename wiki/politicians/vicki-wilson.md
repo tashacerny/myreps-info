@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 9
+district: Rockingham
 in_office: true
 contact:
   website: "https://openstates.org/person/vicki-wilson-7FRnkzd0zLVXeCyZXab4Ob/"

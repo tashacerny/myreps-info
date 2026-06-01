@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 46
+district: 46
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/Pictures/shallcross%20smith.jpg"
 openstates_id: ocd-person/20543a6c-f763-4297-a19b-c670fbe8a68b

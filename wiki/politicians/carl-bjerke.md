@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 5
+district: 5
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Bjerke7796.jpg"
 contact:

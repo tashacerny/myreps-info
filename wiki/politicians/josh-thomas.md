@@ -6,6 +6,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 21
+district: 21
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Thomas_Headshot_HiRes-1-edited-1536x1536.jpg"
 contact:

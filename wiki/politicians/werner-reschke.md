@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 55
+district: 55
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/reschke/PublishingImages/member_photo.jpg"
 contact:

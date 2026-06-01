@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 39
+district: 39
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2026RS/images/acevero01.jpg"
 contact:

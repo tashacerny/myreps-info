@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 47
+district: 47
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/401180/401180.jpg"
 contact:

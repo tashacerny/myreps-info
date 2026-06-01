@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 76
+district: 76
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/McNamara_mainlist2.png"
 contact:

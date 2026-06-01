@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0356818139.jpg"
 contact:

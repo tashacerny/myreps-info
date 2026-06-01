@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://senatedems.com/wojno/wp-content/uploads/sites/3/2023/01/MDS_Wojno_OfficialPortrait.jpg"
 contact:

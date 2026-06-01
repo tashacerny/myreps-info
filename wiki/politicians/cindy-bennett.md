@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 4
+district: Rockingham
 in_office: true
 photo_url: "https://raymondrepublicans.com/wp-content/uploads/Bennett-Headshot.jpg"
 contact:

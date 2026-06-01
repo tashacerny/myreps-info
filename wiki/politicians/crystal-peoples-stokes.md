@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 141
+district: 141
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/141/headshot/141.jpg?hst=1660074942"
 contact:

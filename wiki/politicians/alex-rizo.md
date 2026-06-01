@@ -6,6 +6,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 112
+district: 112
 in_office: true
 photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4796.jpg"
 contact:

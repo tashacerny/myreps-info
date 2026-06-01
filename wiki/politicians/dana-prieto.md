@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Prieto%2C%20Dana%20Flags%202022.jpg"
 contact:

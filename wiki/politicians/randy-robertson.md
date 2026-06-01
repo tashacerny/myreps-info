@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/robertson-randy-4926.jpg"
 contact:

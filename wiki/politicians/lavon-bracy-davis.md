@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4874.jpg"
 contact:

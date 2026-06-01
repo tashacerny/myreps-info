@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: Senate
 office: TN State Senate, District 7
+district: 7
 in_office: true
 photo_url: "http://www.capitol.tn.gov/senate/members/images/s7.jpg"
 contact:

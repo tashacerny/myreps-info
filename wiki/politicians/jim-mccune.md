@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/2584.jpg"
 contact:

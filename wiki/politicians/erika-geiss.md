@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://senatedems.com/geiss/wp-content/uploads/sites/7/2022/12/MDS_Geiss_DSC5413.jpg"
 contact:

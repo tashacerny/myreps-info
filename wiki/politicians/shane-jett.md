@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Jett%2C%20Shane_flags.jpg"
 contact:

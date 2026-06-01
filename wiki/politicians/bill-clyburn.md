@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 82
+district: 82
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0363636320.jpg"
 contact:

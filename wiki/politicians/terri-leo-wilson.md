@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 23
+district: 23
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4290.jpg?v=1"
 contact:

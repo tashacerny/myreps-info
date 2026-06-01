@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Smith_jamie_2019.jpg"
 contact:

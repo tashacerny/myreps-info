@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 37
+district: 37
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Speaker_Huston_Lister.png"
 contact:

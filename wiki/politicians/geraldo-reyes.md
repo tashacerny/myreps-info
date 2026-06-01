@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 75
+district: 75
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Reyes/images/Reyes_HS.jpg"
 contact:

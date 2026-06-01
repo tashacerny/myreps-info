@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 1
+district: 1
 in_office: true
 photo_url: "https://www.southamptontownny.gov/ImageRepository/Document?documentID=19829"
 contact:

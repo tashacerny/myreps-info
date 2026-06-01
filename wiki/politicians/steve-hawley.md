@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 139
+district: 139
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/139/headshot/139.jpg?hst=1660074922"
 contact:

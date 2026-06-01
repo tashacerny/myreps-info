@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 1
+district: 1
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-public-general/legislative-people-photos/149765.jpg"
 contact:

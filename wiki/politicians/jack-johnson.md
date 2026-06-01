@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: Senate
 office: TN State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://bloximages.newyork1.vip.townnews.com/williamsonherald.com/content/tncms/assets/v3/editorial/b/5f/b5ffcba0-f751-11e8-8648-bf381c197480/5c05b9b74599d.image.jpg?resize=334%2C500"
 contact:

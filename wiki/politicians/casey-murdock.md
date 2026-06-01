@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/murdock.jpg"
 contact:

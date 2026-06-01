@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 89
+district: 89
 in_office: true
 contact:
   website: "https://openstates.org/person/mark-thane-346bCwXgZT4IQ4ZeOCj0AF/"

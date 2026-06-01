@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 22
+district: 22
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/darnell-t-brewer/headshots/thumbnails/medium/darnell-t-brewer-january-2023-headshot_medium.jpg"
 contact:

@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 40
+district: Hillsborough
 in_office: true
 photo_url: "https://i0.wp.com/healthequitystrategiesllc.com/wp-content/uploads/2021/06/trini-headshot-pink.jpeg"
 contact:

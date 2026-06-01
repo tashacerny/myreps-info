@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 52
+district: 52
 in_office: true
 photo_url: "https://www.kslegislature.gov/li/s/images/pics/rep_borjon_jesse_1.jpg"
 contact:

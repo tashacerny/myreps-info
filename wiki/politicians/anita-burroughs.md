@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Carroll 2
+district: Carroll
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73100.jpg"
 contact:

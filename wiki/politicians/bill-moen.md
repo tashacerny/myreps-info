@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 5
+district: 5
 in_office: true
 contact:
   website: "https://openstates.org/person/bill-moen-vlRF4P2Hoe3a7so0FVDEn/"

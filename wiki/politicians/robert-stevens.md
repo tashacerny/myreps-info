@@ -6,6 +6,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 13
+district: 13
 in_office: true
 photo_url: "https://capitol.tn.gov/house/members/images/H13.jpg"
 contact:

@@ -7,6 +7,7 @@ state: PA
 level: state
 chamber: Senate
 office: PA State Senate, District 44
+district: 44
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/1802.jpg?1703415645672"
 contact:

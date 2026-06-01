@@ -6,6 +6,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 37
+district: 37
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4295.jpg?v=2"
 contact:

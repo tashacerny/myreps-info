@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 122
+district: 122
 in_office: true
 photo_url: "https://chambermaster.blob.core.windows.net/images/customers/1593/representatives/11391/400x400/Lon+Pishny_2640500.jpg"
 contact:

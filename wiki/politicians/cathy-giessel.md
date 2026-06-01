@@ -7,6 +7,7 @@ state: AK
 level: state
 chamber: Senate
 office: AK State Senate, District E
+district: E
 in_office: true
 photo_url: "http://akleg.gov/images/legislators/450x600/GIE.jpg"
 contact:

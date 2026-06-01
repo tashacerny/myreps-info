@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 90
+district: 90
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/12533ded-aef6-4f67-a45a-d9c25b51d38a_Libby.jpg"
 contact:

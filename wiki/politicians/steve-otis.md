@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 91
+district: 91
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/091/headshot/091.jpg?hst=1661545963"
 contact:

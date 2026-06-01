@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/stewart-harold-trey-1.jpg"
 contact:

@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 95
+district: 95
 in_office: true
 photo_url: "https://www.iredellfreenews.com/wp-content/uploads/2023/12/Todd-Carver.jpg.webp"
 contact:

@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 15
+district: 15
 in_office: true
 contact:
   website: "https://openstates.org/person/gregg-hunter-1zn5zMjrTa6i7moouMkuxJ/"

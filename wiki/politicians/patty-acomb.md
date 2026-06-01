@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 45B
+district: 45B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/45B.gif"
 contact:

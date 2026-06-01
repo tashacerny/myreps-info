@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: Senate
 office: NC State Senate, District 41
+district: 41
 in_office: true
 photo_url: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST0VSf38rEGBD-siclt6NuNe1QJ5F0bSq2yeTZaPl6B5jN6UixO_XTlOxWxObcJM0wmNgic4MjyZBFddFBYaj7sg"
 contact:

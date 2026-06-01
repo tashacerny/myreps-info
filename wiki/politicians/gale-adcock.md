@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: Senate
 office: NC State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/S/436/Low"
 contact:

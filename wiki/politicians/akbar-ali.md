@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 106
+district: 106
 in_office: true
 contact:
   website: "https://openstates.org/person/akbar-ali-4URHsTMjgEKtsaCFgjd7NV/"

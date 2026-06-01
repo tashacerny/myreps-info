@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 48
+district: 48
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hilton-scott-4899.jpg"
 contact:

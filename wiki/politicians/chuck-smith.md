@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 3
+district: 3
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_smith_charles_1.jpg"
 contact:

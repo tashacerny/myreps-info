@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: House
 office: KY State House, District 6
+district: 6
 in_office: true
 photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house6.jpg"
 contact:

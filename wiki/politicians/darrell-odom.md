@@ -6,6 +6,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 27A
+district: 27A
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2026RS/images/odom01.jpg"
 contact:

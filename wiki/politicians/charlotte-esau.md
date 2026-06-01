@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 14
+district: 14
 in_office: true
 photo_url: "https://jcrpks.org/wp-content/uploads/2024/07/MbZyrxoRqtLO-EsauMediaHeadshot-3-668x900.jpg"
 contact:

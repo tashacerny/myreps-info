@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: House
 office: LA State House, District 60
+district: 60
 in_office: true
 photo_url: "https://ibervilleparish.com/wp-content/uploads/District-10-Chasity-Martinez.png"
 contact:

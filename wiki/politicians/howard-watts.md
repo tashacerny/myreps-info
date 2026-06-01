@@ -7,6 +7,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 15
+district: 15
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Watts.Howard.363.jpg"
 contact:

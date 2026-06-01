@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 39
+district: 39
 in_office: true
 photo_url: "https://cdn.zephyrcms.com/0b9f559d-7c9e-4d33-b1c8-5d4f3543c195/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/bassler.jpg"
 contact:

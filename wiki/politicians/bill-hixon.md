@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 83
+district: 83
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0849715808.jpg"
 contact:

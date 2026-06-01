@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 10th Plymouth
+district: 10th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MMD1.jpg"
 contact:

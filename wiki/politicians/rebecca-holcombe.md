@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Windsor-Orange-2
+district: Windsor
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rebecca_Holcombe_.png"
 contact:

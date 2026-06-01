@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 7
+district: 7
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/007/headshot/007.jpg?hst=1660072714"
 contact:

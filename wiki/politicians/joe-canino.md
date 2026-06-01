@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 65
+district: 65
 in_office: true
 photo_url: "http://ctlobby.com/wp-content/uploads/2022/03/Joe-Headshot-BW.png"
 contact:

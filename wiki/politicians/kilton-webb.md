@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 98
+district: 98
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/813534/813534.jpg"
 contact:

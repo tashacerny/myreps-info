@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 74
+district: 74
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Bartels_Main_List.jpg"
 contact:

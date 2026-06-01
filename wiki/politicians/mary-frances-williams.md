@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 37
+district: 37
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/williams-mary-frances-4938.jpg"
 contact:

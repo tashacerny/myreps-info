@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 47
+district: 47
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/STRONMA.jpg"
 contact:

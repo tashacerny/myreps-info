@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 55
+district: 55
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{CE75DC7E-2CD4-4D01-B697-C2866F828E25}.jpg"
 contact:

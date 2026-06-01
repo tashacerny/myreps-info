@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 63
+district: 63
 in_office: true
 contact:
   website: "https://openstates.org/person/paul-flynn-7lsn5w4OV4OXg8pWGiaVtN/"

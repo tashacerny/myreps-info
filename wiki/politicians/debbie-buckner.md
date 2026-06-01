@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 137
+district: 137
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/buckner-debbie-71.jpg"
 contact:

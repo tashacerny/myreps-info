@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 87
+district: 87
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/c6b23ace-404f-4ba8-9f4d-c551acec8ca5_DBOYER.jpg"
 contact:

@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 49
+district: 49
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/adkins_stanley.jpg"
 contact:

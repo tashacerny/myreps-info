@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 69
+district: 69
 in_office: true
 photo_url: "https://miro.medium.com/v2/resize:fit:2400/1*RmYHrIhRgeB_DrSfcfLOxw.jpeg"
 contact:

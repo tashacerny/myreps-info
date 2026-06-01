@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 1A
+district: 1A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/01A.gif"
 contact:

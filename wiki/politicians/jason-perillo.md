@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://www.cga.ct.gov/legpics/113.png?ver="
 contact:

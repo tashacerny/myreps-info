@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 14
+district: 14
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/Smith_Vernon_web_2020_800_999_80.jpg"
 contact:

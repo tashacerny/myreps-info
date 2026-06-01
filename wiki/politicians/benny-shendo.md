@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SSHEN.jpg"
 contact:

@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 83
+district: 83
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Gray_83.png"
 contact:

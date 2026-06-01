@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 49
+district: 49
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/house/bailey_(49th).jpg"
 contact:

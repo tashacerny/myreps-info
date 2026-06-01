@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 44
+district: 44
 in_office: true
 photo_url: "https://www.cga.ct.gov/legpics/044.png?ver="
 contact:

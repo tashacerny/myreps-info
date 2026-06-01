@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 42
+district: 42
 in_office: true
 photo_url: "https://static1.squarespace.com/static/661c4ad59cca8c36cee06052/t/6630dc1cdd4eb0334f4f6768/1714478116835/MaureenMcCarville_AD42_Headshot.JPG"
 contact:

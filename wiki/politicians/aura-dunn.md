@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 25
+district: 25
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/dunn_aura_2020.jpg"
 contact:

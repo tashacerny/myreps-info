@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: Senate
 office: VA State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://apps.dlas.virginia.gov/senatepics/newbiopics/Lucas2018.jpg"
 contact:

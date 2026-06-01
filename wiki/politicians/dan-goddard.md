@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 7
+district: 7
 in_office: true
 photo_url: "http://www.kslegislature.org/li/s/images/pics/rep_goddard_dan_1.jpg"
 contact:

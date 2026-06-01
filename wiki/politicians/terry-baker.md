@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 1C
+district: 1C
 in_office: true
 photo_url: "https://msa.maryland.gov/msa/mdmanual/36loc/wa/leg/images/1198-1-09528b.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 48
+district: 48
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/white.jpg"
 contact:

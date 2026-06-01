@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: Senate
 office: VA State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Obenshain2"
 contact:

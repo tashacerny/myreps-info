@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 14
+district: 14
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/LISONK.jpg"
 contact:

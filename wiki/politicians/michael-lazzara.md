@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: Senate
 office: NC State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/S/426/Low"
 contact:

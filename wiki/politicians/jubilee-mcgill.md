@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Addison-5
+district: Addison
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/McGill,Jubilee.jpg"
 contact:

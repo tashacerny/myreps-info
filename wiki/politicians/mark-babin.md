@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 3
+district: 3
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/05fa532f-1a27-4521-af69-ceecf5c3311e_BABIN.jpg"
 contact:

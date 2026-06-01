@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 58
+district: 58
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2023/house/hall_walter.jpg"
 contact:

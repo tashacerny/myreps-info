@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 12
+district: 12
 in_office: true
 photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_12.jpg"
 contact:

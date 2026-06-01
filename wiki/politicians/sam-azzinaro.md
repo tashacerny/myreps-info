@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 37
+district: 37
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/azzinaro.jpg"
 openstates_id: ocd-person/c9229f5a-b4ac-4cf2-b227-a0b4e56cca2f

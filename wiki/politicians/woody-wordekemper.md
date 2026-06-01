@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 15
+district: 15
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164427.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 36A
+district: 36A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/36A.gif?v=112221"
 contact:

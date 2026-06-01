@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Bennington-5
+district: Bennington
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Michael-Nigro.jpg"
 contact:

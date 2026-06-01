@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 52B
+district: 52B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/52B.gif?v=112221"
 contact:

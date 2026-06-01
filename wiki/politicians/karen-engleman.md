@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 70
+district: 70
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Engleman_mainlist.jpg"
 contact:

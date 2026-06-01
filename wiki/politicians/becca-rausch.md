@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Norfolk, Worcester and Middlesex
+district: Norfolk
 in_office: true
 photo_url: "https://www.brandeis.edu/now/2019/january/images/rausch620.jpg"
 contact:

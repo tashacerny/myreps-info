@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 5
+district: 5
 in_office: true
 photo_url: "https://senatedems.com/polehanki/wp-content/uploads/sites/11/2022/12/Polehanki-Official-Portrait.jpeg"
 contact:

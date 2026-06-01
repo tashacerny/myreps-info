@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 27
+district: 27
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/Klinker_updated_800_1036.png"
 contact:

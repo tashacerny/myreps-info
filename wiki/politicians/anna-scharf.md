@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 23
+district: 23
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/scharf/PublishingImages/member_photo.jpg"
 contact:

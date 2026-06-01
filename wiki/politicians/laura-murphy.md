@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{E8C6FBF1-611C-4DD5-A81D-F0FF8917556D}.jpg"
 contact:

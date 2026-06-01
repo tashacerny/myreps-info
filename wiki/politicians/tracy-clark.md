@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 57
+district: 57
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-public-general/legislative-people-photos/148017.jpg"
 contact:

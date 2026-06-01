@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 26
+district: 26
 in_office: true
 photo_url: "https://www.capitol.tn.gov/house/members/images/h26.jpg"
 contact:

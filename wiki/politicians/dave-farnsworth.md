@@ -7,6 +7,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/FARNSWORTH.jpg"
 contact:

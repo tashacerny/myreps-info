@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/dolezal-greg-4925.jpg"
 contact:

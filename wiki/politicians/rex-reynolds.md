@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 21
+district: 21
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Reynolds_21.png"
 contact:

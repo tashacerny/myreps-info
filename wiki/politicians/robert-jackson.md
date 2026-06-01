@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/01-03-19jackson-hs-048_2.jpg?itok=OXbnwl-9"
 contact:

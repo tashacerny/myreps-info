@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 13
+district: 13
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/29318.jpg"
 contact:

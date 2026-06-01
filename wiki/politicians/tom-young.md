@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 37
+district: 37
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/tom-young/headshots/thumbnails/medium/tom-young-january-2021-headshot_medium.jpg"
 contact:

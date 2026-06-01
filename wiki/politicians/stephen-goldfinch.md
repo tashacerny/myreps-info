@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0682386282.jpg"
 contact:

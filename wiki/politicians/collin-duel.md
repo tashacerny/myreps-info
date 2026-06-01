@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 31
+district: 31
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Duel,%20Collin.jpg"
 contact:

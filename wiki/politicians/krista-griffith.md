@@ -7,6 +7,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 12
+district: 12
 in_office: true
 photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2022/09/Griffith-headshot.jpg"
 contact:

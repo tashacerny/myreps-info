@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: Senate
 office: KY State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAwk-VsxWc9P7zUFu6kXXFswQiXfHR8HdEg&s"
 contact:

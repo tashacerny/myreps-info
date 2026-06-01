@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 12
+district: 12
 in_office: true
 photo_url: "http://www.scstatehouse.gov/images/members/0193181795.jpg"
 contact:

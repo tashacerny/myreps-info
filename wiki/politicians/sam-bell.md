@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: Senate
 office: RI State Senate, District 5
+district: 5
 in_office: true
 photo_url: "http://www.rilegislature.gov/Senators/Pictures/bell.jpg"
 openstates_id: ocd-person/8d466b6a-ea53-46bb-aa86-3131ac76533f

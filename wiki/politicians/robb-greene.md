@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 47
+district: 47
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Greene_Main_List.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 46
+district: 46
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/senate/Ladner.jpg"
 contact:

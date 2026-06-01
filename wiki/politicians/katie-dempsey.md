@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 13
+district: 13
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/dempsey-katie-92.jpg"
 contact:

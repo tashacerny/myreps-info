@@ -7,6 +7,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 72
+district: 72
 in_office: true
 photo_url: "http://www.arkleg.state.ar.us/assembly/2011/Member%20Pictures/Steele_t.jpg"
 contact:

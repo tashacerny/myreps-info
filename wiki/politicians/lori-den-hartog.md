@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Den%20Hartog3124.jpg"
 contact:

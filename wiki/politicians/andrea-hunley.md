@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 46
+district: 46
 in_office: true
 photo_url: "https://indianasenatedemocrats.org/wp-content/uploads/2022/12/Senator-Hunley_Hoosier-Profile-Pic-600x900-2.jpg"
 contact:

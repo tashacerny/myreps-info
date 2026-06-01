@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 7
+district: 7
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Bashore,%20Steve.jpg"
 contact:

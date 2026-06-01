@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 13
+district: Rockingham
 in_office: true
 photo_url: "https://vote-usa.org/Image.aspx?Id=NHLoveDavidC&Col=Profile300&Def=Profile300"
 contact:

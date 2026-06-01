@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 14
+district: 14
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/sean-p-brennan/headshots/thumbnails/medium/sean-p-brennan-january-2023-headshot_medium.jpg"
 contact:

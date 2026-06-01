@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/frederick/PublishingImages/member_photo.jpg"
 contact:

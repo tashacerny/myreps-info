@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Wintrow3139.jpg"
 contact:

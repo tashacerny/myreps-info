@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 78
+district: 78
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/OBrien_Mainlist2.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 54
+district: 54
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Steele-054.jpg"
 contact:

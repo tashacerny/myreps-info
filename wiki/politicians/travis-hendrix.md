@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 55
+district: 55
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Hendrix_55.png"
 contact:

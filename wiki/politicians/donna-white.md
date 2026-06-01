@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 26
+district: 26
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/728/Low"
 contact:

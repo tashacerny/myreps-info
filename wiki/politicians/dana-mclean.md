@@ -6,6 +6,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 39
+district: 39
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/mclean.jpg"
 contact:

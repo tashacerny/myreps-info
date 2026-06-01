@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 43
+district: 43
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/sanchez/PublishingImages/member_photo.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Jones_10.png"
 contact:

@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 92
+district: 92
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/092/headshot/092.jpg?hst=1672578886"
 contact:

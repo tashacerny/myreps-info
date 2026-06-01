@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/hart_craig.jpg"
 contact:

@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/3474.jpg"
 contact:

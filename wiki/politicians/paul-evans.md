@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 20
+district: 20
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/evans/PublishingImages/member_photo.jpg"
 contact:

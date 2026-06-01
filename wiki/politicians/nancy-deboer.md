@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 86
+district: 86
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/De Boer-086.jpg"
 contact:

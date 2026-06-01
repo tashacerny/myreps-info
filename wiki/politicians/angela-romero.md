@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 25
+district: 25
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/ROMERAY.jpg"
 contact:

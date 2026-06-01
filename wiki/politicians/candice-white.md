@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Washington-2
+district: Washington
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Candice_White_20240808_101349.jpeg"
 contact:

@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 80
+district: 80
 in_office: true
 photo_url: "https://victoryfund.org/wp-content/uploads/2024/08/Capital-Photos-Arm-on-hip-at-pillar-full-body-scaled-e1724799705880-500x500-250x250.jpg"
 contact:

@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 9
+district: 9
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Rojas/images/Rojas_HS.jpg"
 contact:

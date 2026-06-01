@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 92
+district: 92
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/currie.jpg"
 contact:

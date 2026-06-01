@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 27
+district: 27
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/frazier.jpg"
 contact:

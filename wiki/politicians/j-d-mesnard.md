@@ -7,6 +7,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/MESNARD.jpg"
 contact:

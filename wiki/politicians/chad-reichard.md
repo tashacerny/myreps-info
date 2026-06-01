@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 90
+district: 90
 in_office: true
 photo_url: "https://seventy.org/uploads/attachments/cly5z27ztjodi7xnpsnqhzmfb-screenshot-2024-07-03-at-11-07-37-am.0.29.1038.1099.max.png"
 contact:

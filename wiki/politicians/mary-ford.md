@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 3
+district: Rockingham
 in_office: true
 photo_url: "https://www.digitalequity.us/wp-content/uploads/2022/05/mary-ford-300x.png"
 contact:

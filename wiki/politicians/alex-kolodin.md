@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 3
+district: 3
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alexander_Kolodin.jpeg"
 contact:

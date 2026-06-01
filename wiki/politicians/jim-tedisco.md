@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 44
+district: 44
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/official_tedisco-hs.jpg?itok=4-C9InuB"
 contact:

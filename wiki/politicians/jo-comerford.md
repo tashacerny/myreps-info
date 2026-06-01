@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Hampshire, Franklin and Worcester
+district: Hampshire
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/JMC0.jpg"
 contact:

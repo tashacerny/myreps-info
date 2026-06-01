@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 128
+district: 128
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/jackson-mack-738.jpg"
 contact:

@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 25
+district: 25
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Pischke_2017.jpg"
 contact:

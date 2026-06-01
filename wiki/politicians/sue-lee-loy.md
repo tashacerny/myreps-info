@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 2
+district: 2
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SusanLeeLoy2024.png"
 contact:

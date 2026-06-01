@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 10
+district: 10
 in_office: true
 photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2536.jpg"
 contact:

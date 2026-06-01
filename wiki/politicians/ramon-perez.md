@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 13
+district: 13
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/Pictures/perez.jpg"
 openstates_id: ocd-person/181465b6-b392-4222-acec-456182d23aa5

@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://senatedems.com/santana/wp-content/uploads/sites/8/2022/12/Santana-Official-Portrait.jpeg"
 contact:

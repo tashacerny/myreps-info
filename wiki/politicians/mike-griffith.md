@@ -6,6 +6,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 35A
+district: 35A
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2020RS/images/griffith02.jpg"
 contact:

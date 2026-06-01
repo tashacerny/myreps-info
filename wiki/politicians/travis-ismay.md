@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 28B
+district: 28B
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Travis_Ismay_2025.jpg"
 contact:

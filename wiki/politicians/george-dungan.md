@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 26
+district: 26
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist26/highres/dist26.jpg"
 contact:

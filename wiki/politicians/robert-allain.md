@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen21.jpg"
 contact:

@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 66
+district: 66
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/10857e45-bb21-4dfb-92af-ab7059898dbe_nuttrw.jpg"
 contact:

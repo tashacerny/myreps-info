@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 102
+district: 102
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{EDDABDD8-51A3-413F-B2A0-FA5953D29598}.jpg"
 contact:

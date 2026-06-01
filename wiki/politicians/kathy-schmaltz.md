@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 46
+district: 46
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Schmaltz-046.jpg"
 contact:

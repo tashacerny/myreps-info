@@ -7,6 +7,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/ROGERS.jpg"
 contact:

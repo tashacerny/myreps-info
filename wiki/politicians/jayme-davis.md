@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 9
+district: 9
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/jdavis2023.jpg?itok=u9HL5YrU"
 contact:

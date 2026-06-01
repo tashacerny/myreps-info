@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 38
+district: 38
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/038/headshot/038.jpg?hst=1660073381"
 contact:

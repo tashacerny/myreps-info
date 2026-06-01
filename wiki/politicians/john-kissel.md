@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://cga.ct.gov/legpics/S07.png?ver="
 contact:

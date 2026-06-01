@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://senate.texas.gov/members/d20/img/Hinojosa_84-0784D-006.jpg"
 contact:

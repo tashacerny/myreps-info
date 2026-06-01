@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 110
+district: 110
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_rahjes_ken_1.jpg"
 contact:

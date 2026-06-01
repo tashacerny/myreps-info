@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 130
+district: 130
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Felipe/images/Felipe_HS.jpg"
 contact:

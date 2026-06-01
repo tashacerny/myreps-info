@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 48
+district: 48
 in_office: true
 contact:
   website: "https://openstates.org/person/mark-decaprio-2xOY1tl9Sa6ejpyJpJKslA/"

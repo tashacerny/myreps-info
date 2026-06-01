@@ -6,6 +6,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 42C
+district: 42C
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/stonko01.jpg"
 contact:

@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 49
+district: 49
 in_office: true
 photo_url: "https://www.rilegislature.gov/representatives/Pictures/Brien.jpg"
 openstates_id: ocd-person/89e9f600-0af5-471c-89bb-b27142def4c9

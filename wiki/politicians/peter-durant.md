@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Worcester and Hampshire
+district: Worcester
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PJD0.jpg"
 contact:

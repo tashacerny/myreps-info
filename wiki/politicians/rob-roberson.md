@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 43
+district: 43
 in_office: true
 photo_url: "https://robrobersonattorney.com/wp-content/uploads/2019/07/Rob-Roberson.jpg"
 contact:

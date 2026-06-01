@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2802-11-13%29%20Serrano-HS-028RET.jpg?itok=U6wrLa0A"
 contact:

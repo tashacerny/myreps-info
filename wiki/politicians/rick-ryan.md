@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 36
+district: 36
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{D636B7BF-6A7A-4F82-8429-018FF5E1CE36}.jpg"
 contact:

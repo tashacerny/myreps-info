@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 39
+district: 39
 in_office: true
 contact:
   website: "https://openstates.org/person/mark-meirath-5fBp8xijfftvqzLYzZMmG0/"

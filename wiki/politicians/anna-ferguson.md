@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 119
+district: 119
 in_office: true
 photo_url: "https://img.legistorm.com/people/562/207562.jpg?rand=35526"
 contact:

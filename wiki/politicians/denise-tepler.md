@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/da8c36fc-c7af-419a-b9a9-a0b4080be157_teplda[1].jpg"
 contact:

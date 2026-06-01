@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 35
+district: 35
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/fogarty.jpg"
 openstates_id: ocd-person/570c899e-34b2-4e30-93e2-79f588ff8aef

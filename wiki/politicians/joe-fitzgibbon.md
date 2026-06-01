@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 34
+district: 34
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/13198.jpg"
 contact:

@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 43
+district: 43
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/Pfaff-headshot-118_web_800_999_80.jpg"
 contact:

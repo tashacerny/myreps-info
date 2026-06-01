@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://www.senate.mo.gov/20web/wp-content/uploads/2020/01/010720-002-200x300.jpg"
 contact:

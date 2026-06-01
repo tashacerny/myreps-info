@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://npr.brightspotcdn.com/dims4/default/533a1d5/2147483647/strip/true/crop/1761x1084+0+0/resize/1760x1084!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F35%2F0ec3711f4b1ab8064a0a54363740%2Fchaplin.JPG"
 contact:

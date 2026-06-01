@@ -7,6 +7,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen18.jpg"
 contact:

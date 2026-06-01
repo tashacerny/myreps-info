@@ -6,6 +6,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 101
+district: 101
 in_office: true
 photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4895.jpg"
 contact:

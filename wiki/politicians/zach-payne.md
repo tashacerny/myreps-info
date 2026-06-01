@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 66
+district: 66
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Payne_Main_List.jpg"
 contact:

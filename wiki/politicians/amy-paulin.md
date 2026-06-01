@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 88
+district: 88
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/088/headshot/088.jpg?hst=1673464404"
 contact:

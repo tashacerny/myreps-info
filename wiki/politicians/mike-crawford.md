@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 31
+district: 31
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{C79CCD19-74A9-494F-BE14-E0D1E0A9D326}.jpg"
 contact:

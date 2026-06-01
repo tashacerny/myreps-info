@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 35
+district: 35
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/17221.jpg"
 contact:

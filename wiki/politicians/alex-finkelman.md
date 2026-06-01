@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 74
+district: 74
 in_office: true
 photo_url: "https://www.rilegislature.gov/representatives/Pictures/Alex%20Finkelman.jpg"
 openstates_id: ocd-person/202a1def-abb3-4f77-8ef1-5c453d2d5423

@@ -7,6 +7,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 28
+district: 28
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/NicholeenPeck2024c.jpg"
 contact:

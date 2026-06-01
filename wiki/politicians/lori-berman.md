@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 26
+district: 26
 in_office: true
 photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s26_5339.jpg"
 contact:

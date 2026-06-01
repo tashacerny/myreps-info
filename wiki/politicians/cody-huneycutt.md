@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 67
+district: 67
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/797923/797923.jpg"
 contact:

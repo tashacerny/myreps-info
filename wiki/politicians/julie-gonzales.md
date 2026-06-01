@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: Senate
 office: CO State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXBTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f26a08c473c6f23699613abea473f8b3120e976c/Gonzales,%20Julie.jpg"
 contact:

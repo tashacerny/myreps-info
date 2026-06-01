@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Hampden and Hampshire
+district: Hampden
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/jcv1.jpg"
 contact:

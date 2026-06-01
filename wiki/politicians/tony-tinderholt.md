@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 94
+district: 94
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3065.jpg?v=1"
 contact:

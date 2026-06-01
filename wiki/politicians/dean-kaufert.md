@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 53
+district: 53
 in_office: true
 photo_url: "http://legis.wisconsin.gov/sitecollectionimages/2013/asm55.jpeg"
 contact:

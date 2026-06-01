@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: Senate
 office: KS State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/sen_warren_kellie_1.jpg"
 contact:

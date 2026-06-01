@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/watson-ben-784.jpg"
 contact:

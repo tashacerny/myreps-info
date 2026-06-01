@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 3
+district: Hillsborough
 in_office: true
 photo_url: "https://d1fdloi71mui9q.cloudfront.net/wxHeDOlTmrng9JXrmHMA_PzA4v4H07EpaEbgi"
 contact:

@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 37B
+district: 37B
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/hutchinson01.jpg"
 contact:

@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://scdailygazette.com/wp-content/uploads/2024/06/image000001-682x1024.jpg"
 contact:

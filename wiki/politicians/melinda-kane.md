@@ -6,6 +6,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 6
+district: 6
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/168239.jpg"
 contact:

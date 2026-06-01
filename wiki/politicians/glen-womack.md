@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 32
+district: 32
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen32.jpg"
 contact:

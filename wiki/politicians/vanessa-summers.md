@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 99
+district: 99
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/banners/summers_updated_headshot_800_999_80.jpg"
 contact:

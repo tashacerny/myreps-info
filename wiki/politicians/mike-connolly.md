@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 26th Middlesex
+district: 26th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/M_C1.jpg"
 contact:

@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 66
+district: 66
 in_office: true
 photo_url: "https://assets.nationbuilder.com/carlinforkansas/pages/22/attachments/original/1473126263/IMG_0437.JPG?1473126263"
 contact:

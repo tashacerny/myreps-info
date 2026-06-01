@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 20
+district: 20
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/HERNANDEZ_A.jpg"
 contact:

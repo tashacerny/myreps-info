@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: House
 office: ID State House, District 26B
+district: 26B
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Nelsen7838.jpg"
 contact:

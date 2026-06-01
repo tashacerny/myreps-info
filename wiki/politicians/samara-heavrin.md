@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: House
 office: KY State House, District 18
+district: 18
 in_office: true
 photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house18.jpg"
 contact:

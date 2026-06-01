@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 34
+district: 34
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist34/highres/dist34.jpg"
 contact:

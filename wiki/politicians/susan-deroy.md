@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Strafford 3
+district: Strafford
 in_office: true
 photo_url: "https://www.citizenscount.org/sites/default/files/2024-07/susan-deroy.jpg"
 contact:

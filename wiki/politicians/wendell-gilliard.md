@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 111
+district: 111
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0675568101.jpg"
 contact:

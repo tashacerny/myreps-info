@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 40
+district: 40
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Robertson_40.png"
 contact:

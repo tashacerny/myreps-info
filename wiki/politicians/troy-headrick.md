@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Chittenden-15
+district: Chittenden
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Headrick,Troy%20010.jpg"
 contact:

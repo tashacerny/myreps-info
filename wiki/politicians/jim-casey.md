@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Addison-Rutland
+district: Addison
 in_office: true
 contact:
   website: "https://openstates.org/person/jim-casey-3P0DgIImXM3zSsVOI1Jmxt/"

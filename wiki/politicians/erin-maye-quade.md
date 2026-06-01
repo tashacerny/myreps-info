@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 56
+district: 56
 in_office: true
 photo_url: "https://www.senate.mn/graphics/56MayeQuade.jpg"
 contact:

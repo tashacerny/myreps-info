@@ -6,6 +6,7 @@ state: WI
 level: state
 chamber: Senate
 office: WI State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jodi_Habush_Sinykin.PNG"
 contact:

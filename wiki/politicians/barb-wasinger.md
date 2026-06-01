@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 111
+district: 111
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_wasinger_barbara_1.jpg"
 contact:

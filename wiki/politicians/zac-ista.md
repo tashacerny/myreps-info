@@ -7,6 +7,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 43
+district: 43
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/zmista2023.jpg?itok=KMVwRW52"
 contact:

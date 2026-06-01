@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 62
+district: 62
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/May262020913AM_80182230_B56A0395.jpg"
 contact:

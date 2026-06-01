@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 19
+district: 19
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/31525.jpg"
 contact:

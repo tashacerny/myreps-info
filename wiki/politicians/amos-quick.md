@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 58
+district: 58
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/725/Low"
 contact:

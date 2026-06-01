@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 63
+district: 63
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Caldwell,%20Trey.jpg"
 contact:

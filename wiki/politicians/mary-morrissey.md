@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Bennington-5
+district: Bennington
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/MMorrissey.jpg"
 contact:

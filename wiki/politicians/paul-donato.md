@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 35th Middlesex
+district: 35th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PJD1.jpg"
 contact:

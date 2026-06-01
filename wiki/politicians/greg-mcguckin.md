@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 10
+district: 10
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/mcguckin_gregory_2020.jpg"
 contact:

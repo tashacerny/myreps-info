@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Chittenden-Franklin
+district: Chittenden
 in_office: true
 photo_url: "https://3.files.edl.io/f264/22/08/30/162354-6ed2c7ed-c20a-4c29-a9b7-5c9e39e327f9.jpg"
 contact:

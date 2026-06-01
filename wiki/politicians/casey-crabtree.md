@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/crabtree_2020.jpg"
 contact:

@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 19
+district: 19
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_clayton_stephanie_1.jpg"
 contact:

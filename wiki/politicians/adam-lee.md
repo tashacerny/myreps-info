@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 89
+district: 89
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/cc770c67-4f1f-4e24-a168-4a359d33b108_ALEE.jpg"
 contact:

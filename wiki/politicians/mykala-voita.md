@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b0400d1-d3d8-4073-95b9-39e28c8c6203.heic"
 contact:

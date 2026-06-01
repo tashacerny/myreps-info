@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 41
+district: 41
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Crosswhite%20Hader,%20Denise.jpg"
 contact:

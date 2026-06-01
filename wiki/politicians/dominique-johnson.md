@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 143
+district: 143
 in_office: true
 contact:
   website: "https://openstates.org/person/dominique-johnson-6TT3Ve9uHm4GiHdLv20pf1/"

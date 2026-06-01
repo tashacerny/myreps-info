@@ -7,6 +7,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEW.jpg"
 contact:

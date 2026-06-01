@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 39
+district: 39
 in_office: true
 photo_url: "http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Osborn.Blayne.427.jpg"
 contact:

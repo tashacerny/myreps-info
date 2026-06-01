@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 118
+district: 118
 in_office: true
 photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4902.jpg"
 contact:

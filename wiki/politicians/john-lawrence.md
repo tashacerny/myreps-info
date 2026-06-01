@@ -7,6 +7,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 13
+district: 13
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/1215.jpg?1703415645672"
 contact:

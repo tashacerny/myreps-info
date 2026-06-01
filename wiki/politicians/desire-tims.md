@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 38
+district: 38
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/651c6aab7b083a0ae328c9b0/bdc196f5-d426-4103-bd2c-a29517a8e9cf/headshot+state+rep.JPG?format=500w"
 contact:

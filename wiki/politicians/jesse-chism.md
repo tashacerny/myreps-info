@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 85
+district: 85
 in_office: true
 photo_url: "https://www.capitol.tn.gov/house/members/images/H85.jpg"
 contact:

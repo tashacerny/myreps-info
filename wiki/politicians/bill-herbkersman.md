@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 118
+district: 118
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0832954446.jpg"
 contact:

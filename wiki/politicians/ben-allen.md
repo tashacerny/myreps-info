@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/allen_ben_d-26.jpg"
 contact:

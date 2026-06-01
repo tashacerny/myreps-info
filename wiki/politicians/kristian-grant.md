@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 82
+district: 82
 in_office: true
 contact:
   website: "https://openstates.org/person/kristian-grant-331BeKGPgzmAimyC7uC6f9/"

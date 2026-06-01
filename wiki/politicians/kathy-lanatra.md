@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 12th Plymouth
+district: 12th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/KPL1.jpg"
 contact:

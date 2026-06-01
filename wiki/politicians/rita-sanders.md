@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 45
+district: 45
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist45/highres/dist45.jpg"
 contact:

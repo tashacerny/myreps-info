@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 2
+district: 2
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/tarvin-steve-849.jpg"
 contact:

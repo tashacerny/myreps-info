@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 56
+district: 56
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_weigel_virgil_1.jpg"
 contact:

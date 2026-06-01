@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 27
+district: 27
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/miller/images/miller-hi.jpg"
 contact:

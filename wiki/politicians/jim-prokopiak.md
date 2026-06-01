@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 140
+district: 140
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/139571.jpg"
 contact:

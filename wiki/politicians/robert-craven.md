@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 32
+district: 32
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/craven.jpg"
 openstates_id: ocd-person/a6d519b0-89bd-45d5-9067-3ae0b421eee7

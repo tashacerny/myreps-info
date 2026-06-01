@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 54
+district: 54
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Haddad/images/Haddad_19.jpg"
 contact:

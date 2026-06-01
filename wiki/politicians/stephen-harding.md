@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 30
+district: 30
 in_office: true
 photo_url: "https://www.cthousegop.com/harding/wp-content/uploads/sites/35/2016/11/Harding_Bio_Photo_Web.jpg"
 contact:

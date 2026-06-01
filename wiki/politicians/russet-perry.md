@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: Senate
 office: VA State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://cdn.runforsomething.net/candidates/2023/04/campaign/3388.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 45
+district: 45
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/tran/PublishingImages/member_photo.jpg"
 contact:

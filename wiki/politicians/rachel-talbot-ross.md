@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/5a851e9e-6f42-4467-adb4-dbfc44dee0ad_talbr_[1].jpg"
 contact:

@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 86
+district: 86
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/638e0e4731cb8444ce5a20e8/1d467f44-2f5f-42d0-96e9-8819eee165fb/Justin_21.jpg"
 contact:

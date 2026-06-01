@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 15
+district: 15
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/verrelli_anthony_2020.jpg"
 contact:

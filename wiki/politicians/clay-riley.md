@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 72
+district: 72
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2021/house/riley_clay.jpg"
 contact:

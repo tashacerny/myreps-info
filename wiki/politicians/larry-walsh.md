@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 86
+district: 86
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{F11DA3BE-D8FF-48F0-8450-43231B4DD28F}.jpg"
 contact:

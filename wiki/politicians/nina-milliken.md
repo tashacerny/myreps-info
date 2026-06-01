@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 16
+district: 16
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/d61581cd-0cf9-4ffa-a29e-f767f25dec5f_NMILLIKEN.jpg"
 contact:

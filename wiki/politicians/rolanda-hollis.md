@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 58
+district: 58
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Hollis_58.png"
 contact:

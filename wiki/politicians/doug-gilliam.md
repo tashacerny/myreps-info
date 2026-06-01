@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 42
+district: 42
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0675426055.jpg"
 contact:

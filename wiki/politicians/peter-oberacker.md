@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 51
+district: 51
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/sen_oberacker_hs_square.jpeg?itok=GEcwHkc9"
 contact:

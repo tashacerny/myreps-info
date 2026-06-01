@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 27
+district: 27
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hawkins-lee-19.jpg"
 contact:

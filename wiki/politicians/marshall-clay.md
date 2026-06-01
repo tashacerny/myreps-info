@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 51
+district: 51
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/clay_marshall.jpg"
 contact:

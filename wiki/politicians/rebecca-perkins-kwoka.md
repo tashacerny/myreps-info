@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: Senate
 office: NH State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/93795.jpg"
 contact:

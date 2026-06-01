@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 30
+district: 30
 in_office: true
 photo_url: "http://www.oregonlegislature.gov/house/MemberPhotos/mclane.jpg"
 contact:

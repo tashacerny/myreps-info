@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 108
+district: 108
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{43DB5751-834C-4CA0-B8A4-6D1016E3CB28}.jpg"
 contact:

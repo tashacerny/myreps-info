@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2218"
 contact:

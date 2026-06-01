@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 83
+district: 83
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/campbellgrant.jpg"
 contact:

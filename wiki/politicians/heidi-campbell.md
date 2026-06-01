@@ -6,6 +6,7 @@ state: TN
 level: state
 chamber: Senate
 office: TN State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://www.capitol.tn.gov/senate/members/images/S20.jpg"
 contact:

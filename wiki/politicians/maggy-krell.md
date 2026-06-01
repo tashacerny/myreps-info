@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 6
+district: 6
 in_office: true
 photo_url: "https://lettersandscience.ucdavis.edu/sites/g/files/dgvnsk15706/files/styles/sf_profile/public/images/person/Maggy%20Krell.jpeg?h=a7e6d17b&itok=kwhSUK6x"
 contact:

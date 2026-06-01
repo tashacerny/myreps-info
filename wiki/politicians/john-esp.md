@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 29
+district: 29
 in_office: true
 contact:
   website: "https://openstates.org/person/john-esp-59IjyUEr23bcTijscNe8PK/"

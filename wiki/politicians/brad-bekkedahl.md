@@ -7,6 +7,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/bbekkedahl2023_0.jpg?itok=VB17jlNw"
 contact:

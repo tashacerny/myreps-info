@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Windham-6
+district: Windham
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Carris-Duncan,Emily%20005.jpg"
 contact:

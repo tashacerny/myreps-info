@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 123
+district: 123
 in_office: true
 photo_url: "https://boyer.mainecandidate.com/images/2080.jpg"
 contact:

@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 77
+district: 77
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/c0bba107-42c6-442e-aea6-3cdc8e53c9eb_TBURGESS.jpg"
 contact:

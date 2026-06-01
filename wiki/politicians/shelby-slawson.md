@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 59
+district: 59
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4055.jpg?v=2"
 contact:

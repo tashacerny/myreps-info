@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 19
+district: 19
 in_office: true
 photo_url: "http://sdlegislature.gov/inc/img/Legislators/Schoenfish_2019.jpg"
 contact:

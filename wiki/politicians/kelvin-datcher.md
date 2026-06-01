@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 52
+district: 52
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kelvin_Datcher_20240808_092142.jpeg"
 contact:

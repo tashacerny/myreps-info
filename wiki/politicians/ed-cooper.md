@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: Senate
 office: WY State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-CooperEd.jpg"
 contact:

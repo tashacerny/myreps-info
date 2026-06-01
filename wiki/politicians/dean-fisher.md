@@ -7,6 +7,7 @@ state: IA
 level: state
 chamber: House
 office: IA State House, District 53
+district: 53
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10755"
 contact:

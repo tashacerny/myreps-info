@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 14th Worcester
+district: 14th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/JJO1.jpg"
 contact:

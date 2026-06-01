@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/reny-2.jpg"
 contact:

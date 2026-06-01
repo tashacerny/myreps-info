@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 17
+district: 17
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Jordan_Main_List.jpg"
 contact:

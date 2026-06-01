@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Woods%2C%20Tom%20Flags%202022.jpg"
 contact:

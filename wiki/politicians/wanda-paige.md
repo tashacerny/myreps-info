@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 35
+district: 35
 in_office: true
 photo_url: "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1706627854/kckpsorg/nslthss5ye6gddnitdew/W_Paige.png"
 contact:

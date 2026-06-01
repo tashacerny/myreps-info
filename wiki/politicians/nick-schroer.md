@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 2
+district: 2
 in_office: true
 contact:
   website: "https://openstates.org/person/nick-schroer-7CjQgOOedyBrIBw9S28ajK/"

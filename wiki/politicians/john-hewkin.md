@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 120
+district: 120
 in_office: true
 photo_url: "https://dailyjournalonline.com/wp-content/uploads/2023/09/Hewkin-1.jpeg"
 contact:

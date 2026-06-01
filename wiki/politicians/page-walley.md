@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: Senate
 office: TN State Senate, District 26
+district: 26
 in_office: true
 photo_url: "http://www.capitol.tn.gov/senate/members/images/S26.jpg"
 contact:

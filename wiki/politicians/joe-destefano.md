@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 3
+district: 3
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/003/headshot/003.jpg?hst=1660072569"
 contact:

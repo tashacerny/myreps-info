@@ -6,6 +6,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 4
+district: 4
 in_office: true
 photo_url: "https://reneajones.com/wp-content/uploads/2023/12/aboutimage.jpg"
 contact:

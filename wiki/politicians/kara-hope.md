@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 74
+district: 74
 in_office: true
 photo_url: "https://housedems.com/sites/default/files/Images/Representative_Images/D067_Kara_Hope/067_Hope.jpg"
 contact:

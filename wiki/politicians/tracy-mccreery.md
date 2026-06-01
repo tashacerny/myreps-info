@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 24
+district: 24
 in_office: true
 contact:
   website: "https://openstates.org/person/tracy-mccreery-3trAAfIrHCldD6ztfHvknp/"

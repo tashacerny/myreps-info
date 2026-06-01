@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 43
+district: 43
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/fellela.jpg"
 openstates_id: ocd-person/3efcf2f9-f7f8-4441-9ec7-4f6d8c17940f

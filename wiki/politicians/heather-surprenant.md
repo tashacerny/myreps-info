@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Windsor-4
+district: Windsor
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/HSurprenant.jpg"
 contact:

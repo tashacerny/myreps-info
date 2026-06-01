@@ -6,6 +6,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 114
+district: 114
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0192045432.jpg"
 contact:

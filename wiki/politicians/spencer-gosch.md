@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 23
+district: 23
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Gosch_2017.jpg"
 contact:

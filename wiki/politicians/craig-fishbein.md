@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 90
+district: 90
 in_office: true
 photo_url: "https://www.cthousegop.com/fishbein/wp-content/uploads/sites/28/2019/01/sm_Fishbein-headshot-020117-7754.jpg"
 contact:

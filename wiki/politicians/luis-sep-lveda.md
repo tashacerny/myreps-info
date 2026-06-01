@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 32
+district: 32
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/hssepulveda2.jpg?itok=WvXJvenH"
 contact:

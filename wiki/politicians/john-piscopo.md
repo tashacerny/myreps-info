@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 76
+district: 76
 in_office: true
 photo_url: "https://www.cthousegop.com/piscopo/wp-content/uploads/sites/52/2016/11/Piscopo-Bio-Pict-Web.jpg"
 contact:

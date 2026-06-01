@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 3
+district: 3
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/ismail-mohamed/headshots/thumbnails/medium/ismail-mohamed-january-2023-headshot_medium.jpg"
 contact:

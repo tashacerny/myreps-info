@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: Senate
 office: NC State Senate, District 12
+district: 12
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/S/412/Low"
 contact:

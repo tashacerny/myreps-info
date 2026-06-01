@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 75
+district: 75
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2021/house/mallow_phil.jpg"
 contact:

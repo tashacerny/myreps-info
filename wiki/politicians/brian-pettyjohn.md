@@ -7,6 +7,7 @@ state: DE
 level: state
 chamber: Senate
 office: DE State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/10/Pettyjohn_Brian_Member_Card-min-1.png"
 contact:

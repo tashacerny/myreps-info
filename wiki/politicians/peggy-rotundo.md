@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/rotundo.jpg"
 contact:

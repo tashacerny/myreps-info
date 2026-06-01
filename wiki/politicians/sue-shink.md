@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://senatedems.com/shink/wp-content/uploads/sites/18/2022/12/Portrait_Shink_Web.jpg"
 contact:

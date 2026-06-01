@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 23A
+district: 23A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls93/23A.jpg"
 contact:

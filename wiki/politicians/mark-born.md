@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 37
+district: 37
 in_office: true
 photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2449.jpg"
 contact:

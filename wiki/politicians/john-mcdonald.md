@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 108
+district: 108
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/108/headshot/108.jpg?hst=1660074489"
 contact:

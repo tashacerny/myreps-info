@@ -6,6 +6,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 43
+district: 43
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/debar.jpg"
 contact:

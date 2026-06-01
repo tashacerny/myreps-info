@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 73
+district: 73
 in_office: true
 photo_url: "https://housedems.com/sites/default/files/Images/Representative_Images/D069_Julie_Brixie/069_Brixie.jpg"
 contact:

@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/kweston2023.jpg?itok=uNPsAGmo"
 contact:

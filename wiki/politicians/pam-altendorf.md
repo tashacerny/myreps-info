@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 20A
+district: 20A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/20A.gif"
 contact:

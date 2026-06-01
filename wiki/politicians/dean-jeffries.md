@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 61
+district: 61
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2022/house/jeffries_dean.jpg"
 contact:

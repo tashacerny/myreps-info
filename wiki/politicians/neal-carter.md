@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 15
+district: 15
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/CARTER.jpg"
 contact:

@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 46
+district: 46
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/16596.jpg"
 contact:

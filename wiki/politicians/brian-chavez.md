@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: Senate
 office: OH State Senate, District 30
+district: 30
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/brian-m-chavez/headshots/thumbnails/medium/brian-m-chavez-december-2023-headshot-10001385_medium.jpg"
 contact:

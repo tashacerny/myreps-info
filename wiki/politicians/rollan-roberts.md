@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 9
+district: 9
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/roberts_rollan.jpg"
 contact:

@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Orleans
+district: Orleans
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Samuel_Douglass.png"
 contact:

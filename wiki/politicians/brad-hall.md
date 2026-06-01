@@ -6,6 +6,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 24
+district: 24
 in_office: true
 photo_url: "https://arkansasadvocate.com/wp-content/uploads/2024/09/Brad-Hall-SOS-2024.jpg"
 contact:

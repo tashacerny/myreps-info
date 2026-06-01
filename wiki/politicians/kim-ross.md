@@ -6,6 +6,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 8
+district: 8
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/ross01.jpg"
 contact:

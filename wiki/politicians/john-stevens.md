@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: Senate
 office: TN State Senate, District 24
+district: 24
 in_office: true
 photo_url: "http://www.capitol.tn.gov/senate/members/images/s24.jpg"
 contact:

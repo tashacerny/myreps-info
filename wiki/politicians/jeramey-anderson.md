@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 110
+district: 110
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/anderson_(110th).jpg"
 contact:

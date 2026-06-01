@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 12
+district: 12
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/Cohen/images/Cohen-hi.jpg"
 contact:

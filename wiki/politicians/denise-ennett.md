@@ -6,6 +6,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 80
+district: 80
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/577_sm.jpg"
 contact:

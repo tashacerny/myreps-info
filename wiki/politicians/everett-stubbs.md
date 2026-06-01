@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/817690/817690.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 54
+district: 54
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Kevin-West.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 11th Worcester
+district: 11th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/HEK1.jpg"
 contact:

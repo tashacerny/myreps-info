@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 62
+district: 62
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{B0DFD215-F36D-47A7-B7BE-909CDF14DC07}.jpg"
 contact:

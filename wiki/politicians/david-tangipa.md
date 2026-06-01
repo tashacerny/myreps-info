@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 8
+district: 8
 in_office: true
 photo_url: "https://youngamericans.berkeley.edu/wp-content/uploads/2024/04/David-Tangipa-1024x1024.jpg"
 contact:

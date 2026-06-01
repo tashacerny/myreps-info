@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 105
+district: 105
 in_office: true
 photo_url: "https://cga.ct.gov/legpics/105.png?ver="
 contact:

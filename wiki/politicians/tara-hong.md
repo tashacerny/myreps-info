@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 18th Middlesex
+district: 18th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/TTH1.jpg"
 contact:

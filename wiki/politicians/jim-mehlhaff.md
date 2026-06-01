@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://jimmehlhaff.com/wp-content/uploads/2022/03/Jim-High-Res-819x1024.jpeg"
 contact:

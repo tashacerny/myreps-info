@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 5th Suffolk
+district: 5th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/CJW1.jpg"
 contact:

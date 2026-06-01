@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Chittenden-3
+district: Chittenden
 in_office: true
 photo_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/EdyeGraning_profile_picture_2022-06.jpg/800px-EdyeGraning_profile_picture_2022-06.jpg"
 contact:

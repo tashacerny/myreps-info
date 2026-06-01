@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 133
+district: 133
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/mathis-danny-4959.jpg"
 contact:

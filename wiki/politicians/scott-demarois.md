@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 71
+district: 71
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ScottDemarois2024.jpg"
 contact:

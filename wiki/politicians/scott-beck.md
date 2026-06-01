@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Caledonia
+district: Caledonia
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Beck,Scott%20008.jpg"
 contact:

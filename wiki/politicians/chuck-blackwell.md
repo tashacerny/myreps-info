@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 88
+district: 88
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/house/blackwell.jpg"
 contact:

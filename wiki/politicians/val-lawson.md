@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: Senate
 office: RI State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://www.rilegislature.gov/LegislationPictures/valarie_lawson.jpg"
 openstates_id: ocd-person/bfb76f36-00b6-47da-89da-e1db5421ff55

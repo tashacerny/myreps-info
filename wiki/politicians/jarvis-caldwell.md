@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 20
+district: 20
 in_office: true
 photo_url: "https://coloradonewsline.com/wp-content/uploads/2023/12/jarvis-caldwell--200x300.jpeg"
 contact:

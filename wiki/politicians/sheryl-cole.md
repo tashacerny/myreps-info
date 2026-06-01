@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 46
+district: 46
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3625.jpg?v=2"
 contact:

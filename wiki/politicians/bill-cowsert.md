@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 46
+district: 46
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cowsert-bill-9.jpg"
 contact:

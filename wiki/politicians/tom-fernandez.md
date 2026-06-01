@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 39
+district: 39
 in_office: true
 photo_url: "https://tomfernandezforsenate.com/wp-content/uploads/2023/03/tom-fernandez-headshot-2-957x1024.png"
 contact:

@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 11
+district: 11
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Byron__McCray__20240808_092347.jpeg"
 contact:

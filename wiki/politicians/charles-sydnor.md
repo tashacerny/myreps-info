@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 44
+district: 44
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2021RS/images/sydnor02.jpg"
 contact:

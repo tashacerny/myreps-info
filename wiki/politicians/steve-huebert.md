@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 90
+district: 90
 in_office: true
 photo_url: "https://www.kslegislature.gov/li/s/images/pics/rep_huebert_steve_1.jpg"
 contact:

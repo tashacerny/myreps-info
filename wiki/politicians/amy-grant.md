@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 47
+district: 47
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{41DCC207-977E-45DC-BD10-A8AFDCEB673E}.jpg"
 contact:

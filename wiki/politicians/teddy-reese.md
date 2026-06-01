@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 140
+district: 140
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/reese-tremaine-teddy-5050.jpg"
 contact:

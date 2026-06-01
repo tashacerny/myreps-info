@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 29
+district: 29
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/roberts.jpg"
 openstates_id: ocd-person/6c7285bd-fdd3-4629-be6f-4a01d19e9c25

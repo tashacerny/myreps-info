@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 26
+district: 26
 in_office: true
 photo_url: "https://cdn.zephyrcms.com/db6aec75-3f20-4efc-89cb-f7272ded9267/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/alexander-website.jpg"
 contact:

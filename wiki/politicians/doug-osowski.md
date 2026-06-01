@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 42
+district: 42
 in_office: true
 photo_url: "https://dougd42.com/media/b208def4183d2d0b123d6b0bf3dcfd78.png"
 contact:

@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 90
+district: 90
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/157749.jpg"
 contact:

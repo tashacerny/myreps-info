@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 7
+district: 7
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Hall/images/Hall_HS.jpg"
 contact:

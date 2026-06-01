@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 46
+district: 46
 in_office: true
 photo_url: "https://www.voterfocus.com/CampaignFinance/photo_osceola/cand_345.jpg"
 contact:

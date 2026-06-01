@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 50
+district: 50
 in_office: true
 photo_url: "https://www.senate.mn/graphics/50Mann.jpg"
 contact:

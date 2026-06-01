@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 46
+district: 46
 in_office: true
 photo_url: "http://msa.maryland.gov/msa/mdmanual/06hse/images/1198-1-07944b.jpg"
 contact:

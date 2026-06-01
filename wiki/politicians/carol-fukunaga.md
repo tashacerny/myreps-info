@@ -7,6 +7,7 @@ state: HI
 level: state
 chamber: Senate
 office: HI State Senate, District 11
+district: 11
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/fukunaga.jpg"
 contact:

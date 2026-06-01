@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 45
+district: Hillsborough
 in_office: true
 photo_url: "http://www.gencourt.state.nh.us/house/images/memberpics/376936.jpg"
 contact:

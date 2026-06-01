@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: Senate
 office: NJ State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/space_parker_2020.jpg"
 contact:

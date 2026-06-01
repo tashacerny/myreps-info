@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 60
+district: 60
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/alzate.jpg"
 openstates_id: ocd-person/016b40cf-1be0-4e66-acdf-78a029822e1c

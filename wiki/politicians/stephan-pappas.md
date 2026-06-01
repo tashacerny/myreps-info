@@ -7,6 +7,7 @@ state: WY
 level: state
 chamber: Senate
 office: WY State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-PappasStephan.jpg"
 contact:

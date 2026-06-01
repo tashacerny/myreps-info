@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 9
+district: 9
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/009/headshot/009.jpg?hst=1660072763"
 contact:

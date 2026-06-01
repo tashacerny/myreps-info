@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 44
+district: 44
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/3476.jpg"
 contact:

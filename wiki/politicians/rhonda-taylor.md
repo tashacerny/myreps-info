@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 92
+district: 92
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/taylor-rhonda-4998.jpg"
 contact:

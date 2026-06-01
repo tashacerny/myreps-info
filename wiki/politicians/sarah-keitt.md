@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 134
+district: 134
 in_office: true
 contact:
   website: "https://openstates.org/person/sarah-keitt-3k2vb9GMgmZr4DpcEJr8I4/"

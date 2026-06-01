@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 56
+district: 56
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/056/headshot/056.jpg?hst=1660073661"
 contact:

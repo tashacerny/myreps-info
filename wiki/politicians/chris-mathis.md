@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 18
+district: 18
 in_office: true
 photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/MATHIS.jpg"
 contact:

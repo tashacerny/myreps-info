@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 19
+district: 19
 in_office: true
 photo_url: "http://www.capitol.tn.gov/house/members/images/H19.jpg"
 contact:

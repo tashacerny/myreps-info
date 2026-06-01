@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 58A
+district: 58A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/58A.gif?v=112221"
 contact:

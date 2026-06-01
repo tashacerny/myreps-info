@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: Senate
 office: NH State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/21900.jpg"
 contact:

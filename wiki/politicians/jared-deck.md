@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 44
+district: 44
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Deck,%20Jared.jpg"
 contact:

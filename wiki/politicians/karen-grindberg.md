@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 41
+district: 41
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/163174.jpg"
 contact:

@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 145
+district: 145
 in_office: true
 photo_url: "http://www.maine.gov/legis/house/photo128/folera.jpg"
 contact:

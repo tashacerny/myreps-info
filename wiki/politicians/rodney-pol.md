@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://indianasenatedemocrats.org/wp-content/uploads/2021/11/Senator-Pol_Hoosierjpg.jpg"
 contact:

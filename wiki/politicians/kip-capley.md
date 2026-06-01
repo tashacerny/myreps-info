@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 71
+district: 71
 in_office: true
 photo_url: "https://votecapley.com/wp-content/uploads/2022/01/capley2-4.png"
 contact:

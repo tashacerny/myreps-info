@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District Houlton Band of Maliseet Indians
+district: Houlton
 in_office: true
 contact:
   website: "https://openstates.org/person/brian-reynolds-3wgA6xPEPaWCh0fbk2GJaK/"

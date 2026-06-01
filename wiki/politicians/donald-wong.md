@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 9th Essex
+district: 9th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/DHW1.jpg"
 contact:

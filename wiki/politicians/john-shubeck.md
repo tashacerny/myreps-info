@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 16
+district: 16
 in_office: true
 photo_url: "https://southdakotasearchlight.com/wp-content/uploads/2025/09/Shubeck-197x300.jpg"
 contact:

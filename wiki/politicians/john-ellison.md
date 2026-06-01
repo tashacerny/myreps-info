@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: Senate
 office: NV State Senate, District 19
+district: 19
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/Ellison.John.159.jpg"
 contact:

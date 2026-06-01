@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 41
+district: 41
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/158662.jpg"
 contact:

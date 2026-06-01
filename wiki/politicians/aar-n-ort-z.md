@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 1
+district: 1
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{D96B0DF9-0E06-487B-825C-AB0BE8C3CA1E}.jpg"
 contact:

@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 135
+district: 135
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/135/headshot/135.jpg?hst=1675087664"
 contact:

@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 26
+district: 26
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/ag_headshot1.jpeg?itok=A9BZVK33"
 contact:

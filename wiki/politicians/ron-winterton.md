@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: Senate
 office: UT State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/WINTER.jpg"
 contact:

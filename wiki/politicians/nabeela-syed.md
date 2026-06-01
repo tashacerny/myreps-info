@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 51
+district: 51
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{1B81D1C2-BEE3-408C-B52D-8B269BC5DA24}.jpg"
 contact:

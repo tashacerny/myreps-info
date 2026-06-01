@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 3
+district: 3
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Orr_3.png"
 contact:

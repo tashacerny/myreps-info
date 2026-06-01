@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 20
+district: 20
 in_office: true
 photo_url: "https://static.wixstatic.com/media/239f01_44bd85c8941a4875a3e3f89d1cf01db3~mv2.jpeg/v1/fill/w_490,h_591,al_t,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/239f01_44bd85c8941a4875a3e3f89d1cf01db3~mv2.jpeg"
 contact:

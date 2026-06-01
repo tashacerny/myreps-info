@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 130
+district: 130
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/130/headshot/130.jpg?hst=1660074813"
 contact:

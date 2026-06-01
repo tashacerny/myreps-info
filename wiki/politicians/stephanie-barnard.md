@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 8
+district: 8
 in_office: true
 photo_url: "https://stephaniebarnard.houserepublicans.wa.gov/wp-content/uploads/2025/01/Rep-Barnard_Stephanie-2025_900x1200.jpg"
 contact:

@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 117
+district: 117
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/5ce2da1b-2227-407f-8f25-9cc5647cf4c5_moonen.jpg"
 contact:

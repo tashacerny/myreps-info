@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 50
+district: 50
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/050/headshot/050.jpg?hst=1679601880"
 contact:

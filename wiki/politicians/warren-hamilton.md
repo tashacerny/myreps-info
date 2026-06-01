@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Hamilton%2C%20Warren%202022%20flags.jpg"
 contact:

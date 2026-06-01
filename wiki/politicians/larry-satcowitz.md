@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Orange-Washington-Addison
+district: Orange
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Satcowitz,%20Larry.jpg"
 contact:

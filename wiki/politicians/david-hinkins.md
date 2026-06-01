@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: Senate
 office: UT State Senate, District 26
+district: 26
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/HINKIDP.jpg"
 contact:

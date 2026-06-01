@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 51
+district: 51
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Boles,%20Brad.jpg"
 contact:

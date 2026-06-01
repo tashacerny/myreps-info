@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 58
+district: 58
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Davis_Main_List_2022.jpg"
 contact:

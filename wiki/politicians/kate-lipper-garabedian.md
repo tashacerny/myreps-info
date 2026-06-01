@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 32nd Middlesex
+district: 32nd
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/KLG1.jpg"
 contact:

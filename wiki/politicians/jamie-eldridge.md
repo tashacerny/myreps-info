@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Middlesex and Worcester
+district: Middlesex
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/JBE0.jpg"
 contact:

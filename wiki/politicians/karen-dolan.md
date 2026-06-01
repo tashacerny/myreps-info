@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Chittenden-22
+district: Chittenden
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Dolan,%20Karen.jpg"
 contact:

@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 129
+district: 129
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/howard-karlton-5056.jpg"
 contact:

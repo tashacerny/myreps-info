@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 119
+district: 119
 in_office: true
 photo_url: "https://www.cga.ct.gov/legpics/119.png?ver="
 contact:

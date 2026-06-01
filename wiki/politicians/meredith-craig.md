@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 77
+district: 77
 in_office: true
 photo_url: "https://www.meredithcraigforohio.com/dejilah/sites/522/2024/08/craig-new-photo.png"
 contact:

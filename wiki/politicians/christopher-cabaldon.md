@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 3
+district: 3
 in_office: true
 photo_url: "https://calearninglab.org/wp-content/uploads/2024/09/Emcee-Christopher-Cabaldon-488x559.png"
 contact:

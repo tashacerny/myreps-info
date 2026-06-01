@@ -7,6 +7,7 @@ state: IA
 level: state
 chamber: Senate
 office: IA State Senate, District 50
+district: 50
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30549"
 contact:

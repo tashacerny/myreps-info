@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 4
+district: 4
 in_office: true
 photo_url: "https://robchase.houserepublicans.wa.gov/wp-content/uploads/2025/01/Rep-Chase_Rob-2025_900x1200.jpg"
 contact:

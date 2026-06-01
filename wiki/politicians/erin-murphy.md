@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 64
+district: 64
 in_office: true
 photo_url: "https://www.senate.mn/graphics/64MurphyErin.jpg"
 contact:

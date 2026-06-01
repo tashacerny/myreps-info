@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/duson-3.jpg"
 contact:

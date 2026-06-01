@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 62
+district: 62
 in_office: true
 photo_url: "https://www.senate.mn/graphics/62FatehOmar.jpg"
 contact:

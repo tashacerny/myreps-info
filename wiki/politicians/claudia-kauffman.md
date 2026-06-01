@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 47
+district: 47
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/12073.jpg"
 contact:

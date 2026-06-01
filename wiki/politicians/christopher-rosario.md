@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 128
+district: 128
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Rosario/images/Rosario_HS.jpg"
 contact:

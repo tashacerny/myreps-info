@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 139
+district: 139
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jeff_Olsommer.jpeg"
 contact:

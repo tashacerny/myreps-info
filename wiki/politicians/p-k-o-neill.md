@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 40
+district: 40
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/ONeill.PhilipPK.285.jpg"
 contact:

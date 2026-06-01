@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 193
+district: 193
 in_office: true
 contact:
   website: "https://openstates.org/person/catherine-wallen-6aXOaFR1r64MujaaIvX9hK/"

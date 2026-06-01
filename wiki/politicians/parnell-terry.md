@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 108
+district: 108
 in_office: true
 photo_url: "https://parnellterry.mainecandidate.com/images/2143.jpg"
 contact:

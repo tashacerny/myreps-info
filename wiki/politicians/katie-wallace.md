@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: Senate
 office: CO State Senate, District 17
+district: 17
 in_office: true
 contact:
   website: "https://openstates.org/person/katie-wallace-7KiYsLAX92hkxsOrzSGezS/"

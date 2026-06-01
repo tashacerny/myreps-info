@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 7
+district: 7
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2020RS/images/jennings.jpg"
 contact:

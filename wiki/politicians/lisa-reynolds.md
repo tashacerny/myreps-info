@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/reynolds/PublishingImages/member_photo.jpg"
 contact:

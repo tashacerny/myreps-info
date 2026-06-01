@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 3rd Plymouth
+district: 3rd
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/J_M1.jpg"
 contact:

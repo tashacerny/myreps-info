@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/miskimins_2019.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 25A
+district: 25A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/25A.gif?v=112221"
 contact:

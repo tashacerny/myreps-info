@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 43A
+district: 43A
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/boyce01.jpg"
 contact:

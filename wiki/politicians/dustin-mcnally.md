@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 42
+district: 42
 in_office: true
 photo_url: "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2956/files/2025/09/dustin-mcnally.jpg"
 contact:

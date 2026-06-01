@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 37
+district: 37
 in_office: true
 contact:
   website: "https://openstates.org/person/chad-clifford-7d0BSWuMTGbdDmGtLk5dWa/"

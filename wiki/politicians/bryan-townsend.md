@@ -7,6 +7,7 @@ state: DE
 level: state
 chamber: Senate
 office: DE State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2022/09/Townsend-1-1-710x710.jpg"
 contact:

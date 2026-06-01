@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 6
+district: 6
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/mcmahan.jpg"
 contact:

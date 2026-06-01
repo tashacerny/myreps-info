@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 174
+district: 174
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/corbett-john-859.jpg"
 contact:

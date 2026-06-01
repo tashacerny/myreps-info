@@ -7,6 +7,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 70
+district: 70
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/ALBRECR.jpg"
 contact:

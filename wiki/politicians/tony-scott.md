@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 112
+district: 112
 in_office: true
 photo_url: "https://cga.ct.gov/legpics/112.png?ver="
 contact:

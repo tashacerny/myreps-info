@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: Senate
 office: UT State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/OWENSD.jpg"
 contact:

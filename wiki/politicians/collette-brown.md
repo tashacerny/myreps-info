@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 9
+district: 9
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/659114/659114.jpg"
 contact:

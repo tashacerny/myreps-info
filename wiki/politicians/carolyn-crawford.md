@@ -6,6 +6,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 121
+district: 121
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/crawford.jpg"
 contact:

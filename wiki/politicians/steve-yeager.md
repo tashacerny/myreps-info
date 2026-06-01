@@ -7,6 +7,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 9
+district: 9
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Yeager.Steve.310.jpg"
 contact:

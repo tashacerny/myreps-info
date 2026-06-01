@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 52
+district: 52
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/howell_tresa.jpg"
 contact:

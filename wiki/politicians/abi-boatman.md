@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 86
+district: 86
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyf1OqbY53kdN7weK9WEc-d2TY_Hwkdzpng&s"
 contact:

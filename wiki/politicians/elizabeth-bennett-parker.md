@@ -6,6 +6,7 @@ state: VA
 level: state
 chamber: Senate
 office: VA State Senate, District 39
+district: 39
 in_office: true
 photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0334"
 contact:

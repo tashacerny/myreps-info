@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 109
+district: 109
 in_office: true
 photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4897.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 75
+district: 75
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/haraz-n-ghanbari/headshots/thumbnails/medium/haraz-n-ghanbari-november-2023-headshot_medium.jpg"
 contact:

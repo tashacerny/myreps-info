@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 31
+district: 31
 in_office: true
 contact:
   website: "https://openstates.org/person/rick-brattin-6xBG0EpS2O6arpwxyo1vxh/"

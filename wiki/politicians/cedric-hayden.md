@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/hayden/PublishingImages/member_photo.jpg"
 contact:

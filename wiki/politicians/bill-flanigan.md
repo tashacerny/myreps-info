@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 4
+district: 4
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/flanigan_bill.jpg"
 contact:

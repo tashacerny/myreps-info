@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Carnley_31.png"
 contact:

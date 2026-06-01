@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 30
+district: 30
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RebekahStewart2024.jpeg"
 contact:

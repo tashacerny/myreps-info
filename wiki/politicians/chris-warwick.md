@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 128
+district: 128
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/164674.jpg"
 contact:

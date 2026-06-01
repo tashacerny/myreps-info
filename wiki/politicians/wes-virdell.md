@@ -6,6 +6,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 53
+district: 53
 in_office: true
 photo_url: "https://www.house.texas.gov/images/members/4775.jpg?v=1"
 contact:

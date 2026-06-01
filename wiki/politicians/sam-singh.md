@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://senatedems.com/singh/wp-content/uploads/sites/23/2023/01/Singh-portrait.jpg"
 contact:

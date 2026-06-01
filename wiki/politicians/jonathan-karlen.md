@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 98
+district: 98
 in_office: true
 contact:
   website: "https://openstates.org/person/jonathan-karlen-2dMN4OrJIZP0v95geRhUu8/"

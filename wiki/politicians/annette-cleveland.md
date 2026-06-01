@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 49
+district: 49
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/17294.jpg"
 contact:

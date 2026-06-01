@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/03-21-17_persaud_hs-018.jpg?itok=ALiZNeZt"
 contact:

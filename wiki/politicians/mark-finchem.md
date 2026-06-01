@@ -7,6 +7,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/FINCHEM.jpg"
 contact:

@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 4
+district: 4
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/815272/815272.jpg"
 contact:

@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://indianasenatedemocrats.org/wp-content/uploads/2022/12/Senator-Ford-Indiana-State-Flag-Headshot.jpg"
 contact:

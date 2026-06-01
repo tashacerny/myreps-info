@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 26B
+district: 26B
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Reimer_2017.jpg"
 contact:

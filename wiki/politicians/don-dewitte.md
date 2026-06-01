@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 33
+district: 33
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{21A3B029-3423-410E-818A-84512CD0D231}.jpg"
 contact:

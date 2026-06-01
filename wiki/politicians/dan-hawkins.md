@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 100
+district: 100
 in_office: true
 photo_url: "https://i0.wp.com/danhawkinskansas.com/wp-content/uploads/2020/06/Rep.-Hawkins.jpg?resize=1000%2C1000&ssl=1"
 contact:

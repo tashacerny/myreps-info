@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: House
 office: LA State House, District 96
+district: 96
 in_office: true
 photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep96.jpg"
 contact:

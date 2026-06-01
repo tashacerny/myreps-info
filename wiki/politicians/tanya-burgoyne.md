@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: House
 office: ID State House, District 29B
+district: 29B
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/812118/812118.jpg"
 contact:

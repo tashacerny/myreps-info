@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 93
+district: 93
 in_office: true
 photo_url: "https://www.scstatehouse.gov/images/members/0702272643.jpg"
 contact:

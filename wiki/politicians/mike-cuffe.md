@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 1
+district: 1
 in_office: true
 contact:
   website: "https://openstates.org/person/mike-cuffe-2ZzJqB4pX3xpcJkiigSilN/"

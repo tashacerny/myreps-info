@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Windham-9
+district: Windham
 in_office: true
 photo_url: "https://iangoodnow.com/wp-content/uploads/2024/05/iangoodnowforstaterep-1-882x1024.jpeg"
 contact:

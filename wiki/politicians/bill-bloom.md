@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 64
+district: 64
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lewis_Bloom.png"
 contact:

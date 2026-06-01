@@ -7,6 +7,7 @@ state: IA
 level: state
 chamber: Senate
 office: IA State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6588"
 contact:

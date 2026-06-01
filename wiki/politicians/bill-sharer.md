@@ -7,6 +7,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SSHAR.jpg"
 contact:

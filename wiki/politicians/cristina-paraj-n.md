@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 25
+district: 25
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HPARA.jpg"
 contact:

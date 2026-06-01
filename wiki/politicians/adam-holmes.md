@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 97
+district: 97
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/adam-holmes/headshots/thumbnails/medium/adam-holmes-january-2021-headshot_medium.jpg"
 contact:

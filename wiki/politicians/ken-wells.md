@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Orleans-3
+district: Orleans
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Wells,Ken%20047.jpg"
 contact:

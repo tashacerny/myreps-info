@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 39
+district: 39
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/halpern-sonya-4985.jpg"
 contact:

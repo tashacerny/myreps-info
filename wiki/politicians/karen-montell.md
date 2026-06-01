@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 54
+district: 54
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/509661e8-e573-4bef-b8ed-47c5c0a586a4_MONTELL.jpg"
 contact:

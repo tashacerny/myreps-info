@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 10
+district: 10
 in_office: true
 contact:
   website: "https://openstates.org/person/paul-kanitra-6xezfY06dbLQt4V3GZ2VQr/"

@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/31536.jpg"
 contact:

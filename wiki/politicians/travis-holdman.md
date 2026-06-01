@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://cdn.zephyrcms.com/83c9f297-e595-4d74-a5d1-05607adcc991/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/holdman.jpg"
 contact:

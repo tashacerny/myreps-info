@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/rafferty-1.jpg"
 contact:

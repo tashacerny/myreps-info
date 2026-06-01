@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/972.jpg"
 contact:

@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 29
+district: Hillsborough
 in_office: true
 photo_url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/joealexanderphoto-png-1571786224.png"
 contact:

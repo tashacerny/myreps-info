@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://static.votesmart.org/static/canphoto/216441.jpg"
 contact:

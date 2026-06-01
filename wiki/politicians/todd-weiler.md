@@ -7,6 +7,7 @@ state: UT
 level: state
 chamber: Senate
 office: UT State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/WEILET.jpg"
 contact:

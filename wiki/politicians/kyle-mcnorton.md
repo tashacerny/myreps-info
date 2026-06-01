@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 50
+district: 50
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_mcnorton_kyle_1.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 10
+district: 10
 in_office: true
 photo_url: "http://www.azleg.gov/alisImages/MemberPhotos/51leg/House/OLSON.gif"
 contact:

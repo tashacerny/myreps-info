@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 20
+district: 20
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/terrence-upchurch/headshots/thumbnails/medium/terrence-upchurch-january-2021-headshot_medium.jpg"
 contact:

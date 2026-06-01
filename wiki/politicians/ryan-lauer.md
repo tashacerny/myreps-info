@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 59
+district: 59
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Lauer_Mainlist_Image.png"
 contact:

@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 128
+district: 128
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/51e7366f-0985-40da-ad18-0933d15e2d99_SalisburyNEW.jpg"
 contact:

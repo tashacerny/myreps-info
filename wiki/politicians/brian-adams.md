@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 44
+district: 44
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0002272727.jpg"
 contact:

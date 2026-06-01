@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Windsor
+district: Windsor
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/White,Rebecca.jpg"
 contact:

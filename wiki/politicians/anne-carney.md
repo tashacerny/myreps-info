@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/carney-web-1-1024x854.jpg"
 contact:

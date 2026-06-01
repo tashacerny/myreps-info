@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 11B
+district: 11B
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/stein.jpg"
 contact:

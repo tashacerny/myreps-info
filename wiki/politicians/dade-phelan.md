@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 21
+district: 21
 in_office: true
 photo_url: "https://house.texas.gov/images/members/2905.jpg?v=1"
 contact:

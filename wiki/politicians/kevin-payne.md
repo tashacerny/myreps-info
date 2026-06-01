@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/PAYNE.jpg"
 contact:

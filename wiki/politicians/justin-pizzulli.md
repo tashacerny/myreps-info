@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 90
+district: 90
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/justin-pizzulli/headshots/thumbnails/medium/justin-pizzulli-july-2023-headshot_medium.jpg"
 contact:

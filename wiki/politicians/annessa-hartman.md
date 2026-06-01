@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 40
+district: 40
 in_office: true
 photo_url: "https://www.clackamas.us/sites/default/files/2021-12/annessa_hartman.jpg"
 contact:

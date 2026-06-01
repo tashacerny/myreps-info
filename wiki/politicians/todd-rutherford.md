@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 74
+district: 74
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1614772534.jpg"
 contact:

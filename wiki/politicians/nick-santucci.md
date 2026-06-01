@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 64
+district: 64
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/nick-santucci/headshots/thumbnails/medium/nick-santucci-january-2023-headshot_medium.jpg"
 contact:

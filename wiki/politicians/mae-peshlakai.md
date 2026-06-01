@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 6
+district: 6
 in_office: true
 photo_url: "https://azleg.gov/alisImages/MemberPhotos/56leg/House/PESHLAKAI.jpg"
 contact:

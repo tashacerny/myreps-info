@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Grafton 3
+district: Grafton
 in_office: true
 photo_url: "https://jerrymstringham.com/wp-content/uploads/2018/08/profile2-600x679.jpg"
 contact:

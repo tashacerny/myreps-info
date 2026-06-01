@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 15th Worcester
+district: 15th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MSK1.jpg"
 contact:

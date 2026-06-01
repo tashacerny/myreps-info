@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 38
+district: 38
 in_office: true
 photo_url: "https://www.misenategop.com/wp-content/uploads/2019/01/McBroom-580x770.jpg"
 contact:

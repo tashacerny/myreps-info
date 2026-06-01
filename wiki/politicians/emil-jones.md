@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{2C0EE719-E9D8-4625-990D-69FCE146BC0F}.jpg"
 contact:

@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 39
+district: 39
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Nolan/images/Nolan_HS.jpg"
 contact:

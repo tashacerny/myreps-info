@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 38
+district: 38
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/NickGauthier.jpg"
 contact:

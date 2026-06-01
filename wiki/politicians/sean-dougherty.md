@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 172
+district: 172
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqcsfeSV2Emc5tJreNLOLeI1PEIX1XE82Hw&s"
 contact:

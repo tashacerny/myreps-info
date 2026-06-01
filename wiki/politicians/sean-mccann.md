@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://senatedems.com/mccann/wp-content/uploads/sites/20/2022/12/MDS_McCann_DSC5430.jpg"
 contact:

@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen4.jpg"
 contact:

@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: Senate
 office: RI State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://www.rilegislature.gov/senators/pictures/kallman.jpg"
 openstates_id: ocd-person/2cd8c21d-f576-4060-a311-0459e01ffef6

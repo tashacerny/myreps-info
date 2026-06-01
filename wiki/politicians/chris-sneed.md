@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 14
+district: 14
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Sneed,%20Chris.jpg"
 contact:

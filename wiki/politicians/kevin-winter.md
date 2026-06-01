@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Rutland-Windsor
+district: Rutland
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Winter,Kevin.jpeg"
 contact:

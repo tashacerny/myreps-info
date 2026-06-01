@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 21
+district: 21
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoeStreno2024.jpg"
 contact:

@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Rutland-Bennington
+district: Rutland
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Pritchard,Chris.jpg"
 contact:

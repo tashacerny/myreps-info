@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Norfolk and Suffolk
+district: Norfolk
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MFR0.jpg"
 contact:

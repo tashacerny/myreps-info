@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 9
+district: 9
 in_office: true
 photo_url: "https://thestoryexchange.org/app/uploads/2022/08/Lorena-Austin.jpg"
 contact:

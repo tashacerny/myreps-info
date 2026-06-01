@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 32
+district: 32
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/garciawilburn20221129portrait-resized_800_942_80.jpg"
 contact:

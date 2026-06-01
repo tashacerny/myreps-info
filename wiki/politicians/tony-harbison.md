@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 144
+district: 144
 in_office: true
 contact:
   website: "https://openstates.org/person/tony-harbison-5TTKaX8nWXSVxMG2gIA5Eg/"

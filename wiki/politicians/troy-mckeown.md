@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: Senate
 office: WY State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-McKeownTroy.jpg"
 contact:

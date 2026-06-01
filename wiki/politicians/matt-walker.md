@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Franklin-4
+district: Franklin
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Walker,%20Matt.jpg"
 contact:

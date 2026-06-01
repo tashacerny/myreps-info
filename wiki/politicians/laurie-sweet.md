@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 91
+district: 91
 in_office: true
 photo_url: "https://sweetforstate.com/wp-content/uploads/2024/05/Laurie_crop.jpg"
 contact:

@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 8
+district: 8
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/008/headshot/008.jpg?hst=1660072739"
 contact:

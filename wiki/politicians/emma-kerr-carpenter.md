@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 23
+district: 23
 in_office: true
 contact:
   website: "https://openstates.org/person/emma-kerr-carpenter-44sOGEM3jQRjqO3niKDWL8/"

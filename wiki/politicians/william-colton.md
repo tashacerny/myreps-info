@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 47
+district: 47
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/047/headshot/047.jpg?hst=1660073520"
 contact:

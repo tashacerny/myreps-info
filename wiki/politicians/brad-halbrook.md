@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 107
+district: 107
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{3F3C3739-E087-440D-B006-33043A8F5083}.jpg"
 contact:

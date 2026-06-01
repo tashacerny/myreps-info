@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://www.senate.mn/graphics/22Weber.jpg"
 contact:

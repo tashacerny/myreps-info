@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 46
+district: 46
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/thomas-hall/headshots/thumbnails/medium/thomas-hall-january-2021-headshot_medium.jpg"
 contact:

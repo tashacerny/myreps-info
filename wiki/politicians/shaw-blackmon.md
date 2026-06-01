@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 146
+district: 146
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/blackmon-shaw-1878.jpg"
 contact:

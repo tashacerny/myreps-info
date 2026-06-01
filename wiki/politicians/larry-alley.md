@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: Senate
 office: KS State Senate, District 32
+district: 32
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Larry_Alley.jpg"
 contact:

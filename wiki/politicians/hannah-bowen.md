@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 6th Essex
+district: 6th
 in_office: true
 photo_url: "https://www.resolutionnorthshore.org/images/staff/AG22-Hannah_Bowen-228832.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 2
+district: 2
 in_office: true
 photo_url: "https://www.legmt.gov/wp-content/legislator-photos/lowres/1403.jpg"
 contact:

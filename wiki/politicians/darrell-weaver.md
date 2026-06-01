@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Weaver%2C%20Darrell_flags.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 69
+district: 69
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/kevin-d-miller/headshots/thumbnails/medium/kevin-d-miller-january-2021-headshot_medium.jpg"
 contact:

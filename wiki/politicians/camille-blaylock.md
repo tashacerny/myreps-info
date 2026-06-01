@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://idgop.org/wp-content/uploads/sites/4/2024/05/blaylock-1.jpg"
 contact:

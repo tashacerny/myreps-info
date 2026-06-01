@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 98
+district: 98
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2024/house/funkhouser_joe.jpg"
 contact:

@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 24
+district: 24
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_ousley_jarrod_1.jpg"
 contact:

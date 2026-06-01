@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 5th Hampden
+district: 5th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PAD1.jpg"
 contact:

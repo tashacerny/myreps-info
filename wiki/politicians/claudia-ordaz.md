@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 79
+district: 79
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4015.jpg?v=3"
 contact:

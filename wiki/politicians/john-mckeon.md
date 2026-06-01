@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: Senate
 office: NJ State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg"
 contact:

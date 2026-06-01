@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 97
+district: 97
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Bierlein-097.jpg"
 contact:

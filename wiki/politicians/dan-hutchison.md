@@ -6,6 +6,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 4
+district: 4
 in_office: true
 contact:
   website: "https://openstates.org/person/dan-hutchison-7cWopMkTJS0EcHsdEizojV/"

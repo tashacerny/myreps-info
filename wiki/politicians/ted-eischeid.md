@@ -7,6 +7,7 @@ state: AK
 level: state
 chamber: House
 office: AK State House, District 22
+district: 22
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ted_Eischeid2024.jpg"
 contact:

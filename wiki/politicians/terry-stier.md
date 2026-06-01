@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 22B
+district: 22B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/22B.gif?v=112221"
 contact:

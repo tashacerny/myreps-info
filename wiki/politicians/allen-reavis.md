@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 63
+district: 63
 in_office: true
 photo_url: "https://www.atchisoncountyks.org/ImageRepository/Document?documentID=2708"
 contact:

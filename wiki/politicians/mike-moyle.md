@@ -7,6 +7,7 @@ state: ID
 level: state
 chamber: House
 office: ID State House, District 10A
+district: 10A
 in_office: true
 photo_url: "https://www.idahoednews.org/wp-content/uploads/2018/12/Mike-Moyle-620x477.jpg"
 contact:

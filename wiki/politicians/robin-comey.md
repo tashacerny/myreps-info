@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 102
+district: 102
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Comey/images/Comey_HS.jpg"
 contact:

@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://senate.texas.gov/members/d13/img/Sen-Miles-2025-Headshot-web.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 27
+district: 27
 in_office: true
 photo_url: "https://www.azvoterguide.com/wp-content/uploads/2024/06/Fink16-photo.jpg"
 contact:

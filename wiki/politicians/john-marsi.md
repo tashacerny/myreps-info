@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 6th Worcester
+district: 6th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/JJM1.jpg"
 contact:

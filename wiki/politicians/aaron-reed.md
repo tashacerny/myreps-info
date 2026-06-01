@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: Senate
 office: KY State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://gunleash.com/wp-content/uploads/2023/11/Aaron_Reed.jpg"
 contact:

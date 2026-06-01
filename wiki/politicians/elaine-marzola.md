@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 21
+district: 21
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/Marzola.Elaine.376.jpg"
 contact:

@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 9
+district: 9
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/merritt-nikki-4978.jpg"
 contact:

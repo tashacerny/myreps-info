@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{05AD9CBA-EA20-489D-9C33-3F39DC1F9B0C}.jpg"
 contact:

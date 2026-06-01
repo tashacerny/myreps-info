@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 95
+district: 95
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Wolfley,%20Max.jpg"
 contact:

@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 21
+district: 21
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_stogsdill_jerry_1.jpg"
 contact:

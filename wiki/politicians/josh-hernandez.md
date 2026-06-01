@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 60
+district: 60
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HHERN.jpg"
 contact:

@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 127
+district: 127
 in_office: true
 contact:
   website: "https://openstates.org/person/marcus-brown-2O48TWRkUs430vHdYEYSBj/"

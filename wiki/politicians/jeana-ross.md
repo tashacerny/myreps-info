@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 27
+district: 27
 in_office: true
 photo_url: "https://education.ua.edu/wp-content/uploads/2023/02/Jeana-Ross.jpg"
 contact:

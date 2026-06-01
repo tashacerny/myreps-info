@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 46
+district: 46
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/CalRoberts2024.jpg"
 contact:

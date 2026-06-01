@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Third Bristol and Plymouth
+district: Third
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/KAD0.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 47
+district: 47
 in_office: true
 photo_url: "https://www.senate.mn/graphics/47Hemmingsen-Jaeger.jpg"
 contact:

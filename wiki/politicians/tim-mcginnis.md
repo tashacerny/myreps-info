@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 56
+district: 56
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1256818031.jpg"
 contact:

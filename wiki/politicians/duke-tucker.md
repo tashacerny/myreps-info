@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 75
+district: 75
 in_office: true
 photo_url: "https://dukeforwisconsin.com/wp-content/uploads/2024/03/IMG_0256-scaled.jpg"
 contact:

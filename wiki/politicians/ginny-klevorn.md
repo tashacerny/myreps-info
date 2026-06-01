@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 42B
+district: 42B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/42B.gif?v=112221"
 contact:

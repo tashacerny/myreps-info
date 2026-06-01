@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Washington-1
+district: Washington
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Donahue.Anne.jpg"
 contact:

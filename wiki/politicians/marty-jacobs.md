@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 38
+district: 38
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/167306.jpg"
 contact:

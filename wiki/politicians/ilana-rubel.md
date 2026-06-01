@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: House
 office: ID State House, District 18A
+district: 18A
 in_office: true
 photo_url: "https://idahocapitalsun.com/wp-content/uploads/2021/04/IlanaRubel-scaled.jpg"
 contact:

@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 20
+district: 20
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tom_Stinnett_2025.jpg"
 contact:

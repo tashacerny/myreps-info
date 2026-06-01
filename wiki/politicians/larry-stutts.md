@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Stutts_6.png"
 contact:

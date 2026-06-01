@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 67
+district: 67
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/melanie-miller/headshots/thumbnails/medium/melanie-miller-january-2023-headshot_medium.jpg"
 contact:

@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 41
+district: Hillsborough
 in_office: true
 photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/4L5A7663HR-Karen-Hegner-1-683x1024.jpg"
 contact:

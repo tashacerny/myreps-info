@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 46
+district: 46
 in_office: true
 photo_url: "https://www.senate.mn/graphics/46Latz.jpg"
 contact:

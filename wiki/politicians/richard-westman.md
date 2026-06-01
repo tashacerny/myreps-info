@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Lamoille
+district: Lamoille
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/RWestman.jpg"
 contact:

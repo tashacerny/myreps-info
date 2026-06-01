@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 120
+district: 120
 in_office: true
 photo_url: "https://static.votesmart.org/static/canphoto/69948.jpg"
 contact:

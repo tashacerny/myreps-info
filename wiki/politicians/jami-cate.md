@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 11
+district: 11
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/cate/PublishingImages/member_photo.jpg"
 contact:

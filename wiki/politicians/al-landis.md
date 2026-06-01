@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: Senate
 office: OH State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/al-landis/headshots/thumbnails/medium/al-landis-may-2023-headshot_medium.jpg"
 contact:

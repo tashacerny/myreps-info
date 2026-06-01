@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 16th Essex
+district: 16th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/FEP1.jpg"
 contact:

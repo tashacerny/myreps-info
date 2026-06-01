@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: Senate
 office: HI State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123803.jpg"
 contact:

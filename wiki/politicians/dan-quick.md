@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 35
+district: 35
 in_office: true
 photo_url: "http://www.nebraskalegislature.gov/media/images/blogs/dist35.jpg"
 contact:

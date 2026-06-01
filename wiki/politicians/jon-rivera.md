@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 149
+district: 149
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/149/headshot/149.jpg?hst=1660075024"
 contact:

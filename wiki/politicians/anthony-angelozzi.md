@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 8
+district: 8
 in_office: true
 contact:
   website: "https://openstates.org/person/anthony-angelozzi-11ZRzYsYcGGFT2cTqMpjp3/"

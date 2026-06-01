@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District Middlesex and Norfolk
+district: Middlesex
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/KES0.jpg"
 contact:

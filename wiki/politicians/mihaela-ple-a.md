@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 70
+district: 70
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4345.jpg?v=1"
 contact:

@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 90
+district: 90
 in_office: true
 contact:
   website: "https://openstates.org/person/rob-long-2SMIJ7zmRG2xSeunghP3EB/"

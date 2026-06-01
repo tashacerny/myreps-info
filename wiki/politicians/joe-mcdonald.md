@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 29A
+district: 29A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/29A.gif?v=112221"
 contact:

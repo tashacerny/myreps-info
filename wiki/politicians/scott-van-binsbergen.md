@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 16A
+district: 16A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/16A.gif?v=112221"
 contact:

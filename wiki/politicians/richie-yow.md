@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 53
+district: 53
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1998863577.jpg"
 contact:

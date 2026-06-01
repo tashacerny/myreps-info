@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2211"
 contact:

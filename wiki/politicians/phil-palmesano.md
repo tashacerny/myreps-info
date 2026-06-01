@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 132
+district: 132
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/132/headshot/132.jpg?hst=1660074839"
 contact:

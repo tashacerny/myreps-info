@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 11
+district: 11
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Aylesworth_Main_List_2022.jpg"
 contact:

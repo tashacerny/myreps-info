@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 40
+district: 40
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRozO487RdH1VF6tytGgra4INZIQ_QGs9v_7w&s"
 contact:

@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 57
+district: 57
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Haggard_mainlist2023.png"
 contact:

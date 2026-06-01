@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/01-10-23_martinezhs.jpg?itok=aHOS1Fqm"
 contact:

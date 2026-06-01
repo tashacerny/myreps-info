@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 65
+district: 65
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Hasenbeck,%20Toni.jpg"
 contact:

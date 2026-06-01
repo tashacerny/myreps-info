@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0993465790.jpg"
 contact:

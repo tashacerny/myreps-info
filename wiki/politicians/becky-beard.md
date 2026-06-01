@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 38
+district: 38
 in_office: true
 contact:
   website: "https://openstates.org/person/becky-beard-7YtRRYD8gG3Wu4qgJvWCq8/"

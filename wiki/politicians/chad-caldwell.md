@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 40
+district: 40
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Caldwell,%20Chad.jpg"
 contact:

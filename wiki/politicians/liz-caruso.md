@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 72
+district: 72
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ecaruso.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 90
+district: 90
 in_office: true
 photo_url: "https://www.cairoklahoma.com/wp-content/uploads/2024/09/emily-200x200.jpeg"
 contact:

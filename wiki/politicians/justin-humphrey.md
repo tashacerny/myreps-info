@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 19
+district: 19
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Humphrey,%20Justin.jpg"
 contact:

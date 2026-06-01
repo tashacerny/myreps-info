@@ -7,6 +7,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 1
+district: 1
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rsz_mar162020527pm_80182230_435a2599nwnbbliss2.jpg"
 contact:

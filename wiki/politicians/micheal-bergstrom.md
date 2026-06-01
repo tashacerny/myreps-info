@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Bergstrom%2C%20Micheal%202022%20flags.jpg"
 contact:

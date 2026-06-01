@@ -7,6 +7,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/khogan2023.jpg?itok=kb5LgV9d"
 contact:

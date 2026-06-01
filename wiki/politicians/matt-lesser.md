@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 9
+district: 9
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/Lesser/images/Lesser1x1.jpg"
 contact:

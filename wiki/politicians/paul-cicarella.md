@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://ctsenaterepublicans.com/wp-content/uploads/2020/11/Paul-Cicarella.jpg"
 contact:

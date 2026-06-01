@@ -6,6 +6,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 27
+district: 27
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/613_sm.jpg"
 contact:

@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 103
+district: 103
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/133354.jpg"
 contact:

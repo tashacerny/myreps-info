@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 40
+district: 40
 in_office: true
 photo_url: "https://house.texas.gov/images/members/2340.jpg"
 contact:

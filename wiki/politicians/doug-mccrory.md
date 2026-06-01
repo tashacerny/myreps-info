@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 2
+district: 2
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/mccrory/images/mccrory-hi.jpg"
 contact:

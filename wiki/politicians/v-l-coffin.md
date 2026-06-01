@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Windsor-2
+district: Windsor
 in_office: true
 photo_url: "https://www.vnews.com/attachments/46/46923146.jpg"
 contact:

@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 45
+district: 45
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/75e9b804-f745-4f44-9817-146eb1a8c378_simmas[1].jpg"
 contact:

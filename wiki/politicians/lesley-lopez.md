@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 39
+district: 39
 in_office: true
 photo_url: "https://static.votesmart.org/static/canphoto/181654.jpg"
 contact:

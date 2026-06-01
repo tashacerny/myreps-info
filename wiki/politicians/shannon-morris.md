@@ -6,6 +6,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 30
+district: 30
 in_office: true
 photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2023/02/morris-headshot-compressed-jan-23.jpeg"
 contact:

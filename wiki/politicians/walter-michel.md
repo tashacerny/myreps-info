@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 25
+district: 25
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/michel.jpg"
 contact:

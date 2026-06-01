@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 80
+district: 80
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/May,%20Stan.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 16
+district: 16
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/bride-rose-sweeney/headshots/thumbnails/medium/bride-rose-sweeney-january-2019-headshot_medium.jpg"
 contact:

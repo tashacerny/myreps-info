@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Franklin
+district: Franklin
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/RBrock.jpg"
 contact:

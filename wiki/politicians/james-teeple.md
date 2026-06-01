@@ -6,6 +6,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 116
+district: 116
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/James_Teeple_20240908_101043.jpg"
 contact:

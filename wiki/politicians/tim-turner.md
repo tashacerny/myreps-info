@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 15
+district: 15
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKW8Yps28Qqd_HZ-KGr8HDljGbqjeswJrSA&s"
 contact:

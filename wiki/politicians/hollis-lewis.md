@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 57
+district: 57
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2023/house/lewis_hollis.jpg"
 contact:

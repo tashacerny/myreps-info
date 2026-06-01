@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 40
+district: 40
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/hayes02.jpg"
 contact:

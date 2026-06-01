@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 70
+district: 70
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/brown_(70th).jpg"
 contact:

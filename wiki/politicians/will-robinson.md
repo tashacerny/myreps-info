@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 71
+district: 71
 in_office: true
 photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4733.jpg"
 contact:

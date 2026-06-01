@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 76
+district: 76
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Darshana_Patel.jpg"
 contact:

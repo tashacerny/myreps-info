@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 53
+district: 53
 in_office: true
 photo_url: "https://www.oklahoman.com/gcdn/authoring/authoring-images/2024/06/10/NOKL/74049882007-jason-blair.jpg?width=300&height=366&fit=crop&format=pjpg&auto=webp"
 contact:

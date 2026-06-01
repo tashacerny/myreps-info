@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 4
+district: 4
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/121328.jpg"
 contact:

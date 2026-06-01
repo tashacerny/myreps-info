@@ -6,6 +6,7 @@ state: IA
 level: state
 chamber: House
 office: IA State House, District 98
+district: 98
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18614"
 contact:

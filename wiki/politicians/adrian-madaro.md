@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 1st Suffolk
+district: 1st
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/ACM1.jpg"
 contact:

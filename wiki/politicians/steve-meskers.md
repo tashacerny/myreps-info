@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 150
+district: 150
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Meskers/images/Meskers_HS.jpg"
 contact:

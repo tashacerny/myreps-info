@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 59
+district: 59
 in_office: true
 photo_url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/92/892e4c6d-1520-4244-b414-6a86e405c9bc/696545afef0c7.image.jpg?resize=333%2C500"
 contact:

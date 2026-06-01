@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 105
+district: 105
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX0dvieAKQKNkpNLYf1CfTOGpW1d2Fr9PPxQ&s"
 contact:

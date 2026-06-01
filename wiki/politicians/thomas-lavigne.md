@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 148
+district: 148
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/fc7494df-6e51-45a2-9716-43f8d0f0b162_LAVIGNE.jpg"
 contact:

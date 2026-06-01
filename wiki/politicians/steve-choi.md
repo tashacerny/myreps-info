@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 37
+district: 37
 in_office: true
 photo_url: "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/choi.jpg"
 contact:

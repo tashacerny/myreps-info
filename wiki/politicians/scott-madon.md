@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: Senate
 office: KY State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://thecityofpineville.com/wp-content/uploads/2018/08/mayor-scott-madon-228x300.jpg"
 contact:

@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 64
+district: 64
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Sylvia_Wayfer.jpg"
 contact:

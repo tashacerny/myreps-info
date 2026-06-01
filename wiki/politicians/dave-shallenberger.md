@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 58
+district: 58
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/414685/414685.jpg"
 contact:

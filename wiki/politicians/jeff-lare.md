@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 73
+district: 73
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/jeff-lare/headshots/thumbnails/medium/jeff-lare-january-2021-headshot_medium.jpg"
 contact:

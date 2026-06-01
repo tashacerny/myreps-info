@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Belknap 6
+district: Belknap
 in_office: true
 photo_url: "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/content/tncms/assets/v3/editorial/3/33/3330e0b6-5949-11ed-9877-0b2d40bf1fa8/636012e676cdb.image.jpg"
 contact:

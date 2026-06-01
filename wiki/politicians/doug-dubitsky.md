@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 47
+district: 47
 in_office: true
 photo_url: "https://www.cthousegop.com/dubitsky/wp-content/uploads/sites/23/2019/01/2-Dubitsky-headshot-cropped-v2-050318-5673-265x300.jpg"
 contact:

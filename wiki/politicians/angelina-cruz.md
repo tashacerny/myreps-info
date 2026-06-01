@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 62
+district: 62
 in_office: true
 photo_url: "https://victoryfund.org/wp-content/uploads/2024/06/AC-headshot-scaled-e1719503338133-500x500-250x250.jpeg"
 contact:

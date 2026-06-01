@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://markenget.com/wp-content/uploads/2024/01/mark-enget-main.png"
 contact:

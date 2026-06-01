@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 29
+district: 29
 in_office: true
 photo_url: "http://www.azleg.gov/alisImages/MemberPhotos/49leg/House/MONTENEGRO.gif"
 contact:

@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 5
+district: 5
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Woods_13.png"
 contact:

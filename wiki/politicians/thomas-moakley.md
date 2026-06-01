@@ -6,6 +6,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District Barnstable, Dukes and Nantucket
+district: Barnstable
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/TWM1.jpg"
 contact:

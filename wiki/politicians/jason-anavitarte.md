@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/anavitarte-jason-4980.jpg"
 contact:

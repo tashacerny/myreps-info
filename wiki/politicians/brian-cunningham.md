@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 43
+district: 43
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/043/headshot/043.jpg?hst=1660073468"
 contact:

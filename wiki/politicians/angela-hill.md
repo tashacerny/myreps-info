@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 40
+district: 40
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/hill.jpg"
 contact:

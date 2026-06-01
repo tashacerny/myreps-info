@@ -7,6 +7,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 26
+district: 26
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HCHAL.jpg"
 contact:

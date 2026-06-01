@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Washington-3
+district: Washington
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Boutin,Michael%20015.jpg"
 contact:

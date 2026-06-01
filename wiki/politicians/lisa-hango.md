@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Franklin-5
+district: Franklin
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/LHango.jpg"
 contact:

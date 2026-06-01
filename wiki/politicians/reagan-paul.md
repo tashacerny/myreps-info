@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 37
+district: 37
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/7b5328a9-249c-464f-b943-d0fa3fe16d1c_RPAUL.jpg"
 contact:

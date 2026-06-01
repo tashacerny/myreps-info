@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 50
+district: 50
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Hill_50.png"
 contact:

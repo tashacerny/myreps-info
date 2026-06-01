@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 41
+district: 41
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{7FC724D0-C297-4D20-AC25-3D879DE286B8}.jpg"
 contact:

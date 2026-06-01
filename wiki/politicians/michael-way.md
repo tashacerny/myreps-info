@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 15
+district: 15
 in_office: true
 photo_url: "https://azcapitoltimes.com/wp-content/blogs.dir/1/files/2024/08/Michael-Way.png"
 contact:

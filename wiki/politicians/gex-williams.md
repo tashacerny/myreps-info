@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: Senate
 office: KY State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate120.jpg"
 contact:

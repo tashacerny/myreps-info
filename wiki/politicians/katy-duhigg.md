@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: Senate
 office: NM State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SDUHI.jpg"
 contact:

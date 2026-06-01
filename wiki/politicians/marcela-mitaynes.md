@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 51
+district: 51
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/051/headshot/051.jpg?hst=1660073582"
 contact:

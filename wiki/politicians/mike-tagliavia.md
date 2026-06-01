@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Orange-1
+district: Orange
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Tagliavia,Michael.jpg"
 contact:

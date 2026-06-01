@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 93
+district: 93
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/jason-stephens/headshots/thumbnails/medium/jason-stephens-november-2023-headshot_medium.jpg"
 contact:

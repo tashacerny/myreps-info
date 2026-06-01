@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 139
+district: 139
 in_office: true
 photo_url: "https://www.house.texas.gov/images/members/4785.jpg?v=3"
 contact:

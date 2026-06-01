@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: Senate
 office: NJ State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/vitale_color.jpg"
 contact:

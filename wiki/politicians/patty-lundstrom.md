@@ -7,6 +7,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 9
+district: 9
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HLUND.jpg"
 contact:

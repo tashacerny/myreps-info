@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 43
+district: 43
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/anderson-tonya-807.jpg"
 contact:

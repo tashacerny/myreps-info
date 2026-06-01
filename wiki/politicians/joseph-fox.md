@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 101
+district: 101
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Fox-101.jpg"
 contact:

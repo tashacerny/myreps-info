@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 9
+district: 9
 in_office: true
 photo_url: "https://cdn.runforsomething.net/candidates/2020/w9466-blattman.jpg"
 contact:

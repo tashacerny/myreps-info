@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 39
+district: 39
 in_office: true
 contact:
   website: "https://openstates.org/person/wylie-galt-2Hd1vWFQbJe4fCmvUXqZj3/"

@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 7
+district: 7
 in_office: true
 contact:
   website: "https://openstates.org/person/greg-hertz-6pfPsvCHjmgx9BZHv2MOgX/"

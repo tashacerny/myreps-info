@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 49
+district: 49
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_mcdonald_nikki_1.jpg"
 contact:

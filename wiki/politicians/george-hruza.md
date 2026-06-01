@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 89
+district: 89
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/GeorgeHruza2023.jpg"
 contact:

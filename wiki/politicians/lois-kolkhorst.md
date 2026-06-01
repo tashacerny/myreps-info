@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://senate.texas.gov/members/d18/img/LWK_2020.jpg"
 contact:

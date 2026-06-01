@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 29
+district: 29
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/dubnik-matt-4886.jpg"
 contact:

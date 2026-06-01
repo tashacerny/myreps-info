@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 34
+district: 34
 in_office: true
 photo_url: "https://www.cthousegop.com/haines/wp-content/uploads/sites/77/2021/12/BD3A1188-sized-232x300.jpg"
 contact:

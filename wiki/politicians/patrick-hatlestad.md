@@ -7,6 +7,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 1
+district: 1
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/phatlestad2023.jpg?itok=InESB1Wt"
 contact:

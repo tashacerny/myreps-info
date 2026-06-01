@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 2A
+district: 2A
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/wivell01.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 59B
+district: 59B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/59B.gif"
 contact:

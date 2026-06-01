@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 129
+district: 129
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Stafstrom/images/Stafstrom_HS.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 47
+district: 47
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/senate/seymour.jpg"
 contact:

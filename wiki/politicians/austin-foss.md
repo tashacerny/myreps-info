@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 44
+district: 44
 in_office: true
 photo_url: "https://demnpl.com/wp-content/uploads/2024/05/Austin-Foss-1225x1500.png"
 contact:

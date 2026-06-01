@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 25
+district: 25
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0953408977.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 65
+district: 65
 in_office: true
 photo_url: "https://www.senate.mn/graphics/65Pappas.jpg"
 contact:

@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 69
+district: 69
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1978408854.jpg"
 contact:

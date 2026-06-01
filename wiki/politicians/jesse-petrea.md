@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 166
+district: 166
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/petrea-jesse-862.jpg"
 contact:

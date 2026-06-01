@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 8
+district: 8
 in_office: true
 photo_url: "https://cga.ct.gov/legpics/008.png?ver="
 contact:

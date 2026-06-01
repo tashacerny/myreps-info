@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/SHAMP.jpg"
 contact:

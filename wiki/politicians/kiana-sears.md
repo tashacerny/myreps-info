@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: Senate
 office: AZ State Senate, District 9
+district: 9
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/SEARS.jpg"
 contact:

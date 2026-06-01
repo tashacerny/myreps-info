@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 80
+district: 80
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2021/house/williams_john.jpg"
 contact:

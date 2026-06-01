@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: Senate
 office: OH State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://img.legistorm.com/people/980/46980.jpg?rand=345402"
 contact:

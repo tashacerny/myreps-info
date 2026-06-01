@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 38
+district: 38
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Howard%2C%20Brent_flags.jpg"
 contact:

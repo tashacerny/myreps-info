@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 55
+district: 55
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/brouk2023hs.jpg?itok=Y9a9shjq"
 contact:

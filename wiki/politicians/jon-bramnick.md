@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: Senate
 office: NJ State Senate, District 21
+district: 21
 in_office: true
 contact:
   website: "https://openstates.org/person/jon-bramnick-GKPpedS0wLJXt02psRrKy/"

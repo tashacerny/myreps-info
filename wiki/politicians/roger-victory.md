@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://www.misenategop.com/wp-content/uploads/2019/01/Victory-580x770.jpg"
 contact:

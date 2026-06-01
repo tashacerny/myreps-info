@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://senate.texas.gov/members/d10/img/King_88-0550D-004-WEB.jpg"
 contact:

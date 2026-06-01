@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 141
+district: 141
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hugley-carolyn-133.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 75
+district: 75
 in_office: true
 contact:
   website: "https://openstates.org/person/chanel-mosley-7HTxDNOyB9vU2OoDx6vCro/"

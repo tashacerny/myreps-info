@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 26
+district: 26
 in_office: true
 photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/AGUILAR.jpg"
 contact:

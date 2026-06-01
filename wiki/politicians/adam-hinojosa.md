@@ -6,6 +6,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://senate.texas.gov/members/d27/img/Hinojosa_Adam-88-0913D-005-web.jpg"
 contact:

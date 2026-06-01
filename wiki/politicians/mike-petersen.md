@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: Senate
 office: KS State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/sen_petersen_mike_1.jpg"
 contact:

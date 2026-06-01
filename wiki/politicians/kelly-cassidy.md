@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 14
+district: 14
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{3EFBDD50-41FF-4677-AA47-FB35B70C4667}.jpg"
 contact:

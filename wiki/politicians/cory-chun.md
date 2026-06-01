@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 35
+district: 35
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Chun.jpg"
 contact:

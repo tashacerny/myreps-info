@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 92
+district: 92
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4115.jpg?v=1"
 contact:

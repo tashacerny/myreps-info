@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 37
+district: 37
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Luttrell,%20Ken.jpg"
 contact:

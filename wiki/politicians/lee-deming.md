@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 54
+district: 54
 in_office: true
 contact:
   website: "https://openstates.org/person/lee-deming-CsoaXv9ZuAIt8diPCtIPA/"

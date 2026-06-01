@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 40
+district: 40
 in_office: true
 contact:
   website: "https://openstates.org/person/laura-smith-2TNoDzyyX8qls94MVmmXlN/"

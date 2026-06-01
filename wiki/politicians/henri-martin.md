@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://cga.ct.gov/legpics/S31.png?ver="
 contact:

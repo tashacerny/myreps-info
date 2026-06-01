@@ -7,6 +7,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 87
+district: 87
 in_office: true
 photo_url: "https://jacobsonforassembly.com/wp-content/uploads/2024/03/IMG_0484.png"
 contact:

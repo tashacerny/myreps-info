@@ -7,6 +7,7 @@ state: PA
 level: state
 chamber: Senate
 office: PA State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/153.jpg?1703415645672"
 contact:

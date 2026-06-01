@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Windham-1
+district: Windham
 in_office: true
 photo_url: "https://vtdigger.org/wp-content/uploads/2024/07/Zon-Eastes-2024-1.jpg"
 contact:

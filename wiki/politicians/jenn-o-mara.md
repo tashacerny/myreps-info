@@ -7,6 +7,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 165
+district: 165
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/1855.jpg?1703415645672"
 contact:

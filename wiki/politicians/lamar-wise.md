@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 48
+district: 48
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/wise/PublishingImages/member_photo.jpg"
 contact:

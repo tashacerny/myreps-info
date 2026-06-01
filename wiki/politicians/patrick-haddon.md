@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 19
+district: 19
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0733806731.jpg"
 contact:

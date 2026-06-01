@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 148
+district: 148
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/williams--jr-noel-4960.jpg"
 contact:

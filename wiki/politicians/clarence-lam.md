@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 12
+district: 12
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/lam01.jpg"
 contact:

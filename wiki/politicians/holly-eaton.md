@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 15
+district: 15
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/56d51271-b0dc-43ea-8f70-423d544537d5_EATON.jpg"
 contact:

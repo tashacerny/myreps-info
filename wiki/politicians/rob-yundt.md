@@ -6,6 +6,7 @@ state: AK
 level: state
 chamber: Senate
 office: AK State Senate, District N
+district: N
 in_office: true
 photo_url: "https://ktna.org/wp-content/uploads/2023/06/YundtThumb.jpg"
 contact:

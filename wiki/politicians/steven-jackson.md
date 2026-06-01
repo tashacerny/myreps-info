@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: House
 office: LA State House, District 2
+district: 2
 in_office: true
 photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep2.jpg"
 contact:

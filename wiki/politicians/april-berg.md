@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 44
+district: 44
 in_office: true
 photo_url: "https://housedemocrats.wa.gov/tmp/2021/01/Rep-Berg_April-2021_150x200.jpg"
 contact:

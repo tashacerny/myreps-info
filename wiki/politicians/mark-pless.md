@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 118
+district: 118
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/773/Low"
 contact:

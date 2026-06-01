@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 55
+district: 55
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2024/house/akers_james.jpg"
 contact:

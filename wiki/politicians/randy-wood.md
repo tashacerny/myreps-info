@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 36
+district: 36
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Wood_36.png"
 contact:

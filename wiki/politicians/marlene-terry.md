@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 66
+district: 66
 in_office: true
 photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2247"
 contact:

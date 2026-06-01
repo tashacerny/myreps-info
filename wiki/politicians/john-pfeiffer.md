@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 38
+district: 38
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Pfeiffer,%20John.JPG"
 contact:

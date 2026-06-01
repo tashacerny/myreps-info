@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/hickman-1024x1024.jpg"
 contact:

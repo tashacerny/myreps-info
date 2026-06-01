@@ -7,6 +7,7 @@ state: CO
 level: state
 chamber: Senate
 office: CO State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXhTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f1c6929289275427225aba6c766440b456c3b1a/Roberts,%20Dylan.jpg"
 contact:

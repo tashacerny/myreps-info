@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 7
+district: 7
 in_office: true
 contact:
   website: "https://openstates.org/person/joshua-hoover-3STyPpHwhUuWRyRJDetQkN/"

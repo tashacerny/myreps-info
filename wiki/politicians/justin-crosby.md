@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 22
+district: 22
 in_office: true
 photo_url: "https://cdn.mississippitoday.org/wp-content/uploads/2025/07/16124016/IMG_20250627_163819-200x200.jpg"
 contact:

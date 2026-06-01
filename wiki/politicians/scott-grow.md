@@ -7,6 +7,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/directory/Grow5126.jpg"
 contact:

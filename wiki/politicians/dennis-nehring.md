@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 23
+district: 23
 in_office: true
 contact:
   website: "https://openstates.org/person/dennis-nehring-2OJZO7LXVJ1nyU6O7bXUzN/"

@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: Senate
 office: NH State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/45621.jpg"
 contact:

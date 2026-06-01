@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Belknap 8
+district: Belknap
 in_office: true
 photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2020-07/douglas-r-trottier.png?itok=8gaHTq0I"
 contact:

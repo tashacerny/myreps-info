@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/tipping-1.jpg"
 contact:

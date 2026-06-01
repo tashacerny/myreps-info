@@ -6,6 +6,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 36
+district: 36
 in_office: true
 photo_url: "https://aps.ss20.sharpschool.com/UserFiles/Servers/Server_3217444/Image/Board%20of%20Education/Members/Carter_Michael_152-200x300.jpg"
 contact:

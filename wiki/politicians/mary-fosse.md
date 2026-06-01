@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 38
+district: 38
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/31542.jpg"
 contact:

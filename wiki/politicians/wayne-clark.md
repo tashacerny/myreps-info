@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 99
+district: 99
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/clark_wayne.jpg"
 contact:

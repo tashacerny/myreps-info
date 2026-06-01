@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 140
+district: 140
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Simms/images/Simms_HS.jpg"
 contact:

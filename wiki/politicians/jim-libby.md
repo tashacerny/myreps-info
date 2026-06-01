@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/libby-1.jpg"
 contact:

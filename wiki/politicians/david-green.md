@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 36
+district: 36
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2024/house/green_david.jpg"
 contact:

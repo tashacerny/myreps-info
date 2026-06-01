@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 65
+district: 65
 in_office: true
 photo_url: "https://bloximages.newyork1.vip.townnews.com/williamsonherald.com/content/tncms/assets/v3/editorial/7/43/743d158c-3f0e-11ef-855e-4b97c0d5f896/668f0f9e62e96.image.jpg?resize=394%2C500"
 contact:

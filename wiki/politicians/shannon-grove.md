@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 12
+district: 12
 in_office: true
 photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/grove_hs_0625_lls.jpg"
 contact:

@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 106
+district: 106
 in_office: true
 photo_url: "https://www.cthousegop.com/bolinsky/wp-content/uploads/sites/8/2016/12/Bolinsky-Bio-Web-Sized.jpg"
 contact:

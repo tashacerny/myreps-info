@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 52
+district: 52
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/Pictures/marszalkowski.jpg"
 openstates_id: ocd-person/7769ff96-3f6e-4747-b14b-de0a8648af61

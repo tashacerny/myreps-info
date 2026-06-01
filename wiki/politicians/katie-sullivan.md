@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 93
+district: 93
 in_office: true
 contact:
   website: "https://openstates.org/person/katie-sullivan-64I3JZYxBu91avKMjrTxI0/"

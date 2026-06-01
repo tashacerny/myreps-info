@@ -7,6 +7,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 34
+district: 34
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/tkporter2023.jpg?itok=7kkm9IJN"
 contact:

@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 66
+district: 66
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Staires,%20Clay.jpg"
 contact:

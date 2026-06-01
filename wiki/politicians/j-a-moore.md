@@ -6,6 +6,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 15
+district: 15
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1356818019.jpg"
 contact:

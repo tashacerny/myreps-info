@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 13
+district: Hillsborough
 in_office: true
 photo_url: "https://www.hudsonnh.gov/sites/default/files/styles/full_node_primary/public/imageattachments/directory/53200/d._dumont_-_4-21-23.jpg?itok=u_RPt8Z2"
 contact:

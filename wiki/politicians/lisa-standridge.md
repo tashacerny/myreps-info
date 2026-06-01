@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://www.cairoklahoma.com/wp-content/uploads/2024/08/lisa-474x474.jpeg"
 contact:

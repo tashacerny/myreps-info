@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 48
+district: 48
 in_office: true
 contact:
   website: "https://openstates.org/person/andrea-olsen-1OPPABn3twPsyE9o6WjNwQ/"

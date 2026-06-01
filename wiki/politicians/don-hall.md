@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: House
 office: ID State House, District 25A
+district: 25A
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Hall10355.jpg"
 contact:

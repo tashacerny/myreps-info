@@ -6,6 +6,7 @@ state: ID
 level: state
 chamber: Senate
 office: ID State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://cdn.theorg.com/61b74bbb-61b5-48d5-a84d-fb498da306b9_thumb.jpg"
 contact:

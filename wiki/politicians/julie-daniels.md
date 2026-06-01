@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 29
+district: 29
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Daniels%2C%20Julie%202022.jpg"
 contact:

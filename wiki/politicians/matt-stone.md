@@ -6,6 +6,7 @@ state: AR
 level: state
 chamber: Senate
 office: AR State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/632_sm.jpg"
 contact:

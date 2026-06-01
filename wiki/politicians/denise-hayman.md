@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 32
+district: 32
 in_office: true
 contact:
   website: "https://openstates.org/person/denise-hayman-2CCZ3YEMgnjwrUMY6SaiPd/"

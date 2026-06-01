@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 54
+district: 54
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/810348/810348.jpg"
 contact:

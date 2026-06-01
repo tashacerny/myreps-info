@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 69
+district: 69
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Scott_Miller_20240924_022629.png"
 contact:

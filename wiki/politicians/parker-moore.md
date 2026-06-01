@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 4
+district: 4
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Moore_4.png"
 contact:

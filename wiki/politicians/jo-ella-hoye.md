@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 17
+district: 17
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jo-Ella-Hoye.PNG"
 contact:

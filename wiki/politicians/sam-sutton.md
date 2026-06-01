@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://cdn.cityandstateny.com/media/img/cd/2025/05/20/Sam_Sutton-1/860x394.jpg?1747765149"
 contact:

@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 80
+district: 80
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/giaquinta20180102portrait_800_999_80.jpg"
 contact:

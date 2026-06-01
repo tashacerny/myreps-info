@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 95
+district: 95
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/Bartlett_John_web_800_999_80.jpg"
 contact:

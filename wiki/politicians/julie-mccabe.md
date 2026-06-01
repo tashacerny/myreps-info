@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 93
+district: 93
 in_office: true
 photo_url: "https://mccabe.mainecandidate.com/images/2186.jpg"
 contact:

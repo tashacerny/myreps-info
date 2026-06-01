@@ -7,6 +7,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 4
+district: 4
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/CeceliaEspenoza24.jpg"
 contact:

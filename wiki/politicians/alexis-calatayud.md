@@ -6,6 +6,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 38
+district: 38
 in_office: true
 photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s38_5525.jpg"
 contact:

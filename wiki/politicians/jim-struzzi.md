@@ -7,6 +7,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 62
+district: 62
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/1835.jpg?1703415645672"
 contact:

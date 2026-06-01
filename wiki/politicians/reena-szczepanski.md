@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 47
+district: 47
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HSZCZ.jpg"
 contact:

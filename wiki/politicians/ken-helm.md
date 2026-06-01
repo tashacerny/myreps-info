@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 27
+district: 27
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/helm/PublishingImages/HD18-784-Edit.jpg"
 contact:

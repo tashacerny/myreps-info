@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 23
+district: 23
 in_office: true
 contact:
   website: "https://openstates.org/person/jason-morgan-4iY6lIkpyC5sW92eipbcFU/"

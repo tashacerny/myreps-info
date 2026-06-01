@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 51
+district: 51
 in_office: true
 photo_url: "https://floridapolitics.com/wp-content/uploads/2025/10/Hillary-Holley-copy.jpg"
 contact:

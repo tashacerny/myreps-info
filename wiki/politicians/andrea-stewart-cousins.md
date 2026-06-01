@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 35
+district: 35
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/asc-hs-new_0.jpg?itok=Amg0GHQ5"
 contact:

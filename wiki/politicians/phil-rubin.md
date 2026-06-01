@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 40
+district: 40
 in_office: true
 contact:
   website: "https://openstates.org/person/phil-rubin-7IGpTNlS306wxGr1WXuBVW/"

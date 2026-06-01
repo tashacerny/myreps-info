@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 37
+district: 37
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Fincher_37.png"
 contact:

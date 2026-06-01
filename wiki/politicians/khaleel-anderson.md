@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 31
+district: 31
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/031/headshot/031.jpg?hst=1668023367"
 contact:

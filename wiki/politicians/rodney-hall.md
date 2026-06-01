@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 20
+district: 20
 in_office: true
 contact:
   website: "https://openstates.org/person/rodney-hall-3JyzWuYHm59xwVtmfz0a9b/"

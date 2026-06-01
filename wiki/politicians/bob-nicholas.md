@@ -7,6 +7,7 @@ state: WY
 level: state
 chamber: House
 office: WY State House, District 7
+district: 7
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-NicholasBob.jpg"
 contact:

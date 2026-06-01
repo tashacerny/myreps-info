@@ -6,6 +6,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 25
+district: 25
 in_office: true
 photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0343"
 contact:

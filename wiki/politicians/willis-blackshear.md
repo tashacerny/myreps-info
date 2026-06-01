@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: Senate
 office: OH State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/willis-e-blackshear-jr/headshots/thumbnails/medium/willis-e-blackshear-jr-january-2023-headshot_medium.jpg"
 contact:

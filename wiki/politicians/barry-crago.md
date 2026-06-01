@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: Senate
 office: WY State Senate, District 22
+district: 22
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-CragoBarry.jpg"
 contact:

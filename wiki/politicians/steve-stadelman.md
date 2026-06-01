@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 34
+district: 34
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{47906765-AB0A-48BF-8C14-B5443B8F27C4}.jpg"
 contact:

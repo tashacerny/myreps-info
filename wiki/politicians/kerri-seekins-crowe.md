@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 39
+district: 39
 in_office: true
 contact:
   website: "https://openstates.org/person/kerri-seekins-crowe-1vnKOkEnJOvox0btMaYgV5/"

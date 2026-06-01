@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1179545313.jpg"
 contact:

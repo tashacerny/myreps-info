@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 31
+district: 31
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/VeronaMauga.jpg"
 contact:

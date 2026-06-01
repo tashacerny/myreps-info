@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 67
+district: 67
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/glaize-lydia-5031.jpg"
 contact:

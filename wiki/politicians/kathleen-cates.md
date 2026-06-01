@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 44
+district: 44
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HCATE.jpg"
 contact:

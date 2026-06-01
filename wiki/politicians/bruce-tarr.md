@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District First Essex and Middlesex
+district: First
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/BET0.jpg"
 contact:

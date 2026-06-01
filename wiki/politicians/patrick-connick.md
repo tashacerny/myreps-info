@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen8.jpg"
 contact:

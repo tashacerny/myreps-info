@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 22
+district: 22
 in_office: true
 photo_url: "https://www.plainsman.com/uploads/original/20240109-142336-0a240151fba44bcc2fecc73323c1cfdd.jpg"
 contact:

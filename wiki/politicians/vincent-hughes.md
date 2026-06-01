@@ -7,6 +7,7 @@ state: PA
 level: state
 chamber: Senate
 office: PA State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/152.jpg?1703415645672"
 contact:

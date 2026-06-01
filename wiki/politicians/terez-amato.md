@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 11
+district: 11
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Amato.jpg"
 contact:

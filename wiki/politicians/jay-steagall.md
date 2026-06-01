@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 43
+district: 43
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Steagall,%20Jay.jpg"
 contact:

@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 57
+district: 57
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_alcala_john_1.jpg"
 contact:

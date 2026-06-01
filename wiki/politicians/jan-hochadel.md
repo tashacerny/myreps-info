@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 13
+district: 13
 in_office: true
 contact:
   website: "https://openstates.org/person/jan-hochadel-742XANZidMa1VhbBk6bX78/"

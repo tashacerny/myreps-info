@@ -6,6 +6,7 @@ state: WI
 level: state
 chamber: Senate
 office: WI State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2462.jpg"
 contact:

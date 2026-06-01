@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 99
+district: 99
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/bedcf53e-b367-42a7-9db6-a1c317f925af_GOLEK.jpg"
 contact:

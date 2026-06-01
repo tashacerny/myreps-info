@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: Senate
 office: MD State Senate, District 37
+district: 37
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/mautz02.jpg"
 contact:

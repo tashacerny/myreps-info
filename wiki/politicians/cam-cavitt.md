@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 106
+district: 106
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Cavitt-106.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://senatedems.com/irwin/wp-content/uploads/sites/19/2022/12/MDS_Irwin_DSC5423.jpg"
 contact:

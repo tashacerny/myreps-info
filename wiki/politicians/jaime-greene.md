@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 65
+district: 65
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Greene-065.jpg"
 contact:

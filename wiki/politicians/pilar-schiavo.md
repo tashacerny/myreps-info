@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 40
+district: 40
 in_office: true
 photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_40.jpg"
 contact:

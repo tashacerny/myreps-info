@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 7
+district: 7
 in_office: true
 photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/BLACKMAN.jpg"
 contact:

@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 25
+district: 25
 in_office: true
 photo_url: "https://bloximages.chicago2.vip.townnews.com/newbritainherald.com/content/tncms/assets/v3/editorial/2/47/247f0640-5832-40c0-8f46-ed62614d8531/69583e0d5b6ee.image.jpg?resize=750%2C500"
 contact:

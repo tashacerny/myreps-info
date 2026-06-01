@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 98
+district: 98
 in_office: true
 photo_url: "https://house.texas.gov/images/members/2345.jpg?v=1"
 contact:

@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 9
+district: 9
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{A4F70929-881C-4003-B10A-D1A775D3D94B}.jpg"
 contact:

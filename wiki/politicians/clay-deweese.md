@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 12
+district: 12
 in_office: true
 photo_url: "http://billstatus.ls.state.ms.us/members/house/deweese.jpg"
 contact:

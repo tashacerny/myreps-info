@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 71
+district: 71
 in_office: true
 photo_url: "https://ngturf.com/wp-content/uploads/2017/11/jutt.jpg"
 contact:

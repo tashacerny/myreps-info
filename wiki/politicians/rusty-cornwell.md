@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 6
+district: 6
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Cornwell,%20Rusty.jpg"
 contact:

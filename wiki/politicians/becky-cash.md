@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 25
+district: 25
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Cash_Main_list.jpg"
 contact:

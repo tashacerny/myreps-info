@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 74
+district: 74
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/DiGiovancarlo/images/DiGiovancarlo_HS.jpg"
 contact:

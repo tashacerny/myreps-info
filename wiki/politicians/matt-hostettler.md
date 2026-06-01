@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 64
+district: 64
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Hostettler_Main_List.jpg"
 contact:

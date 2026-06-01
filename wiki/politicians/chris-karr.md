@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Karr_2017.jpg"
 contact:

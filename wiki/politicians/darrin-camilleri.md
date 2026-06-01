@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 4
+district: 4
 in_office: true
 photo_url: "https://senatedems.com/camilleri/wp-content/uploads/sites/10/2022/12/Portrait_Camilleri_Web.jpg"
 contact:

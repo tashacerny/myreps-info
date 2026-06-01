@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 97
+district: 97
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_hoheisel_nick_1.jpg"
 contact:

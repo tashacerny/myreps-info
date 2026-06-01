@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 17
+district: 17
 in_office: true
 contact:
   website: "https://openstates.org/person/glen-meyer-6f0wCiQdu5vukzPdibSPig/"

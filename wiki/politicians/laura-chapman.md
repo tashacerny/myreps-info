@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/chapman_laura.jpg"
 contact:

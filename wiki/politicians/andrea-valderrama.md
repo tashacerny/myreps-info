@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 47
+district: 47
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/valderrama/PublishingImages/member_photo.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 38B
+district: 38B
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/beauchamp01.jpg"
 contact:

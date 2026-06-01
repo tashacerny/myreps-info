@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 74
+district: 74
 in_office: true
 contact:
   website: "https://openstates.org/person/keith-powers-68QVSnef4NoyatizDUnOTn/"

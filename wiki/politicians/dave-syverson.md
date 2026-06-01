@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 35
+district: 35
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{6FD168B8-C34B-4399-8E39-7373F7600882}.jpg"
 contact:

@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 82
+district: 82
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/roy-klopfenstein/headshots/thumbnails/medium/roy-klopfenstein-january-2023-headshot_medium.jpg"
 contact:

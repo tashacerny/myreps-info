@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 68
+district: 68
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/speakman.jpg"
 openstates_id: ocd-person/9386224e-9603-4695-8f46-a1033d8534a5

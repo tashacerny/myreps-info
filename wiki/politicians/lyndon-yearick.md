@@ -7,6 +7,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 34
+district: 34
 in_office: true
 photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Lyndon_D_Yearick_710x710-710x710.png"
 contact:

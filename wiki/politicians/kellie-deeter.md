@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 54
+district: 54
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kellie_Deeter_20240829_073240.jpg"
 contact:

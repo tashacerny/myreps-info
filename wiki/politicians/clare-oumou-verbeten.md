@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 66
+district: 66
 in_office: true
 photo_url: "https://www.senate.mn/graphics/66OumouVerbeten.jpg"
 contact:

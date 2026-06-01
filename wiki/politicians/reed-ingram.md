@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 75
+district: 75
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Ingram_75.png"
 contact:

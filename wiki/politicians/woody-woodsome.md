@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 139
+district: 139
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/woodsome-5x7-2.jpg"
 contact:

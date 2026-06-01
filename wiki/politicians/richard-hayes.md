@@ -6,6 +6,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 57
+district: 57
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4165.jpg?v=1"
 contact:

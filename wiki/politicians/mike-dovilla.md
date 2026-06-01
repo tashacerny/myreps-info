@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 17
+district: 17
 in_office: true
 photo_url: "http://www.ohiohouse.gov/Assets/Headshots/Small/7.jpg"
 contact:

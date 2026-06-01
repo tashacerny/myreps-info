@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 35
+district: 35
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/chaichi/PublishingImages/member_photo.jpg"
 contact:

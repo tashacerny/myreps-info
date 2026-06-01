@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: Senate
 office: KY State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate102.jpg"
 contact:

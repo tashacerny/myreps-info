@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 31
+district: 31
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist31/highres/dist31.jpg"
 contact:

@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 34
+district: 34
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Hanadi_Nadeem1.jpeg"
 contact:

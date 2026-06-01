@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 42A
+district: 42A
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/mangione01.jpg"
 contact:

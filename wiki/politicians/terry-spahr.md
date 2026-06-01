@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Grafton 12
+district: Grafton
 in_office: true
 photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Terry-Spahr-1-1024x819.jpg"
 contact:

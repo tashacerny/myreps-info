@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Chittenden-14
+district: Chittenden
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Rachelson.Barb.jpg"
 contact:

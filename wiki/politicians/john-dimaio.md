@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 23
+district: 23
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/dimaio_john_2020.jpg"
 contact:

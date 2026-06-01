@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 88
+district: 88
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/813522/813522.jpg"
 contact:

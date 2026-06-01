@@ -6,6 +6,7 @@ state: RI
 level: state
 chamber: Senate
 office: RI State Senate, District 34
+district: 34
 in_office: true
 photo_url: "http://www.rilegislature.gov/Senators/Pictures/morgan.jpg"
 openstates_id: ocd-person/6913b936-2e96-414a-80d6-6518f5accb7e

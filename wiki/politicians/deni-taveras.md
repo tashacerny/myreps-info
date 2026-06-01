@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 47B
+district: 47B
 in_office: true
 photo_url: "https://global-uploads.webflow.com/5e1b86c619c05c91b9967ad6/620e4aa91638bf13a472cf3e_DtOqMwcsRnKd3LnHjPV2jw_thumb_d6b.jpg"
 contact:

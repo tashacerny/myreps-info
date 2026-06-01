@@ -7,6 +7,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 35
+district: 35
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen35.jpg"
 contact:

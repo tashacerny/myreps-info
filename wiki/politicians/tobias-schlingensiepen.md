@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 55
+district: 55
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/62a93b88228a337fdf4f80e2/1655346125169-V2O5XAAA56EL7GFUJ9L6/Tobias+4KH+0422.jpg?format=500w"
 contact:

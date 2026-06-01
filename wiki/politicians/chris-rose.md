@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/rose_chris.jpg"
 contact:

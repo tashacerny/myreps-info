@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 118
+district: 118
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/SmithF/images/SmithF_HS.jpg"
 contact:

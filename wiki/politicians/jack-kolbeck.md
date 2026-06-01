@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 13
+district: 13
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/Kolbeck_2017.jpg"
 contact:

@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 4
+district: 4
 in_office: true
 contact:
   website: "https://openstates.org/person/john-fuller-2aNRhDHwwX8coAhAzWkUxU/"

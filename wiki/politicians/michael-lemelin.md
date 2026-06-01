@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 53
+district: 53
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/2f05ff55-e46c-41ce-b4b9-5d144bc7b7ee_LemelinNEW.jpg"
 contact:

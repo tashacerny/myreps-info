@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen20.jpg"
 contact:

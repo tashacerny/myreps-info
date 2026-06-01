@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 54
+district: 54
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/senator_helming_headshot_2022_1.jpg?itok=oitrgwih"
 contact:

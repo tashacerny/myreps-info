@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 48
+district: 48
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0730681731.jpg"
 contact:

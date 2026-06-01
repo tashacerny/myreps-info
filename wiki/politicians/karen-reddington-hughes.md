@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 66
+district: 66
 in_office: true
 contact:
   website: "https://openstates.org/person/karen-reddington-hughes-2dqcB04kWsfLDAay6l9tuL/"

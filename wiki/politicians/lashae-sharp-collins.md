@@ -6,6 +6,7 @@ state: CA
 level: state
 chamber: House
 office: CA State House, District 79
+district: 79
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/lscollins.JPG"
 contact:

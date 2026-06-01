@@ -7,6 +7,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 91
+district: 91
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/392_sm.jpg"
 contact:

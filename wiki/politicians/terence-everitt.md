@@ -7,6 +7,7 @@ state: NC
 level: state
 chamber: Senate
 office: NC State Senate, District 18
+district: 18
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/741/Low"
 contact:

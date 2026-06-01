@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 84
+district: 84
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Forte_84.png"
 contact:

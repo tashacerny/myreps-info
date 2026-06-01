@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 10
+district: 10
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bobbi_Andera_20250303_091250.jpg"
 contact:

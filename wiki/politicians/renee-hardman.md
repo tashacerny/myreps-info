@@ -6,6 +6,7 @@ state: IA
 level: state
 chamber: Senate
 office: IA State Senate, District 16
+district: 16
 in_office: true
 photo_url: "https://media.tegna-media.com/assets/WOI/images/eb691334-5dc7-4bc6-9b19-2d2533483f86/eb691334-5dc7-4bc6-9b19-2d2533483f86_1920x1080.jpg"
 contact:

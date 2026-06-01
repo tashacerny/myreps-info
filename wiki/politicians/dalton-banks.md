@@ -6,6 +6,7 @@ state: WY
 level: state
 chamber: House
 office: WY State House, District 26
+district: 26
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-BanksDalton.jpg"
 contact:

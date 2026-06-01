@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 26
+district: 26
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Colvin_26.png"
 contact:

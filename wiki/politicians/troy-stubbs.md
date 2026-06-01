@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 31
+district: 31
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Stubbs_31.png"
 contact:

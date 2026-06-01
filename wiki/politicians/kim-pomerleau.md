@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 85
+district: 85
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/be0d0db4-52a9-40c7-8300-6cbb2e7e652d_POMERLEAU.jpg"
 contact:

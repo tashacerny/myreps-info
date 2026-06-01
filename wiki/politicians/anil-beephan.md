@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 105
+district: 105
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/105/headshot/105.jpg?hst=1672566071"
 contact:

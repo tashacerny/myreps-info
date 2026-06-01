@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 48
+district: 48
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist48/highres/dist48.jpg"
 contact:

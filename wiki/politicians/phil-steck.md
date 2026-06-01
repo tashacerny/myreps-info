@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 110
+district: 110
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/110/headshot/110.jpg?hst=1660074591"
 contact:

@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 66
+district: 66
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/sharon-a-ray/headshots/thumbnails/medium/sharon-a-ray-january-2021-headshot_medium.jpg"
 contact:

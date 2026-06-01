@@ -7,6 +7,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 56
+district: 56
 in_office: true
 photo_url: "https://i0.wp.com/coloradocommunitymedia.com/wp-content/uploads/2022/10/20221012-100004-Richardson20for20Facebook.jpg?resize=1200%2C782&ssl=1"
 contact:

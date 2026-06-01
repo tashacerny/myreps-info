@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 123
+district: 123
 in_office: true
 photo_url: "https://www.cga.ct.gov/legpics/123.png?ver="
 contact:

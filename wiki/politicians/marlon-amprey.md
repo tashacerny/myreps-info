@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 40
+district: 40
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2021RS/images/amprey01.jpg"
 contact:

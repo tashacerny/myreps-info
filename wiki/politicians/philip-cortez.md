@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 117
+district: 117
 in_office: true
 photo_url: "https://house.texas.gov/images/members/2365.jpg?v=2"
 contact:

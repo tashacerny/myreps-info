@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Strafford 8
+district: Strafford
 in_office: true
 photo_url: "https://www.fosters.com/gcdn/authoring/authoring-images/2024/10/11/NPOH/75629933007-sam-farringtoncandidate.jpg"
 contact:

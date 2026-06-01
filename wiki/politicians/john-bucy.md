@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 136
+district: 136
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3595.jpg?v=5"
 contact:

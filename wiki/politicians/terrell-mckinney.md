@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 11
+district: 11
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist11/highres/dist11.jpg"
 contact:

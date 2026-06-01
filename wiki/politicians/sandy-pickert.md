@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 88
+district: 88
 in_office: true
 photo_url: "http://www.kslegislature.org/li/s/images/pics/rep_pickert_sandy_1.jpg"
 contact:

@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Strafford 12
+district: Strafford
 in_office: true
 photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Wayne-Pearson-1-1024x819.jpg"
 contact:

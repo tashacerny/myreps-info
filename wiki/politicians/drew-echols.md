@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 49
+district: 49
 in_office: true
 photo_url: "https://www.gfpe.org/library/imglib/Drew-Echols-1.jpg"
 contact:

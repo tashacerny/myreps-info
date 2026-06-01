@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: Senate
 office: NV State Senate, District 18
+district: 18
 in_office: true
 photo_url: "http://www.leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Steinbeck.John.418.jpg"
 contact:

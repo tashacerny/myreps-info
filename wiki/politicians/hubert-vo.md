@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 149
+district: 149
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4900.jpg?v=1"
 contact:

@@ -7,6 +7,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 86
+district: 86
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/tracy-m-richardson/headshots/thumbnails/medium/tracy-m-richardson-january-2023-headshot_medium.jpg"
 contact:

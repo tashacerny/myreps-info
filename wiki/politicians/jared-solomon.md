@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 18
+district: 18
 in_office: true
 photo_url: "https://bosepublicaffairs.com/wp-content/uploads/2020/12/solomon-768x959.jpg"
 contact:

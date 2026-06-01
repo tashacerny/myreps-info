@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Belknap 7
+district: Belknap
 in_office: true
 photo_url: "https://paulterryfornh.com/wp-content/uploads/2020/06/Paul8.jpg"
 contact:

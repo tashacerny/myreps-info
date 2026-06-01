@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 15
+district: 15
 in_office: true
 photo_url: "https://senate.texas.gov/members/d15/img/Cook_88-0807D-014-2025.jpg"
 contact:

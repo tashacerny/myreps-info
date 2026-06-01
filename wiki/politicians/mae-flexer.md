@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 29
+district: 29
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/flexer/images/flexer-hi.jpg"
 contact:

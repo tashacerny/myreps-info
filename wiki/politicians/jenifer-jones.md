@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 32
+district: 32
 in_office: true
 photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HJONJ.jpg"
 contact:

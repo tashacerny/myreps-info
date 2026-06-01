@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 12
+district: 12
 in_office: true
 photo_url: "https://senate.texas.gov/members/d12/img/86_20190619_SAM_0008.jpg"
 contact:

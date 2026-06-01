@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: Senate
 office: VA State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Cifers10"
 contact:

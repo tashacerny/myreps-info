@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 1
+district: 1
 in_office: true
 contact:
   website: "https://openstates.org/person/bob-hallstrom-6Cx7lC5ixt71d6Mby6urdl/"

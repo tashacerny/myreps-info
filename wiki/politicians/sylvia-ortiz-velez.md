@@ -6,6 +6,7 @@ state: WI
 level: state
 chamber: House
 office: WI State House, District 8
+district: 8
 in_office: true
 photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2496.jpg"
 contact:

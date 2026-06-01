@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 3
+district: 3
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/golden/PublishingImages/member_photo.jpg"
 contact:

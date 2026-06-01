@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: Senate
 office: WV State Senate, District 7
+district: 7
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2021/house/maynard_zack.jpg"
 contact:

@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Caledonia-Washington
+district: Caledonia
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Burtt,Greg%20050.jpg"
 contact:

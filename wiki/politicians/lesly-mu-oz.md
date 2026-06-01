@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 22
+district: 22
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/munoz/PublishingImages/member_photo.jpg"
 contact:

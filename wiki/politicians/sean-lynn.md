@@ -6,6 +6,7 @@ state: DE
 level: state
 chamber: House
 office: DE State House, District 31
+district: 31
 in_office: true
 photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2022/09/Lynn_Sean_Member_Card-min-710x710.png"
 contact:

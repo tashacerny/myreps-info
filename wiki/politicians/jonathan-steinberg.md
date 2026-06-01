@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 136
+district: 136
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Steinberg/images/Steinberg_HS.jpg"
 contact:

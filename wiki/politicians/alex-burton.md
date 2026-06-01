@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 77
+district: 77
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AlexBurton2024.jpeg"
 contact:

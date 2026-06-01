@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 30
+district: Rockingham
 in_office: true
 photo_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Matt_Sabourin_dit_Choiniere_by_Gage_Skidmore.jpg/220px-Matt_Sabourin_dit_Choiniere_by_Gage_Skidmore.jpg"
 contact:

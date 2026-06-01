@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 2
+district: Hillsborough
 in_office: true
 photo_url: "https://patch.com/img/cdn20/users/546351/20240905/101328/styles/patch_image/public/john-schneller-2024-campaign___05220730224.jpg?width=1200"
 contact:

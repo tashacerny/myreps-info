@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 62
+district: 62
 in_office: true
 photo_url: "https://mcgeerealtyservices.com/wp-content/uploads/2020/09/Lances-Headshot-300x400.gif"
 contact:

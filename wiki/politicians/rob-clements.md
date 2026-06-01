@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 2
+district: 2
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist02/highres/dist02.jpg"
 contact:

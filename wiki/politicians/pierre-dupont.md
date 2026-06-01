@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 20
+district: Hillsborough
 in_office: true
 photo_url: "https://www.manchestergop.com/wp-content/uploads/2024/07/Pierre_Dupont.png"
 contact:

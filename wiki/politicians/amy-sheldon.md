@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Addison-1
+district: Addison
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Sheldon,%20Amy.jpg"
 contact:

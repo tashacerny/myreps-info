@@ -7,6 +7,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://senate.la.gov/SenatorPics/Sen24.jpg"
 contact:

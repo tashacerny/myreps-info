@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 18
+district: 18
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{739CC8F9-E9E4-40A1-AB86-883EF9A5E313}.jpg"
 contact:

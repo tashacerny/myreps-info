@@ -6,6 +6,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 41
+district: 41
 in_office: true
 photo_url: "https://arkansasadvocate.com/wp-content/uploads/2024/09/Alyssa-Brown-SOS-2024.jpg"
 contact:

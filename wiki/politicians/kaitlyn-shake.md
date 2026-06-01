@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 120
+district: 120
 in_office: true
 photo_url: "https://stratfordcrier.com/wp-content/uploads/2024/10/shakeheadshot.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://www.senate.mn/graphics/20Drazkowski.jpg"
 contact:

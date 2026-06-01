@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: Senate
 office: MS State Senate, District 50
+district: 50
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/senate/delano.jpg"
 contact:

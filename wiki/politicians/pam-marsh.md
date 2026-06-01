@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 5
+district: 5
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/marsh/PublishingImages/member_photo.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 21
+district: 21
 in_office: true
 photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/STAHL_HAMILTON.jpg"
 contact:

@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 64
+district: 64
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1453408917.jpg"
 contact:

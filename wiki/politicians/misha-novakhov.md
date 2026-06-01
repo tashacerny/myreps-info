@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 45
+district: 45
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/045/headshot/045.jpg?hst=1672564058"
 contact:

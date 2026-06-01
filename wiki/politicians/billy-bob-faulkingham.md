@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 12
+district: 12
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/b1dc14b4-920f-4f14-99c9-bce559bceb76_FaulkinghamNEW.jpg"
 contact:

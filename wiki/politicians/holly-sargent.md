@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 147
+district: 147
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/191052f1-463d-4a44-bfdc-ecde7bb45ec0_SARGENT.jpg"
 contact:

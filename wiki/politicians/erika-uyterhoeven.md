@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 27th Middlesex
+district: 27th
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/E_U1.jpg"
 contact:

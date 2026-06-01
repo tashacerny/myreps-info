@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 100
+district: 100
 in_office: true
 photo_url: "https://greenvoterguidenc.org/wp-content/uploads/Julia-Greenfield-square-400x400.png"
 contact:

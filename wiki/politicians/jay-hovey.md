@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Hovey_27.png"
 contact:

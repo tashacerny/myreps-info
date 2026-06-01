@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 71
+district: 71
 in_office: true
 photo_url: "https://assets.indianahousedemocrats.org/banners/Dant_Chesser_Wendy_media.jpg"
 contact:

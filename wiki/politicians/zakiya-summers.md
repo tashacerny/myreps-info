@@ -6,6 +6,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 68
+district: 68
 in_office: true
 photo_url: "https://stateinnovation.org/wp-content/uploads/2021/04/Zakiya-Summers.png"
 contact:

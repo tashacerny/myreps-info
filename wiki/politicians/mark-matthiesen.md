@@ -7,6 +7,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 107
+district: 107
 in_office: true
 photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=1937"
 contact:

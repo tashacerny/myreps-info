@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 12
+district: 12
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Gollihare%2C%20Todd%20Flags%202022.jpg"
 contact:

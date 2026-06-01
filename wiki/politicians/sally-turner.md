@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 44
+district: 44
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{C47C199A-2C77-4A73-BAE5-AB139ED85CAC}.jpg"
 contact:

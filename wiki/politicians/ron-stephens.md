@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 164
+district: 164
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/stephens-ron-219.jpg"
 contact:

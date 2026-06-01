@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Pederson%2C%20Roland%202022%20flags.jpg"
 contact:

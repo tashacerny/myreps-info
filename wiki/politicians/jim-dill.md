@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 26
+district: 26
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/dill-5x7.jpg"
 contact:

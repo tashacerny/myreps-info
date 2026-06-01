@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Merrimack 12
+district: Merrimack
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/830128/830128.jpg"
 contact:

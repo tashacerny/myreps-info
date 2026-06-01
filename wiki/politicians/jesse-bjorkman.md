@@ -6,6 +6,7 @@ state: AK
 level: state
 chamber: Senate
 office: AK State Senate, District D
+district: D
 in_office: true
 photo_url: "http://akleg.gov/images/legislators/450x600/BJK.jpg"
 contact:

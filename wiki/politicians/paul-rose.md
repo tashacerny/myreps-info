@@ -6,6 +6,7 @@ state: TN
 level: state
 chamber: Senate
 office: TN State Senate, District 32
+district: 32
 in_office: true
 photo_url: "http://www.capitol.tn.gov/senate/members/images/s32.jpg"
 contact:

@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 95
+district: 95
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{EA682659-0B02-4A60-8244-1D5D2ABCD620}.jpg"
 contact:

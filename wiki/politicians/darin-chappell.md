@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 137
+district: 137
 in_office: true
 photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2362"
 contact:

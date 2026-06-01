@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 98
+district: 98
 in_office: true
 contact:
   website: "https://openstates.org/person/moira-rader-5HnHlolUkpHeU2vOfUdfRa/"

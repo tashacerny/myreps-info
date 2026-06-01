@@ -6,6 +6,7 @@ state: FL
 level: state
 chamber: Senate
 office: FL State Senate, District 14
+district: 14
 in_office: true
 contact:
   website: "https://openstates.org/person/brian-nathan-2VlFAmBgvJ42g4uGR9TPiY/"

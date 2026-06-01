@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 65
+district: 65
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Easterbrook_65.png"
 contact:

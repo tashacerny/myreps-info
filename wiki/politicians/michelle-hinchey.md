@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: Senate
 office: NY State Senate, District 41
+district: 41
 in_office: true
 photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/hinchey-hs-0005.jpg?itok=vF5qXFPh"
 contact:

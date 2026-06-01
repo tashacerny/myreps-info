@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Singleton_24.png"
 contact:

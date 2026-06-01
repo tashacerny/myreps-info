@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: House
 office: MN State House, District 33B
+district: 33B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/33B.gif?v=112221"
 contact:

@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 8
+district: 8
 in_office: true
 photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/GARCIA.jpg"
 contact:

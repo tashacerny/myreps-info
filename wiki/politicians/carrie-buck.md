@@ -7,6 +7,7 @@ state: NV
 level: state
 chamber: Senate
 office: NV State Senate, District 5
+district: 5
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/Buck.Carrie.387.jpg"
 contact:

@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 105
+district: 105
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/3c31dd8d-1de9-4bf3-b506-b7c45790974f_AGRAHAM.jpg"
 contact:

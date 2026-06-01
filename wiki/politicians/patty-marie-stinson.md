@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 150
+district: 150
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/bentley-patty-811.jpg"
 contact:

@@ -6,6 +6,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 54
+district: 54
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Rafferty_54.png"
 contact:

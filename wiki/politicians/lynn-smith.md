@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 70
+district: 70
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/smith-lynn-212.jpg"
 contact:

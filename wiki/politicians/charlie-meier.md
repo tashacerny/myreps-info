@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 109
+district: 109
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{9D43D019-A58A-47EC-B769-A7050C4B49DB}.jpg"
 contact:

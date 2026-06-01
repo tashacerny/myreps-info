@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 50
+district: 50
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Sweet_mainlist2023.png"
 contact:

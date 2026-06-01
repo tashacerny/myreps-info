@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 21
+district: 21
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Sayama.jpg"
 contact:

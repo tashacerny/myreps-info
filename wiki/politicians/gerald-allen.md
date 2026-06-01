@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: Senate
 office: AL State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Allen_21.png"
 contact:

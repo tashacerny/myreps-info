@@ -7,6 +7,7 @@ state: ID
 level: state
 chamber: House
 office: ID State House, District 19B
+district: 19B
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Mathias6703.jpg"
 contact:

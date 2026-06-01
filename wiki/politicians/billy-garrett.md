@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0638636287.jpg"
 contact:

@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 16
+district: 16
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Fetgatter,%20Scott.jpg"
 contact:

@@ -6,6 +6,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 58
+district: 58
 in_office: true
 photo_url: "https://www.rilegislature.gov/representatives/Pictures/Cruz%20preferred%20pic.jpg"
 openstates_id: ocd-person/386a8117-95b5-441f-91d0-665effac1af4

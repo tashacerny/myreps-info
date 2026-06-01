@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 66
+district: 66
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Schriver-066.jpg"
 contact:

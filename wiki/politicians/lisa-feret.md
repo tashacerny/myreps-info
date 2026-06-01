@@ -7,6 +7,7 @@ state: CO
 level: state
 chamber: House
 office: CO State House, District 24
+district: 24
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lisa_Feret_20240622_065004.jpeg"
 contact:

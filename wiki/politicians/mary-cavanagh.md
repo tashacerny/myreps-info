@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://senatedems.com/cavanagh/wp-content/uploads/sites/12/2022/12/Cavanaugh_Web.jpg"
 contact:

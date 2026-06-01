@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 49
+district: 49
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Johnson/images/Johnson_HS.jpg"
 contact:

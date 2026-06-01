@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 32
+district: 32
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1617045261.jpg"
 contact:

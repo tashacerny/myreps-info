@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 21
+district: 21
 in_office: true
 photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/HERNANDEZ_C.jpg"
 contact:

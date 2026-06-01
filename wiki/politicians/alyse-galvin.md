@@ -7,6 +7,7 @@ state: AK
 level: state
 chamber: House
 office: AK State House, District 14
+district: 14
 in_office: true
 photo_url: "http://akleg.gov/images/legislators/450x600/GAL.jpg"
 contact:

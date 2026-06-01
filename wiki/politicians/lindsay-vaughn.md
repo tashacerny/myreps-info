@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 22
+district: 22
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_vaughn_lindsay_1.jpg"
 contact:

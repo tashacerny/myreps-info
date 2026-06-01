@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 49
+district: 49
 in_office: true
 photo_url: "https://www.theledger.com/gcdn/authoring/authoring-images/2024/04/17/NLED/73359809007-jen.jpg?width=660&height=981&fit=crop&format=pjpg&auto=webp"
 contact:

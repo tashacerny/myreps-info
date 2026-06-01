@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://senate.texas.gov/members/d19/img/Gutierrez_87-0522D-016-Web.jpg"
 contact:

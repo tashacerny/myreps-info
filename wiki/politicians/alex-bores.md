@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 73
+district: 73
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/073/headshot/073.jpg?hst=1672573990"
 contact:

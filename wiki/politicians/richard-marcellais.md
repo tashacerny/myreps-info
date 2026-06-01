@@ -7,6 +7,7 @@ state: ND
 level: state
 chamber: Senate
 office: ND State Senate, District 9
+district: 9
 in_office: true
 photo_url: "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rmarcellais.jpg?itok=0dcpvpyI"
 contact:

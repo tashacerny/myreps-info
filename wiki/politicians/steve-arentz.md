@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 36
+district: 36
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/arentz01.jpg"
 contact:

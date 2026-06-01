@@ -6,6 +6,7 @@ state: AZ
 level: state
 chamber: House
 office: AZ State House, District 30
+district: 30
 in_office: true
 photo_url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/6/1b/61ba5bf8-e969-11e5-953b-3ba1ad504638/56e5e78dbc277.image.jpg"
 contact:

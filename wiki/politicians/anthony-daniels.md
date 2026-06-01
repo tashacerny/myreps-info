@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 53
+district: 53
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Daniels_53.png"
 contact:

@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 42
+district: 42
 in_office: true
 photo_url: "https://votemikecolvin.com/wp-content/uploads/2024/01/untitled-1024x1024.jpg"
 contact:

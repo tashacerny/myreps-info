@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 81
+district: 81
 in_office: true
 photo_url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/6/dd/6ddc9b30-8988-11ef-9d6e-abf6ce2aa967/62e03fbeba019.image.jpg?crop=724%2C987%2C710%2C3&resize=367%2C500&order=crop%2Cresize"
 contact:

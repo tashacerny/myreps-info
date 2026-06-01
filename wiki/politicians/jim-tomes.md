@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 49
+district: 49
 in_office: true
 photo_url: "https://cdn.zephyrcms.com/a18fe9f0-b8a3-411e-bcc2-6d9fb9423a19/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/2021-tomes-2.jpg"
 contact:

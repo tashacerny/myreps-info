@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 125
+district: 125
 in_office: true
 photo_url: "https://www.cthousegop.com/odea/wp-content/uploads/sites/46/2018/05/ODea-Headshot-683x1024.jpg"
 contact:

@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 36
+district: 36
 in_office: true
 photo_url: "http://votesmart.org/canphoto/16765.jpg"
 contact:

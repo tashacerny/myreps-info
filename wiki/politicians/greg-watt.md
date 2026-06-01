@@ -6,6 +6,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 48
+district: 48
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/watt_gregory.jpg"
 contact:

@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 58
+district: 58
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjHNdAfDeer4lV9FlS7FhYtd94TpkBobQJEt9SozaHufMHitlm2Ev9ZX9ggGORR42zRUE&usqp=CAU"
 contact:

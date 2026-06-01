@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 31
+district: 31
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/chisholm01.jpg"
 contact:

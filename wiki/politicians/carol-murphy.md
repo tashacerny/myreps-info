@@ -6,6 +6,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 7
+district: 7
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/murphy_carol_2021.jpg"
 contact:

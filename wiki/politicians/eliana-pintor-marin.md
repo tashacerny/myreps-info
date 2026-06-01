@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 29
+district: 29
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/pintormarin_eliana_2017.jpg"
 contact:

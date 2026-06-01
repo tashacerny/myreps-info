@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: Senate
 office: NJ State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/gopal_vin_2021.jpg"
 contact:

@@ -6,6 +6,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{C05FD6B2-E0A9-4446-AAE5-D67396FCE7D5}.jpg"
 contact:

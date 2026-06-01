@@ -6,6 +6,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 31
+district: 31
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0824999901.jpg"
 contact:

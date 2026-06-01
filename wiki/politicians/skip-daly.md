@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: Senate
 office: NV State Senate, District 13
+district: 13
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Daly.Skip.155.jpg"
 contact:

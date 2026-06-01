@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 60
+district: 60
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Mayfield_Main_List.jpg"
 contact:

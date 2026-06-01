@@ -6,6 +6,7 @@ state: IA
 level: state
 chamber: Senate
 office: IA State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10726"
 contact:

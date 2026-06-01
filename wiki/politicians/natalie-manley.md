@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 98
+district: 98
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{F3781CCA-4285-44C3-8E60-811B9229EA1B}.jpg"
 contact:

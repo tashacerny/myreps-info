@@ -7,6 +7,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 23
+district: 23
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/023/headshot/023.jpg?hst=1660073108"
 contact:

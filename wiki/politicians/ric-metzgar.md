@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 6
+district: 6
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/metzgar01.jpg"
 contact:

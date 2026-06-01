@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 131
+district: 131
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/d346883e-e53b-4578-bd40-44eb245624e9_gramlich.jpg"
 contact:

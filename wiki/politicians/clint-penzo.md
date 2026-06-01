@@ -6,6 +6,7 @@ state: AR
 level: state
 chamber: Senate
 office: AR State Senate, District 31
+district: 31
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/637_sm.jpg"
 contact:

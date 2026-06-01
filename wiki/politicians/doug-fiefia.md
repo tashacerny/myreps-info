@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 48
+district: 48
 in_office: true
 photo_url: "https://dougfiefia.com/wp-content/uploads/2023/11/Doug-Fiefia-header.png"
 contact:

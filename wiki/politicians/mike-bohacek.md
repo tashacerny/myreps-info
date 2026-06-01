@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 8
+district: 8
 in_office: true
 photo_url: "https://cdn.zephyrcms.com/1282c789-f53b-485a-b949-3148759dbbde/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/2021-bohacek-2.jpg"
 contact:

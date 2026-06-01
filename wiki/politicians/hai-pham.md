@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 36
+district: 36
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/phamh/PublishingImages/member_photo.jpg"
 contact:

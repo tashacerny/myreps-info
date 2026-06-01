@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: House
 office: IL State House, District 15
+district: 15
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{90B28E06-84A0-47EB-A80B-403DF4CDA607}.jpg"
 contact:

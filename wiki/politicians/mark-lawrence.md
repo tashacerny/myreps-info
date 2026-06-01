@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 35
+district: 35
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/lawrence-5x7-1.jpg"
 contact:

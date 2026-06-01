@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: Senate
 office: OR State Senate, District 20
+district: 20
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/meek/PublishingImages/member_photo.jpg"
 contact:

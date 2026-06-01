@@ -6,6 +6,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 70
+district: 70
 in_office: true
 photo_url: "https://bloximages.newyork1.vip.townnews.com/abilene-rc.com/content/tncms/assets/v3/editorial/9/19/919822b8-7b58-4d49-bf1d-499f9f717319/6882afbe93db1.image.jpg?resize=300%2C504"
 contact:

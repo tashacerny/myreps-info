@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 50
+district: 50
 in_office: true
 contact:
   website: "https://openstates.org/person/shane-morigeau-40zxzjDD1nUC6kL0x8EwZs/"

@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: Senate
 office: SC State Senate, District 43
+district: 43
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0302272691.jpg"
 contact:

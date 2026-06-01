@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 132
+district: 132
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/prince-brian-847.jpg"
 contact:

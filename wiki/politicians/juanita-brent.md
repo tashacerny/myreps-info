@@ -6,6 +6,7 @@ state: OH
 level: state
 chamber: House
 office: OH State House, District 18
+district: 18
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/juanita-o-brent/headshots/thumbnails/medium/juanita-o-brent-january-2019-headshot_medium.jpg"
 contact:

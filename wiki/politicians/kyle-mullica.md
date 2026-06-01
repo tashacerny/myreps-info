@@ -7,6 +7,7 @@ state: CO
 level: state
 chamber: Senate
 office: CO State Senate, District 24
+district: 24
 in_office: true
 photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK05TQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c8a05176c5f582700250b8669d5df16c090a5d05/Mullica,%20Kyle.jpg"
 contact:

@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 112
+district: 112
 in_office: true
 photo_url: "https://lopez4nc.com/wp-content/uploads/2023/12/FAV1127_LOPEZ_-121.webp"
 contact:

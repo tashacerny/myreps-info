@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: Senate
 office: VT State Senate, District Bennington
+district: Bennington
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Bongartz,Seth%20031.jpg"
 contact:

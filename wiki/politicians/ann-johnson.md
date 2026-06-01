@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 134
+district: 134
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3985.jpg?v=1"
 contact:

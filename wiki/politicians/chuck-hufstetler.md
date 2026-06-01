@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: Senate
 office: GA State Senate, District 52
+district: 52
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hufstetler-chuck-838.jpg"
 contact:

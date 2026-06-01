@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 69
+district: 69
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Lawrence_69.png"
 contact:

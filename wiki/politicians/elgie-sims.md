@@ -7,6 +7,7 @@ state: IL
 level: state
 chamber: Senate
 office: IL State Senate, District 17
+district: 17
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{1EAF7721-A189-4CD1-B31D-CD39F79DBD04}.jpg"
 contact:

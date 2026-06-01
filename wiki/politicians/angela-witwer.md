@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 76
+district: 76
 in_office: true
 photo_url: "https://housedems.com/sites/default/files/Images/Representative_Images/D071_Angela_Witwer/071_Witwer.jpg"
 contact:

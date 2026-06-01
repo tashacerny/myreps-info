@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 6
+district: Rockingham
 in_office: true
 photo_url: "https://photos.jsi.com/Photos/US/35335.jpg"
 contact:

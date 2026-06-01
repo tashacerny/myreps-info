@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Lamoille-3
+district: Lamoille
 in_office: true
 photo_url: "https://legislature.vermont.gov/Documents/Legislators/Boyden,%20Lucy.jpg"
 contact:

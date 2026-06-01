@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 78
+district: 78
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Johnsen-078.jpg"
 contact:

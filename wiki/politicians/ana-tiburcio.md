@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 22
+district: 22
 in_office: true
 contact:
   website: "https://openstates.org/person/ana-tiburcio-mndnZVjLHUSV2A1z83YOc/"

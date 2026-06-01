@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 95
+district: 95
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Candelaria/images/Candelaria_HS.jpg"
 contact:

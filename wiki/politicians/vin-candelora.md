@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 86
+district: 86
 in_office: true
 photo_url: "https://www.cthousegop.com/candelora/wp-content/uploads/sites/12/2022/02/Candelora-2022-Bio-Photo-Web.jpg"
 contact:

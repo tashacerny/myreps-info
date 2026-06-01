@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 36
+district: 36
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/23902.jpg"
 contact:

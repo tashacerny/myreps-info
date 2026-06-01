@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/OTTEN_2017.jpg"
 contact:

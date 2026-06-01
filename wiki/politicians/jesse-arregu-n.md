@@ -7,6 +7,7 @@ state: CA
 level: state
 chamber: Senate
 office: CA State Senate, District 7
+district: 7
 in_office: true
 photo_url: "https://berkeleyca.gov/sites/default/files/elected-office-holder/portrait.jpg"
 contact:

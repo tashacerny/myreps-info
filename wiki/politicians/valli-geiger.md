@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 42
+district: 42
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/b7429307-4ee4-4919-b291-30007ac4f3d6_GeigerNEW.jpg"
 contact:

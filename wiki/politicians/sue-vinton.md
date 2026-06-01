@@ -7,6 +7,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 20
+district: 20
 in_office: true
 contact:
   website: "https://openstates.org/person/sue-vinton-5VTm7F6y7xlNcGCP6t4kXI/"

@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 51
+district: 51
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/813482/813482.jpg"
 contact:

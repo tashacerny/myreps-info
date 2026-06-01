@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 26
+district: 26
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/1200px-DarcyJech_0.jpg"
 contact:

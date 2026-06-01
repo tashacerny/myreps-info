@@ -6,6 +6,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 10
+district: 10
 in_office: true
 photo_url: "https://www.senate.mn/graphics/10Wesenberg.jpg"
 contact:

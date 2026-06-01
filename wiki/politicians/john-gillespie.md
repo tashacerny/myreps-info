@@ -6,6 +6,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 97
+district: 97
 in_office: true
 photo_url: "https://www.capitol.tn.gov/house/members/images/h97.jpg"
 contact:

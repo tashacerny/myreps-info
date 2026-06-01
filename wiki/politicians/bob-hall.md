@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 2
+district: 2
 in_office: true
 photo_url: "https://senate.texas.gov/members/d02/img/headshot.jpg"
 contact:

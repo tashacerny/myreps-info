@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 13
+district: 13
 in_office: true
 photo_url: "https://www.senate.mn/graphics/13Howe.jpg"
 contact:

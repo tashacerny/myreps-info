@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: Senate
 office: LA State Senate, District 19
+district: 19
 in_office: true
 photo_url: "https://senate.la.gov/SenPics/Sen19.jpg"
 contact:

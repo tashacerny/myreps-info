@@ -6,6 +6,7 @@ state: UT
 level: state
 chamber: House
 office: UT State House, District 35
+district: 35
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rosalba_Dominguez_20240921_082723.jpeg"
 contact:

@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 163
+district: 163
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/westbrook-anne-allen-5054.jpg"
 contact:

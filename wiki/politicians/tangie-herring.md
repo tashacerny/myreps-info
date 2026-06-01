@@ -6,6 +6,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 145
+district: 145
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/64b7398b4867300614bcfe48/9ddc7dee-fc52-4309-a0dc-3c8671c9eaaa/Tangie+Herring_headshot.jpg?format=2500w"
 contact:

@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: Senate
 office: WA State Senate, District 21
+district: 21
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/13546.jpg"
 contact:

@@ -6,6 +6,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 119
+district: 119
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1747727063.jpg"
 contact:

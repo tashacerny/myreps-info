@@ -6,6 +6,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 17
+district: 17
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/diehl/PublishingImages/member_photo.jpg"
 contact:

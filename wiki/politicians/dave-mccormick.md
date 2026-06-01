@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 82
+district: 82
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/house/mccormick_david.jpg"
 contact:

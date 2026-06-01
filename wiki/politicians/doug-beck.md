@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: Senate
 office: MO State Senate, District 1
+district: 1
 in_office: true
 photo_url: "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Beck2021-683x1024.jpg"
 contact:

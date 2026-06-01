@@ -7,6 +7,7 @@ state: AL
 level: state
 chamber: House
 office: AL State House, District 59
+district: 59
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Moore_59.png"
 contact:

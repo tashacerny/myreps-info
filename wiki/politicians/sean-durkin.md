@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Coos 1
+district: Coos
 in_office: true
 photo_url: "https://nhjournal.com/wp-content/uploads/2024/01/sean-durkin-300x300.jpeg"
 contact:

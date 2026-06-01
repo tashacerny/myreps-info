@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 45
+district: 45
 in_office: true
 contact:
   website: "https://openstates.org/person/denley-loge-6ze1FCuLuII2sR5uw487tA/"

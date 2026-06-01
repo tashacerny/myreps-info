@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 59
+district: 59
 in_office: true
 photo_url: "https://senate.michigan.gov/_images/8th.jpg"
 contact:

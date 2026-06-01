@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 17
+district: 17
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/KavrosDeGraw/images/KavrosDeGraw_HS.jpg"
 contact:

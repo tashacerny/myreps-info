@@ -7,6 +7,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 25
+district: 25
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/31528.jpg"
 contact:

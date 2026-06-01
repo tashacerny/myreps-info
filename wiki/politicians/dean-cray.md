@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 69
+district: 69
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/898a0677-23f7-4936-a1a4-c913ae94227c_CRAY.jpg"
 contact:

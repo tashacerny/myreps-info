@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 87
+district: 87
 in_office: true
 photo_url: "https://www.cthousegop.com/yaccarino/wp-content/uploads/sites/70/2020/11/Yaccarino-Headshot-240x300.jpg"
 contact:

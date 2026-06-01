@@ -7,6 +7,7 @@ state: RI
 level: state
 chamber: House
 office: RI State House, District 40
+district: 40
 in_office: true
 photo_url: "http://www.rilegislature.gov/representatives/pictures/chippendale.jpg"
 openstates_id: ocd-person/02f4f018-3639-4fb1-aced-f8684161121d

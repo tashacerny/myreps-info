@@ -6,6 +6,7 @@ state: AR
 level: state
 chamber: House
 office: AR State House, District 17
+district: 17
 in_office: true
 photo_url: "https://arkelect.com/storage/candidates/vtmHAyGq960CeWT3A0LweElNVr1RpuGqUTHIDIHF.jpg"
 contact:

@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Belknap 6
+district: Belknap
 in_office: true
 photo_url: "http://www.gencourt.state.nh.us/house/images/memberpics/377203.jpg"
 contact:

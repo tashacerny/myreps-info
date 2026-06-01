@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 32
+district: 32
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/erwin-chris-4965.jpg"
 contact:

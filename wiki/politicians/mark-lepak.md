@@ -7,6 +7,7 @@ state: OK
 level: state
 chamber: House
 office: OK State House, District 9
+district: 9
 in_office: true
 photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Lepak,%20Mark.jpg"
 contact:

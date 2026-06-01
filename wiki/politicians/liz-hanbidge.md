@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 61
+district: 61
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/1834.jpg?1703415645672"
 contact:

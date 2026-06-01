@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 201
+district: 201
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-public-general/legislative-people-photos/150754.jpg"
 contact:

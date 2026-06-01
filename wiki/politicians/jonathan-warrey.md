@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 22
+district: 22
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/jwarrey2023.jpg?itok=aMx3ZNaU"
 contact:

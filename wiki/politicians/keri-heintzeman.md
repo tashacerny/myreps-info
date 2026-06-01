@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 6
+district: 6
 in_office: true
 photo_url: "https://www.senate.mn/graphics/06Heintzeman.jpg"
 contact:

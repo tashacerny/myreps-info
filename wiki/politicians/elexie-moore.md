@@ -6,6 +6,7 @@ state: AK
 level: state
 chamber: House
 office: AK State House, District 28
+district: 28
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ElexieMoore2024.png"
 contact:

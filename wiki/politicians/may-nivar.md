@@ -7,6 +7,7 @@ state: VA
 level: state
 chamber: House
 office: VA State House, District 57
+district: 57
 in_office: true
 photo_url: "https://house.vga.virginia.gov/delegate_photos/H0397.jpg"
 contact:

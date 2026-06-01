@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 28
+district: 28
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/DSilva.Reuben.401.jpg"
 contact:

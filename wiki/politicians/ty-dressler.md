@@ -6,6 +6,7 @@ state: ND
 level: state
 chamber: House
 office: ND State House, District 36
+district: 36
 in_office: true
 contact:
   website: "https://openstates.org/person/ty-dressler-2eWO8RcH5t18Fu1g55crQc/"

@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 68
+district: 68
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/24f65326-81e9-48f3-a7cc-a5dc8e7d74e6_Collamore.jpg"
 contact:

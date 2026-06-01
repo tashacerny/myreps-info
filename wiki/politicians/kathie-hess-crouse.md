@@ -7,6 +7,7 @@ state: WV
 level: state
 chamber: House
 office: WV State House, District 19
+district: 19
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2024/house/crouse_kathie.jpg"
 contact:

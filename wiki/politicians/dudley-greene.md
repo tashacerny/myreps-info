@@ -6,6 +6,7 @@ state: NC
 level: state
 chamber: House
 office: NC State House, District 85
+district: 85
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/777/Low"
 contact:

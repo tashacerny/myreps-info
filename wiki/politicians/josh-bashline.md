@@ -6,6 +6,7 @@ state: PA
 level: state
 chamber: House
 office: PA State House, District 63
+district: 63
 in_office: true
 photo_url: "https://www.exploreclarion.com/wp-content/uploads/sites/2/2024/02/Josh-Bashline-Enters-Race-for-63rd-State-House-District.jpg"
 contact:

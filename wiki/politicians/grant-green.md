@@ -6,6 +6,7 @@ state: OK
 level: state
 chamber: Senate
 office: OK State Senate, District 28
+district: 28
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Green%2C%20Grant%20Flags%202022.jpg"
 contact:

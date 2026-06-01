@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 9
+district: 9
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/BlakeSanders24.jpg"
 contact:

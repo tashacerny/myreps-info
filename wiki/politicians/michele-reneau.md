@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 27
+district: 27
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rebecca_Day_20240808_092357.jpg"
 contact:

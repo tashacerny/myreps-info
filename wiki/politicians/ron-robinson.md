@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 58
+district: 58
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ron_Robinson_20240808_093235.jpg"
 contact:

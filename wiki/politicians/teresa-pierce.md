@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: Senate
 office: ME State Senate, District 25
+district: 25
 in_office: true
 photo_url: "https://legislature.maine.gov/uploads/visual_edit/pierce-web-748x1024.jpg"
 contact:

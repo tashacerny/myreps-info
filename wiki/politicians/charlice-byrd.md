@@ -7,6 +7,7 @@ state: GA
 level: state
 chamber: House
 office: GA State House, District 20
+district: 20
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/byrd-charlice-75.jpg"
 contact:

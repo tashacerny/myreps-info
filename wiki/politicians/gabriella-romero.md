@@ -6,6 +6,7 @@ state: NY
 level: state
 chamber: House
 office: NY State House, District 109
+district: 109
 in_office: true
 photo_url: "https://albanyny.gov/ImageRepository/Document?documentID=6737"
 contact:

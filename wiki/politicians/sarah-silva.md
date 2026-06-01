@@ -6,6 +6,7 @@ state: NM
 level: state
 chamber: House
 office: NM State House, District 53
+district: 53
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/66d0e643284c6d63d067a073/8916e12c-d13c-49fb-810a-2c7ffb58d300/SilvaSarah.JPG"
 contact:

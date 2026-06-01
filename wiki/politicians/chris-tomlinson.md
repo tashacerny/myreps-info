@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 5
+district: 5
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/tomlinson01.jpg"
 contact:

@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: House
 office: HI State House, District 8
+district: 8
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Tarnas.jpg"
 contact:

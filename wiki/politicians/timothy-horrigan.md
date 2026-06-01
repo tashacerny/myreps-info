@@ -7,6 +7,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Strafford 10
+district: Strafford
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50387.jpg"
 contact:

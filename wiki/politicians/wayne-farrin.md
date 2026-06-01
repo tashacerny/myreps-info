@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 47
+district: 47
 in_office: true
 photo_url: "https://i0.wp.com/lincolncountydemocrats.com/wp-content/uploads/Farrin-headshot.jpg?fit=400%2C400&ssl=1"
 contact:

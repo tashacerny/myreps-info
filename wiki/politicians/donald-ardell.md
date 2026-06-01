@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 6
+district: 6
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/3bf42df4-0f16-418b-ad61-621fd8c4c1e0_ARDELL.jpg"
 contact:

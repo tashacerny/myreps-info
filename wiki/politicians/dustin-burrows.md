@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: House
 office: TX State House, District 83
+district: 83
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3055.jpg?v=2"
 contact:

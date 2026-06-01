@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: Senate
 office: MT State Senate, District 3
+district: 3
 in_office: true
 contact:
   website: "https://openstates.org/person/carl-glimm-4Hx7tWhMNBWNyJrVz5ej8V/"

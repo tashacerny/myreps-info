@@ -7,6 +7,7 @@ state: SC
 level: state
 chamber: House
 office: SC State House, District 112
+district: 112
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0278409057.jpg"
 contact:

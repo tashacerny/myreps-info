@@ -7,6 +7,7 @@ state: FL
 level: state
 chamber: House
 office: FL State House, District 32
+district: 32
 in_office: true
 contact:
   website: "https://openstates.org/person/brian-hodgers-2AO1Tc4LjXhLCgPmeB1te2/"

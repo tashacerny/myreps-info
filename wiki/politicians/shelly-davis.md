@@ -7,6 +7,7 @@ state: OR
 level: state
 chamber: House
 office: OR State House, District 15
+district: 15
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/boshartdavis/PublishingImages/member_photo.jpg"
 contact:

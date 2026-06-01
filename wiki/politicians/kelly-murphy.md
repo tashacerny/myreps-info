@@ -6,6 +6,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 125
+district: 125
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/17a7b5d3-e413-418b-bad4-831e543f1099_MURPHY.jpg"
 contact:

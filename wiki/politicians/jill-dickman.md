@@ -6,6 +6,7 @@ state: NV
 level: state
 chamber: House
 office: NV State House, District 31
+district: 31
 in_office: true
 photo_url: "http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assembly/Images/Dickman.Jill.277.jpg"
 contact:

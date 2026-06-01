@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: House
 office: LA State House, District 100
+district: 100
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Dana_Henry_20260113_023611.jpg"
 contact:

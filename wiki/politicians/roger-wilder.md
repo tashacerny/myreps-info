@@ -6,6 +6,7 @@ state: LA
 level: state
 chamber: House
 office: LA State House, District 71
+district: 71
 in_office: true
 photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep71.jpg"
 contact:

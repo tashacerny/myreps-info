@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: Senate
 office: KS State Senate, District 14
+district: 14
 in_office: true
 photo_url: "https://www.kslegislature.gov/li/s/images/pics/sen_fagg_michael_1.jpg"
 contact:

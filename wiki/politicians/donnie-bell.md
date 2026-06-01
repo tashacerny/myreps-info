@@ -7,6 +7,7 @@ state: MS
 level: state
 chamber: House
 office: MS State House, District 21
+district: 21
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/house/bell_(21st).jpg"
 contact:

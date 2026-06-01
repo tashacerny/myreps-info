@@ -7,6 +7,7 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 23rd Middlesex
+district: 23rd
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/S_G1.jpg"
 contact:

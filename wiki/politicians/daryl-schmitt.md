@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 48
+district: 48
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-public-general/legislative-people-photos/150061.jpg"
 contact:

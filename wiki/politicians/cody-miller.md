@@ -7,6 +7,7 @@ state: NJ
 level: state
 chamber: House
 office: NJ State House, District 4
+district: 4
 in_office: true
 contact:
   website: "https://openstates.org/person/cody-miller-7d5PDlNUTFhrX11a1bXqUh/"

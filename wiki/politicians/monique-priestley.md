@@ -7,6 +7,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Orange-2
+district: Orange
 in_office: true
 photo_url: "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQJv2ebRwLbq8oEHztEt7vEj8LT_42Lj5oVZwQRIbAicBaIoWoKMCX8Q16EfoTE0AbQ"
 contact:

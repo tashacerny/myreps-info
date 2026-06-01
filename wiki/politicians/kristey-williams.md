@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: House
 office: KS State House, District 77
+district: 77
 in_office: true
 photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_williams_kristey_1.jpg"
 contact:

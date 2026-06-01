@@ -7,6 +7,7 @@ state: TX
 level: state
 chamber: Senate
 office: TX State Senate, District 9
+district: 9
 in_office: true
 photo_url: "https://senate.texas.gov/members/d09/img/Rehmet-89-0739D-017-web.jpg"
 contact:

@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 36
+district: 36
 in_office: true
 photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/members/Main_List/Pierce_Main_List_3.jpg"
 contact:

@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 5
+district: Hillsborough
 in_office: true
 photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Dale-Swanson-headshot-1-Dale-Swanson.jpeg"
 contact:

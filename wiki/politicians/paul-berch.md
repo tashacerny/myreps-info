@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Cheshire 6
+district: Cheshire
 in_office: true
 photo_url: "http://www.gencourt.state.nh.us/house/images/memberpics/377068.jpg"
 contact:

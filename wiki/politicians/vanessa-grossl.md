@@ -7,6 +7,7 @@ state: KY
 level: state
 chamber: House
 office: KY State House, District 88
+district: 88
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/VanessaGrossl.jpeg"
 contact:

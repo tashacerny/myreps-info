@@ -6,6 +6,7 @@ state: MI
 level: state
 chamber: Senate
 office: MI State Senate, District 27
+district: 27
 in_office: true
 photo_url: "https://senatedems.com/cherry/wp-content/uploads/sites/22/2022/12/Portrait_Cherry_Web.jpg"
 contact:

@@ -7,6 +7,7 @@ state: WY
 level: state
 chamber: Senate
 office: WY State Senate, District 11
+district: 11
 in_office: true
 photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-HicksLarry.jpg"
 contact:

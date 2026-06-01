@@ -7,6 +7,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 46
+district: 46
 in_office: true
 contact:
   website: "https://openstates.org/person/derell-wilson-2cvcAqiKErjYF5ECrVtHy8/"

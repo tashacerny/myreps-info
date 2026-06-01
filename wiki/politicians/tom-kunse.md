@@ -7,6 +7,7 @@ state: MI
 level: state
 chamber: House
 office: MI State House, District 100
+district: 100
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/Kunse-100.jpg"
 contact:

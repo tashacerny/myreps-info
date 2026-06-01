@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: House
 office: CT State House, District 70
+district: 70
 in_office: true
 contact:
   website: "https://openstates.org/person/seth-bronko-4tdHDRyStEGdrIeN7jBs3N/"

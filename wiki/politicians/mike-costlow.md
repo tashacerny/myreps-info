@@ -6,6 +6,7 @@ state: MO
 level: state
 chamber: House
 office: MO State House, District 108
+district: 108
 in_office: true
 photo_url: "https://costlowformissouri.com/wp-content/uploads/2024/05/Headshot-No-Background-2.png"
 contact:

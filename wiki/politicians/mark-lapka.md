@@ -7,6 +7,7 @@ state: SD
 level: state
 chamber: Senate
 office: SD State Senate, District 23
+district: 23
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZm0bH8MRxxVDUSQkCXbPkK3Lm-BaDg8Cog&s"
 contact:

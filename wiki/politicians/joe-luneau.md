@@ -6,6 +6,7 @@ state: VT
 level: state
 chamber: House
 office: VT State House, District Franklin-3
+district: Franklin
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/251355/251355.jpg"
 contact:

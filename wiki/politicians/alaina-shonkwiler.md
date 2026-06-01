@@ -6,6 +6,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 29
+district: 29
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/157746.jpg"
 contact:

@@ -6,6 +6,7 @@ state: CT
 level: state
 chamber: Senate
 office: CT State Senate, District 19
+district: 19
 in_office: true
 photo_url: "http://www.senatedems.ct.gov/templates/osten/images/osten1x1.jpg"
 contact:

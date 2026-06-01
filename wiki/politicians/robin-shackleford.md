@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: House
 office: IN State House, District 98
+district: 98
 in_office: true
 photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/shackleford20200407portrait_800_999_80.jpg"
 contact:

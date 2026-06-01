@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 24
+district: 24
 in_office: true
 contact:
   website: "https://openstates.org/person/sean-faircloth-4ncdtrVpLI3aQ1hg23qhTJ/"

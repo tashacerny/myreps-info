@@ -7,6 +7,7 @@ state: MN
 level: state
 chamber: Senate
 office: MN State Senate, District 53
+district: 53
 in_office: true
 photo_url: "https://www.senate.mn/graphics/52Klein.jpg"
 contact:

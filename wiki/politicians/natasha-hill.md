@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 3
+district: 3
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/35429.jpg"
 contact:

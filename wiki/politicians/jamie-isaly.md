@@ -6,6 +6,7 @@ state: MT
 level: state
 chamber: House
 office: MT State House, District 58
+district: 58
 in_office: true
 contact:
   website: "https://openstates.org/person/jamie-isaly-7JQh1QdXdn5IBPe5Bmtj69/"

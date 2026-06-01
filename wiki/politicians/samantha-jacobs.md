@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Cheshire 15
+district: Cheshire
 in_office: true
 photo_url: "https://www.citizenscount.org/sites/default/files/2024-08/samantha-jacobs.jpg"
 contact:

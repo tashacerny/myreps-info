@@ -6,6 +6,7 @@ state: WA
 level: state
 chamber: House
 office: WA State House, District 2
+district: 2
 in_office: true
 photo_url: "https://andrewbarkis.houserepublicans.wa.gov/wp-content/uploads/2025/01/Rep-Barkis_Andrew-2025_900x1200.jpg"
 contact:

@@ -7,6 +7,7 @@ state: KS
 level: state
 chamber: Senate
 office: KS State Senate, District 13
+district: 13
 in_office: true
 photo_url: "http://www.kslegislature.org/li/s/images/pics/sen_shallenburger_tim_1.jpg"
 contact:

@@ -7,6 +7,7 @@ state: MD
 level: state
 chamber: House
 office: MD State House, District 26
+district: 26
 in_office: true
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/turner01.jpg"
 contact:

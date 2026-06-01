@@ -7,6 +7,7 @@ state: ME
 level: state
 chamber: House
 office: ME State House, District 126
+district: 126
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/a5278ffe-f50e-4998-83fb-cad702fc9659_gattam.jpg"
 contact:

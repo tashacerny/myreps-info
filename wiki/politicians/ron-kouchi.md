@@ -6,6 +6,7 @@ state: HI
 level: state
 chamber: Senate
 office: HI State Senate, District 8
+district: 8
 in_office: true
 photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/kouchi.jpg"
 contact:

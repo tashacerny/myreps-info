@@ -6,6 +6,7 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Rockingham 7
+district: Rockingham
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/688320/688320.jpg"
 contact:

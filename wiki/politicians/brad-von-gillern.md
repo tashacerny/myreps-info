@@ -7,6 +7,7 @@ state: NE
 level: state
 chamber: House
 office: NE State House, District 4
+district: 4
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist04/highres/dist04.jpg"
 contact:

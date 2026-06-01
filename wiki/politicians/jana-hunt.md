@@ -6,6 +6,7 @@ state: SD
 level: state
 chamber: House
 office: SD State House, District 28A
+district: 28A
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jana_Hunt_2025.jpg"
 contact:

@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 89
+district: 89
 in_office: true
 photo_url: "https://fluxconsole.com/files/image/131170"
 contact:

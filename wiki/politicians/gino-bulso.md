@@ -7,6 +7,7 @@ state: TN
 level: state
 chamber: House
 office: TN State House, District 61
+district: 61
 in_office: true
 photo_url: "https://votegino.com/wp-content/uploads/2022/04/gino.png"
 contact:

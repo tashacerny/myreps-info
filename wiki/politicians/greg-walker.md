@@ -7,6 +7,7 @@ state: IN
 level: state
 chamber: Senate
 office: IN State Senate, District 41
+district: 41
 in_office: true
 photo_url: "https://cdn.zephyrcms.com/425bd5c0-bbc0-4ca8-b7e1-93e41dfd2d72/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/walker-g-website.jpg"
 contact:
