@@ -12,6 +12,6 @@ term_start: "1991-01-03"
 bioguide_id: N000147
 contact:
   website: "https://norton.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

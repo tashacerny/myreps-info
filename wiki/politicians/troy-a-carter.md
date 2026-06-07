@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: C001125
 contact:
   website: "https://troycarter.house.gov"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

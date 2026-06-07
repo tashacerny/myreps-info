@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: S001213
 contact:
   website: "https://steil.house.gov"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

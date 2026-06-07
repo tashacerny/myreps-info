@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: S001232
 contact:
   website: "https://www.sheehy.senate.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

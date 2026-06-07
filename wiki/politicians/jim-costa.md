@@ -13,6 +13,6 @@ term_start: "2005-01-03"
 bioguide_id: C001059
 contact:
   website: "https://costa.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

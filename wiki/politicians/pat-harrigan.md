@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: H001101
 contact:
   website: "https://harrigan.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

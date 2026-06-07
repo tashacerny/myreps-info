@@ -13,6 +13,6 @@ term_start: "1997-01-03"
 bioguide_id: A000055
 contact:
   website: "https://aderholt.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

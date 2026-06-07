@@ -13,6 +13,6 @@ term_start: "1999-01-03"
 bioguide_id: T000460
 contact:
   website: "https://mikethompson.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

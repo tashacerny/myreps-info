@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: N000026
 contact:
   website: "https://nehls.house.gov"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

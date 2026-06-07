@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: T000481
 contact:
   website: "https://tlaib.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

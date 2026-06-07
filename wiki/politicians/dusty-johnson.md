@@ -12,6 +12,6 @@ term_start: "2019-01-03"
 bioguide_id: J000301
 contact:
   website: "https://dustyjohnson.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

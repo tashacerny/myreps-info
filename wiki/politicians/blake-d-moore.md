@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: M001213
 contact:
   website: "https://blakemoore.house.gov"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

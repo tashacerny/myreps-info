@@ -13,6 +13,6 @@ term_start: "2001-01-03"
 bioguide_id: W000795
 contact:
   website: "https://joewilson.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

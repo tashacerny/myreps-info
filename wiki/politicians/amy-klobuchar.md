@@ -12,6 +12,6 @@ term_start: "2007-01-03"
 bioguide_id: K000367
 contact:
   website: "https://www.klobuchar.senate.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

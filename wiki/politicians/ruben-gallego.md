@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: G000574
 contact:
   website: "https://www.gallego.senate.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2024-01-03"
 bioguide_id: R000619
 contact:
   website: "https://rulli.house.gov"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

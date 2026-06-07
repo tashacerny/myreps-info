@@ -12,7 +12,7 @@ photo_url: "https://www.congress.gov/img/member/c001101_200.jpg"
 term_start: "2013-01-03"
 bioguide_id: C001101
 contact:
-  website: "https://katherineclark.house.gov/index.cfm/home"
-last_updated: "2026-05-31"
+  website: "https://katherineclark.house.gov"
+last_updated: "2026-06-07"
 ---
 

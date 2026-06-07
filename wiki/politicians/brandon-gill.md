@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: G000603
 contact:
   website: "https://gill.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

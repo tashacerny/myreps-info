@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: J000311
 contact:
   website: "https://jack.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 

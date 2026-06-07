@@ -13,6 +13,6 @@ term_start: "1981-01-03"
 bioguide_id: R000395
 contact:
   website: "https://halrogers.house.gov/"
-last_updated: "2026-05-31"
+last_updated: "2026-06-07"
 ---
 
