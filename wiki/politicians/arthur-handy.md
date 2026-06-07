@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/handy.jpg"
 openstates_id: ocd-person/6d4c7be7-4e68-4aa1-9262-81995fcc231e
 contact:
   website: "https://openstates.org/person/arthur-handy-3KF7FSq2wmLJWia35UIu3K/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

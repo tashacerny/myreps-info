@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/ciccone.jpg"
 openstates_id: ocd-person/d688b16c-5bf2-41df-b1c9-e8c5de7e437c
 contact:
   website: "https://openstates.org/person/frank-ciccone-6WopGWBQIekJUANOtPJsrs/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

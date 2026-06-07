@@ -10,7 +10,8 @@ office: SC State House, District 28
 district: 28
 in_office: true
 photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/817554/817554.jpg"
+openstates_id: ocd-person/77bd81c9-3436-4635-a945-11f1cf37ead7
 contact:
   website: "https://openstates.org/person/chris-huff-3dwgtRF2YiiYMbUSt5AGQh/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

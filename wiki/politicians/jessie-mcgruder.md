@@ -9,7 +9,8 @@ office: AR State House, District 35
 district: 35
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jessie_McGruder_20240811_111220.jpg"
+openstates_id: ocd-person/f81fdd7f-aa3e-4678-bc4f-870114f8b0ce
 contact:
   website: "https://openstates.org/person/jessie-mcgruder-7YCetHbT65j0ypjjyCp1ck/"
-last_updated: "2026-05-26"
+last_updated: "2026-06-07"
 ---

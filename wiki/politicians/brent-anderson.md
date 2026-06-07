@@ -10,7 +10,8 @@ office: MS State House, District 122
 district: 122
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api/storage/uploads/thumbs/200/300/crop/best/80182230_img_6905.jpg"
+openstates_id: ocd-person/307ab2ac-eafb-4d68-8e02-1fff040f50e4
 contact:
   website: "https://openstates.org/person/brent-anderson-1TThhJJXvXfLdtFF88yRZU/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

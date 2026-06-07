@@ -10,7 +10,8 @@ office: IN State House, District 24
 district: 24
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/157783.jpg"
+openstates_id: ocd-person/0950736c-1a85-4534-91dd-3538759e75cf
 contact:
   website: "https://openstates.org/person/hunter-smith-HZhDceA9lQQCz9C3CKJLj/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

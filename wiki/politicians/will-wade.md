@@ -10,7 +10,8 @@ office: GA State House, District 9
 district: 9
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/wade-will-4988.jpg"
+openstates_id: ocd-person/97a002db-6151-4fdf-9bce-013a6344764f
 contact:
   website: "https://openstates.org/person/will-wade-4c6xvumknUctjjrL1jLkqt/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

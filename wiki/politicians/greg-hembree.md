@@ -10,7 +10,8 @@ office: SC State Senate, District 28
 district: 28
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0819318084.jpg"
+openstates_id: ocd-person/d09cb270-bb44-44e7-86d6-a880ce40d93d
 contact:
   website: "https://openstates.org/person/greg-hembree-6Le0uj4k6Zp85hPl7Ud7TJ/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

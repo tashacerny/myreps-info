@@ -10,7 +10,8 @@ office: NY State House, District 135
 district: 135
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/135/headshot/135.jpg?hst=1675087664"
+openstates_id: ocd-person/f6394f20-1953-434b-a2bb-2d255d4fafbe
 contact:
   website: "https://openstates.org/person/jen-lunsford-7UcIlovHhl9h6YJw2YevXy/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -9,7 +9,8 @@ office: IL State Senate, District 49
 district: 49
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{344F07C5-9853-49B6-902A-89D5F81637BF}.jpg"
+openstates_id: ocd-person/d218f82f-ce03-4277-9408-119857d1e61f
 contact:
   website: "https://openstates.org/person/meg-loughran-cappel-6ORnaF6R3lSQIKzEx1k5aJ/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

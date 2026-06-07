@@ -7,10 +7,11 @@ state: MA
 level: state
 chamber: Senate
 office: MA State Senate, District First Bristol and Plymouth
-district: First
+district: First Bristol and Plymouth
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MJR0.jpg"
+openstates_id: ocd-person/af0d6647-3a7b-48d0-971c-bde55a75e78c
 contact:
   website: "https://openstates.org/person/michael-rodrigues-5KJmPTqMBWVbPjEEGvAIxw/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

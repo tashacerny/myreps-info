@@ -10,7 +10,8 @@ office: IN State Senate, District 27
 district: 27
 in_office: true
 photo_url: "https://cdn.zephyrcms.com/248dafe4-9869-419e-8b36-190d40ffd50b/-/progressive/yes/-/format/jpeg/-/scale_crop/200x300/center/-/stretch/off/raatz-2022.jpg"
+openstates_id: ocd-person/4267823b-aec1-452a-a040-25b337f04c54
 contact:
   website: "https://openstates.org/person/jeff-raatz-21InQR2Uj4j2cX4fJBcd9g/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

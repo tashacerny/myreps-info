@@ -9,7 +9,8 @@ office: GA State House, District 105
 district: 105
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Sandy_Donatucci_20240808_092636.jpg"
+openstates_id: ocd-person/4ab15127-5b7a-40bc-8807-26e8e8a73397
 contact:
   website: "https://openstates.org/person/sandy-donatucci-2GwSuRIWlWDQIPsn0IpunH/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

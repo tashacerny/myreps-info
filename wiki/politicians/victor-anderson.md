@@ -10,7 +10,8 @@ office: GA State House, District 10
 district: 10
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/anderson-victor-4989.jpg"
+openstates_id: ocd-person/546d682f-b256-4060-8fd3-084d7f118d43
 contact:
   website: "https://openstates.org/person/victor-anderson-2ZJLz41tr6Dkehvd77DCRX/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

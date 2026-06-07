@@ -10,7 +10,8 @@ office: GA State Senate, District 46
 district: 46
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cowsert-bill-9.jpg"
+openstates_id: ocd-person/4dc87191-fa52-4c2f-bc9c-8823a8b4c882
 contact:
   website: "https://openstates.org/person/bill-cowsert-2Mm0knXw6zeZFhy7VbJo8o/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

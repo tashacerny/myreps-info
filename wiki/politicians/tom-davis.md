@@ -2,14 +2,16 @@
 name: Tom Davis
 slug: tom-davis
 party: Republican
-state: Virginia
-level: federal
-chamber: House
-office: U.S. Representative, Virginia-11
-district: 11
-in_office: false
-photo_url: "https://www.congress.gov/img/member/d000136_200.jpg"
+birthdate: "1960-05-31"
+state: SC
+level: state
+chamber: Senate
+office: SC State Senate, District 46
+district: 46
+in_office: true
+photo_url: "https://scstatehouse.gov/images/members/0456818127.jpg"
+openstates_id: ocd-person/33fe6bed-f8b0-4002-90fa-870813b72caf
 contact:
-last_updated: "2026-05-26"
+  website: "https://openstates.org/person/tom-davis-1a6sXSZeqnyOmWib8QVpzr/"
+last_updated: "2026-06-07"
 ---
-

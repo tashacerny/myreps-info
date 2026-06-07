@@ -9,8 +9,9 @@ chamber: House
 office: FL State House, District 78
 district: 78
 in_office: true
-photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4785.jpg"
+photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4785.jpg"
+openstates_id: ocd-person/bc54a6ff-f7b3-4bbf-a23a-4acc9caa8064
 contact:
   website: "https://openstates.org/person/jenna-persons-mulicka-5jNF6n7pxwj7kcW9F2fhQq/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

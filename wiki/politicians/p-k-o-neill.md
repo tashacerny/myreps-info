@@ -9,7 +9,8 @@ office: NV State House, District 40
 district: 40
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/ONeill.PhilipPK.285.jpg"
+openstates_id: ocd-person/a964be66-bd32-48ab-b6c4-9ede22177328
 contact:
   website: "https://openstates.org/person/p-k-o-neill-59dk5BktOlT0BiMErmhVk0/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

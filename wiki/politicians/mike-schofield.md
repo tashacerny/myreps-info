@@ -10,7 +10,8 @@ office: TX State House, District 132
 district: 132
 in_office: true
 photo_url: "https://house.texas.gov/images/members/3095.jpg?v=1"
+openstates_id: ocd-person/df010291-7350-4262-9220-4c576730b2db
 contact:
   website: "https://openstates.org/person/mike-schofield-6mnkWw5iZGBI6a8ldg9mvL/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

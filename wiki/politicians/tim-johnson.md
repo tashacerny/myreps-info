@@ -1,15 +1,16 @@
 ---
 name: Tim Johnson
 slug: tim-johnson
-party: Democratic
-state: South Dakota
-level: federal
-chamber: Senate
-office: U.S. Senator
-in_office: false
-photo_url: "https://www.congress.gov/img/member/j000177_200.jpg"
-term_start: "1997-01-03"
+party: Republican
+state: KS
+level: state
+chamber: House
+office: KS State House, District 38
+district: 38
+in_office: true
+photo_url: "https://www.kslegislature.gov/static/li_pics/rep_johnson_timothy_1.jpg"
+openstates_id: ocd-person/ecff64bf-dfd7-4df4-a1c2-681348e68fa8
 contact:
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/tim-johnson-7DCu4JbzZ43Ots1q1VjrGC/"
+last_updated: "2026-06-07"
 ---
-

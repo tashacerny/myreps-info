@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/representatives/Pictures/Brien.jpg"
 openstates_id: ocd-person/89e9f600-0af5-471c-89bb-b27142def4c9
 contact:
   website: "https://openstates.org/person/jon-brien-4CErtNMR1E3QmYc18rUOeP/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

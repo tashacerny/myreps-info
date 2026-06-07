@@ -9,8 +9,9 @@ chamber: House
 office: KS State House, District 100
 district: 100
 in_office: true
-photo_url: "https://i0.wp.com/danhawkinskansas.com/wp-content/uploads/2020/06/Rep.-Hawkins.jpg?resize=1000%2C1000&ssl=1"
+photo_url: "https://www.kslegislature.gov/static/li_pics/rep_hawkins_daniel_1.jpg"
+openstates_id: ocd-person/26eb8f32-d499-4b8b-82c6-8fef014633a3
 contact:
   website: "https://openstates.org/person/dan-hawkins-1BRMHN73dWgdc0XhSSKX11/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -9,7 +9,8 @@ office: AR State Senate, District 27
 district: 27
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/634_sm.jpg"
+openstates_id: ocd-person/fb2fcf8c-ed42-46f0-b473-4940692f8e40
 contact:
   website: "https://openstates.org/person/justin-boyd-7dyvGUPhso9QeDkptYz8T2/"
-last_updated: "2026-05-26"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: NE State House, District 21
 district: 21
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist21/highres/dist21.jpg"
+openstates_id: ocd-person/3da787e9-f6ed-4069-bd74-58ec7c015efb
 contact:
   website: "https://openstates.org/person/beau-ballard-1sL5oWFVZxOw0ITk1aljAp/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

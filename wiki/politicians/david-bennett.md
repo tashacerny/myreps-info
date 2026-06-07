@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/bennett.jpg"
 openstates_id: ocd-person/b12f1651-fc9e-440c-9bc3-ff326505cca4
 contact:
   website: "https://openstates.org/person/david-bennett-5OL9y2pw9ijEyGkswUmSZQ/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: SD State House, District 18
 district: 18
 in_office: true
 photo_url: "https://sdlegislature.gov/inc/img/Legislators/STEVENS_2017.jpg"
+openstates_id: ocd-person/0121d607-e75c-4427-bd76-a6e01434afca
 contact:
   website: "https://openstates.org/person/mike-stevens-28SEkBsB89LOMfa61aRdy/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

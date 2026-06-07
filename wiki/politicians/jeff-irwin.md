@@ -10,7 +10,8 @@ office: MI State Senate, District 15
 district: 15
 in_office: true
 photo_url: "https://senatedems.com/irwin/wp-content/uploads/sites/19/2022/12/MDS_Irwin_DSC5423.jpg"
+openstates_id: ocd-person/a1c1163d-af8d-4b88-9365-07717d4a45c3
 contact:
   website: "https://openstates.org/person/jeff-irwin-4vE0LVSe6s1WAHbPFtfK5r/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

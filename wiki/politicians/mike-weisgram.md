@@ -9,7 +9,8 @@ office: SD State House, District 24
 district: 24
 in_office: true
 photo_url: "https://bloximages.chicago2.vip.townnews.com/capjournal.com/content/tncms/assets/v3/editorial/5/dd/5dd71c64-93d9-11ea-a386-83ab371b2512/5eb9d679c54ee.image.jpg"
+openstates_id: ocd-person/f611d7e5-8438-49da-a323-374bbf0af218
 contact:
   website: "https://openstates.org/person/mike-weisgram-7UKGXqjRCpQVBJ8qhH7Ys4/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

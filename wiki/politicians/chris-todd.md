@@ -1,15 +1,17 @@
 ---
 name: Chris Todd
 slug: chris-todd
-party: Democratic
-state: HI
+party: Republican
+birthdate: "1966-11-26"
+state: TN
 level: state
 chamber: House
-office: HI State House, District 3
-district: 3
+office: TN State House, District 73
+district: 73
 in_office: true
-photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Todd.jpg"
+photo_url: "https://www.capitol.tn.gov/house/members/images/H73.jpg"
+openstates_id: ocd-person/5854880e-f10d-4c24-9593-4ae567fec8d7
 contact:
-  website: "https://openstates.org/person/chris-todd-3OBChrQGMmt51xknDHo8Ey/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/chris-todd-2gfxFyKeaxMPxINiKKN2YB/"
+last_updated: "2026-06-07"
 ---

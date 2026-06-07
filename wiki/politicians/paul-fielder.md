@@ -8,7 +8,8 @@ chamber: House
 office: MT State House, District 14
 district: 14
 in_office: true
+openstates_id: ocd-person/a379258c-d227-4861-998b-15bb543886e2
 contact:
   website: "https://openstates.org/person/paul-fielder-4yT72Ey8oji92APb5Tijq6/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: TN State House, District 15
 district: 15
 in_office: true
 photo_url: "http://www.capitol.tn.gov/house/members/images/h15.jpg"
+openstates_id: ocd-person/810d9aeb-b666-4acc-b098-deaf265df277
 contact:
   website: "https://openstates.org/person/sam-mckenzie-3vWE7UjByuVYa5Csbf5XNP/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

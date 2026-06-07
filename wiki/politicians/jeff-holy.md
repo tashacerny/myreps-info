@@ -10,7 +10,8 @@ office: WA State Senate, District 6
 district: 6
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/17223.jpg"
+openstates_id: ocd-person/0396b4de-01b1-4784-a604-aafc516f5e39
 contact:
   website: "https://openstates.org/person/jeff-holy-6lqhads6biIoUOZTDYTvN/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

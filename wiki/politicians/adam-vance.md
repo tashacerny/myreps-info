@@ -9,7 +9,8 @@ office: WV State House, District 35
 district: 35
 in_office: true
 photo_url: "http://www.wvlegislature.gov/images/members/2023/house/vance_adam.jpg"
+openstates_id: ocd-person/c15b4eb1-1dc4-498f-9929-43ff34445317
 contact:
   website: "https://openstates.org/person/adam-vance-5srFIK4N7vuCuZRhmffGHn/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

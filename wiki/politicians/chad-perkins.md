@@ -2,14 +2,16 @@
 name: Chad Perkins
 slug: chad-perkins
 party: Republican
-state: ME
+birthdate: "1978-06-22"
+state: MO
 level: state
 chamber: House
-office: ME State House, District 31
-district: 31
+office: MO State House, District 40
+district: 40
 in_office: true
-photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/a6f40ce5-a695-480d-92cf-cfe044f027ac_CPERKINS.jpg"
+photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2207"
+openstates_id: ocd-person/b1fb2c50-2091-4264-abed-e89079479bc0
 contact:
-  website: "https://openstates.org/person/chad-perkins-iURKuDa9ydlVZtHbjgeD6/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/chad-perkins-5PqQYOcIZa65Vm4OKXo8uG/"
+last_updated: "2026-06-07"
 ---

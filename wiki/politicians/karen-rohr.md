@@ -10,7 +10,8 @@ office: ND State House, District 31
 district: 31
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/kmrohr2023.jpg?itok=fAV4fbCk"
+openstates_id: ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e
 contact:
   website: "https://openstates.org/person/karen-rohr-5KSzz3ZWu3wN9hT1sQpPB8/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

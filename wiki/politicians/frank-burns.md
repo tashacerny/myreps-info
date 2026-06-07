@@ -2,14 +2,16 @@
 name: Frank Burns
 slug: frank-burns
 party: Democratic
-state: DE
+birthdate: "1975-10-21"
+state: PA
 level: state
 chamber: House
-office: DE State House, District 21
-district: 21
+office: PA State House, District 72
+district: 72
 in_office: true
-photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/Untitled-design-5-710x710.png"
+photo_url: "https://www.legis.state.pa.us/images/members/200/1163.jpg?1703415645672"
+openstates_id: ocd-person/a60da669-bae3-4e1d-a241-370a7ad2c769
 contact:
-  website: "https://openstates.org/person/frank-burns-7aQRCIT4d7itTErL5yqOHK/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/frank-burns-53Kxn2ThYID2Zp0iM5UO1h/"
+last_updated: "2026-06-07"
 ---

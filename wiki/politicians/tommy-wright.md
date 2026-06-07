@@ -2,15 +2,16 @@
 name: Tommy Wright
 slug: tommy-wright
 party: Republican
-birthdate: "1952-05-16"
-state: FL
+birthdate: "1948-04-27"
+state: VA
 level: state
-chamber: Senate
-office: FL State Senate, District 8
-district: 8
+chamber: House
+office: VA State House, District 50
+district: 50
 in_office: true
-photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s08_5346.jpg"
+photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0136"
+openstates_id: ocd-person/894118dd-1470-48b7-b84b-831ddba58e1b
 contact:
-  website: "https://openstates.org/person/tommy-wright-2HJ2yPkqYpQ7yrdtpMozDu/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/tommy-wright-4AzhI8Gu0PxHQ9D7zmjGqB/"
+last_updated: "2026-06-07"
 ---

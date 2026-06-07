@@ -9,7 +9,8 @@ office: CA State House, District 54
 district: 54
 in_office: true
 photo_url: "https://www.sgvtribune.com/wp-content/uploads/2024/10/LDN-L-ELX-VG-ASSMD54-GONZALEZ.jpg?w=520"
+openstates_id: ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb
 contact:
   website: "https://openstates.org/person/mark-gonzalez-2GSJsaYsUu9eLn9JSwRZAx/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

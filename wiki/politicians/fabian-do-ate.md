@@ -9,7 +9,8 @@ office: NV State Senate, District 10
 district: 10
 in_office: true
 photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/Doate.Fabian.350.jpg"
+openstates_id: ocd-person/bcad4dc1-c812-409b-9cc9-e1d8c91fdafa
 contact:
   website: "https://openstates.org/person/fabian-donate-5k1kxqDQueHx5ONMZXqwna/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: NH State Senate, District 17
 district: 17
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59217.jpg"
+openstates_id: ocd-person/c4122c6a-ed23-492e-b813-59a0fed1ec86
 contact:
   website: "https://openstates.org/person/howard-pearl-5xyngbH2jo7M1xledU0TIs/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

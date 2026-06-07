@@ -10,7 +10,8 @@ office: CA State House, District 21
 district: 21
 in_office: true
 photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_21.jpg"
+openstates_id: ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede
 contact:
   website: "https://openstates.org/person/diane-papan-zqm7WzD59uX5wjaTfg7VW/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

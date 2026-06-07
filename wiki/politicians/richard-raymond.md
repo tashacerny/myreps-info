@@ -10,7 +10,8 @@ office: TX State House, District 42
 district: 42
 in_office: true
 photo_url: "https://house.texas.gov/images/members/4215.jpg?v=1"
+openstates_id: ocd-person/d4a94a68-02a7-44c0-901f-9cd57350229a
 contact:
   website: "https://openstates.org/person/richard-raymond-6THjq7ClM4NWuyyZZA8sbC/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: ID State House, District 19B
 district: 19B
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/directory/Mathias6703.jpg"
+openstates_id: ocd-person/7e3f625c-e56e-409a-9989-b07cd77344f6
 contact:
   website: "https://openstates.org/person/chris-mathias-3qDzzW3qIPyvNv9gJS0XKw/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

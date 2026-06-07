@@ -9,8 +9,9 @@ chamber: House
 office: FL State House, District 42
 district: 42
 in_office: true
-photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4746.jpg"
+photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4746.jpg"
+openstates_id: ocd-person/1f8e10ad-0047-4854-b696-38e15fda7afa
 contact:
   website: "https://openstates.org/person/anna-eskamani-xXgXJiyRZTNpr1YG9X1Yo/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

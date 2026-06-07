@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/62d5679913ecdf027fe552
 openstates_id: ocd-person/e9b6ecf5-de39-4026-83fa-3766ed43cc49
 contact:
   website: "https://openstates.org/person/jake-bissaillon-770oBSWpEWrps6PfoYBgM5/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

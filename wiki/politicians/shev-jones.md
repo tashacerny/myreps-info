@@ -10,7 +10,8 @@ office: FL State Senate, District 34
 district: 34
 in_office: true
 photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s34_5453.jpg"
+openstates_id: ocd-person/a8a2eaa4-449b-441f-96bb-d8a3e8191479
 contact:
   website: "https://openstates.org/person/shev-jones-58DAAT6UKYBnGzIOckqwTB/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

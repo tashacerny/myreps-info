@@ -6,10 +6,11 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 40
-district: Hillsborough
+district: Hillsborough 40
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59183.jpg"
+openstates_id: ocd-person/69275b32-0ad6-48a4-9787-bf2869573772
 contact:
   website: "https://openstates.org/person/mark-mackenzie-3CQBAcQT1zuyPQ6l2yFcGo/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

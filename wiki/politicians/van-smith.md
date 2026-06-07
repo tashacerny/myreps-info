@@ -9,7 +9,8 @@ office: AL State House, District 42
 district: 42
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Smith_42.png"
+openstates_id: ocd-person/2e9b60b3-d931-412e-a9f6-803aa7c7b085
 contact:
   website: "https://openstates.org/person/van-smith-1PwebJc5d0tJHshYtRAkQ1/"
-last_updated: "2026-05-26"
+last_updated: "2026-06-07"
 ---

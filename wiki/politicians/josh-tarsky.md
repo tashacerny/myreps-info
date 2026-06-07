@@ -6,10 +6,11 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 13th Norfolk
-district: 13th
+district: 13th Norfolk
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/J_T1.jpg"
+openstates_id: ocd-person/9c847f4f-a48b-4d42-95cb-2b6a219f89ac
 contact:
   website: "https://openstates.org/person/josh-tarsky-4lLLyVD17ANzdQh2hGAjuO/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -8,8 +8,9 @@ chamber: House
 office: KS State House, District 72
 district: 72
 in_office: true
-photo_url: "https://www.kslegislature.gov/li/s/images/pics/rep_anderson_avery_1.jpg"
+photo_url: "https://www.kslegislature.gov/static/li_pics/rep_anderson_avery_1.jpg"
+openstates_id: ocd-person/4544fc4e-fff8-4bbe-bc29-4e28c6be3179
 contact:
   website: "https://openstates.org/person/avery-anderson-26hzohQKKQKEkEDLrCLOG1/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

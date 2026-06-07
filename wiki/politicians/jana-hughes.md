@@ -10,7 +10,8 @@ office: NE State House, District 24
 district: 24
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist24/highres/dist24.jpg"
+openstates_id: ocd-person/967bf436-18bf-444e-bd2f-d83e5ec78995
 contact:
   website: "https://openstates.org/person/jana-hughes-4ZxUlFDiIO08PCGaYcXVKf/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

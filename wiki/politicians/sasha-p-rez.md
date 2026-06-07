@@ -10,7 +10,8 @@ office: CA State Senate, District 25
 district: 25
 in_office: true
 photo_url: "https://www.cityofalhambra.org/ImageRepository/Document?documentId=1262"
+openstates_id: ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4
 contact:
   website: "https://openstates.org/person/sasha-perez-5BRhdsEXMPiRJsEB0K5Rcy/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

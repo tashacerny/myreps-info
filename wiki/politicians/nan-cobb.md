@@ -9,7 +9,8 @@ office: FL State House, District 26
 district: 26
 in_office: true
 photo_url: "https://www.eustis.org/files/assets/public/v/3/city-hall-mgrs-office/images/commissioner-cobb.jpg?dimension=pageimage&w=480"
+openstates_id: ocd-person/609d82db-51d0-4705-a6c4-4d0bd487a61f
 contact:
   website: "https://openstates.org/person/nan-cobb-2wJFGMLierXkWFpax27Vq3/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

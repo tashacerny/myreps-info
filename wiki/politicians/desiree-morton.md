@@ -9,7 +9,8 @@ office: ND State House, District 46
 district: 46
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/620c3de64a803d6ee0289ebc/4fb9fedc-999d-4a0c-a780-07d812d15461/Desiree+Morton+Headshot.jpg?format=500w"
+openstates_id: ocd-person/6c9076a0-42ad-4045-81da-7f463d0e57b5
 contact:
   website: "https://openstates.org/person/desiree-morton-3IrBrDolqXiHmtvRCwjTU5/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

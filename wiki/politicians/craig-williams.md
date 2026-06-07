@@ -2,14 +2,16 @@
 name: Craig Williams
 slug: craig-williams
 party: Republican
-state: IA
+birthdate: "1965-11-07"
+state: PA
 level: state
 chamber: House
-office: IA State House, District 11
-district: 11
+office: PA State House, District 160
+district: 160
 in_office: true
-photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30545"
+photo_url: "https://www.legis.state.pa.us/images/members/200/1916.jpg?1703415645672"
+openstates_id: ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e
 contact:
-  website: "https://openstates.org/person/craig-williams-6JjCkEA65dpQ8uh11OeZ7I/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/craig-williams-6rU5RhL8XjIeTjymUnwjWg/"
+last_updated: "2026-06-07"
 ---

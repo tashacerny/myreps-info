@@ -10,7 +10,8 @@ office: NY State House, District 54
 district: 54
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/054/headshot/054.jpg?hst=1660073635"
+openstates_id: ocd-person/489a01e1-6a0f-4907-bc00-110020e2f27d
 contact:
   website: "https://openstates.org/person/erik-dilan-2CzpP2ydcWwCF0Y5LAv7nB/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

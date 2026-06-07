@@ -2,14 +2,15 @@
 name: Jean Schmidt
 slug: jean-schmidt
 party: Republican
-state: Ohio
-level: federal
-chamber: Senate
-office: U.S. Senator
-district: 2
-in_office: false
-photo_url: "https://www.congress.gov/img/member/s001164_200.jpg"
+birthdate: "1951-11-29"
+state: OH
+level: state
+chamber: House
+office: OH State House, District 62
+district: 62
+in_office: true
+openstates_id: ocd-person/392629a2-7bb2-47df-8128-d4cd7d858324
 contact:
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/jean-schmidt-1jq0BZhtm0XvpB5kQGmMhY/"
+last_updated: "2026-06-07"
 ---
-

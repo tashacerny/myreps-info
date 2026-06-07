@@ -1,15 +1,17 @@
 ---
 name: Jason Lewis
 slug: jason-lewis
-party: Republican
-state: Minnesota
-level: federal
+party: Democratic
+birthdate: "1968-04-19"
+state: MA
+level: state
 chamber: Senate
-office: U.S. Senator
-district: 2
-in_office: false
-photo_url: "https://www.congress.gov/img/member/115_rp_mn_2_lewis_jason_200.jpg"
+office: MA State Senate, District Fifth Middlesex
+district: Fifth Middlesex
+in_office: true
+photo_url: "https://malegislature.gov/Legislators/Profile/170/jml0.jpg"
+openstates_id: ocd-person/92a770ae-a348-4f86-92ad-c4a8ebc568f6
 contact:
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/jason-lewis-4SjOo1EGiitFVuM4GWm4gw/"
+last_updated: "2026-06-07"
 ---
-

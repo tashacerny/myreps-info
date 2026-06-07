@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/raptakis.jpg"
 openstates_id: ocd-person/ef7ddd55-3351-4ca9-adfc-aef71505ec95
 contact:
   website: "https://openstates.org/person/lou-raptakis-7HugYc79xrjLJG32Kc21BN/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

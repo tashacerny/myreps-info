@@ -10,7 +10,8 @@ office: WV State Senate, District 1
 district: 1
 in_office: true
 photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/chapman_laura.jpg"
+openstates_id: ocd-person/599fd572-0475-4215-8d43-1474237f5a78
 contact:
   website: "https://openstates.org/person/laura-chapman-2j7MOzHFMb6cMSnwhjOOl6/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

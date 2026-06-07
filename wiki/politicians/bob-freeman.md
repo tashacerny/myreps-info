@@ -2,15 +2,16 @@
 name: Bob Freeman
 slug: bob-freeman
 party: Democratic
-birthdate: "1956-03-09"
-state: PA
+birthdate: "1975-07-03"
+state: TN
 level: state
 chamber: House
-office: PA State House, District 136
-district: 136
+office: TN State House, District 56
+district: 56
 in_office: true
-photo_url: "https://www.legis.state.pa.us/images/members/200/136.jpg?1703415645672"
+photo_url: "https://www.capitol.tn.gov/house/members/images/H56.jpg"
+openstates_id: ocd-person/c8a26be8-8de1-434b-864a-21697f8f15d4
 contact:
-  website: "https://openstates.org/person/bob-freeman-bGXgUnlJKMgcTVGdv3LVO/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/bob-freeman-66aguxjrheSH6BfO2z032y/"
+last_updated: "2026-06-07"
 ---

@@ -9,7 +9,8 @@ office: OH State House, District 13
 district: 13
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TristanRader2.jpg"
+openstates_id: ocd-person/18864718-3e48-4236-9afb-b1a61e4c52e2
 contact:
   website: "https://openstates.org/person/tristan-rader-kHBDVibpWbufW24jsEDxK/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

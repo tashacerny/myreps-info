@@ -10,7 +10,8 @@ office: KY State House, District 50
 district: 50
 in_office: true
 photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house50.jpg"
+openstates_id: ocd-person/70d58905-dd36-4e9a-b281-639600e6b945
 contact:
   website: "https://openstates.org/person/candy-massaroni-3Quj2ftoWbu2480BNSCikn/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

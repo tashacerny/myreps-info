@@ -10,7 +10,8 @@ office: ME State House, District 126
 district: 126
 in_office: true
 photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/a5278ffe-f50e-4998-83fb-cad702fc9659_gattam.jpg"
+openstates_id: ocd-person/81123167-ba38-419a-92e5-fe0102d6a553
 contact:
   website: "https://openstates.org/person/drew-gattine-3vYK6zigkPFkQ2WL8KeM31/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

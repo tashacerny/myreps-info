@@ -10,7 +10,8 @@ office: SC State House, District 17
 district: 17
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/0257954515.jpg"
+openstates_id: ocd-person/6ffe4e57-021a-4424-bc36-b933c8e18477
 contact:
   website: "https://openstates.org/person/mike-burns-3PKMihsx8TRRpD0TtuZhnb/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

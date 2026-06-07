@@ -9,7 +9,8 @@ office: PA State House, District 172
 district: 172
 in_office: true
 photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqcsfeSV2Emc5tJreNLOLeI1PEIX1XE82Hw&s"
+openstates_id: ocd-person/d8624d56-a38e-4918-98ac-d7795569ad06
 contact:
   website: "https://openstates.org/person/sean-dougherty-6aJGXdgvIBimZqI8CczY6I/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

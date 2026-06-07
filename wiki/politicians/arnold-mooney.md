@@ -10,7 +10,8 @@ office: AL State House, District 43
 district: 43
 in_office: true
 photo_url: "https://www.legislature.state.al.us/pdf/house/members/Mooney_43.png"
+openstates_id: ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275
 contact:
   website: "https://openstates.org/person/arnold-mooney-4WHlHGPuMcQyn8fQWVTKX/"
-last_updated: "2026-05-26"
+last_updated: "2026-06-07"
 ---

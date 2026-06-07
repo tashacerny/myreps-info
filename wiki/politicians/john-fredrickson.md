@@ -10,7 +10,8 @@ office: NE State House, District 20
 district: 20
 in_office: true
 photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist20/highres/dist20.jpg"
+openstates_id: ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f
 contact:
   website: "https://openstates.org/person/john-fredrickson-1TuBRzajg7MuofQsbXI6Gd/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

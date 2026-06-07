@@ -10,7 +10,8 @@ office: OH State Senate, District 5
 district: 5
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/stephen-a-huffman/headshots/thumbnails/medium/stephen-a-huffman-may-2023-headshot_medium.jpg"
+openstates_id: ocd-person/b21d9dcd-21e9-4071-936d-f89fc5d8f643
 contact:
   website: "https://openstates.org/person/steve-huffman-5Q6ATPTLNAQNXLUba5oC2N/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

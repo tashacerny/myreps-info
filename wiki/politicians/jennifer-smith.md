@@ -9,7 +9,8 @@ office: IA State House, District 72
 district: 72
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37389"
+openstates_id: ocd-person/4b61e993-1cb9-4bd2-a383-46d264d298f9
 contact:
   website: "https://openstates.org/person/jennifer-smith-2IFAZqe666EOJ6iTuam6G1/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

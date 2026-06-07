@@ -10,7 +10,8 @@ office: WI State House, District 36
 district: 36
 in_office: true
 photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2489.jpg"
+openstates_id: ocd-person/5254db79-a23b-4496-ad9b-cc0e7a9b7f3a
 contact:
   website: "https://openstates.org/person/jeff-mursau-2VM9LMU7GoE1gTYL4pxZRC/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

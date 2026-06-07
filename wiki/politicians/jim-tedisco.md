@@ -9,8 +9,9 @@ chamber: Senate
 office: NY State Senate, District 44
 district: 44
 in_office: true
-photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/official_tedisco-hs.jpg?itok=4-C9InuB"
+photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/public/veterans11.jpg"
+openstates_id: ocd-person/975453b1-113a-40e9-8036-53e714a47b66
 contact:
   website: "https://openstates.org/person/jim-tedisco-4bYNUR01hj2a9VNWhNj2wg/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

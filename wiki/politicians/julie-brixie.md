@@ -9,7 +9,8 @@ office: MI State House, District 73
 district: 73
 in_office: true
 photo_url: "https://housedems.com/sites/default/files/Images/Representative_Images/D069_Julie_Brixie/069_Brixie.jpg"
+openstates_id: ocd-person/192ea166-adcc-4d74-b497-2fd4db882a00
 contact:
   website: "https://openstates.org/person/julie-brixie-lW7KyauFrDiNiSKVvaK8m/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

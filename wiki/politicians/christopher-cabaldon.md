@@ -10,7 +10,8 @@ office: CA State Senate, District 3
 district: 3
 in_office: true
 photo_url: "https://calearninglab.org/wp-content/uploads/2024/09/Emcee-Christopher-Cabaldon-488x559.png"
+openstates_id: ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20
 contact:
   website: "https://openstates.org/person/christopher-cabaldon-490X6D43Wsp9X7buUypaJE/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

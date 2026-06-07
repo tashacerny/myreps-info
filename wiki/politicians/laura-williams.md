@@ -9,8 +9,9 @@ chamber: House
 office: KS State House, District 30
 district: 30
 in_office: true
-photo_url: "http://www.kslegislature.org/li/s/images/pics/rep_williams_laura_1.jpg"
+photo_url: "https://www.kslegislature.gov/static/li_pics/rep_williams_laura_1.jpg"
+openstates_id: ocd-person/0ebc0742-f24c-4ab3-9155-7a4c37e2fa87
 contact:
   website: "https://openstates.org/person/laura-williams-RnowvOqCn4FQ2rqb5DaD9/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

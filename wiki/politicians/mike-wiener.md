@@ -9,7 +9,8 @@ office: MN State House, District 5B
 district: 5B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/05B.gif?v=112221"
+openstates_id: ocd-person/4c34f3d9-8890-4145-8a96-92ab23f046c0
 contact:
   website: "https://openstates.org/person/mike-wiener-2JncCmVWHLz2EKmTdtZvsG/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

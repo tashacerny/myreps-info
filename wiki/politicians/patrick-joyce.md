@@ -9,7 +9,8 @@ office: IL State Senate, District 40
 district: 40
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{39D6F100-DAEC-4C4B-A4F5-F20299B79152}.jpg"
+openstates_id: ocd-person/1ae7c123-b1a4-4c6e-b4d3-dc22db461e44
 contact:
   website: "https://openstates.org/person/patrick-joyce-oliBAB58zTCiWYWfJAsRY/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

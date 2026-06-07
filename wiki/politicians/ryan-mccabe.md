@@ -10,7 +10,8 @@ office: SC State House, District 96
 district: 96
 in_office: true
 photo_url: "https://scstatehouse.gov/images/members/1206818037.jpg"
+openstates_id: ocd-person/68934441-84b3-48c7-b8a5-a694744f9e3b
 contact:
   website: "https://openstates.org/person/ryan-mccabe-3BKVBh2pv5FemlapG5QO2V/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

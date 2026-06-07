@@ -10,7 +10,8 @@ office: OH State Senate, District 15
 district: 15
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/hearcel-f-craig/headshots/thumbnails/medium/hearcel-f-craig-may-2023-headshot_medium.jpg"
+openstates_id: ocd-person/ed858ef9-97dc-4be8-97ab-006ea96923ae
 contact:
   website: "https://openstates.org/person/hearcel-craig-7ECDVbSKvM0ZL22sXeJ0Yg/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

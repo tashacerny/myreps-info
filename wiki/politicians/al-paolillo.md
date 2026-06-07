@@ -9,7 +9,8 @@ office: CT State House, District 97
 district: 97
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Paolillo/images/Paolillo_HS.jpg"
+openstates_id: ocd-person/3e0a00e8-0ec8-418d-a2e3-a7eef0a5d186
 contact:
   website: "https://openstates.org/person/al-paolillo-1t45wedxv6Sm239X5VfrnC/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

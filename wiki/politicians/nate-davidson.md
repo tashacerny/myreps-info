@@ -9,7 +9,8 @@ office: PA State House, District 103
 district: 103
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/133354.jpg"
+openstates_id: ocd-person/c7f76970-11d0-483e-81b4-b4750220932c
 contact:
   website: "https://openstates.org/person/nate-davidson-65KXW6K63i5mFagIIFnlFc/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

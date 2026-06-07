@@ -9,7 +9,8 @@ office: OK State Senate, District 7
 district: 7
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/Hamilton%2C%20Warren%202022%20flags.jpg"
+openstates_id: ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055
 contact:
   website: "https://openstates.org/person/warren-hamilton-2DRY6p9fR7LKqFrCFH8RYz/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

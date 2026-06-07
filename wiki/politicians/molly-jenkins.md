@@ -9,7 +9,8 @@ office: OK State House, District 33
 district: 33
 in_office: true
 photo_url: "https://www.cushingcitizen.com/sites/cushingcitizen.com/files/styles/article_420/public/3d8c9a84be_Ar00503010.jpg?itok=QUjuCFyZ"
+openstates_id: ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f
 contact:
   website: "https://openstates.org/person/molly-jenkins-3yfmIrUspowXrbCuKvoQm7/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

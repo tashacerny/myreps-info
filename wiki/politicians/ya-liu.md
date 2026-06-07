@@ -9,7 +9,8 @@ office: NC State House, District 21
 district: 21
 in_office: true
 photo_url: "https://www.ncleg.gov/Members/MemberImage/H/806/Low"
+openstates_id: ocd-person/d48b59a1-cf27-438e-8a25-2f8f179992f2
 contact:
   website: "https://openstates.org/person/ya-liu-6T43VD3hBd6wFe4oWvZVMg/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

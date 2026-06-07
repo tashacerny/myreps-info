@@ -9,7 +9,8 @@ office: ID State Senate, District 33
 district: 33
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/directory/Lent5345.jpg"
+openstates_id: ocd-person/fdcf0c8e-5794-4c3c-a092-a64ee5cab9d3
 contact:
   website: "https://openstates.org/person/dave-lent-7ivgBTvrHp60WRWnwgitBD/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

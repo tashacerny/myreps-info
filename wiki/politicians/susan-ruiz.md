@@ -8,8 +8,9 @@ chamber: House
 office: KS State House, District 23
 district: 23
 in_office: true
-photo_url: "http://www.kslegislature.org/li/s/images/pics/rep_ruiz_susan_1.jpg"
+photo_url: "https://www.kslegislature.gov/static/li_pics/rep_ruiz_susan_1.jpg"
+openstates_id: ocd-person/c06bc779-d072-495b-95f8-e5f4e67bdd4c
 contact:
   website: "https://openstates.org/person/susan-ruiz-5r5mU3z7fTMiGY1jkJ3xPw/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

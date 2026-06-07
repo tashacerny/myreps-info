@@ -8,8 +8,9 @@ chamber: House
 office: KS State House, District 39
 district: 39
 in_office: true
-photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_stiens_angela_1.jpg"
+photo_url: "https://www.kslegislature.gov/static/li_pics/rep_stiens_angela_1.jpg"
+openstates_id: ocd-person/e0cddd71-639c-4b74-8dea-bc189418034d
 contact:
   website: "https://openstates.org/person/angela-stiens-6qCMQpP6n8WbLD9CZhEwjV/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

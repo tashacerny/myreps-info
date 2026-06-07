@@ -9,7 +9,8 @@ chamber: House
 office: NJ State House, District 7
 district: 7
 in_office: true
+openstates_id: ocd-person/a189187b-df3f-4f10-8e5c-744ad7071787
 contact:
   website: "https://openstates.org/person/balvir-singh-4uoPsyUkHRwMV6P1mLXjiZ/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

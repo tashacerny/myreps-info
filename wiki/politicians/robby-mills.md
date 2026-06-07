@@ -10,7 +10,8 @@ office: KY State Senate, District 4
 district: 4
 in_office: true
 photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate104.jpg"
+openstates_id: ocd-person/366daab1-a877-49b9-86b8-e3c497143bf0
 contact:
   website: "https://openstates.org/person/robby-mills-1ehhcInA2n14eZgEqpb6O0/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

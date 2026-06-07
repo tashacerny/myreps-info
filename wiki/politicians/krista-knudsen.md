@@ -10,7 +10,8 @@ office: MN State House, District 5A
 district: 5A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/05A.gif?v=112221"
+openstates_id: ocd-person/d9b75b0d-6065-4efc-81e2-03084dee070a
 contact:
   website: "https://openstates.org/person/krista-knudsen-6cp7yqd9TMTXXwodPljhkI/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

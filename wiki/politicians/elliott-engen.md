@@ -10,7 +10,8 @@ office: MN State House, District 36A
 district: 36A
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/36A.gif?v=112221"
+openstates_id: ocd-person/f27e2742-5c0f-4dba-a37f-76592f91f6f0
 contact:
   website: "https://openstates.org/person/elliott-engen-7NZnJQJGX9DpndUHsTKKOW/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

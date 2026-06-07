@@ -9,8 +9,9 @@ chamber: Senate
 office: NY State Senate, District 35
 district: 35
 in_office: true
-photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/asc-hs-new_0.jpg?itok=Amg0GHQ5"
+photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/public/ascsweringin2019.jpg"
+openstates_id: ocd-person/5f3e7bcf-9e43-423b-946b-982cc6ecc154
 contact:
   website: "https://openstates.org/person/andrea-stewart-cousins-2tipDmNbK1TqOUqT1Am0jk/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

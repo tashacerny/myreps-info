@@ -10,7 +10,8 @@ office: OK State Senate, District 41
 district: 41
 in_office: true
 photo_url: "https://oksenate.gov/sites/default/files/pugh.jpg"
+openstates_id: ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c
 contact:
   website: "https://openstates.org/person/adam-pugh-3q9Qzy50RwCDA9CD7BxWRQ/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -6,10 +6,11 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Coos 1
-district: Coos
+district: Coos 1
 in_office: true
 photo_url: "https://nhjournal.com/wp-content/uploads/2024/01/sean-durkin-300x300.jpeg"
+openstates_id: ocd-person/8d99d9dc-999d-438c-84c8-01d80f1ef5cd
 contact:
   website: "https://openstates.org/person/sean-durkin-4JCE9GwIOeiALdOQTq4JdF/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

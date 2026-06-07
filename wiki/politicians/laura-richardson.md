@@ -2,14 +2,16 @@
 name: Laura Richardson
 slug: laura-richardson
 party: Democratic
-state: California
-level: federal
+birthdate: "1962-04-14"
+state: CA
+level: state
 chamber: Senate
-office: U.S. Senator
-district: 37
-in_office: false
-photo_url: "https://www.congress.gov/img/member/r000581_200.jpg"
+office: CA State Senate, District 35
+district: 35
+in_office: true
+photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/6409.jpg"
+openstates_id: ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5
 contact:
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/laura-richardson-5lWhqYPKmOZlLUEiuiPAAP/"
+last_updated: "2026-06-07"
 ---
-

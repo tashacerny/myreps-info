@@ -10,7 +10,8 @@ office: IA State Senate, District 27
 district: 27
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6585"
+openstates_id: ocd-person/79eacd35-8caf-466e-b75f-0d878dcf5221
 contact:
   website: "https://openstates.org/person/annette-sweeney-3i3NK5yi7i6kVcEq9tfLaD/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

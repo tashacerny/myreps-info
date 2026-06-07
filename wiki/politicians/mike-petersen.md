@@ -2,15 +2,15 @@
 name: Mike Petersen
 slug: mike-petersen
 party: Republican
-birthdate: "1960-10-05"
-state: KS
+state: UT
 level: state
-chamber: Senate
-office: KS State Senate, District 28
-district: 28
+chamber: House
+office: UT State House, District 2
+district: 2
 in_office: true
-photo_url: "https://www.kslegislature.org/li/s/images/pics/sen_petersen_mike_1.jpg"
+photo_url: "https://le.utah.gov/images/legislator/PETERM.jpg"
+openstates_id: ocd-person/e9792114-e077-4663-96c4-94d679c66ace
 contact:
-  website: "https://openstates.org/person/mike-petersen-2LYzuNXfVYXqC6W59VFCIz/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/mike-petersen-76YZEvExiPkjwAXienUFOY/"
+last_updated: "2026-06-07"
 ---

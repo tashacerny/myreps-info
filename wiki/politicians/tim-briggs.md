@@ -10,7 +10,8 @@ office: PA State House, District 149
 district: 149
 in_office: true
 photo_url: "https://www.legis.state.pa.us/images/members/200/1159.jpg?1703415645672"
+openstates_id: ocd-person/5c752a95-ba5d-4f1f-81aa-6cb1c7875581
 contact:
   website: "https://openstates.org/person/tim-briggs-2oSq25VZSmwhFQ2HSAZrcn/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

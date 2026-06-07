@@ -9,8 +9,9 @@ chamber: Senate
 office: NY State Senate, District 15
 district: 15
 in_office: true
-photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/headshot_addabbo-hs-profile.jpg?itok=gdgS9QTR"
+photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/public/01-04-23_300-01-461.jpg"
+openstates_id: ocd-person/f3a41618-3c28-4bab-9a56-ef49c9cafcec
 contact:
   website: "https://openstates.org/person/joe-addabbo-7Pk7dEVUluN3Auzt0J8IQe/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

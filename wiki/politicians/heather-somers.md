@@ -10,7 +10,8 @@ office: CT State Senate, District 18
 district: 18
 in_office: true
 photo_url: "https://ctsenaterepublicans.com/wp-content/uploads/2020/12/HeatherHeadshot-e1608139012865.jpg"
+openstates_id: ocd-person/a648c360-3b9e-408d-ba2a-c171edada365
 contact:
   website: "https://openstates.org/person/heather-somers-53lyhqgMS5Byl673F5tdS9/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

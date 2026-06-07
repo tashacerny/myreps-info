@@ -10,7 +10,8 @@ office: DE State House, District 39
 district: 39
 in_office: true
 photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Daniel_Short_Member_Card.jpg"
+openstates_id: ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3
 contact:
   website: "https://openstates.org/person/danny-short-4WAsPz9ktpYc1m5arVL8V9/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

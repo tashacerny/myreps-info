@@ -10,7 +10,8 @@ office: ID State House, District 19A
 district: 19A
 in_office: true
 photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/directory/Church9422.jpg"
+openstates_id: ocd-person/b3878069-33ec-4ecc-8236-f9d0de68f5da
 contact:
   website: "https://openstates.org/person/monica-church-5SlY9nmbbMajjrGIdG18TS/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: SD State Senate, District 29
 district: 29
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JohnCarley3.png"
+openstates_id: ocd-person/2d13f154-7e05-462c-b8d9-da5c5556d8b9
 contact:
   website: "https://openstates.org/person/john-carley-1N3leJOOGVRhrzIrsbUw81/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

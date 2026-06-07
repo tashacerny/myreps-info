@@ -9,7 +9,8 @@ office: IL State Senate, District 21
 district: 21
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{423E6DDE-1AFB-4F10-A767-C869B0E51483}.jpg"
+openstates_id: ocd-person/9bc8c9e8-ed36-42a1-ae80-4b2dfe591839
 contact:
   website: "https://openstates.org/person/laura-ellman-4jxZQNrpJXTxLBozlOOwTh/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

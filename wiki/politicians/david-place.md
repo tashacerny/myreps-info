@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/place.jpg"
 openstates_id: ocd-person/785df766-de25-496b-a823-e4ad64c462cb
 contact:
   website: "https://openstates.org/person/david-place-3f81MbRPtReqYPXdfx62fr/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

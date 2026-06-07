@@ -10,7 +10,8 @@ office: SD State Senate, District 30
 district: 30
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ahulse.jpg"
+openstates_id: ocd-person/ae4b500c-4a37-43ed-a3a2-dbb08071e265
 contact:
   website: "https://openstates.org/person/amber-hulse-5It58d1dcHwuNWzjdP2NF7/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

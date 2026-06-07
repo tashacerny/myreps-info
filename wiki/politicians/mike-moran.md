@@ -7,10 +7,11 @@ state: MA
 level: state
 chamber: House
 office: MA State House, District 18th Suffolk
-district: 18th
+district: 18th Suffolk
 in_office: true
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MJM1.jpg"
+openstates_id: ocd-person/2fd8669d-a5e2-40fd-bb2f-595210f1bf49
 contact:
   website: "https://openstates.org/person/mike-moran-1SHX9syMeOKvWJ6abFH0Uz/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

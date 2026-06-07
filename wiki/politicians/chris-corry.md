@@ -10,7 +10,8 @@ office: WA State House, District 15
 district: 15
 in_office: true
 photo_url: "https://leg.wa.gov/memberphoto/29097.jpg"
+openstates_id: ocd-person/a0a48572-259f-4a6c-b035-a85b80e187d6
 contact:
   website: "https://openstates.org/person/chris-corry-4t7xRQuhXLOfE5dtEMFAPu/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: CT State House, District 12
 district: 12
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Luxenberg/images/Luxenberg_HS.jpg"
+openstates_id: ocd-person/37f6cb6c-888c-44c1-8c21-b273d967a62d
 contact:
   website: "https://openstates.org/person/geoff-luxenberg-1hbMX4eZYPNWOkEMxmc98f/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

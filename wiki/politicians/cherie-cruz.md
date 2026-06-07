@@ -12,5 +12,5 @@ photo_url: "https://www.rilegislature.gov/representatives/Pictures/Cruz%20prefer
 openstates_id: ocd-person/386a8117-95b5-441f-91d0-665effac1af4
 contact:
   website: "https://openstates.org/person/cherie-cruz-1iSF3h8Lvf5tmX4ixqiwlg/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

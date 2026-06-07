@@ -12,5 +12,5 @@ photo_url: "https://www.rilegislature.gov/LegislationPictures/peter_appollonio.j
 openstates_id: ocd-person/66e402e8-4f13-44f3-b029-7d1c3aab99b7
 contact:
   website: "https://openstates.org/person/pete-appollonio-389Pxzu0MSlMKtxE9sMyXv/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

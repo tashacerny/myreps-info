@@ -10,7 +10,8 @@ office: MS State House, District 58
 district: 58
 in_office: true
 photo_url: "https://billstatus.ls.state.ms.us/members/house/mcmillan.jpg"
+openstates_id: ocd-person/392af292-07d5-4bfd-9636-fe4257df61b3
 contact:
   website: "https://openstates.org/person/jonathan-mcmillan-1jsBlHOvsXZVlZukn5YuLT/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

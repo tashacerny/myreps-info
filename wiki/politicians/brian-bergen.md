@@ -10,7 +10,8 @@ office: NJ State House, District 26
 district: 26
 in_office: true
 photo_url: "https://www.njleg.state.nj.us/members/memberphotos/bergen_brian_2020.jpg"
+openstates_id: ocd-person/006c1bd9-54e9-49be-9d02-12dda1119149
 contact:
   website: "https://openstates.org/person/brian-bergen-nPA65aatPkHFD7jjZlPd/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

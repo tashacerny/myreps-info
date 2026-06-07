@@ -10,7 +10,8 @@ office: CT State House, District 92
 district: 92
 in_office: true
 photo_url: "http://www2.housedems.ct.gov/Dillon/images/Dillon_HS.jpg"
+openstates_id: ocd-person/23d08488-597c-4c35-b41a-f8aef1c264c4
 contact:
   website: "https://openstates.org/person/pat-dillon-15a1VPuvFVSZeBleGdQR0u/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

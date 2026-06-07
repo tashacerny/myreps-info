@@ -2,14 +2,15 @@
 name: Mark Johnson
 slug: mark-johnson
 party: Republican
-state: AR
+state: OH
 level: state
-chamber: Senate
-office: AR State Senate, District 17
-district: 17
+chamber: House
+office: OH State House, District 92
+district: 92
 in_office: true
-photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/574_sm.jpg"
+photo_url: "https://www.legislature.ohio.gov/assets/people/mark-johnson/headshots/thumbnails/medium/mark-johnson-january-2021-headshot_medium.jpg"
+openstates_id: ocd-person/4af0e8db-ad18-424f-abfa-ce31e37c0b7d
 contact:
-  website: "https://openstates.org/person/mark-johnson-4SOsLTbjQ3VRJGiqtA0W7g/"
-last_updated: "2026-05-26"
+  website: "https://openstates.org/person/mark-johnson-2HPWkN8oVIqrCRvvTSzSTF/"
+last_updated: "2026-06-07"
 ---

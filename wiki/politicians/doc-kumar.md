@@ -10,7 +10,8 @@ office: TN State House, District 66
 district: 66
 in_office: true
 photo_url: "http://www.capitol.tn.gov/house/members/images/h66.jpg"
+openstates_id: ocd-person/57b51b23-1a38-47dd-bd4f-49954df01971
 contact:
   website: "https://openstates.org/person/doc-kumar-2fV65BUp1GHTU0QkEJFGyn/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

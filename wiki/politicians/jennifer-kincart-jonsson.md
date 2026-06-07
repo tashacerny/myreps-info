@@ -10,7 +10,8 @@ office: FL State House, District 49
 district: 49
 in_office: true
 photo_url: "https://www.theledger.com/gcdn/authoring/authoring-images/2024/04/17/NLED/73359809007-jen.jpg?width=660&height=981&fit=crop&format=pjpg&auto=webp"
+openstates_id: ocd-person/28e33eaa-f6cf-4158-83fe-aff91d0cd8f0
 contact:
   website: "https://openstates.org/person/jennifer-kincart-jonsson-1F9Xk40bY1oAkACeOHa8OG/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

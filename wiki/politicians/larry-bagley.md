@@ -10,7 +10,8 @@ office: LA State House, District 7
 district: 7
 in_office: true
 photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep7.jpg"
+openstates_id: ocd-person/d6e47850-c123-4060-8309-74192011981b
 contact:
   website: "https://openstates.org/person/larry-bagley-6XUlgDs62Zt67IOYAH8ZAJ/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

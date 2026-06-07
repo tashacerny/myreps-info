@@ -9,7 +9,8 @@ office: ND State House, District 45
 district: 45
 in_office: true
 photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/swagner2023.jpg?itok=qmmuUQ1o"
+openstates_id: ocd-person/29d5158e-c93e-4d69-9da5-70972c26c896
 contact:
   website: "https://openstates.org/person/scott-wagner-1Gw42U4L2gXtqshzNDBd2c/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

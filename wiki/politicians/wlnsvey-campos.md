@@ -10,7 +10,8 @@ office: OR State Senate, District 18
 district: 18
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/campos/PublishingImages/member_photo.jpg"
+openstates_id: ocd-person/72027f00-3e3c-47c7-ab62-cc89ebb1ed72
 contact:
   website: "https://openstates.org/person/wlnsvey-campos-3T8GUULL1UhNVQt1rdbqPi/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -9,8 +9,9 @@ chamber: Senate
 office: NY State Senate, District 28
 district: 28
 in_office: true
-photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2803-05-09%29%20Liz%20Krueger8x10HS-002.jpg?itok=Uhcv13n6"
+photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/public/%2805-27-15%29%20650-33-072.jpg"
+openstates_id: ocd-person/638d1d66-ccbe-4107-b7fb-f3d22cb2ec9c
 contact:
   website: "https://openstates.org/person/liz-krueger-31qjGGZJNOPzVX7l0Ao7Tg/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

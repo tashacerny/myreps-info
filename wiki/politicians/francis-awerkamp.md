@@ -9,8 +9,9 @@ chamber: House
 office: KS State House, District 61
 district: 61
 in_office: true
-photo_url: "https://www.kslegislature.org/li/s/images/pics/rep_awerkamp_francis_1.jpg"
+photo_url: "https://www.kslegislature.gov/static/li_pics/rep_awerkamp_francis_1.jpg"
+openstates_id: ocd-person/aa7fa5a0-596b-4f52-9af5-732b76f875e9
 contact:
   website: "https://openstates.org/person/francis-awerkamp-5Bj1svrwYxobIOrEIldDsf/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: MS State House, District 86
 district: 86
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/5472abbae4b0859145039552/1519227639852-W83BICPBB7LGL856WGBQ/Shane.jpg?format=500w"
+openstates_id: ocd-person/9b8df60b-26ba-4cdc-b862-87b15f81fdc1
 contact:
   website: "https://openstates.org/person/shane-barnett-4jWgbAtT781IIdRLeTWFvd/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

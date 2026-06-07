@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MO State Senate, District 10
 district: 10
-in_office: true
+in_office: false
 contact:
   website: "https://openstates.org/person/travis-fitzwater-689AsLou5H2ms61yCTOvQw/"
 last_updated: "2026-05-27"

@@ -2,14 +2,16 @@
 name: John Carson
 slug: john-carson
 party: Republican
-state: CO
+birthdate: "1971-09-21"
+state: GA
 level: state
-chamber: Senate
-office: CO State Senate, District 30
-district: 30
+chamber: House
+office: GA State House, District 46
+district: 46
 in_office: true
-photo_url: "https://i0.wp.com/coloradocommunitymedia.com/wp-content/uploads/2024/06/DCO-0613-Commissioner-D3-race-2.jpg?w=768&ssl=1"
+photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/carson-john-795.jpg"
+openstates_id: ocd-person/713cac52-0a57-4baa-8273-6eeca5b491df
 contact:
-  website: "https://openstates.org/person/john-carson-4L3JGOo6cKudlJWPfEbJeG/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/john-carson-3RfrMK1ocXpXG58IuaufTr/"
+last_updated: "2026-06-07"
 ---

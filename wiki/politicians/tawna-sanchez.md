@@ -9,7 +9,8 @@ office: OR State House, District 43
 district: 43
 in_office: true
 photo_url: "https://www.oregonlegislature.gov/sanchez/PublishingImages/member_photo.jpg"
+openstates_id: ocd-person/c138ec96-0a6f-4dee-be06-be286b68cfbb
 contact:
   website: "https://openstates.org/person/tawna-sanchez-5sbX4rm6Ts032XL55pXeSB/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

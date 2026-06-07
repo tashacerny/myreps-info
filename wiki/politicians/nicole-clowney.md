@@ -10,7 +10,8 @@ office: AR State House, District 21
 district: 21
 in_office: true
 photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/559_sm.jpg"
+openstates_id: ocd-person/c3be3a52-2646-4ea6-9aef-e4ff36a16762
 contact:
   website: "https://openstates.org/person/nicole-clowney-5xMRA7cHgDeVQDTLb1YuQM/"
-last_updated: "2026-05-26"
+last_updated: "2026-06-07"
 ---

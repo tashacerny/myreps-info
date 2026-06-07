@@ -9,7 +9,8 @@ chamber: House
 office: NJ State House, District 2
 district: 2
 in_office: true
+openstates_id: ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32
 contact:
   website: "https://openstates.org/person/don-guardian-6nnSal49h7crdrkAaJgz9m/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

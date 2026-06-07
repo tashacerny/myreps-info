@@ -10,7 +10,8 @@ office: CO State House, District 54
 district: 54
 in_office: true
 photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVdUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--767a7057ff5fd758ce0cbddae6aa4c7b1ef907f2/Soper,%20Matthew.jpg"
+openstates_id: ocd-person/9e529237-916b-407c-a60e-abd8e0708329
 contact:
   website: "https://openstates.org/person/matt-soper-4okWPbPk0L6Xsmi1awmZNh/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

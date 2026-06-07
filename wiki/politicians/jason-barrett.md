@@ -2,15 +2,16 @@
 name: Jason Barrett
 slug: jason-barrett
 party: Republican
-birthdate: "1978-03-19"
-state: MS
+birthdate: "1982-07-16"
+state: WV
 level: state
 chamber: Senate
-office: MS State Senate, District 39
-district: 39
+office: WV State Senate, District 16
+district: 16
 in_office: true
-photo_url: "http://billstatus.ls.state.ms.us/members/senate/barrett.jpg"
+photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/barrett_jason.jpg"
+openstates_id: ocd-person/bcbe03de-3df0-4c07-8973-0304dafa2cb8
 contact:
-  website: "https://openstates.org/person/jason-barrett-62McpmPSccWjRpQtVVeFxR/"
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/jason-barrett-5k9OSvKgv9lF7YKB5angwi/"
+last_updated: "2026-06-07"
 ---

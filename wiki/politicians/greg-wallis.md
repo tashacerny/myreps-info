@@ -10,7 +10,8 @@ office: CA State House, District 47
 district: 47
 in_office: true
 photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_47.jpg"
+openstates_id: ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e
 contact:
   website: "https://openstates.org/person/greg-wallis-2SeCgs1SIceutRcUuHVgDu/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

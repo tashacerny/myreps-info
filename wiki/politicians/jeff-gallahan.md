@@ -10,7 +10,8 @@ office: NY State House, District 131
 district: 131
 in_office: true
 photo_url: "https://assembly.state.ny.us/write/upload/member_files/131/headshot/131.jpg?hst=1660074826"
+openstates_id: ocd-person/4910460d-6cb9-4f35-8459-19e5a4de579e
 contact:
   website: "https://openstates.org/person/jeff-gallahan-2DrsMydMQMrRX7GsTGs6t4/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

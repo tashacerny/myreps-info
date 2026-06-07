@@ -10,7 +10,8 @@ office: MD State House, District 18
 district: 18
 in_office: true
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/kaufman01.jpg"
+openstates_id: ocd-person/5037901c-64bd-472c-a440-a440841cbb13
 contact:
   website: "https://openstates.org/person/aaron-kaufman-2RMmGW3i8H9FeWo0iEXzz1/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

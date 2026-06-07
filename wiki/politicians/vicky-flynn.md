@@ -9,7 +9,8 @@ chamber: House
 office: NJ State House, District 13
 district: 13
 in_office: true
+openstates_id: ocd-person/379945ef-55af-4b76-96ce-fcddbcb0c1c6
 contact:
   website: "https://openstates.org/person/vicky-flynn-1gucgkZdNzJH6vIQIBW5BO/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

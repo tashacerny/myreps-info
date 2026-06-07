@@ -10,7 +10,8 @@ office: IL State Senate, District 50
 district: 50
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{21C0F860-E9DD-4215-A3AA-703E275C8526}.jpg"
+openstates_id: ocd-person/be85f354-7f46-48aa-afc7-850502fda3cb
 contact:
   website: "https://openstates.org/person/jil-tracy-5nVkyWXMNwxZPhAYqLSL8N/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

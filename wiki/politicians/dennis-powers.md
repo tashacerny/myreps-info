@@ -10,7 +10,8 @@ office: TN State House, District 36
 district: 36
 in_office: true
 photo_url: "http://www.capitol.tn.gov/house/members/images/h36.jpg"
+openstates_id: ocd-person/67643e56-9e53-437b-999d-987f8b0692c1
 contact:
   website: "https://openstates.org/person/dennis-powers-3961J4f90VTJAlou0b03UX/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

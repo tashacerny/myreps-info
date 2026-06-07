@@ -10,7 +10,8 @@ office: GA State House, District 100
 district: 100
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/clark-david-867.jpg"
+openstates_id: ocd-person/ad18dba4-9247-4542-95b1-2ccef815dbc7
 contact:
   website: "https://openstates.org/person/david-clark-5Gd21gfkvV8et5ryuuPWbP/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

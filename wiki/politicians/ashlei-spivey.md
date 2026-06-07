@@ -9,7 +9,8 @@ chamber: House
 office: NE State House, District 13
 district: 13
 in_office: true
+openstates_id: ocd-person/03ee8938-314f-4db4-ac76-9507d85fc03c
 contact:
   website: "https://openstates.org/person/ashlei-spivey-7PzGoBnrz0MkrrQYTROsG/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

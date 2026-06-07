@@ -9,7 +9,8 @@ office: NC State House, District 112
 district: 112
 in_office: true
 photo_url: "https://lopez4nc.com/wp-content/uploads/2023/12/FAV1127_LOPEZ_-121.webp"
+openstates_id: ocd-person/196e72cf-7987-4847-8e2f-03b540064e86
 contact:
   website: "https://openstates.org/person/jordan-lopez-lzHYtFaImZF2bb1tyrKcA/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

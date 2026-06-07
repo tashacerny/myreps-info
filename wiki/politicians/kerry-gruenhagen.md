@@ -9,7 +9,8 @@ office: IA State Senate, District 41
 district: 41
 in_office: true
 photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34009"
+openstates_id: ocd-person/2ff1622d-f1f4-4344-8821-57bcf8d99b83
 contact:
   website: "https://openstates.org/person/kerry-gruenhagen-1SSx1GWcP3YLZ338BMQkwF/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

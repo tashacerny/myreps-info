@@ -9,8 +9,9 @@ chamber: Senate
 office: NY State Senate, District 29
 district: 29
 in_office: true
-photo_url: "https://www.nysenate.gov/sites/default/files/styles/160x160/public/%2802-11-13%29%20Serrano-HS-028RET.jpg?itok=U6wrLa0A"
+photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/public/2025/08/27/serrano-photo-1_1.jpg"
+openstates_id: ocd-person/31d058e9-909a-46b5-8e66-21a3e86b5a56
 contact:
   website: "https://openstates.org/person/jose-serrano-1Vzq19nMkacoEMLi73aXfq/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -9,8 +9,9 @@ chamber: Senate
 office: KS State Senate, District 7
 district: 7
 in_office: true
-photo_url: "https://www.kslegislature.gov/li/s/images/pics/sen_corson_ethan_1.jpg"
+photo_url: "https://www.kslegislature.gov/static/li_pics/sen_corson_ethan_1.jpg"
+openstates_id: ocd-person/76d729c5-1b4d-4966-8c99-5ac8b74d8719
 contact:
   website: "https://openstates.org/person/ethan-corson-3cFQJUOQQYkyr4epoKoUh7/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

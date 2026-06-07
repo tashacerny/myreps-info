@@ -8,8 +8,9 @@ chamber: House
 office: FL State House, District 37
 district: 37
 in_office: true
-photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4872.jpg"
+photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4872.jpg"
+openstates_id: ocd-person/a5af681e-9679-4fed-83a3-ed16405055cb
 contact:
   website: "https://openstates.org/person/susan-plasencia-52dtUYcEjhg7rG62XMOjff/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

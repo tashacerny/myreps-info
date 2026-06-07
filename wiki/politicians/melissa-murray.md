@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/murray.jpg"
 openstates_id: ocd-person/e7d41b59-5619-4a67-a1ec-221fdc24e6c3
 contact:
   website: "https://openstates.org/person/melissa-murray-73S9xRuvwe6RuB7U4MMgC3/"
-last_updated: "2026-05-28"
+last_updated: "2026-06-07"
 ---

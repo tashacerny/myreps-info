@@ -2,14 +2,15 @@
 name: Max Burns
 slug: max-burns
 party: Republican
-state: Georgia
-level: federal
+birthdate: "1948-11-08"
+state: GA
+level: state
 chamber: Senate
-office: U.S. Senator
-district: 12
-in_office: false
-photo_url: "https://www.congress.gov/img/member/b001249_200.jpg"
+office: GA State Senate, District 23
+district: 23
+in_office: true
+openstates_id: ocd-person/918888ac-edc7-4178-9133-d058f0f21010
 contact:
-last_updated: "2026-05-27"
+  website: "https://openstates.org/person/max-burns-4QcHa3lPp6ivhkxY80BKs4/"
+last_updated: "2026-06-07"
 ---
-

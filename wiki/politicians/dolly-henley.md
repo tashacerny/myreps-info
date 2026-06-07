@@ -9,7 +9,8 @@ office: AR State House, District 88
 district: 88
 in_office: true
 photo_url: "https://images.squarespace-cdn.com/content/v1/6570ab4ce162d11cdfa700b2/e700f6b2-1aba-4474-a367-e54965e30b67/DSC_9617.jpg"
+openstates_id: ocd-person/50cdb325-0c04-483e-87cb-d6a9037d9bc9
 contact:
   website: "https://openstates.org/person/dolly-henley-2STOFrOBrjE9woOF5o2XP7/"
-last_updated: "2026-05-26"
+last_updated: "2026-06-07"
 ---

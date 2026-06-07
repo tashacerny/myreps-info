@@ -9,7 +9,8 @@ office: MI State House, District 86
 district: 86
 in_office: true
 photo_url: "https://www.house.mi.gov/media/Representatives/De Boer-086.jpg"
+openstates_id: ocd-person/ffae0dee-fb80-4434-bc8c-8e510d3bc495
 contact:
   website: "https://openstates.org/person/nancy-deboer-7mSaMPzgk1hR8JbjqAV36j/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

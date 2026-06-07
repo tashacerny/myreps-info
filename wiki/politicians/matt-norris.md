@@ -10,7 +10,8 @@ office: MN State House, District 32B
 district: 32B
 in_office: true
 photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/32B.gif?v=112221"
+openstates_id: ocd-person/662f07d4-7dd5-4549-bded-c8b5a200e054
 contact:
   website: "https://openstates.org/person/matt-norris-36oi2jxh4lo10UJCQCZSCK/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

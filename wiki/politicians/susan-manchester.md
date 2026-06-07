@@ -10,7 +10,8 @@ office: OH State Senate, District 12
 district: 12
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/susan-manchester/headshots/thumbnails/medium/susan-manchester-january-2023-headshot_medium.jpg"
+openstates_id: ocd-person/0e44b586-f6a4-44ee-b6b7-37fa8dc2e8cd
 contact:
   website: "https://openstates.org/person/susan-manchester-QvI9DMxUYLgPkyAq7LRAj/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

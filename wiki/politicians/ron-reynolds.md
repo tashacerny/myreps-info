@@ -10,7 +10,8 @@ office: TX State House, District 27
 district: 27
 in_office: true
 photo_url: "https://house.texas.gov/images/members/2040.jpg?v=1"
+openstates_id: ocd-person/72bad853-b403-49c2-9a99-32c5fb3222c7
 contact:
   website: "https://openstates.org/person/ron-reynolds-3UUVqdK1RyeuylIhwkavF1/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

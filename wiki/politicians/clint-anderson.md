@@ -10,7 +10,8 @@ office: WI State House, District 45
 district: 45
 in_office: true
 photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2559.jpg"
+openstates_id: ocd-person/d670cb97-7d46-4d57-95ec-1a3654a6fe0c
 contact:
   website: "https://openstates.org/person/clint-anderson-6Wdu8yr1ZCNCrU7Nxitwwm/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

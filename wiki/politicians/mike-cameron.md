@@ -10,7 +10,8 @@ office: GA State House, District 1
 district: 1
 in_office: true
 photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cameron-mike-4986.jpg"
+openstates_id: ocd-person/f4f9be12-5d7c-4fae-8b7b-9e9d19d2282f
 contact:
   website: "https://openstates.org/person/mike-cameron-7SGG91LjlY141r1IVhCefn/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

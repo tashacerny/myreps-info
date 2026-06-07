@@ -9,7 +9,8 @@ office: IL State Senate, District 44
 district: 44
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{C47C199A-2C77-4A73-BAE5-AB139ED85CAC}.jpg"
+openstates_id: ocd-person/cb406eb3-673a-4715-8d87-d5963220ad6b
 contact:
   website: "https://openstates.org/person/sally-turner-6BWt3m2qcn0bwtT1PXQ1tr/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

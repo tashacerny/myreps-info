@@ -10,7 +10,8 @@ office: VA State House, District 4
 district: 4
 in_office: true
 photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0208"
+openstates_id: ocd-person/a0b9b444-ee25-48a1-ab61-cf0be462e89d
 contact:
   website: "https://openstates.org/person/charniele-herring-4tHddiJDStkL7hWHRQzQuD/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

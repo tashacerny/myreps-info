@@ -9,8 +9,9 @@ chamber: House
 office: FL State House, District 110
 district: 110
 in_office: true
-photo_url: "https://myfloridahouse.gov//FileStores/Web/Imaging/Member/4792.jpg"
+photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4792.jpg"
+openstates_id: ocd-person/35f68144-b99b-4f86-b223-726897926bfa
 contact:
   website: "https://openstates.org/person/tom-fabricio-1dpFHCIFbW3zbw5diwZ7da/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

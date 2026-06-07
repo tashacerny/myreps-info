@@ -10,7 +10,8 @@ office: UT State House, District 18
 district: 18
 in_office: true
 photo_url: "https://le.utah.gov/images/legislator/CUTLEP.jpg"
+openstates_id: ocd-person/d8c2c3ff-83a7-45f7-88bb-fb01b8cd624e
 contact:
   website: "https://openstates.org/person/paul-cutler-6b1LkL9QyzzZ9KcpDKuZjy/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

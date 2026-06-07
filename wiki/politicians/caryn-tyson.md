@@ -9,8 +9,9 @@ chamber: Senate
 office: KS State Senate, District 12
 district: 12
 in_office: true
-photo_url: "https://www.kslegislature.org/li/s/images/pics/sen_tyson_caryn_1.jpg"
+photo_url: "https://www.kslegislature.gov/static/li_pics/sen_tyson_caryn_1.jpg"
+openstates_id: ocd-person/cc84252c-b7c6-484d-a036-dd38a90b1b04
 contact:
   website: "https://openstates.org/person/caryn-tyson-6DupAD0SLY0CoEze5305zQ/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

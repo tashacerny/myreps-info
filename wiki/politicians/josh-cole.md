@@ -10,7 +10,8 @@ office: VA State House, District 65
 district: 65
 in_office: true
 photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H0314"
+openstates_id: ocd-person/986f0601-025b-4fa7-acda-b2d3c2280784
 contact:
   website: "https://openstates.org/person/josh-cole-4ddZR5AaBHQXZpv2pl55XA/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

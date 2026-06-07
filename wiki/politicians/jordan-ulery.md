@@ -7,10 +7,11 @@ state: NH
 level: state
 chamber: House
 office: NH State House, District Hillsborough 13
-district: Hillsborough
+district: Hillsborough 13
 in_office: true
 photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/21895.jpg"
+openstates_id: ocd-person/31f696d4-f806-4eb3-a8ce-5b1d2a2eba93
 contact:
   website: "https://openstates.org/person/jordan-ulery-1WHJZ9K9w7QPUo9tC5ho8Z/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

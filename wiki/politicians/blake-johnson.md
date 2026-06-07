@@ -1,16 +1,16 @@
 ---
 name: Blake Johnson
 slug: blake-johnson
-party: Republican
-birthdate: "1971-02-16"
-state: AR
+party: Democratic
+state: IN
 level: state
-chamber: Senate
-office: AR State Senate, District 21
-district: 21
+chamber: House
+office: IN State House, District 100
+district: 100
 in_office: true
-photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/509_sm.jpg"
+photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_assets.indianahousedemocrats.org/members/Headshots/johnson_2020_blake_web_800_999_80.jpg"
+openstates_id: ocd-person/5fd5f8d8-b47c-4b69-ba1a-d89f0fb106a7
 contact:
-  website: "https://openstates.org/person/blake-johnson-3HJ8264taQ7pK8Tb2oLKrX/"
-last_updated: "2026-05-26"
+  website: "https://openstates.org/person/blake-johnson-2uq3VRTy2zWHZACuoL4rG3/"
+last_updated: "2026-06-07"
 ---

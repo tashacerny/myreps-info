@@ -10,7 +10,8 @@ office: MN State Senate, District 52
 district: 52
 in_office: true
 photo_url: "https://www.senate.mn/graphics/51Carlson.jpg"
+openstates_id: ocd-person/ac087885-bab6-4fbf-b88a-daf71262c8b6
 contact:
   website: "https://openstates.org/person/jim-carlson-5EcYBaxvaGjGaI2zCGVL6c/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

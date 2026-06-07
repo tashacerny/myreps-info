@@ -10,7 +10,8 @@ office: MT State House, District 65
 district: 65
 in_office: true
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brian_Close_20240808_100432.jpg"
+openstates_id: ocd-person/733ea07d-29e9-4259-b489-6ae30bc76bce
 contact:
   website: "https://openstates.org/person/brian-close-3VSjlZGK8MUUpejtmk7WYg/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

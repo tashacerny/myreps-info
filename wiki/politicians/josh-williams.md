@@ -9,7 +9,8 @@ office: OH State House, District 44
 district: 44
 in_office: true
 photo_url: "https://www.legislature.ohio.gov/assets/people/josh-williams/headshots/thumbnails/medium/josh-williams-january-2023-headshot_medium.jpg"
+openstates_id: ocd-person/1e52d1da-3e5c-442e-a460-d63b62709edf
 contact:
   website: "https://openstates.org/person/josh-williams-vDcLeBghq36eQZ89so5yJ/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---

@@ -10,7 +10,8 @@ office: IL State Senate, District 22
 district: 22
 in_office: true
 photo_url: "https://cdn.ilga.gov/assets/img/members/{F09EB558-EB8D-48B1-91F0-EF47A07632F5}.jpg"
+openstates_id: ocd-person/f5add4b7-0c7e-4909-8e31-3042698f5b49
 contact:
   website: "https://openstates.org/person/cristina-castro-7TaYmj6QhOHrZwsTv0JZoP/"
-last_updated: "2026-05-27"
+last_updated: "2026-06-07"
 ---
