@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: I000058
 contact:
   website: "https://ivey.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

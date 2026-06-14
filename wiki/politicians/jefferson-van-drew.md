@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: V000133
 contact:
   website: "https://vandrew.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

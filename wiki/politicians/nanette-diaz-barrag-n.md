@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: B001300
 contact:
   website: "https://barragan.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

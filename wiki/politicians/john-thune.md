@@ -12,6 +12,6 @@ term_start: "2005-01-03"
 bioguide_id: T000250
 contact:
   website: "https://www.thune.senate.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

@@ -13,6 +13,6 @@ term_start: "1989-01-03"
 bioguide_id: N000015
 contact:
   website: "https://neal.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

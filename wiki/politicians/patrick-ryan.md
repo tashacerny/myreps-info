@@ -13,6 +13,6 @@ term_start: "2022-01-03"
 bioguide_id: R000579
 contact:
   website: "https://patryan.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

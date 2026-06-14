@@ -13,6 +13,6 @@ term_start: "2009-01-03"
 bioguide_id: C001080
 contact:
   website: "https://chu.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

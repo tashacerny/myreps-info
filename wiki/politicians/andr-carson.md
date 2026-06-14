@@ -13,6 +13,6 @@ term_start: "2008-01-03"
 bioguide_id: C001072
 contact:
   website: "https://carson.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

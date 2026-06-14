@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: J000294
 contact:
   website: "https://jeffries.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

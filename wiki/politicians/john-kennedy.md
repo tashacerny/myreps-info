@@ -12,6 +12,6 @@ term_start: "2017-01-03"
 bioguide_id: K000393
 contact:
   website: "https://www.kennedy.senate.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

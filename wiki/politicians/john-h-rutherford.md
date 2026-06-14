@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: R000609
 contact:
   website: "https://rutherford.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

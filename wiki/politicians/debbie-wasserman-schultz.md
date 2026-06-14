@@ -13,6 +13,6 @@ term_start: "2005-01-03"
 bioguide_id: W000797
 contact:
   website: "https://wassermanschultz.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

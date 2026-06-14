@@ -2,15 +2,17 @@
 name: Mike Johnson
 slug: mike-johnson
 party: Republican
-state: LA
-level: state
+state: Louisiana
+level: federal
 chamber: House
-office: LA State House, District 27
-district: 27
+office: U.S. Representative, Louisiana-4
+district: 4
 in_office: true
-photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep27.jpg"
-openstates_id: ocd-person/0e901294-3718-49df-9922-0ac4503acee2
+photo_url: "https://www.congress.gov/img/member/67ffcb2af22eaf56065817c4_200.jpg"
+term_start: "2017-01-03"
+bioguide_id: J000299
 contact:
-  website: "https://openstates.org/person/mike-johnson-RTjVDdZk7mvMHwn5rh5sY/"
-last_updated: "2026-06-07"
+  website: "https://mikejohnson.house.gov"
+last_updated: "2026-06-14"
 ---
+

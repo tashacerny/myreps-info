@@ -13,6 +13,6 @@ term_start: "1991-01-03"
 bioguide_id: D000216
 contact:
   website: "https://delauro.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: P000605
 contact:
   website: "https://perry.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

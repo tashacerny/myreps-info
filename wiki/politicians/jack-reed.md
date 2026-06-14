@@ -12,6 +12,6 @@ term_start: "1997-01-03"
 bioguide_id: R000122
 contact:
   website: "https://www.reed.senate.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

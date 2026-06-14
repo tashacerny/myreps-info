@@ -2,16 +2,16 @@
 name: Dan Sullivan
 slug: dan-sullivan
 party: Republican
-birthdate: "1950-04-15"
-state: AR
-level: state
+state: Alaska
+level: federal
 chamber: Senate
-office: AR State Senate, District 20
-district: 20
+office: U.S. Senator
 in_office: true
-photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/581_sm.jpg"
-openstates_id: ocd-person/fea1d80a-0cfb-4b26-9123-2a6c2e951d60
+photo_url: "https://www.congress.gov/img/member/s001198_200.jpg"
+term_start: "2015-01-03"
+bioguide_id: S001198
 contact:
-  website: "https://openstates.org/person/dan-sullivan-7kU0rWl1ctjt2JwsfbBFz6/"
-last_updated: "2026-06-07"
+  website: "https://www.sullivan.senate.gov"
+last_updated: "2026-06-14"
 ---
+

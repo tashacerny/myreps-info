@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: T000482
 contact:
   website: "https://trahan.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

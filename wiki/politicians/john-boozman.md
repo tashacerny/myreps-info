@@ -12,6 +12,6 @@ term_start: "2011-01-03"
 bioguide_id: B001236
 contact:
   website: "https://www.boozman.senate.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

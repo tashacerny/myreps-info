@@ -1,17 +1,18 @@
 ---
 name: Mike Thompson
 slug: mike-thompson
-party: Republican
-birthdate: "1976-11-05"
-state: MS
-level: state
-chamber: Senate
-office: MS State Senate, District 48
-district: 48
+party: Democratic
+state: California
+level: federal
+chamber: House
+office: U.S. Representative, California-4
+district: 4
 in_office: true
-photo_url: "http://billstatus.ls.state.ms.us/members/senate/thompson.jpg"
-openstates_id: ocd-person/eaa39996-c8a7-4568-b01e-d7685667227b
+photo_url: "https://www.congress.gov/img/member/116_rp_ca_5_thompson_mike_200.jpg"
+term_start: "1999-01-03"
+bioguide_id: T000460
 contact:
-  website: "https://openstates.org/person/mike-thompson-78ky8JKSUOaETEB8VGLAp1/"
-last_updated: "2026-06-07"
+  website: "https://mikethompson.house.gov/"
+last_updated: "2026-06-14"
 ---
+

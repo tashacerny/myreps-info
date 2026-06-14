@@ -13,6 +13,6 @@ term_start: "2007-01-03"
 bioguide_id: C001066
 contact:
   website: "https://castor.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

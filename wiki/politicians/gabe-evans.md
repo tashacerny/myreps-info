@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: E000300
 contact:
   website: "https://gabeevans.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

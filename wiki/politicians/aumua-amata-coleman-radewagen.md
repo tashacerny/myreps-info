@@ -12,6 +12,6 @@ term_start: "2015-01-03"
 bioguide_id: R000600
 contact:
   website: "https://radewagen.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

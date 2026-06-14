@@ -13,6 +13,6 @@ term_start: "2007-01-03"
 bioguide_id: S001172
 contact:
   website: "https://adriansmith.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: E000246
 contact:
   website: "https://edwards.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

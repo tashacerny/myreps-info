@@ -13,6 +13,6 @@ term_start: "1999-01-03"
 bioguide_id: L000557
 contact:
   website: "https://larson.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

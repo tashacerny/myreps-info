@@ -12,6 +12,6 @@ term_start: "2023-01-03"
 bioguide_id: B001318
 contact:
   website: "https://balint.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

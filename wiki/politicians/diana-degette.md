@@ -13,6 +13,6 @@ term_start: "1997-01-03"
 bioguide_id: D000197
 contact:
   website: "https://degette.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

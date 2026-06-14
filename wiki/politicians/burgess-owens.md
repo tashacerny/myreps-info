@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: O000086
 contact:
   website: "https://owens.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2001-01-03"
 bioguide_id: G000546
 contact:
   website: "https://graves.house.gov/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: P000617
 contact:
   website: "https://pressley.house.gov"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
 
