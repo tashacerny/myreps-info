@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Torre,Dana.jpg
 openstates_id: ocd-person/46a9d6df-bd07-4fa4-b6b9-b91c0fa37f94
 contact:
   website: "https://openstates.org/person/dara-torre-29L4wKGgzteR8ho9QygWdo/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

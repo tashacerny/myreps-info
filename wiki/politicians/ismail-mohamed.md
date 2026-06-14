@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/ismail-mohamed/headsh
 openstates_id: ocd-person/ed31c4e5-e835-4c4c-9352-217f5dcf1037
 contact:
   website: "https://openstates.org/person/ismail-mohamed-7DZvPkPoFLtccvCS6kFCUR/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3
 contact:
   website: "https://openstates.org/person/lisa-calderon-7Drhvjae0S4US5VH5jw2eB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

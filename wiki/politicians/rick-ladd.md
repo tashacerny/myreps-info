@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/1bd6c569-f2dd-4670-bf82-ef3ea4b15960
 contact:
   website: "https://openstates.org/person/rick-ladd-qWwUsePt6psK6Coa0czJ2/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

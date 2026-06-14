@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jo-El
 openstates_id: ocd-person/f66696d0-6a3c-4b91-9f41-ed016e74d4ef
 contact:
   website: "https://openstates.org/person/jo-ella-hoye-7UwzjqC59pi6XoqnS6YP67/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

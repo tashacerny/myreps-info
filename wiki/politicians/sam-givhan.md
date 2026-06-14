@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Givhan_7.png"
 openstates_id: ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4
 contact:
   website: "https://openstates.org/person/sam-givhan-118JVKmtp4jLMvLpVpZ49U/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

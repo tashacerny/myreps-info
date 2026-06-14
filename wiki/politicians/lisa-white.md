@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/white_lisa.j
 openstates_id: ocd-person/7ae7ca12-88dc-4387-a9ee-49295af32fb7
 contact:
   website: "https://openstates.org/person/lisa-white-3juzUw83dqZvrPVCcsOxtP/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

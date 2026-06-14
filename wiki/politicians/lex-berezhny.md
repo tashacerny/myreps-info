@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lex-B
 openstates_id: ocd-person/a70935b5-517e-4b70-accb-26e55c34fb42
 contact:
   website: "https://openstates.org/person/lex-berezhny-55BvVIJUFYn8oYfGaGUilW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

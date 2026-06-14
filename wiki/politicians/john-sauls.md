@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/393/Low"
 openstates_id: ocd-person/bde014bb-27c1-42a3-909f-c5d96cca5c3f
 contact:
   website: "https://openstates.org/person/john-sauls-5mHxDNrFFiGGkCpM24hUPH/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

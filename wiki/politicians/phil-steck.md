@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/110/headshot/
 openstates_id: ocd-person/968287e2-d20f-4e07-9f66-5765ca51b475
 contact:
   website: "https://openstates.org/person/phil-steck-4a0V6tCaPidukVrSjVeUlB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

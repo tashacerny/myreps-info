@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/135/headshot/
 openstates_id: ocd-person/f6394f20-1953-434b-a2bb-2d255d4fafbe
 contact:
   website: "https://openstates.org/person/jen-lunsford-7UcIlovHhl9h6YJw2YevXy/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

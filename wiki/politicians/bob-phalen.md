@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/cf7f704c-87ac-4bcd-821a-9377bbbee43f
 contact:
   website: "https://openstates.org/person/bob-phalen-6JXeNfppxYwygmyrNS6OGF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

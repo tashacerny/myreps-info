@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3735.jpg?v=1"
 openstates_id: ocd-person/7f893a20-0547-4ad9-9a94-1084a9ef6469
 contact:
   website: "https://openstates.org/person/ana-maria-rodriguez-ramos-3sejmes1z3P1VAB8z1d7yD/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

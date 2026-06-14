@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/spiegel01.jpg"
 openstates_id: ocd-person/8d581a25-a2ea-46ee-be26-3c6698559b78
 contact:
   website: "https://openstates.org/person/ryan-spiegel-4IiBDM8wTsyqd9QIcAyaQS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

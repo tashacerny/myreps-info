@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate12
 openstates_id: ocd-person/6aa07729-a16f-4465-a605-7afbbe982882
 contact:
   website: "https://openstates.org/person/gex-williams-3FCWDIiCBgFMq3uu8SfAiw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

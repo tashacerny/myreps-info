@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Gregoire,James
 openstates_id: ocd-person/2219c217-1804-40be-8183-ae139cd93f1c
 contact:
   website: "https://openstates.org/person/james-gregoire-12LVerr2PLmvFAM61BRZxE/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

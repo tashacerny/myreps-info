@@ -13,5 +13,5 @@ photo_url: "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/
 openstates_id: ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63
 contact:
   website: "https://openstates.org/person/dave-wilson-LNEyLRa6KWqXChgVSMnIJ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

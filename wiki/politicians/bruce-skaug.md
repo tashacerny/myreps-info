@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/di
 openstates_id: ocd-person/e8eea4c8-b669-4609-b991-13ef3a6ff10b
 contact:
   website: "https://openstates.org/person/bruce-skaug-75XHNaidRQC3cNZn6AetS7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

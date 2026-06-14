@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/87eb34dc-70d6-4614-a871-568a836ff552
 contact:
   website: "https://openstates.org/person/tim-o-brien-48TS8RNS0AFLdpmCrlObwY/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

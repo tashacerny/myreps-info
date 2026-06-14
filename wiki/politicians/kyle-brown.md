@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/f376a75e-e0b0-4bf7-95b1-0931ade3bdb8
 contact:
   website: "https://openstates.org/person/kyle-brown-7PPMLLVXfsHKER5yXRjAKG/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

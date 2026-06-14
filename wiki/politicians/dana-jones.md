@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/93fbb331-6fe5-427f-802d-09881d4913d3
 contact:
   website: "https://openstates.org/person/dana-jones-4VEtkohtxBgzwSQhfYeE0R/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

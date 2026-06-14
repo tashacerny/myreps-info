@@ -12,5 +12,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/valderrama.jpg"
 openstates_id: ocd-person/dcd83c80-dab5-4c22-be2f-0b4081af2f77
 contact:
   website: "https://openstates.org/person/kris-valderrama-6ij8CG0VRG09OqgApvLJsF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

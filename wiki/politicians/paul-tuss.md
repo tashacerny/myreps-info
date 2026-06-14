@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/4d9cab5d-56c1-4262-9063-052b13b7d0c2
 contact:
   website: "https://openstates.org/person/paul-tuss-2MS0S1ZYyZmr3k9gYvDaok/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

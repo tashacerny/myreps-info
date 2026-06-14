@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Byron
 openstates_id: ocd-person/3240ab03-fbf2-4614-ae92-309f1abf415a
 contact:
   website: "https://openstates.org/person/kwani-o-pharrow-1WpAWPMwl53aGRupk8XBFK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

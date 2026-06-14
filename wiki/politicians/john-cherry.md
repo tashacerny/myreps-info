@@ -12,5 +12,5 @@ photo_url: "https://senatedems.com/cherry/wp-content/uploads/sites/22/2022/12/Po
 openstates_id: ocd-person/de1a4de4-aa34-4487-98f8-27b140fed784
 contact:
   website: "https://openstates.org/person/john-cherry-6l6Jh98R7t2afyaPFu9BmW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

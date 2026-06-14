@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Peter
 openstates_id: ocd-person/af8ff7f6-ee61-492f-87cc-8fc69bee7886
 contact:
   website: "https://openstates.org/person/peter-lovett-5LHRxsifd8RovLSM2wqbqQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H01
 openstates_id: ocd-person/865dace5-518d-4f4f-b393-c197064affe6
 contact:
   website: "https://openstates.org/person/lee-ware-45XmSOprfC2BwdXi2UMnmI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

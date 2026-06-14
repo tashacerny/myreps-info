@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/125/headshot/
 openstates_id: ocd-person/edde17c2-c810-4ec8-97c3-4cc0ea2e32d0
 contact:
   website: "https://openstates.org/person/anna-kelles-7Eqg2zBVtWscexk4WESVHs/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

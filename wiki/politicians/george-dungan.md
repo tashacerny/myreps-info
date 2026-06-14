@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist26/hig
 openstates_id: ocd-person/14507b1b-007f-4f87-adbb-a5e4669efba8
 contact:
   website: "https://openstates.org/person/george-dungan-cKcptrMbuzeTuKH5BjO5g/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

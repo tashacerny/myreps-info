@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{2C57E551-D82A-4C7D-8746-3F8
 openstates_id: ocd-person/997e8947-dadd-4c8d-9538-0b58c077a812
 contact:
   website: "https://openstates.org/person/dave-koehler-4fdeV7gVB8OnUYLWG8AVBy/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/66f8d9_8ae2cf856c374eee86e43d32c9
 openstates_id: ocd-person/c725a955-93ff-415e-91df-a7398f823474
 contact:
   website: "https://openstates.org/person/doyle-boudreaux-63mgQrG8YVIwRBB39trrJU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

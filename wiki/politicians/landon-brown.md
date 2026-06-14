@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownLandon.jpg"
 openstates_id: ocd-person/7052600a-c1b3-484d-80a3-232fc9815d7c
 contact:
   website: "https://openstates.org/person/landon-brown-3Pwmk4AL5r88yPinTDoTLI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

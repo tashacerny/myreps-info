@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Maynard,%20Cody.jpg"
 openstates_id: ocd-person/17d5c3a4-a468-4aca-b58c-314605214857
 contact:
   website: "https://openstates.org/person/cody-maynard-iyVrzrYcEdwUmyP2rgDbj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

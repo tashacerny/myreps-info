@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/f3cd2006-7729-41b0-a009-0c5cf64e95e0
 contact:
   website: "https://openstates.org/person/ty-winter-7Q2sQbjPJeeWmtmZQ0DoGW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

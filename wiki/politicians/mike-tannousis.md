@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/064/headshot/
 openstates_id: ocd-person/46506ffb-27af-4b91-b863-9b0a425195a8
 contact:
   website: "https://openstates.org/person/mike-tannousis-28gDooF9Ig6I1UrQ1xkCca/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a
 contact:
   website: "https://openstates.org/person/matt-martinez-1CQX4NcbCJeUVJqEnuUmle/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

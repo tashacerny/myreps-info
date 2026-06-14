@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/38f25fcb-2f54-411a-84d5-2d1f748d4183
 contact:
   website: "https://openstates.org/person/atoosa-reaser-1jSKo9RKhE5BU4hy5DMWvr/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

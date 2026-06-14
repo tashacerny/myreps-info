@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/c76a67f9-4d87-4a73-8d89-eea7cd8a3a98
 contact:
   website: "https://openstates.org/person/roger-albert-64I6FXEFimFocQKFRtwApM/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

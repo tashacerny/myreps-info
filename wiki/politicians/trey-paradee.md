@@ -13,5 +13,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d
 contact:
   website: "https://openstates.org/person/trey-paradee-4BumZ63CeCuz10wVdTWfNd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

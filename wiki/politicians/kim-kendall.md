@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KimKe
 openstates_id: ocd-person/e809e1f7-641f-47c7-8754-964f1ceae10d
 contact:
   website: "https://openstates.org/person/kim-kendall-73qjeB5ZXqk5kBlmjXqIYv/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

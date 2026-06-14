@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/harbiso
 openstates_id: ocd-person/4cf7c975-678b-4e21-9877-6d22d7b37916
 contact:
   website: "https://openstates.org/person/ed-harbison-2LEeeu7Ijp3zMCoo0HGIBK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

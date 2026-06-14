@@ -12,5 +12,5 @@ photo_url: "https://www.sos.alabama.gov/sites/default/files/inline-images/AllenB
 openstates_id: ocd-person/f8daba65-dcf6-43b4-8c38-8b02b5b59db7
 contact:
   website: "https://openstates.org/person/wes-allen-7Za3TjJTbumNgsNm91VDKp/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

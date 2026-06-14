@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SGADM.jpg"
 openstates_id: ocd-person/9d5296b7-b8b1-40c8-a8ce-246f719b8ff0
 contact:
   website: "https://openstates.org/person/david-gallegos-4mrXNyuDCRGZjYb2hinrU0/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

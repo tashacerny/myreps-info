@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567
 contact:
   website: "https://openstates.org/person/patrick-hatlestad-4NPqHU1sOHdrBftynrfEut/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/1b016eb0-b4c0-4929-b957-ef9de5b46031
 contact:
   website: "https://openstates.org/person/ross-berry-oxRjv4B54m8aKCj1Ynh7R/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

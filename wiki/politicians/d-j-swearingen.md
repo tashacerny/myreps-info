@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/d-j-swearingen/headsh
 openstates_id: ocd-person/cb2ddd04-e5b0-4c96-b217-d02b732eb896
 contact:
   website: "https://openstates.org/person/d-j-swearingen-6BOOvFbWLlOmfKstaxde10/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

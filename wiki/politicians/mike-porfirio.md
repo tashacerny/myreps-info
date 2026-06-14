@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{0824C110-5C93-4CBA-92E2-C33
 openstates_id: ocd-person/4666ba31-e78b-48f5-9d88-f4823527df6b
 contact:
   website: "https://openstates.org/person/mike-porfirio-28qPNlEPEXtlM9RVKotX35/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

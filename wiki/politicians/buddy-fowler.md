@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/e2ce02ec-6a92-435d-8ae2-bead5abe5ace
 contact:
   website: "https://openstates.org/person/buddy-fowler-6tyPd2H0AjamREP5RVmFmY/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

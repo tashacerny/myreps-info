@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/T_V1.jpg"
 openstates_id: ocd-person/7a234dbf-2f9f-466f-8db1-44ac0f3975a8
 contact:
   website: "https://openstates.org/person/tommy-vitolo-3iTCG42lvYOr1iuwhfZlge/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h76.jpg"
 openstates_id: ocd-person/5cec9957-0b24-47d0-94b6-6f41e8f259bc
 contact:
   website: "https://openstates.org/person/tandy-darby-2pLQ2wZ2Ta7qw7W73zEjYC/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

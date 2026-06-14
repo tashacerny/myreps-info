@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Stadthagen_9.p
 openstates_id: ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c
 contact:
   website: "https://openstates.org/person/scott-stadthagen-4dhbwaC3iKAH9H1rzdTP0m/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

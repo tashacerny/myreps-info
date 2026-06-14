@@ -12,5 +12,5 @@ photo_url: "https://house.texas.gov/images/members/4130.jpg?v=1"
 openstates_id: ocd-person/41f4a5e2-a2d5-4e54-aae3-9c99f9ea5eba
 contact:
   website: "https://openstates.org/person/charles-cunningham-20SIx6LL12JKItvhu9vBMo/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

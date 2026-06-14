@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/PJK1.jpg"
 openstates_id: ocd-person/0a288f3d-397f-4e7b-8bfd-b5032ae1421f
 contact:
   website: "https://openstates.org/person/patrick-kearney-JASSUjhazo9ALs5A3d0H9/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

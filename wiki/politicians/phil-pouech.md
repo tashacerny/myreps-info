@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/vtcng.com/content/tncms
 openstates_id: ocd-person/424e2c2d-e874-444f-8a1e-e64e2be1b001
 contact:
   website: "https://openstates.org/person/phil-pouech-217DY66HiR46bG0kj37xLd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

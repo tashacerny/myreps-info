@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/dipalma.jpg"
 openstates_id: ocd-person/71da5365-46a9-4f2c-abc8-308bde2577ec
 contact:
   website: "https://openstates.org/person/lou-dipalma-3SpuIkGRVOKT1fnWytJo9U/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

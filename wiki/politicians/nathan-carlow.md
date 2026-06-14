@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/69e87146-73a0-434e-9cbb-8d7c80e7ce30
 contact:
   website: "https://openstates.org/person/nathan-carlow-3DqQ5j0j3ap6ALXaa87pPE/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

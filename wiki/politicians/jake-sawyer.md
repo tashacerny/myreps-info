@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/d27656_26f8c475869649a59bad8ae179
 openstates_id: ocd-person/dd923550-9fd3-4476-9a43-219a199c8057
 contact:
   website: "https://openstates.org/person/jake-sawyer-6k67XWx5Qt7b9vME7Awjbz/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://senatedemocrats.wa.gov/alvarado/wp-content/uploads/sites/23/
 openstates_id: ocd-person/950b27fd-99cb-43a2-b594-9f721e1b1844
 contact:
   website: "https://openstates.org/person/emily-alvarado-4XExDUyiPgiOSWkPwVJK6e/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate11
 openstates_id: ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05
 contact:
   website: "https://openstates.org/person/cassie-armstrong-4JT6pqG0Pbo9CeKQxQeAQH/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

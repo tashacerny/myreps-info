@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/eee14916-d196-4857-a64a-b6e952db7a53
 contact:
   website: "https://openstates.org/person/john-liu-7Gl827zttkStcqB9Yo6m0Z/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

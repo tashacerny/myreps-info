@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/e00ee209-a6a5-4ca1-8ac6-f403e1cbcca2
 contact:
   website: "https://openstates.org/person/james-sanders-6on58BzNGUwJd2zUKxiQ5q/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

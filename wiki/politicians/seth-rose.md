@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1584090719.jpg"
 openstates_id: ocd-person/6f3e5d6a-0e85-4af0-9711-1eaa7e3da981
 contact:
   website: "https://openstates.org/person/seth-rose-3NueFGs6bDz1kEYZbn6kJl/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

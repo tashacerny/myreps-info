@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/pintormarin_elian
 openstates_id: ocd-person/6056438b-65d3-4db4-b0ad-c367074bd47e
 contact:
   website: "https://openstates.org/person/eliana-pintor-marin-2vmgXHhPsNOJ7dE0KcB8v8/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

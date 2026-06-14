@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/kennedy_color.jpg
 openstates_id: ocd-person/d80f0df2-57cd-436b-a250-7413ec11fe27
 contact:
   website: "https://openstates.org/person/jim-kennedy-6ZhDnSmAqIH9zk6oNpK9v5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

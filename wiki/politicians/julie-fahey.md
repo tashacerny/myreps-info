@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/fahey/PublishingImages/member_phot
 openstates_id: ocd-person/b523dd9a-d913-4a8e-95e2-c546016f2b1a
 contact:
   website: "https://openstates.org/person/julie-fahey-5Vo0724dbcTdrUsVXZweUs/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

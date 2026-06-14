@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/a
 openstates_id: ocd-person/a76028df-5730-47b0-b617-1565621def41
 contact:
   website: "https://openstates.org/person/bob-archuleta-55pf9Egd2B241p5C7tCvmD/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

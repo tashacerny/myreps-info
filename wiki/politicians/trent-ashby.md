@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/2330.jpg?v=1"
 openstates_id: ocd-person/68f05872-16c8-4d3a-ab5f-ea667ca52b27
 contact:
   website: "https://openstates.org/person/trent-ashby-3C12UXTyGDcQY96cHRkQsB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/STAHL_HAMI
 openstates_id: ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39
 contact:
   website: "https://openstates.org/person/stephanie-stahl-hamilton-6nKH0QemnArboNqAbBn0bx/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/2718c918-a38c-49c2-a120-5503164f959f
 contact:
   website: "https://openstates.org/person/janice-marchman-1Bm1ikvh3gzbdVIEsgetdn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

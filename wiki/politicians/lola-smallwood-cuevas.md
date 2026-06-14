@@ -12,5 +12,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b
 contact:
   website: "https://openstates.org/person/lola-smallwood-cuevas-1hZZ6Fq6HMA3yCvTjy5WSx/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

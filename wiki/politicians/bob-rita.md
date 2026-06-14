@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{AC16F1E8-0988-4A08-A2E5-EF4
 openstates_id: ocd-person/3ce631a4-7a4f-4905-a959-574f1f0d3d6d
 contact:
   website: "https://openstates.org/person/bob-rita-1qujmv3DmqMlBt4HCU4sTF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

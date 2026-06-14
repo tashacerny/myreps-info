@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1732.jpg?1703415645
 openstates_id: ocd-person/93435394-e853-45f2-9e88-65399b3f9042
 contact:
   website: "https://openstates.org/person/martina-white-4TsdhXZJGNHSo528iPnaHC/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/1bf3d6c4-3325-4571-b2f7-6a28422dada6
 contact:
   website: "https://openstates.org/person/peter-petrigno-qkE6dAcSDtZedHnla4Vbq/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

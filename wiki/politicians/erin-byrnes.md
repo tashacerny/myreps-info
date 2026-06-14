@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/3d6727ea-1a91-414d-aac4-ba312cbfaabc
 contact:
   website: "https://openstates.org/person/erin-byrnes-1rrfo84wwraWovZ01yQNbQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

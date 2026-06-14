@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house59.
 openstates_id: ocd-person/bf8bfdc3-66f2-417c-8178-9ed16bf8843f
 contact:
   website: "https://openstates.org/person/david-osborne-5pRVettv4cNK1UJOwz0YZj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

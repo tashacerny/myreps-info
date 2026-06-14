@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/6d4386a3-50ff-437f-bf9e-50faea1fd774
 contact:
   website: "https://openstates.org/person/bill-bolton-3KB1Qi2830gqTAcBi5OJ1Q/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

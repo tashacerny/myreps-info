@@ -12,5 +12,5 @@ photo_url: "https://www.oklahoman.com/gcdn/authoring/authoring-images/2024/06/10
 openstates_id: ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1
 contact:
   website: "https://openstates.org/person/jason-blair-56CQ1fj3jUdL2Gpik1jDkX/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

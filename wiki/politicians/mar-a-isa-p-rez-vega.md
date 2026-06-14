@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/65B.gif?v=112221"
 openstates_id: ocd-person/d1c094c0-6184-49e4-a18a-d5b900caca1b
 contact:
   website: "https://openstates.org/person/maria-isa-perez-vega-6NnPBALoxxhmrKJRnNvppj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

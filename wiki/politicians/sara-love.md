@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2024RS/images/love02.jpg"
 openstates_id: ocd-person/b9f21b96-4bb5-43e8-a5d8-19cec0332315
 contact:
   website: "https://openstates.org/person/sara-love-5esDtFA07tzf9MZ0sopsvd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

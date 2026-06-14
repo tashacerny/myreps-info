@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/552_sm.jpg"
 openstates_id: ocd-person/71affd8a-77ef-45b1-96ab-c5724f34dfa5
 contact:
   website: "https://openstates.org/person/jamie-scott-3SWYleccp18KjMz8NJe6rd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

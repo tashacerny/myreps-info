@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg"
 openstates_id: ocd-person/1fec06e0-00df-4d84-8c9a-18e80a6f29e2
 contact:
   website: "https://openstates.org/person/john-mckeon-yEcr4mpFEVPFKGW9T6rty/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

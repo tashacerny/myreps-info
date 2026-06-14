@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/431/Low"
 openstates_id: ocd-person/1c0d5d12-7bc0-4296-a148-423e4faa7dae
 contact:
   website: "https://openstates.org/person/deandrea-salvador-qvtK56drIceArMjxO02YA/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

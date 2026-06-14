@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/ffc100fb-2fbe-47d1-bfde-a2e4b0acae3c
 contact:
   website: "https://openstates.org/person/dale-patten-7mbFH5BQhK6INow8RajyWK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

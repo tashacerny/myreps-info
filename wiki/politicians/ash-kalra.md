@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/820619fd-d053-4915-b099-1d134a880228
 contact:
   website: "https://openstates.org/person/ash-kalra-3xLn2H9yyE25Agsny9tcWu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

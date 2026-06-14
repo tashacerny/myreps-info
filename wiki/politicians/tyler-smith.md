@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/smith-t
 openstates_id: ocd-person/4b162447-89a7-4ffc-acbf-617e1ad87e2a
 contact:
   website: "https://openstates.org/person/tyler-smith-2HgXgVayNefCHky0tJVibi/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

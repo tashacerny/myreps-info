@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/69275b32-0ad6-48a4-9787-bf2869573772
 contact:
   website: "https://openstates.org/person/mark-mackenzie-3CQBAcQT1zuyPQ6l2yFcGo/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

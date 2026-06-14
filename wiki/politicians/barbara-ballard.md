@@ -13,5 +13,5 @@ photo_url: "https://ogden_images.s3.amazonaws.com/www.ljworld.com/images/2016/07
 openstates_id: ocd-person/3bf41768-e1b5-4017-8ab5-8d1fb1d6521c
 contact:
   website: "https://openstates.org/person/barbara-ballard-1p862NhkGVYWhQ1IpjxkWC/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

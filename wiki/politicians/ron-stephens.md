@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/stephen
 openstates_id: ocd-person/aeaeb854-ff9c-47cb-8069-395b60ba05b2
 contact:
   website: "https://openstates.org/person/ron-stephens-5JcVkouRWPBI6pbzUYxyUs/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

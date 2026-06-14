@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mn/graphics/42Westlin.jpg"
 openstates_id: ocd-person/7536b66f-54fe-436e-ba03-83291c3c8d12
 contact:
   website: "https://openstates.org/person/bonnie-westlin-3ZB6ZTGmvbbA8OH3r2NDWM/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

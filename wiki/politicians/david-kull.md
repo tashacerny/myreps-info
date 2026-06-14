@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/David
 openstates_id: ocd-person/4d2f522f-336a-4794-8b89-48d65d250f6e
 contact:
   website: "https://openstates.org/person/david-kull-2Le2ALeS7TZeDm3WJyaviY/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

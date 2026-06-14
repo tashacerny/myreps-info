@@ -12,5 +12,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRizqJ_tS8jAPyZ
 openstates_id: ocd-person/9b0c88d1-3fd7-465a-b24e-3675d18a2dde
 contact:
   website: "https://openstates.org/person/travis-toner-4iZXPgKr5LyhliJDqJ64dS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

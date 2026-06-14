@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/di
 openstates_id: ocd-person/ed9290a6-47b1-4b24-8b61-0c0de9b45c73
 contact:
   website: "https://openstates.org/person/john-vander-woude-7EIA2MVbDLvo8d0NA3tWrb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/824926/824
 openstates_id: ocd-person/b45073a9-ed4d-4d2c-89cd-edf310e7d373
 contact:
   website: "https://openstates.org/person/tonya-rush-5UFNtcjTCK2c1pekc48A6N/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

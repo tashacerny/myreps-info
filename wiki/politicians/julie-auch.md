@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Julie
 openstates_id: ocd-person/8fabf252-4409-4c1f-b754-ab54759ea3ce
 contact:
   website: "https://openstates.org/person/julie-auch-4N6TuxbYaMAVGRm8hYx63K/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/513edd6e-0d85-4ad6-8852-577cd5c0ee02
 contact:
   website: "https://openstates.org/person/abigail-griffin-2TJ6gaQlcNGM72KRqkZeYU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

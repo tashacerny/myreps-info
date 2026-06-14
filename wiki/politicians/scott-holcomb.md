@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/holcomb
 openstates_id: ocd-person/99ef9b20-6b1f-4831-8e58-a523de606cda
 contact:
   website: "https://openstates.org/person/scott-holcomb-4gTKE8xe34jcMms7uh5OTi/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

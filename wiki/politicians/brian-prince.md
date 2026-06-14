@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/prince-
 openstates_id: ocd-person/a53e6bbd-a5b8-436b-94ae-bebf957c5b61
 contact:
   website: "https://openstates.org/person/brian-prince-51oG8qfzpNNIAB1zpoaJJR/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cga.ct.gov/legpics/053.png?ver="
 openstates_id: ocd-person/cbdde335-cd3e-4769-b477-5893c46d96b6
 contact:
   website: "https://openstates.org/person/tammy-nuccio-6CgqPCsOkXv1ZdaQ82ehdu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

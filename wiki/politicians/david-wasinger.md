@@ -12,5 +12,5 @@ photo_url: "https://ltgov.mo.gov/wp-content/uploads/2025/06/cropped-Lt-Gov-photo
 openstates_id: ocd-person/43d8764b-a3b7-432a-8750-ae0e9165ecf9
 contact:
   website: "https://openstates.org/person/david-wasinger-241PNa43e4strDEqf5bNdZ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

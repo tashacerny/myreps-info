@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/8db4d04c-3afe-44c1-940b-7761cd035800
 contact:
   website: "https://openstates.org/person/cherrish-pryor-4JOY6tKidOT5MZr0r3PyiW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

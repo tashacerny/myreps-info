@@ -13,5 +13,5 @@ photo_url: "https://www.villageofhempstead.org/ImageRepository/Document?document
 openstates_id: ocd-person/43ad8195-7ba5-4b53-8365-383a737f0489
 contact:
   website: "https://openstates.org/person/noah-burroughs-23hmGOA7c9b6qJIZFIMWqX/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

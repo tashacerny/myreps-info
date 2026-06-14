@@ -13,5 +13,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/HNN.jpg"
 openstates_id: ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d
 contact:
   website: "https://openstates.org/person/sara-hannan-3JXE6A7CDkRlxb78X8pbhd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

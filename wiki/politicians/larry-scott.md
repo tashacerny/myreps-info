@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HSCOT.jpg"
 openstates_id: ocd-person/febbd8f4-a85e-476c-b96f-52f4f759f8c7
 contact:
   website: "https://openstates.org/person/larry-scott-7kfteLruHaFBqbQTZudsFb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

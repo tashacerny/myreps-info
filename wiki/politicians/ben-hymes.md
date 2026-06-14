@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/f52b3788-349b-4b6c-84a3-72d02a953616
 contact:
   website: "https://openstates.org/person/ben-hymes-7ScrxQw2AwBBawy4pxuWKk/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

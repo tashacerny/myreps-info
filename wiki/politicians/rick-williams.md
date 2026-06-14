@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/william
 openstates_id: ocd-person/c7860bae-9d9c-449c-9903-20230eec50ac
 contact:
   website: "https://openstates.org/person/rick-williams-64UjOAxLK6Ug74tMWms0ce/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

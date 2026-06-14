@@ -12,5 +12,5 @@ photo_url: "https://iangoodnow.com/wp-content/uploads/2024/05/iangoodnowforstate
 openstates_id: ocd-person/658fc95f-5d9f-4b9d-afa6-1f759f531e09
 contact:
   website: "https://openstates.org/person/ian-goodnow-35dw0nIaRv0isUp74dX933/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

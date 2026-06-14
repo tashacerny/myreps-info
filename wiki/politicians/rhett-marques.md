@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Marques_91.png
 openstates_id: ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4
 contact:
   website: "https://openstates.org/person/rhett-marques-6d2y2T2NWugTYXcQSPGySi/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/26Miller.jpg"
 openstates_id: ocd-person/f0824aef-4692-46c8-bafa-f19a01a9d716
 contact:
   website: "https://openstates.org/person/jeremy-miller-7JphY4lCRFAE1qRP8WkwFy/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/STS.jpg"
 openstates_id: ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56
 contact:
   website: "https://openstates.org/person/louise-stutes-1Nm14igyQES3NlR6mZuY9m/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

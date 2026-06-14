@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2019RS/images/lehman01.jpg"
 openstates_id: ocd-person/07185e4b-2314-476e-9c3b-48959096f2a5
 contact:
   website: "https://openstates.org/person/mary-lehman-DO57hUWHZx4vGjPX6rkpx/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

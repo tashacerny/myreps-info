@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ted_E
 openstates_id: ocd-person/132c5970-0ed3-4a8c-baa9-2917196daedb
 contact:
   website: "https://openstates.org/person/ted-eischeid-aB7YhGMIhwSN26dkZSvqF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

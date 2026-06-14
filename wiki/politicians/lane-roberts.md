@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2092"
 openstates_id: ocd-person/56f5920f-46d9-4991-b029-5984b80cd7ff
 contact:
   website: "https://openstates.org/person/lane-roberts-2e5Z6N5BydvNvBGLRqrGHf/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

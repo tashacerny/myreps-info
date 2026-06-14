@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/4e6ad74d-1e72-4d2b-ac0d-557f429b3e9a
 contact:
   website: "https://openstates.org/person/ellie-boldman-2NyE8NsDaf8O0TK9AWJUNe/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

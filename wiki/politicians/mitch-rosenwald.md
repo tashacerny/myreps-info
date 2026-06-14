@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mitch
 openstates_id: ocd-person/04a025da-737a-4580-9c0f-64531e9cbbec
 contact:
   website: "https://openstates.org/person/mitch-rosenwald-8j9jq8OkZKvHmPH0TgjWu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

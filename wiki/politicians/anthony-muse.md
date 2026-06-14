@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/muse.jpg"
 openstates_id: ocd-person/bbf4a659-f7a7-4db7-8cb1-4dc654db53e3
 contact:
   website: "https://openstates.org/person/anthony-muse-5ifMxu0NKeTDRMD9MN4irD/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

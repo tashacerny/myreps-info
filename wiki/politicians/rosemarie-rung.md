@@ -12,5 +12,5 @@ photo_url: "https://www.insidesources.com/wp-content/uploads/2020/06/rung-300x30
 openstates_id: ocd-person/1a5923c6-3e1f-4ebe-8739-17c9e9642403
 contact:
   website: "https://openstates.org/person/rosemarie-rung-niXK49772S4EeyWF91TKF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/22A.gif?v=112221"
 openstates_id: ocd-person/ad3245d1-b310-4d50-8290-e642d078f661
 contact:
   website: "https://openstates.org/person/bjorn-olson-5Goe86nSYHyl1dy0FzVTvd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

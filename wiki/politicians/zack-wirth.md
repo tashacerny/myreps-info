@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/01b5e40e-16c0-48df-8e7b-28877a05fe28
 contact:
   website: "https://openstates.org/person/zack-wirth-3E7EUUBC5DvRktmJ6xNTU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

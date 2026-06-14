@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Cordes.Mari.jp
 openstates_id: ocd-person/1f501dde-37ba-49b3-ac83-0c77102ed8c3
 contact:
   website: "https://openstates.org/person/mari-cordes-x5NHdzgrX0hpmN2q2I22l/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

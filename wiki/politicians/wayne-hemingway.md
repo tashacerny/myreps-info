@@ -12,5 +12,5 @@ photo_url: "http://img1.wsimg.com/isteam/ip/dd261d25-a088-4d57-bcaf-6c1d15a130ab
 openstates_id: ocd-person/891b5235-2e56-4bbf-820a-ca7c928324e1
 contact:
   website: "https://openstates.org/person/wayne-hemingway-4AiQwXwkNIDpdj7wPEXArh/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

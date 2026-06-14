@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/senate/members/images/s3.jpg"
 openstates_id: ocd-person/b8b305e5-ff02-4f8d-8ef1-61a4a7ecf54a
 contact:
   website: "https://openstates.org/person/rusty-crowe-5cWOuzhNDYc5g2PiV9609S/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

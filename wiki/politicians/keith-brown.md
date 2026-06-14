@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/012/headshot/
 openstates_id: ocd-person/c54d76b7-c535-44f9-b534-d20d689f594e
 contact:
   website: "https://openstates.org/person/keith-brown-60It91hdzlPhtHRPbxrJFu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

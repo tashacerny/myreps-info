@@ -13,5 +13,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/cont
 openstates_id: ocd-person/c46f0617-3009-41d2-97e3-a51004d83430
 contact:
   website: "https://openstates.org/person/jim-gruber-5yfEVtUp9SVg6nz6do9VNg/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

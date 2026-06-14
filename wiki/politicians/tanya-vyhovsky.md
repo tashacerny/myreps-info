@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Vyhovsky,Tanya
 openstates_id: ocd-person/3c832fcc-6a3b-415d-9db8-25b87719082c
 contact:
   website: "https://openstates.org/person/tanya-vyhovsky-1qBUVgfuH2YkwcLeBkHknU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

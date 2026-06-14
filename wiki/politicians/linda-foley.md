@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2022RS/images/foley01.jpg"
 openstates_id: ocd-person/9858db06-ec0e-40fe-b000-0630238a6ad1
 contact:
   website: "https://openstates.org/person/linda-foley-4dTRKU4MPwTiqGOqw8S2Ub/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

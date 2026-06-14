@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rui_x
 openstates_id: ocd-person/c4495c7d-3d3a-4651-9c8b-e3c975c0b84c
 contact:
   website: "https://openstates.org/person/rui-xu-5yO1NgWEdmA3d8YHEwPpsK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

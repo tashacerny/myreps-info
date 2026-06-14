@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Miche
 openstates_id: ocd-person/a0c80d02-beb0-42c3-b7ff-31fc0d5351f5
 contact:
   website: "https://openstates.org/person/michelle-badger-4tOC8eW7hehK8ZE81OHAvd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/239f01_44bd85c8941a4875a3e3f89d1c
 openstates_id: ocd-person/09ff6379-dbcc-4aa2-bc70-0b2fa9fd69ec
 contact:
   website: "https://openstates.org/person/judson-sapp-IrduxJguK8caecqyZ3Zz2/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

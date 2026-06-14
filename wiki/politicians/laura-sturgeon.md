@@ -13,5 +13,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03
 contact:
   website: "https://openstates.org/person/laura-sturgeon-6q4vBcdqG9FS1o1Zlt7HPP/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

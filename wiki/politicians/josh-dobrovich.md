@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/071d59_a647ae96ed7b4def9aa010cbb5
 openstates_id: ocd-person/f668b31d-5c47-4d56-a850-1a1d859c8510
 contact:
   website: "https://openstates.org/person/josh-dobrovich-7UxxXTBLnTrU7QE1Xj2AbI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

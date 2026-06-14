@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/392_sm.jpg"
 openstates_id: ocd-person/49608f14-5f53-40fc-b662-0d48a2aa1340
 contact:
   website: "https://openstates.org/person/bruce-cozart-2ESZB8Lgg9TpMvAry2BtSK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/senate/members/images/s30.jpg"
 openstates_id: ocd-person/f1eb839c-83c6-471f-865e-1d87344fb58c
 contact:
   website: "https://openstates.org/person/sara-kyle-7MUmQMRKXkLmCA1bcnrsom/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

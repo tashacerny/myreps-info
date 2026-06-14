@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/meeks-s
 openstates_id: ocd-person/3194a8e0-aaf8-4686-b2c9-a22521f85fff
 contact:
   website: "https://openstates.org/person/steven-meeks-1VYYp7ISoM0U7UtkRyVij1/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

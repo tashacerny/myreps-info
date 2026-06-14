@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/MSD1.jpg"
 openstates_id: ocd-person/2e198563-4aeb-499b-8333-b4a46b605491
 contact:
   website: "https://openstates.org/person/mike-day-1OzJENTa2hta0WCP7uhBab/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

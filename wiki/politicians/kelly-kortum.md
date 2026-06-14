@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/ef4c6827-f405-491c-a349-d1ede87549c1
 contact:
   website: "https://openstates.org/person/kelly-kortum-7HY5DazOSGnPrmyP8juyhN/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

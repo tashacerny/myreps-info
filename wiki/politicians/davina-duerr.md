@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/29877.jpg"
 openstates_id: ocd-person/5fd91c2d-1223-47e4-8133-ef0da7ef1898
 contact:
   website: "https://openstates.org/person/davina-duerr-2urUQ1BFPHmjM3zaLQvNto/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

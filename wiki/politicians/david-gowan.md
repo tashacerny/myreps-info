@@ -12,5 +12,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/GOWAN.jpg
 openstates_id: ocd-person/51520de4-0e87-475b-91d2-99aa18addf72
 contact:
   website: "https://openstates.org/person/david-gowan-2TRsOg8lWimGu9EiS6jPZS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

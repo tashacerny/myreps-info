@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/7d07a14d-a5dc-46a9-8277-85fee42921a1
 contact:
   website: "https://openstates.org/person/john-lowery-3nvWizmoGr2xJYmztcM1hZ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

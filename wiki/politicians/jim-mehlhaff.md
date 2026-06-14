@@ -13,5 +13,5 @@ photo_url: "https://jimmehlhaff.com/wp-content/uploads/2022/03/Jim-High-Res-819x
 openstates_id: ocd-person/c8ca77f5-97e7-4604-aec3-fe4ee5e7dc31
 contact:
   website: "https://openstates.org/person/jim-mehlhaff-66szcAs9LXL8lluaJiXMtl/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/56582153-80dd-4de6-9b79-2427316eeb6c
 contact:
   website: "https://openstates.org/person/derell-wilson-2cvcAqiKErjYF5ECrVtHy8/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

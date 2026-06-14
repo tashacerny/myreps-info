@@ -13,5 +13,5 @@ photo_url: "https://www.cga.ct.gov/legpics/113.png?ver="
 openstates_id: ocd-person/78bb88a9-cde1-4691-aa7a-e423ee16a147
 contact:
   website: "https://openstates.org/person/jason-perillo-3fomVi8kGIZiWDz7jJj53H/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

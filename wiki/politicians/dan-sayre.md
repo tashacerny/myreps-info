@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/f9010476-1b1e-4407-b672-b81cd0ee8ae6
 contact:
   website: "https://openstates.org/person/dan-sayre-7ZrYN3VplCPMIkJswaRhGo/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

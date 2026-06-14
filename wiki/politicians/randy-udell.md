@@ -13,5 +13,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/captimes.com/content/tn
 openstates_id: ocd-person/7743646d-bb5a-4771-9c2b-df3a8271609c
 contact:
   website: "https://openstates.org/person/randy-udell-3d2st0bjEnz9ax4EUu8dSu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

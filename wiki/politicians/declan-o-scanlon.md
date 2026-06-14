@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/oscanlon_color.jp
 openstates_id: ocd-person/ac044b70-7745-435a-9c38-c4af013d0b0e
 contact:
   website: "https://openstates.org/person/declan-o-scanlon-5EadrNOqRoj4QSJ4zq2dI6/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

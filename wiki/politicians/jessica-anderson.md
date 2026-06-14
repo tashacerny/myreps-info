@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jessi
 openstates_id: ocd-person/f2a47eb9-0839-48e8-baf2-c2d638bf380b
 contact:
   website: "https://openstates.org/person/jessica-anderson-7NrJghdn98oNLXvuU2ycA7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

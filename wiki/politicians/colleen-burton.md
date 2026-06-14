@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s12_
 openstates_id: ocd-person/50d5881b-ceac-49a2-98db-87ef6e09438c
 contact:
   website: "https://openstates.org/person/colleen-burton-2SWyAF7QjcZX2bMlwUtqCi/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/638d1d66-ccbe-4107-b7fb-f3d22cb2ec9c
 contact:
   website: "https://openstates.org/person/liz-krueger-31qjGGZJNOPzVX7l0Ao7Tg/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HFERJ.jpg"
 openstates_id: ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff
 contact:
   website: "https://openstates.org/person/joanne-ferrary-9n9rNETsmhL7n5ul1ROeN/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

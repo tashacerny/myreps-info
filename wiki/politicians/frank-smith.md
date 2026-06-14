@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/e9b6d4cf-9585-4cc4-8802-598065431e0e
 contact:
   website: "https://openstates.org/person/frank-smith-770lVk0dsCuGwaoC9FtNlu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

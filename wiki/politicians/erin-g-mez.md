@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/4095.jpg?v=1"
 openstates_id: ocd-person/2cadcb59-210a-4a71-af9f-7dba9ab06112
 contact:
   website: "https://openstates.org/person/erin-gamez-1MJ5MxPKvfd659uh3xFPXO/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

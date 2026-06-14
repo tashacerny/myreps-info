@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/JAG2.jpg"
 openstates_id: ocd-person/6f15f647-07f5-4739-a340-497798a474e7
 contact:
   website: "https://openstates.org/person/judith-garcia-3NcBT0tOUn5NHgYs1MDkv9/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

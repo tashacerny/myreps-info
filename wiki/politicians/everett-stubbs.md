@@ -13,5 +13,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/817690/817
 openstates_id: ocd-person/c699e1e2-e3f4-4b78-8aeb-7bef9374518f
 contact:
   website: "https://openstates.org/person/everett-stubbs-62knv7THFRhlhNiMtUyccZ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

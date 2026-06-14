@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/di
 openstates_id: ocd-person/a0b66388-5039-4a2c-b022-ac2ece0ce865
 contact:
   website: "https://openstates.org/person/jeff-ehlers-4tG7hXvXp3nMEKi3hJWEJ3/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

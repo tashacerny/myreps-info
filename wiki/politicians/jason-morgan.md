@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/9b0967d9-1238-4f90-8e03-233a17fc03e0
 contact:
   website: "https://openstates.org/person/jason-morgan-4iY6lIkpyC5sW92eipbcFU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

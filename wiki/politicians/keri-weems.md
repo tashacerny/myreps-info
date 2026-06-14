@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/6633129388483f6e2a0ea6
 openstates_id: ocd-person/708ee344-687f-499a-9f52-48cb79686167
 contact:
   website: "https://openstates.org/person/keri-weems-3QORJKSujpyKs4uSfwQ36t/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

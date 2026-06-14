@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/newton-
 openstates_id: ocd-person/5e12fb82-1f69-46df-9ac5-a09ce51dd95b
 contact:
   website: "https://openstates.org/person/mark-newton-2rVx8BYzxZaFd6GwN4bmSR/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

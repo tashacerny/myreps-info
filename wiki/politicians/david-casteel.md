@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2383"
 openstates_id: ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3
 contact:
   website: "https://openstates.org/person/david-casteel-3L0gF46XHPVvs2gxD0hbl5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

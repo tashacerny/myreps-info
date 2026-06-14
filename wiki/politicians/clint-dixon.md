@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/dixon-c
 openstates_id: ocd-person/17a7e011-73f2-4ac5-8470-3436b47a6744
 contact:
   website: "https://openstates.org/person/clint-dixon-idXeGBlxVqK8ju4EgdyFA/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

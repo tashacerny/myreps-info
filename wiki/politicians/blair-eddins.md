@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/b558be80-96b1-4df6-8714-fcba387f8abc
 contact:
   website: "https://openstates.org/person/blair-eddins-5WCANNz2VcAbCIocO0Edno/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

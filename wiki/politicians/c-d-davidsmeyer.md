@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{E54250D5-EB1C-4CB6-9CF9-CA9
 openstates_id: ocd-person/384c08f3-49fd-45a7-bb7b-5689bdeae7a7
 contact:
   website: "https://openstates.org/person/c-d-davidsmeyer-1iEJjsKbXYDLERjsCdArDD/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

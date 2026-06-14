@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/seymour.jpg"
 openstates_id: ocd-person/70b45762-64ee-4a16-b15a-194e4e3c9bf6
 contact:
   website: "https://openstates.org/person/mike-seymour-3QfYWWMvIaEnhF06LhFunW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

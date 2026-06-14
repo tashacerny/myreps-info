@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/c66bcc9b-d5e6-478b-b11e-25be7f4e0aaa
 contact:
   website: "https://openstates.org/person/matt-pierce-62PkCJdEmeciOIYbMGMpje/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

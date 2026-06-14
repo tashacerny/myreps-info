@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/smith_doug.jp
 openstates_id: ocd-person/70ac0a53-79d8-426b-950b-83e9be022bf3
 contact:
   website: "https://openstates.org/person/doug-smith-3QblK21NvzLh6klwiqtJ2Z/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

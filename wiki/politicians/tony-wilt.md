@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/94fa59c7-00b0-4e15-9887-8af534217476
 contact:
   website: "https://openstates.org/person/tony-wilt-4X7H31WpSMAJlRg2Swl2Pu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/skara
 openstates_id: ocd-person/c2f2054b-2949-44ea-b784-ffe4820eed77
 contact:
   website: "https://openstates.org/person/sly-karasinski-5vr78o3pwORI89hmjpXm6x/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

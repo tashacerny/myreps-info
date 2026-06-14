@@ -12,5 +12,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/28A.gif?v=112221"
 openstates_id: ocd-person/a2fed609-2172-4740-b9f3-f00a6da4716d
 contact:
   website: "https://openstates.org/person/jimmy-gordon-4xZDTcneTb0DYQfkHBZSdJ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

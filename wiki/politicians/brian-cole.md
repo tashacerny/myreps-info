@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/e0dbb769-2677-4939-adc5-e1d2b253150f
 contact:
   website: "https://openstates.org/person/brian-cole-6qIgtpGjYNaPVYSRu8Ar5L/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

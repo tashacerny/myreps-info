@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2516.jpg"
 openstates_id: ocd-person/82745ad9-d4b8-48e7-bbb9-3c5d73535c30
 contact:
   website: "https://openstates.org/person/shae-sortwell-3yAAxluOqACF1ZWhPPDaSG/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

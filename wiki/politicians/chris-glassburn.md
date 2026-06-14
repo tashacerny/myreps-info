@@ -12,5 +12,5 @@ photo_url: "https://img1.wsimg.com/isteam/ip/fdba7286-8a27-4b98-a8ec-557eff11bd3
 openstates_id: ocd-person/80daf159-0742-4a3f-9575-e6492155c911
 contact:
   website: "https://openstates.org/person/chris-glassburn-3v94eDDaCh9CjOfuvkmc2z/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2019/01/Runestad-580x
 openstates_id: ocd-person/e0a8928d-8ccc-4e1e-9ca5-d7f50642ff91
 contact:
   website: "https://openstates.org/person/jim-runestad-6pvJmXkNE6AixaUt7anNhp/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

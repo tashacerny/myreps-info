@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27002"
 openstates_id: ocd-person/ab4528a8-eeca-4562-8475-967ce868eb68
 contact:
   website: "https://openstates.org/person/zach-wahls-5DBICY4snuia4QbGwlV6PA/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

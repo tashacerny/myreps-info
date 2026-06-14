@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Fidler_94.png"
 openstates_id: ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9
 contact:
   website: "https://openstates.org/person/jennifer-fidler-2DT3LTkYImFGWQdd15dwhV/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

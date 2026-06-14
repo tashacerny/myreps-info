@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/114/headshot/
 openstates_id: ocd-person/22ef60e3-2d31-41a1-b063-03f307e6414e
 contact:
   website: "https://openstates.org/person/matt-simpson-13v8OPQnT5Abr2iGkIa1fS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

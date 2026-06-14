@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_sanders_clarke_1.jp
 openstates_id: ocd-person/3df522a5-5542-4ad4-b1bf-54736e60c601
 contact:
   website: "https://openstates.org/person/clarke-sanders-1suYfCyZmJTxuEwir2Om25/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

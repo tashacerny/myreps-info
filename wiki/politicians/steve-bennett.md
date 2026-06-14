@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72
 contact:
   website: "https://openstates.org/person/steve-bennett-uhcjJviyv1mz9zIMu0Ox8/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

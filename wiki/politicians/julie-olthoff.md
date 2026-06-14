@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/df8a1659-63b2-4e11-8dce-17bce11f8162
 contact:
   website: "https://openstates.org/person/julie-olthoff-6noOULSNY4gsphaouzmmO2/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/84b5ed8b-c048-4d62-ab8f-17d217605301
 contact:
   website: "https://openstates.org/person/jessica-scarcella-spanton-42Q7xlVciOBoPw43dir0Kn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

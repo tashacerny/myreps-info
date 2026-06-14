@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2023/senate/queen_ben.j
 openstates_id: ocd-person/de50d28d-6a58-4244-8c74-36ca3f41767a
 contact:
   website: "https://openstates.org/person/ben-queen-6lVEPyKCL3faXaMdDlTjRK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

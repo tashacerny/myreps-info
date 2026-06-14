@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/7bb8c8bc-0238-4fd2-8dff-e5f2b2aaa92a
 contact:
   website: "https://openstates.org/person/dan-stec-3lSVAklHjw6m2cWLTClWJe/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

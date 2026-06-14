@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/d54c2ad2-bd9d-499f-9046-b6d1eaebbef1
 contact:
   website: "https://openstates.org/person/faye-thompson-6UUAnaj33Wh8uQ1ySB9225/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

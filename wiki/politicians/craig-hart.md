@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/hart_craig.
 openstates_id: ocd-person/e304d393-2b0a-45c3-9f59-98455e0d73a0
 contact:
   website: "https://openstates.org/person/craig-hart-6uNSlKdd7eMHzfyLV9V8Ii/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

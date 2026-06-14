@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Jordan
 openstates_id: ocd-person/f1a906cd-6602-492c-88dc-61887401c346
 contact:
   website: "https://openstates.org/person/emily-jordan-7M0OYqiPRnubMEyjeJXEVa/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

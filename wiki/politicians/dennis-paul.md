@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3090.jpg?v=1"
 openstates_id: ocd-person/e05f502a-0d27-4c51-8cad-d3b5eca585b1
 contact:
   website: "https://openstates.org/person/dennis-paul-6pNq2vnbltNm2yeCBtvuy1/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

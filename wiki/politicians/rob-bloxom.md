@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/10868c64-b4b8-41ca-90ac-a981f9fa47ff
 contact:
   website: "https://openstates.org/person/rob-bloxom-VBMh0fIGlmCSNzS3cpnkl/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

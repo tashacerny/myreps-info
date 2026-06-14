@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jim_P
 openstates_id: ocd-person/61dfe0c1-631f-401a-a4db-6641547db7ef
 contact:
   website: "https://openstates.org/person/jim-piwowarczyk-2ygZEGS6TUmwqdta4LTGHf/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

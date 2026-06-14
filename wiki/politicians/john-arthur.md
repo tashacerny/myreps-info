@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/b5f1d356-e619-413b-8b9a-fec2d3d48362
 contact:
   website: "https://openstates.org/person/john-arthur-5XK7nRtSHHDeL69dUEpkiw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

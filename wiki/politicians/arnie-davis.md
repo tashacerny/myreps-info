@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4f07f5aa-c410-481b-b570-36ae37d64e24
 contact:
   website: "https://openstates.org/person/arnie-davis-2P81wgafJylMiPJNf8fHZE/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

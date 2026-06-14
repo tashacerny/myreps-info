@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house61.
 openstates_id: ocd-person/a8988de2-d65f-461c-96d1-4f1cddc6a969
 contact:
   website: "https://openstates.org/person/savannah-maddox-588QYps7pc7FsiD0Wo9MVt/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

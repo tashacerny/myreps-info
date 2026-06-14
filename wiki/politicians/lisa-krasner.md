@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/
 openstates_id: ocd-person/b82b9b71-1d83-4f91-9a7f-8adec73b023f
 contact:
   website: "https://openstates.org/person/lisa-krasner-5bWW2EHStmjbKP2ikMtk6h/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

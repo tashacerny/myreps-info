@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/611_sm.jpg"
 openstates_id: ocd-person/46a1908a-c372-4f84-8ee2-361d767b982a
 contact:
   website: "https://openstates.org/person/kendra-moore-29HITzfXhFQTeQrNRzOqQU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

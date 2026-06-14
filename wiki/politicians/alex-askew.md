@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/3a48fc34-a650-4fd5-acea-e703e2b8de90
 contact:
   website: "https://openstates.org/person/alex-askew-1lyuNI4AQEiAMdxjhjuqcS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

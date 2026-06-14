@@ -13,5 +13,5 @@ photo_url: "https://sdlegislature.gov/inc/img/Legislators/Goodwin_2017.jpg"
 openstates_id: ocd-person/e12868fa-61b7-4ad5-9f68-bcfca817057d
 contact:
   website: "https://openstates.org/person/tim-goodwin-6qrjwVCrcl91cDzVMBuM2v/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/wthom
 openstates_id: ocd-person/39bcc093-37e9-469a-866d-5b6f10c52381
 contact:
   website: "https://openstates.org/person/wick-thomas-1kwp0HwMNgxMpzKP0RFyL3/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

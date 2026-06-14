@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/byrd-ch
 openstates_id: ocd-person/0d75f0d9-0242-4f72-b4f3-1cd085eb26b6
 contact:
   website: "https://openstates.org/person/charlice-byrd-POnYi19zWBxBFNB4Zu6Yo/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

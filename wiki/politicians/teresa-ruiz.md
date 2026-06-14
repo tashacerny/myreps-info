@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/ruiz_teresa_2021.
 openstates_id: ocd-person/907aae0b-1026-405a-9429-cadd01efd79d
 contact:
   website: "https://openstates.org/person/teresa-ruiz-4OcxVztImnjRBZoOzC4CpJ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

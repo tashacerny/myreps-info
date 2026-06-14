@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{A81D0C01-0A50-446D-B796-3A5
 openstates_id: ocd-person/968d7e1e-e0e8-47f0-a258-586eb6cfbac9
 contact:
   website: "https://openstates.org/person/jehan-gordon-booth-4a5VhigCPsIuOhFpwM0v29/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

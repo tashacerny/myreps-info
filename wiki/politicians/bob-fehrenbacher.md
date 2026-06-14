@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/fehrenbacher_
 openstates_id: ocd-person/a70a295b-82a5-44a0-ba22-a462823f7abb
 contact:
   website: "https://openstates.org/person/bob-fehrenbacher-55CMTFoQIfNR5MwVp2ZYFf/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

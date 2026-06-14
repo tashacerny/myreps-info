@@ -12,5 +12,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/NGUYEN.jpg
 openstates_id: ocd-person/a4f969ab-e79a-4364-9a93-ad8c75ccf668
 contact:
   website: "https://openstates.org/person/quang-nguyen-51IirSS8xm5gizZbdcNr0C/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/13209.jpg"
 openstates_id: ocd-person/eedeb2a4-a7f1-414c-b9d0-504c4450f3f6
 contact:
   website: "https://openstates.org/person/joe-schmick-7GjwiJmQZiWbYw3ajsxqJa/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

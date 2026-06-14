@@ -13,5 +13,5 @@ photo_url: "http://www.senatedems.ct.gov/templates/anwar/images/anwar-hi.jpg"
 openstates_id: ocd-person/686df3d6-3199-4d48-a27e-7b3e7c65de66
 contact:
   website: "https://openstates.org/person/saud-anwar-3B3RvSx11DoGsFbKFRagEg/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

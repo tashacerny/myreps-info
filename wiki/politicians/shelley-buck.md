@@ -12,5 +12,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/47A.gif?v=012126"
 openstates_id: ocd-person/0b860ed2-515a-4212-81ab-cc27b5e16223
 contact:
   website: "https://openstates.org/person/shelley-buck-LkBAn6qNDCV3ttFdMeOLj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

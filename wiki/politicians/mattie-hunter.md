@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{F4630DDB-11F0-417E-8C0A-B4E
 openstates_id: ocd-person/879afbe3-9394-4a84-b57f-af36ca92cb14
 contact:
   website: "https://openstates.org/person/mattie-hunter-47sn6SKXuf4vrWsvlDiiVI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

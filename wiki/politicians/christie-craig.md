@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Craig1
 openstates_id: ocd-person/f17d0fd9-266c-4192-af9b-2cf9a621867a
 contact:
   website: "https://openstates.org/person/christie-craig-7LgIrYVqFc8YAyg1i8z8CQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

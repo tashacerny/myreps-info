@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/anderso
 openstates_id: ocd-person/e11cecf4-f2e5-49d9-ba9e-47681f779438
 contact:
   website: "https://openstates.org/person/lee-anderson-6qmUXbgjbKbdvREWhabOTQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

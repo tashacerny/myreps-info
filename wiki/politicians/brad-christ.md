@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2374"
 openstates_id: ocd-person/8f5928b4-5528-4506-8075-4e69c5864b42
 contact:
   website: "https://openstates.org/person/brad-christ-4MUeCySgKfzV9xX7BSIKzS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

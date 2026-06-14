@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist38/hig
 openstates_id: ocd-person/25c29fce-5de4-46cd-97f0-887033d446ce
 contact:
   website: "https://openstates.org/person/dave-murman-19FetbLIyUYQcR9kU6gYb0/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

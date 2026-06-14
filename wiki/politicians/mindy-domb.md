@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/M_D2.jpg"
 openstates_id: ocd-person/65617e1a-1834-4ec8-9f19-4ac801ce9764
 contact:
   website: "https://openstates.org/person/mindy-domb-35ImJTuew1ylVMK88Yffam/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/27290.jpg"
 openstates_id: ocd-person/1d4a95b2-4a4f-4acb-b5c6-64850b8e34b9
 contact:
   website: "https://openstates.org/person/rebecca-saldana-tGrUddzcoHtVVMa9K7CJ7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

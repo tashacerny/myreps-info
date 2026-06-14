@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/74d3b542-b2d0-426f-9835-0de12d5e4895
 contact:
   website: "https://openstates.org/person/carry-spier-3YRrMpnTxMGupdLMpHWuOr/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

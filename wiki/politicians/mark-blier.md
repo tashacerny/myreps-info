@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/134a1697-216a-4761-827f-840f72c640a0
 contact:
   website: "https://openstates.org/person/mark-blier-aOiBMncj4mVK1Xb8G8Ir2/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

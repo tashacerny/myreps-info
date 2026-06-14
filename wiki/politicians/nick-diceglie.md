@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s18_
 openstates_id: ocd-person/618247ea-caa1-462c-a29a-636c1720fd14
 contact:
   website: "https://openstates.org/person/nick-diceglie-2xznFAB1wBjg5EPkg4T6SS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

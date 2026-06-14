@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/1024a2b6-d36f-4c1f-86a0-826ec9120fe0
 contact:
   website: "https://openstates.org/person/ron-taylor-UScQJUJlEZBcVI8qJFZCq/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{457B8F0B-1DF6-4107-A5FC-9B2
 openstates_id: ocd-person/14b940c9-8843-4709-97a9-9faee25bb201
 contact:
   website: "https://openstates.org/person/matt-hanson-d6VSZBCmvBEyfRYZbQpbV/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

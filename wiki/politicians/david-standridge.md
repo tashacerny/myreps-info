@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Standridge_34.
 openstates_id: ocd-person/0efb60b3-60e6-4248-a264-41a2a1d35036
 contact:
   website: "https://openstates.org/person/david-standridge-SGltaHHFzvYgPTvEXDD5a/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

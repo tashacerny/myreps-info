@@ -12,5 +12,5 @@ photo_url: "https://billstatus.ls.state.ms.us/members/senate/blackmon.jpg"
 openstates_id: ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631
 contact:
   website: "https://openstates.org/person/bradford-blackmon-1neJ0x8sMUkudyWysYfTZh/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

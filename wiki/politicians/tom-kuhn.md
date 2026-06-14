@@ -12,5 +12,5 @@ photo_url: "https://www.house.mi.gov/media/Representatives/Kuhn-057.jpg"
 openstates_id: ocd-person/58e6e432-e6a2-44f4-8dda-cc3d8e01ca7e
 contact:
   website: "https://openstates.org/person/tom-kuhn-2hkqEL780RrkCGPxLVA2c2/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

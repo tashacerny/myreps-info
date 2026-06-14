@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_moser_lisa_1.jpg"
 openstates_id: ocd-person/019607dd-e8e2-4c2e-b4cc-e95ccddb54a2
 contact:
   website: "https://openstates.org/person/lisa-moser-2zYVQLJh9pg23gxsrxwcE/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

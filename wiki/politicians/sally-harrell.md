@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/harrell
 openstates_id: ocd-person/218a4fc4-a568-4b78-b350-0d60c6b12d4c
 contact:
   website: "https://openstates.org/person/sally-harrell-11HxEQQZ3hfi1NJgGTJY2G/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

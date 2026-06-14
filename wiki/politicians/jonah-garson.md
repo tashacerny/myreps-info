@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/5ce70c5718422900012064
 openstates_id: ocd-person/3622ded7-77d3-46f8-a62b-dad1c8f3e589
 contact:
   website: "https://openstates.org/person/jonah-garson-1e9WKgCYpm4tperADDPu5B/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

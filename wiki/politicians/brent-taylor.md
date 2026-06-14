@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brent
 openstates_id: ocd-person/d3f48e28-4ee5-4027-9670-0d617ca6048e
 contact:
   website: "https://openstates.org/person/brent-taylor-6Rx8rzvXXrYxW8DYgKKkpS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

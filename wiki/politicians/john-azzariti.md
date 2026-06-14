@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/86641d6d-4538-453d-974f-aec40c42a33d
 contact:
   website: "https://openstates.org/person/john-azzariti-45aiusomNeDnXEGBncSL7N/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

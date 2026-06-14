@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a8e2dc1d-b828-475a-92d4-373129360dcb
 contact:
   website: "https://openstates.org/person/eric-gallager-58gNwPxtvCtPTdB4H4TAj5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

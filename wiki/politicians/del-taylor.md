@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2400"
 openstates_id: ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108
 contact:
   website: "https://openstates.org/person/del-taylor-2GRq8awjkUtXuqF1KTLApU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

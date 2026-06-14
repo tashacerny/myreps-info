@@ -12,5 +12,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/vance_adam.jp
 openstates_id: ocd-person/c15b4eb1-1dc4-498f-9929-43ff34445317
 contact:
   website: "https://openstates.org/person/adam-vance-5srFIK4N7vuCuZRhmffGHn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

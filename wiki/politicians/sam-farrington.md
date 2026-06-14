@@ -12,5 +12,5 @@ photo_url: "https://www.fosters.com/gcdn/authoring/authoring-images/2024/10/11/N
 openstates_id: ocd-person/b0df7728-b702-4448-b36e-e09cdacbd16d
 contact:
   website: "https://openstates.org/person/sam-farrington-5NklxXF2dsRu5oX9ghYJ01/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

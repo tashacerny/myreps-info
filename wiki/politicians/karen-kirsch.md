@@ -13,5 +13,5 @@ photo_url: "https://shepherdexpress.com/downloads/66652/download/Karen-Kirsch.jp
 openstates_id: ocd-person/032a80c3-81a6-42a3-9fa7-f210f2407aa0
 contact:
   website: "https://openstates.org/person/karen-kirsch-5yOr3Lvm7zLdBG94n8k9g/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

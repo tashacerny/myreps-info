@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/benson.jpg"
 openstates_id: ocd-person/a5a952f8-f001-4619-9056-103a1f4e4d8e
 contact:
   website: "https://openstates.org/person/joanne-benson-52b79AJE1IJnKwKmjWgZCA/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{F8A21A81-5453-4E94-AC51-E64
 openstates_id: ocd-person/013d012f-a50e-43c8-af40-f12aa852a0da
 contact:
   website: "https://openstates.org/person/celina-villanueva-2Ks28ANkbWhV28xBB5wrq/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

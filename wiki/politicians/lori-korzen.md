@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/2022-07/lori-korze
 openstates_id: ocd-person/1becd24c-cc2c-46fd-9859-a06c46340b93
 contact:
   website: "https://openstates.org/person/lori-korzen-qh1GzVuRN5mOOwotH0Di7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

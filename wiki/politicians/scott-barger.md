@@ -12,5 +12,5 @@ photo_url: "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2
 openstates_id: ocd-person/983dc33a-559e-4f01-9c60-08fed48a1415
 contact:
   website: "https://openstates.org/person/scott-barger-4dH3fvCxfQQkbJnvxioaKT/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

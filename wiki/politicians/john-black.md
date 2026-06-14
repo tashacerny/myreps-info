@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2114"
 openstates_id: ocd-person/1250ea3d-fe5c-46ea-bead-f7249d234e68
 contact:
   website: "https://openstates.org/person/john-black-YYq5WmjLVWRHTOBJhuetc/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

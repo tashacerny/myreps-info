@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5
 contact:
   website: "https://openstates.org/person/glenn-bosch-2D18pkZQ77VxsAUGenDzoz/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

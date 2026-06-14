@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076
 contact:
   website: "https://openstates.org/person/maria-elena-durazo-5TZk24AveCVVjb7oFHaFbq/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

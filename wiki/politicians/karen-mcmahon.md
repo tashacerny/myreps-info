@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/146/headshot/
 openstates_id: ocd-person/e37b1683-f103-4c4d-80bd-1b255cc1ce08
 contact:
   website: "https://openstates.org/person/karen-mcmahon-6vFVaoORdGQJjpTUsTfwHw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.tennessean.com/gcdn/-mm-/6f03ca527b37558797b9ff3612df6f1
 openstates_id: ocd-person/7a2b1f85-6a85-41af-8b81-44d585e0041a
 contact:
   website: "https://openstates.org/person/jason-powell-3iWloYl2bJiNhH1pPQ8mOA/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

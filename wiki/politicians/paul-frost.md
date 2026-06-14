@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Paul-
 openstates_id: ocd-person/fdc5586f-0db3-4614-af1f-72a42cf5e6f0
 contact:
   website: "https://openstates.org/person/paul-frost-7irFF2QS1p0MSqyYYgJd0C/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

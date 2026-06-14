@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/2024-09/tim-hartne
 openstates_id: ocd-person/5b26425f-330d-458b-b8f6-b6a2b1997b41
 contact:
   website: "https://openstates.org/person/tim-hartnett-2lzmkUdmECArh0AknOYhqj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

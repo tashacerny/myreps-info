@@ -13,5 +13,5 @@ photo_url: "https://sdlegislature.gov/inc/img/Legislators/Karr_2017.jpg"
 openstates_id: ocd-person/85616a5d-63b7-4794-8eb0-63ab7b121761
 contact:
   website: "https://openstates.org/person/chris-karr-43gUuCT7dtskG7714SuvoX/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

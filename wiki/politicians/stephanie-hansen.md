@@ -13,5 +13,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/24e001be-be7a-4110-8488-2e385315ff5b
 contact:
   website: "https://openstates.org/person/stephanie-hansen-17a5tqMrKUVUpJ5CwvNAjr/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

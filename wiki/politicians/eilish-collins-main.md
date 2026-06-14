@@ -12,5 +12,5 @@ photo_url: "https://res.cloudinary.com/hn09nqgcy/image/upload/v1726316951/hnprgb
 openstates_id: ocd-person/46ffabcf-724a-453e-89c4-797662a75e40
 contact:
   website: "https://openstates.org/person/eilish-collins-main-29yIu7uT3BPU95ee3xw2FM/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/SGX1.jpg"
 openstates_id: ocd-person/485e001e-95e9-4b79-9226-cf028a307138
 contact:
   website: "https://openstates.org/person/steve-xiarhos-2CYPABhsYTtKsoq5O5skEy/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

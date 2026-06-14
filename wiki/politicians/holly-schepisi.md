@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/schepisi_holly_20
 openstates_id: ocd-person/57fe7d05-af12-4f44-b143-e19814f2cfa2
 contact:
   website: "https://openstates.org/person/holly-schepisi-2g2dIviZ7z3xjDPz5q6tEo/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

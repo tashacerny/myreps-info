@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/AHP1.jpg"
 openstates_id: ocd-person/2a9569a0-feaf-431d-8a8d-012d8ebccbf8
 contact:
   website: "https://openstates.org/person/alice-peisch-1ILxUGwFL5Y6CeBux2agLQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

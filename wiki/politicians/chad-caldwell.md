@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Caldwell,%20Chad.jpg"
 openstates_id: ocd-person/c5909558-d02d-438e-9c0c-50eb8c88f862
 contact:
   website: "https://openstates.org/person/chad-caldwell-60nYuyOEAHNmRCVBc4Ml2Q/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

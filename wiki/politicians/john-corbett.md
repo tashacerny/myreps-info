@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/corbett
 openstates_id: ocd-person/a34c9a5a-f307-4c07-b766-3b3b1148d7b1
 contact:
   website: "https://openstates.org/person/john-corbett-4y8kvhAssAGkfIjeboRRGz/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

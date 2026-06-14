@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/024/headshot/
 openstates_id: ocd-person/df0c2fdc-3cf4-4c89-849a-b62ac2d7d2d4
 contact:
   website: "https://openstates.org/person/david-weprin-6msrDa0tZH8VXDXqj0symK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/juanita-o-brent/heads
 openstates_id: ocd-person/ede2c8b0-9c35-4ebf-9a4a-4349fe4cc224
 contact:
   website: "https://openstates.org/person/juanita-brent-7Esoxx82JGTxfhGx1JbHHQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

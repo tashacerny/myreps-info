@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kenda
 openstates_id: ocd-person/8a183515-ff32-4660-8e9c-1317f274a603
 contact:
   website: "https://openstates.org/person/kendal-sacchieri-4Ca0F4f7OOdM9LaWmIsLPn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

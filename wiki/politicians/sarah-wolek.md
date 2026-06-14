@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/wolek01.jpg"
 openstates_id: ocd-person/80095967-58e7-4c8b-a675-eb1c461104fc
 contact:
   website: "https://openstates.org/person/sarah-wolek-3tbI0Y8P02tIVPovYkN872/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/anita-somani/headshot
 openstates_id: ocd-person/3bfe0748-5423-4fcf-9962-905d2b747f23
 contact:
   website: "https://openstates.org/person/anita-somani-1pCdaqLTZbqcjOLkqUAlt5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

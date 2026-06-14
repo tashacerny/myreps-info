@@ -12,5 +12,5 @@ photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Lee-Ann-Kluger-1-
 openstates_id: ocd-person/b80b4918-c952-4015-82e5-585229f9c2eb
 contact:
   website: "https://openstates.org/person/lee-ann-kluger-5bHkELqnmfz7dJgZYlK0nz/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

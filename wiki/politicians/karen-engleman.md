@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/efa78779-f35e-49fb-8b6b-5cccd00c870a
 contact:
   website: "https://openstates.org/person/karen-engleman-7IDj5OZWp0jZw7AOze2hIo/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

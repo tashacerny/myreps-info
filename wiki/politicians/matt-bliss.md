@@ -12,5 +12,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/02B.gif?v=112221"
 openstates_id: ocd-person/cbab855f-4a47-4afd-b74a-468a4545b82b
 contact:
   website: "https://openstates.org/person/matt-bliss-6CJpJd8go1EZEhY8yGhnDP/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

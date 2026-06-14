@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2547.jpg"
 openstates_id: ocd-person/aef40b88-72b7-4001-b336-9210a55a2bde
 contact:
   website: "https://openstates.org/person/lori-palmeri-5K8C0wuyYdp7wTi67O6j54/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

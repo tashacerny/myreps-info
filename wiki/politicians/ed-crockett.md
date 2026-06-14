@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/3fbfa65e-661c-4b82-a754-9ae0c6956797
 contact:
   website: "https://openstates.org/person/ed-crockett-1wI6FcnIJZJHyMnKaLFPYV/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

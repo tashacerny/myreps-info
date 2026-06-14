@@ -12,5 +12,5 @@ photo_url: "https://rhodeislandcurrent.com/wp-content/uploads/2024/09/272274786_
 openstates_id: ocd-person/c937560c-277e-4c48-9656-bb385a7910f3
 contact:
   website: "https://openstates.org/person/jenni-furtado-67gkHAmNXKxOCNg39lw4Xb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

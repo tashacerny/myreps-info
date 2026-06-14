@@ -13,5 +13,5 @@ photo_url: "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rma
 openstates_id: ocd-person/d87ed27e-35a2-4272-aa04-edf0a2893004
 contact:
   website: "https://openstates.org/person/richard-marcellais-6aWIdKR6l4tPFrSx0Naf1I/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

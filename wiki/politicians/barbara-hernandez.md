@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{E3518E4F-7AAF-4D93-8985-336
 openstates_id: ocd-person/fb481641-3999-4fe4-9bac-878becdde97d
 contact:
   website: "https://openstates.org/person/barbara-hernandez-7eA16mdk2QIB3afk7gaznB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

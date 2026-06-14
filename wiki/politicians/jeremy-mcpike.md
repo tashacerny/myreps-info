@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/McPike
 openstates_id: ocd-person/500ff29f-8ae7-4886-93ec-eec1ad91d299
 contact:
   website: "https://openstates.org/person/jeremy-mcpike-2R4fo0UB7YE5A1FJXTXAAT/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

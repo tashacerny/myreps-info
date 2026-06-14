@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d15/img/Cook_88-0807D-014-2025.jpg"
 openstates_id: ocd-person/06aed58e-f403-43a5-b4b9-8785a4acf981
 contact:
   website: "https://openstates.org/person/molly-cook-CbquXy4vrkiibbaBH6Snp/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

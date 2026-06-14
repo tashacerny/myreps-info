@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2019/01/Theis-580x770
 openstates_id: ocd-person/4fa99fea-71fd-4f21-9f75-157e6a946c80
 contact:
   website: "https://openstates.org/person/lana-theis-2QJuZjqtKwlcNb5b1u7ApM/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/con
 openstates_id: ocd-person/d4473432-7416-4a64-9a3f-24b7ce96c446
 contact:
   website: "https://openstates.org/person/sheri-minor-6SYudqZQrPMDuYarYoGyVq/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

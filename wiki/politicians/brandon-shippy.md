@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/42e5ac22-a35c-4e0e-80fb-05bab9093b28
 contact:
   website: "https://openstates.org/person/brandon-shippy-22ES9njWzI8DH1EiQRe23s/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/97c57bb8-58d9-43b2-9ccb-5c926022f89f
 contact:
   website: "https://openstates.org/person/jodi-newell-4cO5fftvSkpOEudY28ZiiV/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

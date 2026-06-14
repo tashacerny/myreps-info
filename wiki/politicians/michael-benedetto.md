@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/082/headshot/
 openstates_id: ocd-person/b2b9862e-f665-4848-9d9c-5dcf2c986fed
 contact:
   website: "https://openstates.org/person/michael-benedetto-5RFPyYQhjAi8lCs0IH9F8v/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

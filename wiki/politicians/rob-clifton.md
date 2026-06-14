@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/clifton_robert_20
 openstates_id: ocd-person/b94db48b-9083-48c9-8b27-3603db14fa3e
 contact:
   website: "https://openstates.org/person/rob-clifton-5df5hEhn2wQOcG7Eq5Uqy6/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

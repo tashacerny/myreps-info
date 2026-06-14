@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a0936f2f-8170-47f9-8b05-6c6697a95968
 contact:
   website: "https://openstates.org/person/karel-crawford-4t09IYldTLaIHBW14vid3Y/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

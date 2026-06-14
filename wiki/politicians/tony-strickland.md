@@ -13,5 +13,5 @@ photo_url: "http://votesmart.org/canphoto/16765.jpg"
 openstates_id: ocd-person/3dae8bef-7fb2-40a0-afee-78d79212521b
 contact:
   website: "https://openstates.org/person/tony-strickland-1sOIb6fIy8pU8X2Yz0eB5P/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

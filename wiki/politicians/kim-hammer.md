@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/576_sm.jpg
 openstates_id: ocd-person/29e74f04-ceb4-45e1-a803-049e57699923
 contact:
   website: "https://openstates.org/person/kim-hammer-1H4OPcgz545KNedYBr8Njn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.cthousegop.com/zupkus/wp-content/uploads/sites/73/2016/1
 openstates_id: ocd-person/cddc0b8f-51e5-4ed1-af05-41de718801f3
 contact:
   website: "https://openstates.org/person/lezlye-zupkus-6GRzFg16uzBwlPuVOzGF6p/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://ltgovernor.utah.gov/wp-content/uploads/Official-portrait-2-s
 openstates_id: ocd-person/8bae8ef6-d21e-4eba-94e4-2aad97023cbc
 contact:
   website: "https://openstates.org/person/deidre-m-henderson-4FZhpH4Nn2v13X9EoYXcQ0/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

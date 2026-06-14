@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2024/di
 openstates_id: ocd-person/7abc0666-30bd-4e16-ba86-304b1750ac8e
 contact:
   website: "https://openstates.org/person/megan-egbert-3jazTXZiwwsgUluc6tfCEI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

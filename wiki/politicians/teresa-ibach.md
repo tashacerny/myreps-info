@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist44/hig
 openstates_id: ocd-person/374b6dc4-5b90-4028-814c-84895a293c84
 contact:
   website: "https://openstates.org/person/teresa-ibach-1gL32TfmhNnmiRUeHUkO7Y/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

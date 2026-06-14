@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/l
 openstates_id: ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f
 contact:
   website: "https://openstates.org/person/monique-limon-75vxKC1syP4Km0kgWdlDzj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

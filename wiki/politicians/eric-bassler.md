@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/0b9f559d-7c9e-4d33-b1c8-5d4f3543c195/-/pro
 openstates_id: ocd-person/2d517236-2a88-435f-bc1f-ce09de86c6f9
 contact:
   website: "https://openstates.org/person/eric-bassler-1NVsIClv76S0c5duoFznGD/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

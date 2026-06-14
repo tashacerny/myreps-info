@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{8746A238-F14D-428E-A0AD-E3D
 openstates_id: ocd-person/26a0642d-d0b6-450f-9438-018a36b04cbf
 contact:
   website: "https://openstates.org/person/gregg-johnson-1At0ShEFYaYevKkz1K94RD/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

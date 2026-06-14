@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2512.jpg"
 openstates_id: ocd-person/2da8406a-4a68-4167-887d-22fe1b872940
 contact:
   website: "https://openstates.org/person/christine-sinicki-1O9XqW8jMhGl5jmLtDxOV6/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

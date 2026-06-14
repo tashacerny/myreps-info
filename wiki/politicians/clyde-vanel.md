@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/033/headshot/
 openstates_id: ocd-person/b8a0fb1e-422b-44b7-846e-82d2998a0bf5
 contact:
   website: "https://openstates.org/person/clyde-vanel-5cO9iBbOdGPULNqVabRN7l/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

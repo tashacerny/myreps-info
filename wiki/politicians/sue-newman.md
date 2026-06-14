@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/27254294-07b6-4c08-90be-466800c312bc
 contact:
   website: "https://openstates.org/person/sue-newman-1BrjAwKCvnVquV0n6Tll4m/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

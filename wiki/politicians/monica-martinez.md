@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/622242c6-d42c-4557-b9ab-29ca87e6d141
 contact:
   website: "https://openstates.org/person/monica-martinez-2zAu7xCqOnYQA2WRPxbngf/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

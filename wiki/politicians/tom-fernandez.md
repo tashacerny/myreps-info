@@ -13,5 +13,5 @@ photo_url: "https://tomfernandezforsenate.com/wp-content/uploads/2023/03/tom-fer
 openstates_id: ocd-person/74b41634-f393-47b4-807b-124c14277ecb
 contact:
   website: "https://openstates.org/person/tom-fernandez-3YDPPHZAqAvd2s8B0dVvmF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

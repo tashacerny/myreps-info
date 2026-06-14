@@ -13,5 +13,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/d1e89034-ef4a-4a10-b16d-16dc617dcdf1
 contact:
   website: "https://openstates.org/person/phil-giaquinta-6O5g2UnnRsczBRp6IKqhOL/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

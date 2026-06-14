@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/laconiadailysun.com/con
 openstates_id: ocd-person/9aae937c-2a6d-4654-a18e-d76e1b379e51
 contact:
   website: "https://openstates.org/person/russ-dumais-4hsbBs5Q1XLOaHcgpLTsOX/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/mims.jpg"
 openstates_id: ocd-person/0bf76f2b-9380-45c1-8809-315a682322a3
 contact:
   website: "https://openstates.org/person/sam-mims-MZzaVfl0PH674gyCpDE0Z/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Chedr
 openstates_id: ocd-person/b5b41ca8-2f16-4df4-9808-66b2a13bfecc
 contact:
   website: "https://openstates.org/person/chedrick-greene-5WrvCMh2IeqBdM5qBsqFRc/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

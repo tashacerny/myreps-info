@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/ceec86a5-6519-452a-ba13-9f7ba2da84e5
 contact:
   website: "https://openstates.org/person/ted-hill-6ISVkE306hI5wDy2nCkp1h/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

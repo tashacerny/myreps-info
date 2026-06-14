@@ -12,5 +12,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkosbA1eo1rgLK
 openstates_id: ocd-person/c62d1d8e-1e35-48c2-a869-6801ad396875
 contact:
   website: "https://openstates.org/person/steve-frisbie-61x66ryUfc3DQdu3linUWb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

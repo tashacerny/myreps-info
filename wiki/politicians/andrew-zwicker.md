@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/zwicker_andrew_20
 openstates_id: ocd-person/7782ffcd-73df-41b5-9857-fd7b10953bf3
 contact:
   website: "https://openstates.org/person/andrew-zwicker-3dVx87fdOIFuYLsrh0kW4B/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

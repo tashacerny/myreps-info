@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/d096d8_c9a25023041540c296a3b81e09
 openstates_id: ocd-person/94895484-6eda-42d7-823b-a4eab17071e8
 contact:
   website: "https://openstates.org/person/junelle-cavero-4WHciMyhVjqJB8HjkJaXkm/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

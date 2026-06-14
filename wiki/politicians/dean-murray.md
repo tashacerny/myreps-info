@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/8ff653e0-5aa6-4692-ac54-25ed36e32f97
 contact:
   website: "https://openstates.org/person/dean-murray-4NeTR9baU7xQRTZqxMn2VL/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

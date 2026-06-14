@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/2535.jpg?v=1"
 openstates_id: ocd-person/26244d6a-f0d5-4dbe-b9ed-a38df74a7bac
 contact:
   website: "https://openstates.org/person/mary-ann-perez-19yIW6WXMP0a3D8emRv6Vg/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

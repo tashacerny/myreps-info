@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/22B.gif?v=112221"
 openstates_id: ocd-person/9e7eca64-ff97-48f2-8887-916e50d917cd
 contact:
   website: "https://openstates.org/person/terry-stier-4p4jKT9ZBFAaTZ3eBIbK1d/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

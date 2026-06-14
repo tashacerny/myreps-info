@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/31523.jpg"
 openstates_id: ocd-person/c6f2fa42-706f-41eb-a9bd-b664b593f5a2
 contact:
   website: "https://openstates.org/person/david-hackney-63PWLozsxduAQh2I3z8hww/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

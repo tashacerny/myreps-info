@@ -12,5 +12,5 @@ photo_url: "https://cdn.cityandstateny.com/media/img/cd/2025/05/20/Sam_Sutton-1/
 openstates_id: ocd-person/f56ef763-1f12-493d-a4e6-30e5572417e0
 contact:
   website: "https://openstates.org/person/sam-sutton-7T7pZjsjzua3BmfWPWqLNw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

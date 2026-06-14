@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H01
 openstates_id: ocd-person/f3e15ab0-8419-43c2-ab7a-f3984419d1eb
 contact:
   website: "https://openstates.org/person/jeion-ward-7QC7bQg7GvHN8PnQ3dUh8l/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

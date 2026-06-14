@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Patti
 openstates_id: ocd-person/a0be4ce1-fdbd-47d2-a74c-aaee85644992
 contact:
   website: "https://openstates.org/person/pattie-mansur-4tJjrp82k4llobYg1ifXkI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

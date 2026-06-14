@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0
 contact:
   website: "https://openstates.org/person/bert-anderson-3lLNSU5M3RD6etZhoVcp1c/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

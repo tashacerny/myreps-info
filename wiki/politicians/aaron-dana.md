@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/906cd606-c6ff-41e5-87a6-e038b711fa61
 contact:
   website: "https://openstates.org/person/aaron-dana-4OWdGO7QpEtYSb6TWQKrHl/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

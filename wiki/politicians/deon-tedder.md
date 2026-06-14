@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1811931601.jpg"
 openstates_id: ocd-person/4f07a054-384b-4fc7-b60a-f5848ea514d4
 contact:
   website: "https://openstates.org/person/deon-tedder-2P7sV5AuHpZU5xnjKm9fwi/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

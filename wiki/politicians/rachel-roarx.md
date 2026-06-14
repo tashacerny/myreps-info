@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house38.
 openstates_id: ocd-person/1217ac1a-4ca4-4fe4-953b-572beb008bed
 contact:
   website: "https://openstates.org/person/rachel-roarx-Y8gATtj4llDS7IHbtM85t/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

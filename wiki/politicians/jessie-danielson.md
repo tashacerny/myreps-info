@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/c06af980-c553-4f79-a39d-295b7226f029
 contact:
   website: "https://openstates.org/person/jessie-danielson-5r5Pge2c2QrqmO1z7tRAIj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

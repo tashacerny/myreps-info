@@ -12,5 +12,5 @@ photo_url: "https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/PaauCW6h0UcuEU2
 openstates_id: ocd-person/f6efc9b6-c985-4765-bd47-8da24d06712b
 contact:
   website: "https://openstates.org/person/scott-moore-7Vxh8nCyrE7nyVT7p0DwWB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

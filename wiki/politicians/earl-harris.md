@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/e0aaea95-033f-49d8-9be6-3875fc3b8efe
 contact:
   website: "https://openstates.org/person/earl-harris-6pwOC2UhPtVjW2PqOBilQc/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

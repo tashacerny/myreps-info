@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Hashem.jpg"
 openstates_id: ocd-person/f2d1de1a-c206-46f7-8c5f-a6193229642f
 contact:
   website: "https://openstates.org/person/mark-hashem-7OC3HJC5nySGkLPRQnZURr/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

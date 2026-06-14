@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37460"
 openstates_id: ocd-person/4bb97641-21a7-4aaa-b4d8-7f0dfcacd3a0
 contact:
   website: "https://openstates.org/person/matt-blake-2ItBDEpvktARJuNPHVSfHk/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2021/11/Huizenga-580x
 openstates_id: ocd-person/8564d477-bb39-47a4-87e1-3ceacd7d3abe
 contact:
   website: "https://openstates.org/person/mark-huizenga-43i3eQxjYDuVLF0r887Zi2/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

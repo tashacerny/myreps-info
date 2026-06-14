@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_gossage_beverly_1.j
 openstates_id: ocd-person/35630402-1f6a-4a3e-b6cf-48c1b93bd6ae
 contact:
   website: "https://openstates.org/person/beverly-gossage-1cjqIqPDAlMYIFIdAyyx1a/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

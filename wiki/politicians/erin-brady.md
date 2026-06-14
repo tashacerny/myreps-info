@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Brady,%20Erin.
 openstates_id: ocd-person/e334b770-4785-459a-89cd-1e16ef2444ad
 contact:
   website: "https://openstates.org/person/erin-brady-6ujLgTZ9isgXnJV54CqF8X/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18038"
 openstates_id: ocd-person/98672aab-5ba5-4994-964a-f53d8bcdd108
 contact:
   website: "https://openstates.org/person/gary-mohr-4dZyoz0yOqEC1U1v0VTSBc/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

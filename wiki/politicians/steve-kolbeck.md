@@ -12,5 +12,5 @@ photo_url: "https://kolbeckforsouthdakota.com/wp-content/uploads/2022/02/Kolbeck
 openstates_id: ocd-person/d8b7a70b-2c34-4319-aaaf-54112c5ca471
 contact:
   website: "https://openstates.org/person/steve-kolbeck-6awGro9u12TiNKA2tu0sUr/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://progressivevotersguide.com/sites/default/files/styles/candid
 openstates_id: ocd-person/854e0c8a-0093-4282-8544-8d20bafde8f6
 contact:
   website: "https://openstates.org/person/joseph-hernandez-43XeAo8XPf7OSgXdIqIlMs/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

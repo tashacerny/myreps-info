@@ -13,5 +13,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/68f44f31-ba0b-4641-a656-f05e91c02cd8
 contact:
   website: "https://openstates.org/person/sheila-klinker-3C2qnuEWx5N9lZnktwyEmW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

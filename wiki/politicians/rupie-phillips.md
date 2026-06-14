@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2021/senate/phillips_rup
 openstates_id: ocd-person/c1187148-471e-4bdc-acf5-16fa0d5d998e
 contact:
   website: "https://openstates.org/person/rupie-phillips-5sMgjvIJa5Zjm6Td59MDmw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

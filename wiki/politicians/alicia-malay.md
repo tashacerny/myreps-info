@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/conte
 openstates_id: ocd-person/6c87b7e7-0047-47a6-94b4-9232ac42175f
 contact:
   website: "https://openstates.org/person/alicia-malay-3InC4k5HAOZptaHaOPZ6Hn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

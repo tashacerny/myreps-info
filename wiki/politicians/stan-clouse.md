@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4bfe5183-1afc-42fa-92c1-7ffe5cbb1080
 contact:
   website: "https://openstates.org/person/stan-clouse-2JOeCIVyAawR0u7CZVpKVs/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

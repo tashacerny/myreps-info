@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/d0263d88-91b1-414d-b58b-1ff0523f75ec
 contact:
   website: "https://openstates.org/person/katrina-callsen-6KlsYMw53ykPWmelgJUYRQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

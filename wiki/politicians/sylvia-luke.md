@@ -12,5 +12,5 @@ photo_url: "https://ltgov.hawaii.gov/wp-content/uploads/2025/06/LG-Sylvia-Luke-2
 openstates_id: ocd-person/f3a50da6-6c22-4c5a-ba48-d10ee2188333
 contact:
   website: "https://openstates.org/person/sylvia-luke-7PkZ1zvZooCbJJ7vHlMkRH/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

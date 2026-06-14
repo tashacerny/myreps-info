@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4736.jpg"
 openstates_id: ocd-person/1be9ca60-ccf5-4beb-835a-3c292e04eaef
 contact:
   website: "https://openstates.org/person/dianne-hart-lowman-qfdOUWbPR3sw4y8oqd9Sx/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

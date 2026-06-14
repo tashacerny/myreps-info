@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4871.jpg"
 openstates_id: ocd-person/1b25c111-e59b-429e-a6b7-fd22a38c1581
 contact:
   website: "https://openstates.org/person/rachel-plakon-pE2st1g3oPljuAQg5DVzN/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

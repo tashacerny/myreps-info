@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Trist
 openstates_id: ocd-person/18864718-3e48-4236-9afb-b1a61e4c52e2
 contact:
   website: "https://openstates.org/person/tristan-rader-kHBDVibpWbufW24jsEDxK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

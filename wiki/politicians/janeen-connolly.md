@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Janee
 openstates_id: ocd-person/acfd8972-7a82-41f3-9fd7-0993cfa7365c
 contact:
   website: "https://openstates.org/person/janeen-connolly-5GQXuOn2wZRjoKkXyiOlK8/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

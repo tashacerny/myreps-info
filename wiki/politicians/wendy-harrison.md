@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Harrison,Wendy
 openstates_id: ocd-person/5d4b135e-4bed-4f7f-960a-250691fca6a8
 contact:
   website: "https://openstates.org/person/wendy-harrison-2q2axKplZdLeMA6TLvMwTw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

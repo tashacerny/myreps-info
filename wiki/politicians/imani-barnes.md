@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/barnes-
 openstates_id: ocd-person/2a68d594-e7d5-49cd-b615-6efb872430c3
 contact:
   website: "https://openstates.org/person/imani-barnes-1I1aOyqmgkTfEInxH2NJKN/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/ridley-
 openstates_id: ocd-person/56f28f8a-9296-4e69-9bd4-d0101a42b359
 contact:
   website: "https://openstates.org/person/jordan-ridley-2e4Box1qVQifguLJubtPCr/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

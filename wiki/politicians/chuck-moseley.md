@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/17fd494d-905d-4c82-a828-6d975cbf02f3
 contact:
   website: "https://openstates.org/person/chuck-moseley-jGZgzmiC2YSYVCVoxbZtD/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

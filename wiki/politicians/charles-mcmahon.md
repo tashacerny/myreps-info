@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/28d59199-5bae-46fe-99f3-ec78e330cdeb
 contact:
   website: "https://openstates.org/person/charles-mcmahon-1F3IFAcLHJVtpai4eEvTYZ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

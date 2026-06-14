@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/publi
 openstates_id: ocd-person/3aaaa058-953f-4fd2-b905-af6bc8d3fca3
 contact:
   website: "https://openstates.org/person/rob-ortt-1mhWwnfLqfZOeAuUBN0TVT/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

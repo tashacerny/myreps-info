@@ -13,5 +13,5 @@ photo_url: "https://static1.squarespace.com/static/661c4ad59cca8c36cee06052/t/66
 openstates_id: ocd-person/0af151f7-2d0c-48d1-8560-f17d8bacc5a2
 contact:
   website: "https://openstates.org/person/maureen-mccarville-KeCpJunoHzEDRMQiIc6Ak/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/2c0651f3-bbea-49c8-9da3-a713953ff4d8
 contact:
   website: "https://openstates.org/person/sue-bernard-1L4Y8rVKE2VEbXUdQ3Z492/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

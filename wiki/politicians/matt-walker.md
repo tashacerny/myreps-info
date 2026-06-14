@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Walker,%20Matt
 openstates_id: ocd-person/36d8fa28-e00c-4894-96b3-ef2946001d88
 contact:
   website: "https://openstates.org/person/matt-walker-1fUk9tE2Lts7Zj75plL47U/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

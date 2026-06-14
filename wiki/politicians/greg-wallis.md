@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e
 contact:
   website: "https://openstates.org/person/greg-wallis-2SeCgs1SIceutRcUuHVgDu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

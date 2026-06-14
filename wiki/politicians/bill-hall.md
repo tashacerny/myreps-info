@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/e0e4fcc9-1e0c-49f8-894d-223c863d61f8
 contact:
   website: "https://openstates.org/person/bill-hall-6qMvaIsnXFzLc17QIIcfyS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

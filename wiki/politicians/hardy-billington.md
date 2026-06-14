@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2058"
 openstates_id: ocd-person/a9a55831-48ad-4f2e-b548-0b7652b2b681
 contact:
   website: "https://openstates.org/person/hardy-billington-5A7GU9e3BgjDsSwAy73gIb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

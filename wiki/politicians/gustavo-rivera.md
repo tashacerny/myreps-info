@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/068528ac-bc5e-449f-a4df-4541f8c09415
 contact:
   website: "https://openstates.org/person/gustavo-rivera-CIo4xinjTPujEF5IvqcXF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

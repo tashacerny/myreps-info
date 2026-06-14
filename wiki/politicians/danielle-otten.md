@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1850.jpg?1703415645
 openstates_id: ocd-person/6678bcaf-292f-408a-aa36-90ed8bc8fd08
 contact:
   website: "https://openstates.org/person/danielle-otten-37MORphzEBTtNAjdKDXTw0/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

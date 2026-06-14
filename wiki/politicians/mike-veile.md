@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/di
 openstates_id: ocd-person/ca69eadf-b5f3-4f48-8ce1-8507af44f50e
 contact:
   website: "https://openstates.org/person/mike-veile-69wqyasOfdNoKWu5KVSL7u/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Steph
 openstates_id: ocd-person/b46ed135-4c70-40b9-81ab-94660b76be3e
 contact:
   website: "https://openstates.org/person/stephen-boyd-5UTGGvaGy7otIUKuI1Q5wU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

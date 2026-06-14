@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/852df922-484b-412f-a604-c2d67efee5ec
 contact:
   website: "https://openstates.org/person/greg-hill-43IzKpixVCGd69I5eSG5t6/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

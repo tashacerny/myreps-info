@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house18.
 openstates_id: ocd-person/d3176059-683c-48be-9c43-a57da08a2f49
 contact:
   website: "https://openstates.org/person/samara-heavrin-6QK3y6M3dewBYZYT6oqBGz/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

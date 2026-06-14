@@ -12,5 +12,5 @@ photo_url: "https://aliciaformaine.com/images/d8140e2917dbb338d1ef9980ee0d0557.p
 openstates_id: ocd-person/4bc2b129-52c1-4dfd-99af-dd38f620183a
 contact:
   website: "https://openstates.org/person/alicia-collins-2IxOjsqy9bxl5Sgg43QXYQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

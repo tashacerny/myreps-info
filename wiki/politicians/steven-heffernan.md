@@ -12,5 +12,5 @@ photo_url: "https://addisonindymediaoffload.s3.amazonaws.com/wp-content/uploads/
 openstates_id: ocd-person/0eb14129-49c2-4e33-9abd-34c8802958f1
 contact:
   website: "https://openstates.org/person/steven-heffernan-RitgOsaGdcvMCHBPSkrFB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

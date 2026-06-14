@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/bell.jpg"
 openstates_id: ocd-person/8d466b6a-ea53-46bb-aa86-3131ac76533f
 contact:
   website: "https://openstates.org/person/sam-bell-4Ia6CDRHV5E5KX76rlZ2fH/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

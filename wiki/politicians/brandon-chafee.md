@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Chafee/images/Chafee_HS.jpg"
 openstates_id: ocd-person/e8ce793e-671a-41fa-818a-42b534fa9c6b
 contact:
   website: "https://openstates.org/person/brandon-chafee-75IZrzvVPsSFJzMMoZabpj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

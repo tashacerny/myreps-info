@@ -12,5 +12,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/CARROLL.j
 openstates_id: ocd-person/faca0001-6681-450b-9577-6185f4f49a3d
 contact:
   website: "https://openstates.org/person/frank-carroll-7dEOYHKVsfPKTQ89jHVvZd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/osborne.jpg"
 openstates_id: ocd-person/23d69b3d-2f17-4fa9-a23c-c9ad8db4f7a9
 contact:
   website: "https://openstates.org/person/solomon-osborne-15co1VdiKild2VkRJS3oO9/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

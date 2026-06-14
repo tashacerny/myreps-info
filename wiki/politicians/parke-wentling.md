@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1709.jpg?1703415645
 openstates_id: ocd-person/8f7a2783-e165-4bf2-aead-113d98dd7dd2
 contact:
   website: "https://openstates.org/person/parke-wentling-4Mjj6L65kZAsIbNuNeupAw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

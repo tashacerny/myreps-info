@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{4E4C2A21-FDC2-48CA-9BA8-462
 openstates_id: ocd-person/b6ebf45f-ac97-423b-b5c3-eba0a5766a8d
 contact:
   website: "https://openstates.org/person/lisa-hernandez-5ZAQyMYmcCEmEAEUMoLS3h/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

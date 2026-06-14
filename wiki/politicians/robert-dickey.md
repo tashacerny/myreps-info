@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/dickey-
 openstates_id: ocd-person/f863b50d-c865-463a-830a-e5648837d9f7
 contact:
   website: "https://openstates.org/person/robert-dickey-7Yhf8DoLMayxaYasPlqPix/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

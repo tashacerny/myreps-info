@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist09/hig
 openstates_id: ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77
 contact:
   website: "https://openstates.org/person/john-cavanaugh-7wgq3UPV8UeWSQ1aV6Q6R/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

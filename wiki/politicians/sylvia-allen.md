@@ -13,5 +13,5 @@ photo_url: "http://www.azleg.gov/alisImages/MemberPhotos/50leg/Senate/ALLEN.gif"
 openstates_id: ocd-person/fa74a7b7-6413-4abb-813d-056b84252549
 contact:
   website: "https://openstates.org/person/sylvia-allen-7cbONpLtlcclXCydDDmd0z/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

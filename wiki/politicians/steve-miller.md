@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/983607b1-0987-4efe-8547-de1c5d262e5f
 contact:
   website: "https://openstates.org/person/steve-miller-4dDWa1kJtnBDXL8bEV2mDP/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

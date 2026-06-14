@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4879.jpg"
 openstates_id: ocd-person/7fb5a540-2c3c-4661-8495-2e0e02ab8644
 contact:
   website: "https://openstates.org/person/jennifer-canady-3sz2L8gvycIhl1HVGOEVtc/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

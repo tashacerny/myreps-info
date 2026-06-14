@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/davenpo
 openstates_id: ocd-person/df023a79-0194-4d1a-8755-5dee4053e1cc
 contact:
   website: "https://openstates.org/person/gail-davenport-6moJ3H5Nnz7oItZHzquXRU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

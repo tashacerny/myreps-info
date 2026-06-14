@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/27A.gif?v=112221"
 openstates_id: ocd-person/204ac87d-7f04-4b49-adc4-658faec7d413
 contact:
   website: "https://openstates.org/person/shane-mekeland-yvvghyIME9FCsv8wQpzzH/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

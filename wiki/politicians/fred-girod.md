@@ -12,5 +12,5 @@ photo_url: "http://www.oregonlegislature.gov/senate/MemberPhotos/girod.jpg"
 openstates_id: ocd-person/aba97bd3-cdf6-4860-9b2c-cbd62e825e79
 contact:
   website: "https://openstates.org/person/fred-girod-5Dv8oY2khcdbD2zCIpCZFx/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

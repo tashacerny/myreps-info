@@ -12,5 +12,5 @@ photo_url: "http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assem
 openstates_id: ocd-person/1c4f97a9-c965-4d0d-b5b6-39b91aee4f49
 contact:
   website: "https://openstates.org/person/gregory-koenig-rQ9rC7Dyai5V7tSFSJ7cn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/860892bd-92d1-4a30-a5e6-3b5f2359e9df
 contact:
   website: "https://openstates.org/person/austen-schauer-44utAJwfLVL58nADPnbvrT/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

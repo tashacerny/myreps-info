@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/c8c1a9c5-c7c2-4894-8829-fc83251bcaf2
 contact:
   website: "https://openstates.org/person/emily-sirota-66oy7aInEFOExdNRukmXqs/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

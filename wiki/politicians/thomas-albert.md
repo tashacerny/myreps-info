@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2023/01/Albert-580x77
 openstates_id: ocd-person/c96aa62f-6a2c-4d37-9074-2c25875c639b
 contact:
   website: "https://openstates.org/person/thomas-albert-684CBRuhHEyjcSNCKjf3bH/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

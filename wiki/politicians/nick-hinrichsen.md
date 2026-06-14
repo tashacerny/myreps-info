@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/4d753f6e-b7e3-420d-a684-e9a27f7ab27b
 contact:
   website: "https://openstates.org/person/nick-hinrichsen-2M9zTZcMarSohaey1zWiwF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

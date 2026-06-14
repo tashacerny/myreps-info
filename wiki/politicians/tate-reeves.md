@@ -13,5 +13,5 @@ photo_url: "https://governorreeves.ms.gov/wp-content/uploads/headshot-governor-t
 openstates_id: ocd-person/3c19275b-6e87-43fa-83fa-ced52c9119bf
 contact:
   website: "https://openstates.org/person/tate-reeves-1pP2AC1tikPaoVja2IJWAB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

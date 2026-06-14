@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/LegislationPictures/valarie_lawson.jpg
 openstates_id: ocd-person/bfb76f36-00b6-47da-89da-e1db5421ff55
 contact:
   website: "https://openstates.org/person/val-lawson-5plMa3Gi4A8siPVMDDhj7N/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

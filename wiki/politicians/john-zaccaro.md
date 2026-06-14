@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/080/headshot/
 openstates_id: ocd-person/a956438d-7d17-4148-a581-ad398baa0d6a
 contact:
   website: "https://openstates.org/person/john-zaccaro-59X7oCWArMKoecwYrf9Uz4/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

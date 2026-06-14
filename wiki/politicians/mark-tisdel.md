@@ -13,5 +13,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2021/01/HS_TISDEL_0121_
 openstates_id: ocd-person/a5bb89cb-ac42-47c0-bcc8-96bf18e4d865
 contact:
   website: "https://openstates.org/person/mark-tisdel-52jRECefA1ek8BSK6Xj4lB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

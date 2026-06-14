@@ -13,5 +13,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/e841e17b-6ea1-4401-b3d3-9b99237b6366
 contact:
   website: "https://openstates.org/person/ray-seigfried-74GKImIjB8ztD6tax4WDzC/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

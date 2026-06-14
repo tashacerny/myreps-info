@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/hearcel-f-craig/heads
 openstates_id: ocd-person/ed858ef9-97dc-4be8-97ab-006ea96923ae
 contact:
   website: "https://openstates.org/person/hearcel-craig-7ECDVbSKvM0ZL22sXeJ0Yg/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

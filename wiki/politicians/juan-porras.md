@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4898.jpg"
 openstates_id: ocd-person/6c673f21-8f64-44b7-831f-d3d2e9c78eb3
 contact:
   website: "https://openstates.org/person/juan-porras-3IYM1B4Kzt3R4Zl2KDungp/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

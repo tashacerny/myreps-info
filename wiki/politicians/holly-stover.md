@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/468ba602-86c5-4293-85b2-45e87313c1c3
 contact:
   website: "https://openstates.org/person/holly-stover-297HVcpUuSCwcC4qR1MiXL/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

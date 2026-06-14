@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/bae06244-d892-41b2-a4a5-beaaa6cba0da
 contact:
   website: "https://openstates.org/person/dan-garner-5gd7DwirmhT5N3g5eseSfS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

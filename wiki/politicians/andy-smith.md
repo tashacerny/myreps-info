@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/25B.gif?v=112221"
 openstates_id: ocd-person/41cf59c9-a2c3-442d-85f1-7d6ec8de1a97
 contact:
   website: "https://openstates.org/person/andy-smith-20BGAWskqxYqyKojsnnuNT/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

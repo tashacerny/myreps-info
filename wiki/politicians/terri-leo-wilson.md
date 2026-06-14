@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/4290.jpg?v=1"
 openstates_id: ocd-person/cee6cb7a-8d88-4c34-be27-dd10d1f31768
 contact:
   website: "https://openstates.org/person/terri-leo-wilson-6IPtMHxpr1eXiw8p82O7bs/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

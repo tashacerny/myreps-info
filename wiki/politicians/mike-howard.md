@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/51A.gif?v=112221"
 openstates_id: ocd-person/8910b3db-698e-4019-b976-0ee19ecb8ca0
 contact:
   website: "https://openstates.org/person/mike-howard-4Ada4n2HJnAQEj0hduwTyK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

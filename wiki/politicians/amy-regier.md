@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/817877aa-a3ac-40a7-9f32-f40204840abf
 contact:
   website: "https://openstates.org/person/amy-regier-3wJ3xr8eGXwoqOll99lDHr/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

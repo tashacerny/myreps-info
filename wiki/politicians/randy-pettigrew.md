@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HPETT.jpg"
 openstates_id: ocd-person/a36bdc41-5666-4208-b8f0-8d9012d31f22
 contact:
   website: "https://openstates.org/person/randy-pettigrew-4yN2a0mRDk5g31HYkp8LEw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268
 contact:
   website: "https://openstates.org/person/josh-becker-63dLAnWBOBG5gYvlBbz1XU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

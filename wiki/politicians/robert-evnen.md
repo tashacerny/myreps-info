@@ -12,5 +12,5 @@ photo_url: "https://sos.nebraska.gov/sites/sos.nebraska.gov/files/img/headshot-b
 openstates_id: ocd-person/ecaf1ef5-c273-497b-8c05-74d0edc97e27
 contact:
   website: "https://openstates.org/person/robert-evnen-7CcDcNMHo8tgFrEnDfphWZ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

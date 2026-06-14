@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/deweese.jpg"
 openstates_id: ocd-person/0c9a7d35-4b91-42c7-8af2-39b6514c23d8
 contact:
   website: "https://openstates.org/person/clay-deweese-NmVb2qa0koT6MKdvsVFZQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

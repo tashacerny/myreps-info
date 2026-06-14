@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kaley
 openstates_id: ocd-person/0baaa53b-6468-4de4-98ce-bf1e218f8d38
 contact:
   website: "https://openstates.org/person/kaley-nolz-M0tqb2LDjdeAeg3awIX5k/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

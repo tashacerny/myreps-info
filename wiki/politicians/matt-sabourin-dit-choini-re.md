@@ -12,5 +12,5 @@ photo_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Matt_Sabou
 openstates_id: ocd-person/5709592a-7c88-41e3-8295-7c05146327e2
 contact:
   website: "https://openstates.org/person/matt-sabourin-dit-choiniere-2eEbUDRGyZYbdEvjPUIq0Y/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

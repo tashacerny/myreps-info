@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/lscol
 openstates_id: ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945
 contact:
   website: "https://openstates.org/person/lashae-sharp-collins-4BDZmrrOBTUYwUK5ZIgmeb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

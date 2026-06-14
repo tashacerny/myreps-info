@@ -12,5 +12,5 @@ photo_url: "https://house.texas.gov/images/members/4205.jpg?v=1"
 openstates_id: ocd-person/72920206-cbe7-4429-b42b-c6fc746a1d56
 contact:
   website: "https://openstates.org/person/caroline-harris-davila-3UBqlYM6uSIi0A1Vr4XYve/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.porttb.com/?a=Files.Serve&File_id=DEAE221B-6C8A-4865-BE9
 openstates_id: ocd-person/fc683ed7-c458-46b4-a133-6ab6916237d0
 contact:
   website: "https://openstates.org/person/michael-owen-7gHhochotUWLMU3wBkok0e/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

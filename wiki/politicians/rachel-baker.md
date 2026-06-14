@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/rachel-b-baker/headsh
 openstates_id: ocd-person/36f320a8-be34-43c2-ac73-ee87fbce6b0c
 contact:
   website: "https://openstates.org/person/rachel-baker-1fgh6cBxdbfwNhR3BjH6aK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

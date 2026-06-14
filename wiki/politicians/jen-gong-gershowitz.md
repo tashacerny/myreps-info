@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{395E8140-10ED-4C70-81B9-267
 openstates_id: ocd-person/cf97f459-e1cd-474b-8306-3c55d7c009b0
 contact:
   website: "https://openstates.org/person/jen-gong-gershowitz-6Jir0wkcxdlgcYycpuCpuK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

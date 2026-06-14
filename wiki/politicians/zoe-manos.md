@@ -12,5 +12,5 @@ photo_url: "https://www.gannett-cdn.com/presto/2022/10/20/NPOH/d99fd355-15a2-43b
 openstates_id: ocd-person/82019391-800c-469e-b17b-fbbf700b6555
 contact:
   website: "https://openstates.org/person/zoe-manos-3xJiozWcflYGpUxt2eIATt/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

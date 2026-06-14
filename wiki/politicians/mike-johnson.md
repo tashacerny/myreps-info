@@ -12,7 +12,7 @@ photo_url: "https://www.congress.gov/img/member/67ffcb2af22eaf56065817c4_200.jpg
 term_start: "2017-01-03"
 bioguide_id: J000299
 contact:
-  website: "https://mikejohnson.house.gov"
+  website: "https://openstates.org/person/mike-johnson-RTjVDdZk7mvMHwn5rh5sY/"
 last_updated: "2026-06-14"
 ---
 

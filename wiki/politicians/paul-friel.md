@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1942.jpg?1703415645
 openstates_id: ocd-person/494797a5-3d84-414a-9c8c-caaadd621cdd
 contact:
   website: "https://openstates.org/person/paul-friel-2EH9m5jJuXXCuQnUQjEKQX/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

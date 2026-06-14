@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Tam.jpg"
 openstates_id: ocd-person/0ce91900-de38-4ab2-a6fe-089b04b20b74
 contact:
   website: "https://openstates.org/person/adrian-tam-OMQtk9uNG23Y0clzYiCMG/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

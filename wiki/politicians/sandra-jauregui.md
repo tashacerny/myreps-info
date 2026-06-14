@@ -13,5 +13,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/25e09131-39e3-4c58-96b0-6c1ac9e74b19
 contact:
   website: "https://openstates.org/person/sandra-jauregui-19TLIhqN8aLIpcMvrD1eP3/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

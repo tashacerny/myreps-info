@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4787.jpg"
 openstates_id: ocd-person/5055fc3a-3cdd-4f4d-addb-23634fd1df92
 contact:
   website: "https://openstates.org/person/john-snyder-2RagFogzIGCHJXiv7Xjq30/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

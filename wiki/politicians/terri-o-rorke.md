@@ -12,5 +12,5 @@ photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Terri-ORorke-768x
 openstates_id: ocd-person/81cb2080-0fec-4a30-8212-71fa0679e2f3
 contact:
   website: "https://openstates.org/person/terri-o-rorke-3wuq2sWT7a2EDlMzXLRGXT/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

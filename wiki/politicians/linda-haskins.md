@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/ad3c3841-fa56-4055-bd86-8a3c504d36a9
 contact:
   website: "https://openstates.org/person/linda-haskins-5GtByB2qhXh6kXeUbqEgkj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

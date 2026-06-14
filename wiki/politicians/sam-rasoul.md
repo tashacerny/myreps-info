@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/6ab67007-e48a-4048-bb7b-20a608a88f77
 contact:
   website: "https://openstates.org/person/sam-rasoul-3FMYm2sEAef5BFXHvVACvv/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

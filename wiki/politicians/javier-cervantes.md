@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{C05FD6B2-E0A9-4446-AAE5-D67
 openstates_id: ocd-person/caf27c44-2fec-4e26-a102-e6a30ca56be0
 contact:
   website: "https://openstates.org/person/javier-cervantes-6AxGVFvyiNDssmMD4qW0vI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

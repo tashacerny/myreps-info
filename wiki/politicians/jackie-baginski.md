@@ -12,5 +12,5 @@ photo_url: "http://www.rilegislature.gov/representatives/Pictures/Baginski.jpg"
 openstates_id: ocd-person/c2b18728-5409-42b0-a789-d7f5bd717780
 contact:
   website: "https://openstates.org/person/jackie-baginski-5vNdnc9U5zw8LgwdX0tJgW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

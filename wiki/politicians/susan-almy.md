@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/e13283b4-defe-4f4e-8e67-4d89b8e3790c
 contact:
   website: "https://openstates.org/person/susan-almy-6qwMF2wc5LXPU3tMlWduU0/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

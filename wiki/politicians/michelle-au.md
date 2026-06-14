@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/au-mich
 openstates_id: ocd-person/48b46caf-d38e-46ab-96ff-c268e23a7d76
 contact:
   website: "https://openstates.org/person/michelle-au-2DBtuVLPbEzNmUsDtSlW1G/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{AFBDE3F1-DE4D-419A-A7AB-D27
 openstates_id: ocd-person/a9c919a3-8fba-4bad-8589-315491cd9b0e
 contact:
   website: "https://openstates.org/person/jed-davis-5ANbaZBWdkbjKVVY7z04nm/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

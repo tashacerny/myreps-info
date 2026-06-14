@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/65b3fbbf2b490f4bfe76c2
 openstates_id: ocd-person/fd8d6d12-9d66-4926-92b4-61c463cae027
 contact:
   website: "https://openstates.org/person/joan-fitzgerald-7iRgok6kqnSy7RgYCwjss3/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

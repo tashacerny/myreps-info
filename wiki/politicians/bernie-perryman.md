@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/14A.gif?v=112221"
 openstates_id: ocd-person/354e366b-b9b5-46b4-b9ce-f3d96f508ceb
 contact:
   website: "https://openstates.org/person/bernie-perryman-1caKroOeIP7edJt6eynHh5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

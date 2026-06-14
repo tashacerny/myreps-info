@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/brooks02.jpg"
 openstates_id: ocd-person/4e1fee1d-1f1c-416b-9615-4171d4074db8
 contact:
   website: "https://openstates.org/person/ben-brooks-2NPzbSVvgzrpEREdaaHpf6/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

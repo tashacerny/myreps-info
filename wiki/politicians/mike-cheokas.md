@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cheokas
 openstates_id: ocd-person/1831cc73-e694-4cea-83a4-b55c3495f76a
 contact:
   website: "https://openstates.org/person/mike-cheokas-jeZa2Nh6ivN9L8ZTkpAio/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

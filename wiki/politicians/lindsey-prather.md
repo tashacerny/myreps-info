@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/809/Low"
 openstates_id: ocd-person/16a0c907-4efa-45a7-83d2-1c79cc541535
 contact:
   website: "https://openstates.org/person/lindsey-prather-ghJEfBGcZfy34dD2eZXuv/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

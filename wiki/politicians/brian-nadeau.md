@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/c8d8a204-038c-4544-ad17-e12a5af19cd6
 contact:
   website: "https://openstates.org/person/brian-nadeau-66zSwkhy0m8VumtZBKkKBi/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

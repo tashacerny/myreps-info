@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SLOPE.jpg"
 openstates_id: ocd-person/ecc60fc8-8598-4650-8a55-6e91d24e991e
 contact:
   website: "https://openstates.org/person/linda-lopez-7CmhccyfKvj22uyq7pwrWA/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

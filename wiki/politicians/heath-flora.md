@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/c830a90c-8964-4c0f-b31b-729cab1144fd
 contact:
   website: "https://openstates.org/person/heath-flora-65khbFNdTi2aA3p0nCqsm5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

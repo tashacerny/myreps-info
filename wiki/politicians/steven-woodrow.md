@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/09af4a19-c07e-49b2-b320-104f3784705b
 contact:
   website: "https://openstates.org/person/steven-woodrow-IH2NnDHjtKRjLr5rpLyRv/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

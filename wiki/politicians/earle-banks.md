@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/banks
 openstates_id: ocd-person/4fa41145-35bf-442b-bdfe-cf54ea53da69
 contact:
   website: "https://openstates.org/person/earle-banks-2QHN7Jmm25J35U0f4b62xt/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

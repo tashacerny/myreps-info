@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Tammy-West.jpg"
 openstates_id: ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b
 contact:
   website: "https://openstates.org/person/tammy-west-4CTgygYWrmUkTgeQ0NP015/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

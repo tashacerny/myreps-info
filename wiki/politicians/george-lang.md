@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/george-f-lang/headsho
 openstates_id: ocd-person/445d3fc7-d9a5-48d8-8869-f023aa274ae7
 contact:
   website: "https://openstates.org/person/george-lang-2505mJBT5f1ZA3lsL9cbln/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

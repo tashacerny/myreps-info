@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/adkins_stanl
 openstates_id: ocd-person/4b7f8925-344a-4ce2-b70c-76bb9127c4fa
 contact:
   website: "https://openstates.org/person/stan-adkins-2IShvWQKt1HTTTGnhNLsZ0/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

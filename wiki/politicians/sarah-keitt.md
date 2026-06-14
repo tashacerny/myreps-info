@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/7af92839-ae80-4370-a84a-e63799ed5a48
 contact:
   website: "https://openstates.org/person/sarah-keitt-3k2vb9GMgmZr4DpcEJr8I4/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

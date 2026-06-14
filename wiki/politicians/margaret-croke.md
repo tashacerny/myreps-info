@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{1719759C-D601-4575-A753-124
 openstates_id: ocd-person/adf823d2-7e3e-4a4d-898c-2dd404679012
 contact:
   website: "https://openstates.org/person/margaret-croke-5IH4VyMgio6rDMtUFDY54c/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

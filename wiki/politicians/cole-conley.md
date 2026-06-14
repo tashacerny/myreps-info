@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa
 contact:
   website: "https://openstates.org/person/cole-conley-1oCHdHJPi06MD4MvnjVm14/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

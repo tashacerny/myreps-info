@@ -12,5 +12,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house85.
 openstates_id: ocd-person/2eab3a78-154d-43cd-8278-73ad2e166b08
 contact:
   website: "https://openstates.org/person/shane-baker-1Q3tiMFJKQ5Y0y3Aphtme0/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

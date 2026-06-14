@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/a65cc42d-ae91-4f47-8269-4673f106682f
 contact:
   website: "https://openstates.org/person/laura-supica-53v7Tc8GPVBwMOw2SqADXD/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

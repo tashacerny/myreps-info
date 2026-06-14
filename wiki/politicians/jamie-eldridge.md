@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/JBE0.jpg"
 openstates_id: ocd-person/23704722-a50c-4148-8f14-98c7d78324b9
 contact:
   website: "https://openstates.org/person/jamie-eldridge-14s2dexkVZIj0oc1YMdv2n/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house8.j
 openstates_id: ocd-person/ec846db3-c75b-4460-ba72-3e2b3fd9e04d
 contact:
   website: "https://openstates.org/person/walker-thomas-7CIhy3wa9kdkKIXZ3vvAUv/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

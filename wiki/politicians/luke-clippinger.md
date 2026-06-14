@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2020RS/images/clippinger.jpg"
 openstates_id: ocd-person/1403e204-8965-4cb4-adcb-6754808e119a
 contact:
   website: "https://openstates.org/person/luke-clippinger-blcVCqQnq2NzbSlZlS3fm/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

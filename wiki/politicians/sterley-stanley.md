@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/stanley_sterley_2
 openstates_id: ocd-person/901f85af-77c2-4cff-8626-ac510fdc425f
 contact:
   website: "https://openstates.org/person/sterley-stanley-4NxIeBGvkQ2J2Hv2Yg2cxj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

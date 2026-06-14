@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/26168.jpg"
 openstates_id: ocd-person/e802bd51-458a-4976-b7ad-25ba4ceb0581
 contact:
   website: "https://openstates.org/person/shelley-kloba-73nTFhGaHmOXgDA6unTJIn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

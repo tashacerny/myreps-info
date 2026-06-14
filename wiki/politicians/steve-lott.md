@@ -13,5 +13,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/stonecountyenterprise.c
 openstates_id: ocd-person/df77d55d-10c7-4ecb-9ed9-b8f989da339e
 contact:
   website: "https://openstates.org/person/steve-lott-6ng3HZSFfllElXu1FX2cVa/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

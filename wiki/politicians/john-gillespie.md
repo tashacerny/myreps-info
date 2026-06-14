@@ -12,5 +12,5 @@ photo_url: "https://www.capitol.tn.gov/house/members/images/h97.jpg"
 openstates_id: ocd-person/927edca0-8b67-40c6-b786-4cbfac5b344f
 contact:
   website: "https://openstates.org/person/john-gillespie-4SQr3Wc15Cr9wbDzapZVxn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

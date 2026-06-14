@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/M_C2.jpg"
 openstates_id: ocd-person/ea385faa-049c-4743-ad41-3bbe58ee40e2
 contact:
   website: "https://openstates.org/person/michelle-ciccolo-77xxyXWXgHZeh3ZwrNYcZG/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

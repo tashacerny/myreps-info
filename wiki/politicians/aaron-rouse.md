@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Rouse2
 openstates_id: ocd-person/4a329580-86d3-4db3-915e-9f1af71e0a5a
 contact:
   website: "https://openstates.org/person/aaron-rouse-2G0Y2uu77D0pAnm5Qi4lCM/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

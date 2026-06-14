@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/c6b06b7d-05f8-45a3-8415-4cd1e76c5642
 contact:
   website: "https://openstates.org/person/melissa-wintrow-62v6V3Dvc7xZPYW8d95JII/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

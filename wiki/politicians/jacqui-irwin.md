@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c
 contact:
   website: "https://openstates.org/person/jacqui-irwin-73AYwgwC83PVhmxChW8616/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

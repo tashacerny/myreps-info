@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/n
 openstates_id: ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41
 contact:
   website: "https://openstates.org/person/roger-niello-7G5I4K8v0DsIbYyBU3Sz8D/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/newsminer.com/content/t
 openstates_id: ocd-person/a160c8f2-f8a9-4429-9bc2-e14831545503
 contact:
   website: "https://openstates.org/person/becky-schwanke-4uVzig6HKADkaf7mj5SYD5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

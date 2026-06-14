@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9
 contact:
   website: "https://openstates.org/person/matt-haney-6Dl25SE2wdlEhblPIkLocb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

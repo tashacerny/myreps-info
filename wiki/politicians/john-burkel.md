@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/01A.gif"
 openstates_id: ocd-person/c86f501e-0b47-4e57-8f5a-d7d0be2392af
 contact:
   website: "https://openstates.org/person/john-burkel-66DKnthk9WgbyaAJxnAHPz/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

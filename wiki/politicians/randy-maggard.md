@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4758.jpg"
 openstates_id: ocd-person/2a415c08-da66-402b-ada6-93390a5df820
 contact:
   website: "https://openstates.org/person/randy-maggard-1HjXv6M0ncazFqUK8wg2iW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

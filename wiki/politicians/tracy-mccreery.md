@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/802c155f-8979-418f-b13b-b75de93caf31
 contact:
   website: "https://openstates.org/person/tracy-mccreery-3trAAfIrHCldD6ztfHvknp/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

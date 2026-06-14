@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_weigel_virgil_1.jpg
 openstates_id: ocd-person/acb8f24a-aecd-43a5-887c-be8bbf963e3d
 contact:
   website: "https://openstates.org/person/virgil-weigel-5FvCSfU4qRCN8E8sRGTzTB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

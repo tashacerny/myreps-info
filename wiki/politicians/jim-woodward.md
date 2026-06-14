@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/76cd07b1-e4de-4e1b-bd7c-a3153493ac5f
 contact:
   website: "https://openstates.org/person/jim-woodward-3cAnCX1fVCZJcyi5vuy4y7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

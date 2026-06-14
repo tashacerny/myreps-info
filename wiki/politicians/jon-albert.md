@@ -13,5 +13,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/828599/828
 openstates_id: ocd-person/c7ee0194-6ff9-4b95-83ee-bac26e80467d
 contact:
   website: "https://openstates.org/person/jon-albert-65GF0zknEqdadDidMyPYfF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

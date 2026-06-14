@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Susan
 openstates_id: ocd-person/6311f34d-9611-42be-be12-017fcc0f7aa6
 contact:
   website: "https://openstates.org/person/sue-lee-loy-30wRVgwyhaSSzxRbUxmzlW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

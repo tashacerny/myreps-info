@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/darnell-t-brewer/head
 openstates_id: ocd-person/a75181f0-f0e8-4af3-aefd-6cc08543af1a
 contact:
   website: "https://openstates.org/person/darnell-brewer-55ixzkKS58z4lPSrlRIZfW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

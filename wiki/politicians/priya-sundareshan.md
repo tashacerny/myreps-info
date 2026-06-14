@@ -12,5 +12,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/SUNDARESH
 openstates_id: ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b
 contact:
   website: "https://openstates.org/person/priya-sundareshan-3tPl4BbmijwWTOS7ZbQUcF/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

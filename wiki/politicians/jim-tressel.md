@@ -12,5 +12,5 @@ photo_url: "https://governor.ohio.gov/wps/wcm/connect/gov/12ebe94c-b50b-41d2-b88
 openstates_id: ocd-person/6aef5093-5720-48fd-9997-e4f5451014b4
 contact:
   website: "https://openstates.org/person/jim-tressel-3FmYKpWZBBAALRiOpiL5eu/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

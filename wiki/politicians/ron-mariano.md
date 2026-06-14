@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/R_M1.jpg"
 openstates_id: ocd-person/e142d28d-e57a-4ff9-afa4-c3cd149f2114
 contact:
   website: "https://openstates.org/person/ron-mariano-6r3oJWEjJhlb8HOIyK5rTY/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

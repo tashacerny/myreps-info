@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/efc8ba1f-e642-4264-908c-4cd32e355ad8/-/pro
 openstates_id: ocd-person/a7974310-0d01-4bc1-9c14-29561ec68a60
 contact:
   website: "https://openstates.org/person/eric-koch-56EqQASp7rhHjZlIS4iKqO/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

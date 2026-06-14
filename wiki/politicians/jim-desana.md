@@ -13,5 +13,5 @@ photo_url: "https://www.house.mi.gov/media/Representatives/DeSana-029.jpg"
 openstates_id: ocd-person/af4a0996-bcf0-4e8f-9165-4290343e905f
 contact:
   website: "https://openstates.org/person/jim-desana-5KlUWuzjJQypjMHW3GGM9v/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

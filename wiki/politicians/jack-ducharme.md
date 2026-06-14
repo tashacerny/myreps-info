@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/d72eadfd-23ee-4ecb-9853-e139ea82aec3
 contact:
   website: "https://openstates.org/person/jack-ducharme-6Y2gLIFiX8uaUcdTkmVKE7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

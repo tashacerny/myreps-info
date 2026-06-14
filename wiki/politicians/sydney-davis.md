@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/plaintalk.net/content/t
 openstates_id: ocd-person/c2149a50-34ee-42c5-8440-e1c5ddcf66e4
 contact:
   website: "https://openstates.org/person/sydney-davis-5uDvT8aQ3NjVUWWaHpXnTI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

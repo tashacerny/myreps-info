@@ -12,5 +12,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Ilagan.jpg"
 openstates_id: ocd-person/d56e9f60-c26e-4437-90d7-4414957e737d
 contact:
   website: "https://openstates.org/person/greggor-ilagan-6Ujv3eDajmR6FlTUD4vuJh/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

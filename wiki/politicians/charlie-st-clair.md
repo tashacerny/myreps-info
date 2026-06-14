@@ -12,5 +12,5 @@ photo_url: "https://images.dailykos.com/images/448207/story_image/Charlie_St._Cl
 openstates_id: ocd-person/643751f4-6db0-4021-bf76-b8f2483d640d
 contact:
   website: "https://openstates.org/person/charlie-st-clair-336Vs5cRc9IxNu456uRoL7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

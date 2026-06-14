@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content
 openstates_id: ocd-person/214295d3-da3e-45cb-89bc-80de2be1a071
 contact:
   website: "https://openstates.org/person/buzz-scherr-10lAvr2jf6e0noyc2MfSuP/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

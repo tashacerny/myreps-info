@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alyss
 openstates_id: ocd-person/183af2d0-dd61-476d-873f-305ae591968f
 contact:
   website: "https://openstates.org/person/kevin-volk-jikphvukESE8HAakmkAN5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

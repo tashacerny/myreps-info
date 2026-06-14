@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/076/headshot/
 openstates_id: ocd-person/78e9f465-ad6d-4067-a2df-1e2ddb34c860
 contact:
   website: "https://openstates.org/person/rebecca-seawright-3g9znn9wC6wk7vwuGDlHBQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

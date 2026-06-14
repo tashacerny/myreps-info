@@ -12,5 +12,5 @@ photo_url: "https://img1.wsimg.com/isteam/ip/7d9db0ae-f3dc-4181-914f-4606a6f84c3
 openstates_id: ocd-person/c553dcc6-1c2c-49d8-be04-e89e4d123d8b
 contact:
   website: "https://openstates.org/person/mark-spencer-60LoRd2Glr1sjPK0dNvKA7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

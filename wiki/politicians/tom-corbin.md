@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0402272679.jpg"
 openstates_id: ocd-person/25450820-f565-4644-95aa-885948c253c3
 contact:
   website: "https://openstates.org/person/tom-corbin-18KGLeYh8LQCToLVfYoMyp/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

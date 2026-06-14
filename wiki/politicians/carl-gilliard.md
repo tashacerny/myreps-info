@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/gilliar
 openstates_id: ocd-person/562e162f-2a60-441c-956b-11db12eef266
 contact:
   website: "https://openstates.org/person/carl-gilliard-2ccOuRudxaYC0pO6sBv0Rq/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

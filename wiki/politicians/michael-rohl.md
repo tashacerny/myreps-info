@@ -13,5 +13,5 @@ photo_url: "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/rohl,%2
 openstates_id: ocd-person/9f5c460a-6f5d-4198-8be2-e78a9d4980bf
 contact:
   website: "https://openstates.org/person/michael-rohl-4qhwqVDffsyXubo85aQpwN/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

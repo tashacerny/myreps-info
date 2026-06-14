@@ -13,5 +13,5 @@ photo_url: "https://i0.wp.com/coloradocommunitymedia.com/wp-content/uploads/2022
 openstates_id: ocd-person/0c428ee3-a327-4906-96c9-c46da7dfd7f1
 contact:
   website: "https://openstates.org/person/chris-richardson-N8K9dfgW365HNgSh6o8cj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

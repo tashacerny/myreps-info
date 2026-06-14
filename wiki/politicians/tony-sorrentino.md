@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/7093e661-0dbc-4c75-91e0-09a3e171caf1
 contact:
   website: "https://openstates.org/person/tony-sorrentino-3QQjKFR5S7eIxpaUF44Faz/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

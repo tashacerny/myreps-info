@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Masland,James.
 openstates_id: ocd-person/5342eafc-7f58-4ebe-ad1e-0ec4aefe82fe
 contact:
   website: "https://openstates.org/person/jim-masland-2X6wZTTiHf0HYeGF45Ps9m/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

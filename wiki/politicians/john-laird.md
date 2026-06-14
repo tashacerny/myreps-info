@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/7476789f-49a4-491a-b294-9d1486f24193
 contact:
   website: "https://openstates.org/person/john-laird-3XlFaQLZB0DLk0mE9HAGoN/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

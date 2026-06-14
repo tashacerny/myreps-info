@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_stogsdill_jerry_1.j
 openstates_id: ocd-person/4a358caf-0fad-4d45-8fa7-3c5ef062a544
 contact:
   website: "https://openstates.org/person/jerry-stogsdill-2G1u4Xl10T29Jnp69usDI4/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

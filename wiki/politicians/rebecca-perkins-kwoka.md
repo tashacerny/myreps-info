@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c20b7693-7f2c-4646-af7f-d57518edd1a4
 contact:
   website: "https://openstates.org/person/rebecca-perkins-kwoka-5u9kVUH0DLCOpQkRoIKJ9g/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/SanchezM/images/SanchezM_HS.jpg"
 openstates_id: ocd-person/140d2d97-aae9-433a-b012-ce3775aa81a8
 contact:
   website: "https://openstates.org/person/manny-sanchez-bprsEDFQy9I14LSGZwY12/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

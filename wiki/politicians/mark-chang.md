@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/chang01.jpg"
 openstates_id: ocd-person/5393ab25-fbd9-455b-8da2-76c53e955823
 contact:
   website: "https://openstates.org/person/mark-chang-2XhqZ9bpCCDO1km8YbGEgl/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/David
 openstates_id: ocd-person/0187a0b8-b72e-42f1-82ea-8fdac9b9c484
 contact:
   website: "https://openstates.org/person/david-martin-2syPdyEJul5H92XEwenem/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

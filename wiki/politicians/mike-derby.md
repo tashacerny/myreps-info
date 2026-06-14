@@ -12,5 +12,5 @@ photo_url: "https://lloydcompanies.com/wp/wp-content/uploads/2020/07/Mike-Derby-
 openstates_id: ocd-person/082e4c6e-c16a-4bfa-8c17-9c46952da446
 contact:
   website: "https://openstates.org/person/mike-derby-FR61KEPvrekeTodxZdzWw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/HEK1.jpg"
 openstates_id: ocd-person/3dd1e2a8-3fdd-4d3a-9504-88a04f3fc973
 contact:
   website: "https://openstates.org/person/hannah-kane-1seRt9l4tyYlTSTthxG0gt/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

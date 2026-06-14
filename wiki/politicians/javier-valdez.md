@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/27975.jpg"
 openstates_id: ocd-person/aba2c522-236c-4553-bda2-c02d72e79981
 contact:
   website: "https://openstates.org/person/javier-valdez-5Ds4aaxeD6HOYhM2H4G8kT/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

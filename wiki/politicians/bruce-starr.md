@@ -13,5 +13,5 @@ photo_url: "https://www.oregonlegislature.gov/starr/PublishingImages/member_phot
 openstates_id: ocd-person/e420fffb-7b56-42db-8cc4-531526ad6802
 contact:
   website: "https://openstates.org/person/bruce-starr-6wTKYWtE6uTJTaHqwu5wlW/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

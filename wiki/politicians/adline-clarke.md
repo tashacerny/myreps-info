@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Clarke_97.png"
 openstates_id: ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17
 contact:
   website: "https://openstates.org/person/adline-clarke-2KicJRvVvM1UeFM73QfdaB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

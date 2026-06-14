@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/64e208458934da6e60e3a0
 openstates_id: ocd-person/21a85544-7b2f-4d34-9654-a1ebfaa34881
 contact:
   website: "https://openstates.org/person/bill-irwin-11VfrYA7hbyiqZLmKqzqcb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

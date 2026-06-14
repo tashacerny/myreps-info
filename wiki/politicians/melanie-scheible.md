@@ -13,5 +13,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/
 openstates_id: ocd-person/860029b3-070b-4c23-a826-51948c5d995c
 contact:
   website: "https://openstates.org/person/melanie-scheible-44r2ro9fJUK8OR0uaKPLw4/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

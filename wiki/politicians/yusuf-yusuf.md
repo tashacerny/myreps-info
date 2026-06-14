@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/5bca0b3d2727be3db78cf3
 openstates_id: ocd-person/17a906a0-129a-46f8-b12e-22910db55dbf
 contact:
   website: "https://openstates.org/person/yusuf-yusuf-ie4FYf5dFqDKXAdxSAVQd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

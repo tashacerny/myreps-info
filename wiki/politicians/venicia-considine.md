@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/81st2021/legislators/Assembly/Images/
 openstates_id: ocd-person/00175071-948a-4814-b66e-b07b2ec7785d
 contact:
   website: "https://openstates.org/person/venicia-considine-AeaPgR9cEsn9fq6lPQw1/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

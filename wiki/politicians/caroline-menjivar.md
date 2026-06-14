@@ -12,5 +12,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/m
 openstates_id: ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b
 contact:
   website: "https://openstates.org/person/caroline-menjivar-5P8wHnJzr2HVN2bDJGeYep/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

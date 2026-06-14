@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2367"
 openstates_id: ocd-person/76bc7488-cc9e-4b47-91da-4557fb577ff5
 contact:
   website: "https://openstates.org/person/eric-woods-3c3DZHnYXPXPehKv6n9iCL/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

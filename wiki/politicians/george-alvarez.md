@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/078/headshot/
 openstates_id: ocd-person/722e778a-7824-49fb-bb44-ba1da8bab675
 contact:
   website: "https://openstates.org/person/george-alvarez-3TSMMfFhknERif3Zt5S2Ev/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

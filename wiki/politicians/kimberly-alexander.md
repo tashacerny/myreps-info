@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/alexand
 openstates_id: ocd-person/275b772e-6407-4aaa-8bd6-ceddad1da7fa
 contact:
   website: "https://openstates.org/person/kimberly-alexander-1CGV2PHqu4XxaJYyewg9ZC/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

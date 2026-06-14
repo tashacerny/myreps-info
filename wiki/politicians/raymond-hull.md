@@ -12,5 +12,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/hull.jpg"
 openstates_id: ocd-person/da9a4b15-1cbf-4645-bd98-58ce413b68e1
 contact:
   website: "https://openstates.org/person/raymond-hull-6eUq35iazAldzDfQUehoi9/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

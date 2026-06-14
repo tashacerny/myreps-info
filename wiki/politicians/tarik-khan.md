@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1983.jpg?1703415645
 openstates_id: ocd-person/6fa30029-d933-4f6d-b0fb-343a0c82772c
 contact:
   website: "https://openstates.org/person/tarik-khan-3OedfNBs2OvIq1rRjznUFg/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

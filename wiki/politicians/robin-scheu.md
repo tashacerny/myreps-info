@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Scheu,Robin.jp
 openstates_id: ocd-person/b463b201-086b-4f98-ab96-75a136e8be35
 contact:
   website: "https://openstates.org/person/robin-scheu-5UOB8xRk1dET6ecJTifUsH/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

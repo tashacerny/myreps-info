@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/837c9441-c0d2-497e-80e9-955bf152831b
 contact:
   website: "https://openstates.org/person/j-j-singh-406vVuP0IAiK4NPttA2lMR/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/cf8ab221-3027-4ab8-81bc-66bc28e342fb
 contact:
   website: "https://openstates.org/person/debo-powers-6JcnLFxyrGzjNIMLH2obRj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

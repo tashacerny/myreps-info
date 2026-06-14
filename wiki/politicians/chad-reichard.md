@@ -12,5 +12,5 @@ photo_url: "https://seventy.org/uploads/attachments/cly5z27ztjodi7xnpsnqhzmfb-sc
 openstates_id: ocd-person/851902e6-5649-4c0c-948a-57fb9c1dd40d
 contact:
   website: "https://openstates.org/person/chad-reichard-439POsQhGieqScQZvbadyP/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

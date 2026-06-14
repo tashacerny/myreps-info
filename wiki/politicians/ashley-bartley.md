@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Bartley,Ashley
 openstates_id: ocd-person/62781794-15d5-4362-82db-d6542a0e2f75
 contact:
   website: "https://openstates.org/person/ashley-bartley-2zo84pak76935JwJsGJAer/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

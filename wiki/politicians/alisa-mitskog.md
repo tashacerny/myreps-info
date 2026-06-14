@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897
 contact:
   website: "https://openstates.org/person/alisa-mitskog-4kTkkKaWhkLlchhJfyGwsx/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

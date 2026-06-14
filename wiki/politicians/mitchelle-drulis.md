@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/97251dd4-e275-4347-a757-a05366fa5013
 contact:
   website: "https://openstates.org/person/mitchelle-drulis-4bCnpKawA0fActkGec44BP/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

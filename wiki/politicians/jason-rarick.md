@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/11Rarick.jpg"
 openstates_id: ocd-person/f15c0d42-4380-4f9b-b66d-14ffe61e1a40
 contact:
   website: "https://openstates.org/person/jason-rarick-7LRDYGEENrbWUfXXeemkz2/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

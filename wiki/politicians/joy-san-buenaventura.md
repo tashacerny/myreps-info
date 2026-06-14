@@ -12,5 +12,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/sanbuenaventu
 openstates_id: ocd-person/cac74229-bacc-4358-8208-23cdac57d57c
 contact:
   website: "https://openstates.org/person/joy-san-buenaventura-6AdVht1FRWHLrjzdM7r28y/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

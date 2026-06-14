@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/c-allison-russo/heads
 openstates_id: ocd-person/c58b6767-730d-4486-a08e-462ea3af3bfe
 contact:
   website: "https://openstates.org/person/allison-russo-60lCA8pfJbgoGDgSTScgl4/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://ltgov.vermont.gov/sites/gray/files/inline-images/John%20Rodg
 openstates_id: ocd-person/2cb218ea-52a4-4d1f-9732-217940ba260e
 contact:
   website: "https://openstates.org/person/john-rodgers-1ML3I5ShkrRUuO23xAuMYw/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

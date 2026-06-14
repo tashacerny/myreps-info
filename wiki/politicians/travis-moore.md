@@ -12,5 +12,5 @@ photo_url: "https://scstatehouse.gov/images/members/1365908927.jpg"
 openstates_id: ocd-person/3b778652-2293-4f1d-ae0c-7d2308cbe9af
 contact:
   website: "https://openstates.org/person/travis-moore-1oDAYMEWeK165RHUEVuKSd/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

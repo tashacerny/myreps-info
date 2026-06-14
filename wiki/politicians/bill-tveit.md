@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/50e4864c-095a-43a6-9486-3b071e02ca09
 contact:
   website: "https://openstates.org/person/bill-tveit-2SdoyVN3EQw8B04bvak4Kn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

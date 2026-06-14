@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/2dcaf4be-0227-4ced-b01c-aacd8376c45a
 contact:
   website: "https://openstates.org/person/andrea-olsen-1OPPABn3twPsyE9o6WjNwQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/2
 openstates_id: ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3
 contact:
   website: "https://openstates.org/person/shannon-morris-lmfHDcaVGNsJtpO6k1lpL/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

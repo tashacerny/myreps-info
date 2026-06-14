@@ -12,5 +12,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4890.jpg"
 openstates_id: ocd-person/5bd19ebd-e225-49a5-b0f5-42f6380a9fa8
 contact:
   website: "https://openstates.org/person/jeff-holcomb-2nG66G1rMMu4H15lcGhhv6/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mo.gov/20web/wp-content/uploads/2020/01/010720-00
 openstates_id: ocd-person/98b8120c-7a9c-4415-9e7b-8bfcdc8fa8a5
 contact:
   website: "https://openstates.org/person/tony-luetkemeyer-4eAx9mJCf3Rlkm3Mc4lFp7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

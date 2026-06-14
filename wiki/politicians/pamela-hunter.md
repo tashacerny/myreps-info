@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/128/headshot/
 openstates_id: ocd-person/10fb37a0-e41f-4129-9ed2-7c5b674807da
 contact:
   website: "https://openstates.org/person/pamela-hunter-W2gOkYSfzdsxxdQSk0uVO/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

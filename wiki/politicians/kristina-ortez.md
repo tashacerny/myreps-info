@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HORTE.jpg"
 openstates_id: ocd-person/0dd8a8ff-99c5-4d1a-90fb-3b74398a4141
 contact:
   website: "https://openstates.org/person/kristina-ortez-Q7ugFJY0iu9APdy4Vzr9t/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

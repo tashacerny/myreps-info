@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Cummings,Ann%2
 openstates_id: ocd-person/c34f492a-7cdf-4830-a28a-0ff2fe7c8f71
 contact:
   website: "https://openstates.org/person/ann-cummings-5wXjirGRBNVHn8m96VdxYH/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

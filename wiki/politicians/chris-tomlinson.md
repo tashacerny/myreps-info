@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/tomlinson01.jpg"
 openstates_id: ocd-person/b722dd05-587d-4b70-90b2-37f1e75be01f
 contact:
   website: "https://openstates.org/person/chris-tomlinson-5ZZWlK1VVPfRkhmn8ezPix/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

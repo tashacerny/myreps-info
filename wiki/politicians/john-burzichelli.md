@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/burzichelli_color
 openstates_id: ocd-person/1b726d76-851a-487b-a6e6-42ee4fa5c050
 contact:
   website: "https://openstates.org/person/john-burzichelli-pn5M3Yf7WpaRNNi30T4fQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

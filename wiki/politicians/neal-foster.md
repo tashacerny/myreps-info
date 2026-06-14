@@ -13,5 +13,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/FON.jpg"
 openstates_id: ocd-person/14f39e67-1604-4eb4-8000-99c699f196a0
 contact:
   website: "https://openstates.org/person/neal-foster-dXBCJrP6l99niJ5V1qfRY/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

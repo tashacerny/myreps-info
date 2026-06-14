@@ -12,5 +12,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Woods%2C%20Tom%20Flags%2020
 openstates_id: ocd-person/9b993707-70c1-4e3f-96ee-4257c0cf04e6
 contact:
   website: "https://openstates.org/person/tom-woods-4jbpSxR2NNN3mbJB74llfK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

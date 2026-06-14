@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2024/house/roop_carl.jp
 openstates_id: ocd-person/9f35a509-bd40-4ed2-8792-407169b7a944
 contact:
   website: "https://openstates.org/person/bill-roop-4qQIKaMtdLiKs4CmPcP8NQ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

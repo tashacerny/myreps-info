@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3310.jpg?v=1"
 openstates_id: ocd-person/349071fd-3c36-43c6-aaca-6d7f9d04322d
 contact:
   website: "https://openstates.org/person/donna-howard-1bBbz7vR1ax8dlqV3vVv1J/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

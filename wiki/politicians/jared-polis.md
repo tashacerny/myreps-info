@@ -13,5 +13,5 @@ photo_url: "https://www.colorado.gov/governor/sites/default/files/2019-04/Jared-
 openstates_id: ocd-person/be56ceea-ca7e-46b1-acdd-d4266e9d2893
 contact:
   website: "https://openstates.org/person/jared-polis-5nADF96J2WgY9F8g7rPc7X/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

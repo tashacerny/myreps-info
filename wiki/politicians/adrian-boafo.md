@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2026RS/images/boafo01.jpg"
 openstates_id: ocd-person/a1a2b050-266e-4d44-9463-be3a02e16e41
 contact:
   website: "https://openstates.org/person/adrian-boafo-4v072fpvK53nttTgkWuzz7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

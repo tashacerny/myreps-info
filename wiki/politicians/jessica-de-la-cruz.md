@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/de%20la%20cruz%20NEW%
 openstates_id: ocd-person/03fdc4f3-715d-4f83-ab31-1a63f86a4dcf
 contact:
   website: "https://openstates.org/person/jessica-de-la-cruz-7WwtOAm47r8TYoCowbym7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

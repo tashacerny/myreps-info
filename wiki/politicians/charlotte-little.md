@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HLITC.jpg"
 openstates_id: ocd-person/052e06cd-7f58-4c3c-8640-be1d8842a19b
 contact:
   website: "https://openstates.org/person/charlotte-little-9lzjzzhGttusnTI2fBVfv/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

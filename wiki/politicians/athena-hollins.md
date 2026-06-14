@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/66B.gif?v=112221"
 openstates_id: ocd-person/9f56bc31-f522-4e29-af62-cdc616babc88
 contact:
   website: "https://openstates.org/person/athena-hollins-4qfPv1GIIsyl6icXsG5v9U/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

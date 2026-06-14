@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/892b7901-d71e-4d8b-b8d0-9034a3d4a066
 contact:
   website: "https://openstates.org/person/j-r-henson-4ApoaCWyu6oc2EeY7f29TS/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

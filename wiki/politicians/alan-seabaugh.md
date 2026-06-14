@@ -13,5 +13,5 @@ photo_url: "https://senate.la.gov/SenPics/Sen31.jpg"
 openstates_id: ocd-person/5032448a-7275-4a02-8dc1-d251cdde8ad9
 contact:
   website: "https://openstates.org/person/alan-seabaugh-2RKMENSeFvu1IuYoaHHo6L/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

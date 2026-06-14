@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1963.jpg?1703415645
 openstates_id: ocd-person/009be4f2-d613-4353-8126-6b5642d868bc
 contact:
   website: "https://openstates.org/person/kyle-donahue-19F7a8AvrEjt9vQWehgj6/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

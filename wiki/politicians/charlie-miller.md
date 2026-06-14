@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/778/Low"
 openstates_id: ocd-person/311f0605-29d2-4608-a964-323768582198
 contact:
   website: "https://openstates.org/person/charlie-miller-1Ugni9VwssZHr3MUQJG6ZM/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

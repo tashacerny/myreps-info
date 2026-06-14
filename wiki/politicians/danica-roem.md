@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Roem30
 openstates_id: ocd-person/3a2855f7-5ff7-4c5e-9d28-803d99f19d3f
 contact:
   website: "https://openstates.org/person/danica-roem-1ljzHiTC4FKHvu7FI0hGt5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

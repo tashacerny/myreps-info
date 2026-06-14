@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/6d73b968-c1db-434e-9876-de2fdff30d89
 contact:
   website: "https://openstates.org/person/jeremy-cooney-3KX35KTuI1ZBb7QzOXtNRB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

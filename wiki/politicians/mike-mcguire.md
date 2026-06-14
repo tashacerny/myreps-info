@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/m
 openstates_id: ocd-person/a1394aeb-094a-4fc0-b4d5-005104ceddc0
 contact:
   website: "https://openstates.org/person/mike-mcguire-4uDwk1u7mF3uNJSONooGWG/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

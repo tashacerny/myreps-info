@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/LegislationPictures/robert_quattrocchi
 openstates_id: ocd-person/11bc8a51-bee7-422d-8bb7-6a9177e55735
 contact:
   website: "https://openstates.org/person/bob-quattrocchi-XT21mNJrsrpEyEgSBN5k5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

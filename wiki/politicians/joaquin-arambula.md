@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527
 contact:
   website: "https://openstates.org/person/joaquin-arambula-6u3uyg9EulRo1VENeajVKx/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

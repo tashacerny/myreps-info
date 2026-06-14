@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/ac6ce16b-a462-4727-8e4b-724c7c19e58c
 contact:
   website: "https://openstates.org/person/ralph-boehm-5FMRCiJQ694JyqaWAhU7GG/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

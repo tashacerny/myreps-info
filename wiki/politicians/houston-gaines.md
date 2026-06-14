@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/gaines-
 openstates_id: ocd-person/e73cb2a6-bf3e-4211-a386-142c18a4f607
 contact:
   website: "https://openstates.org/person/houston-gaines-72KxvLe5L1XyA8034YxBDj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

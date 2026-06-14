@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/di
 openstates_id: ocd-person/e3d1a2f1-913b-40ec-8256-36eba043156b
 contact:
   website: "https://openstates.org/person/charlie-shepherd-6vt3rlMmSKB0Q2QwzM130d/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

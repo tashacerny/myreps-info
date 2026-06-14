@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/25Boldon.jpg"
 openstates_id: ocd-person/26ed75ae-3230-4e92-82a3-486bd76e1893
 contact:
   website: "https://openstates.org/person/liz-boldon-1BSE7gjki70dApvBoX1JkR/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

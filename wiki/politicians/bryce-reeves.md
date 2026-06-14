@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Reeves
 openstates_id: ocd-person/adb58f21-f2fd-4830-85b6-f490b0867d14
 contact:
   website: "https://openstates.org/person/bryce-reeves-5Hme0aYVmCMLV64BAyEdAy/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

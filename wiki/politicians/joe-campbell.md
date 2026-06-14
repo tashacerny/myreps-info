@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/campbel
 openstates_id: ocd-person/c862c17f-ed00-41d7-97e5-1138f451a96c
 contact:
   website: "https://openstates.org/person/joe-campbell-667b0g3z3utQQ0mAkbd0Ae/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

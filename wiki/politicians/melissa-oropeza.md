@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/b85886_bf3234c73f3d4fc9860eabd10f
 openstates_id: ocd-person/faf6de90-d016-4f46-8b12-0be42d361030
 contact:
   website: "https://openstates.org/person/melissa-oropeza-7dYtstFzfKY8uan7FlQzqa/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

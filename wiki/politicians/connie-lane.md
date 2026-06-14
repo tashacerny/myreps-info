@@ -12,5 +12,5 @@ photo_url: "https://i1.wp.com/orr-reno.com/wp-content/uploads/2016/09/Connie-Boy
 openstates_id: ocd-person/8171a035-7cc1-4a7f-b086-9bdb800782da
 contact:
   website: "https://openstates.org/person/connie-lane-3wFw74eCd7E6KPnw5I31Ug/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

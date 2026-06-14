@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4874.jpg"
 openstates_id: ocd-person/2f86f22f-b277-4441-b322-b1fbfb017b74
 contact:
   website: "https://openstates.org/person/lavon-bracy-davis-1RgJDBM5HdwwhVoe3q5s3g/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

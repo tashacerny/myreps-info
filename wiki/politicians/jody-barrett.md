@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jody-
 openstates_id: ocd-person/2689e641-85b8-4753-bd0f-28e2cdfc1568
 contact:
   website: "https://openstates.org/person/jody-barrett-1AijAuNZ49izW801mmRJyi/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

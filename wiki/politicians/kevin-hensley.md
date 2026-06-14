@@ -12,5 +12,5 @@ photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/2
 openstates_id: ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c
 contact:
   website: "https://openstates.org/person/kevin-hensley-6MOKP9CfQXhZzjVw74R42O/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

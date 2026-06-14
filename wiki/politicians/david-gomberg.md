@@ -13,5 +13,5 @@ photo_url: "https://www.oregonlegislature.gov/gomberg/PublishingImages/member_ph
 openstates_id: ocd-person/db52dfee-b099-4ec9-800c-075d09710ca6
 contact:
   website: "https://openstates.org/person/david-gomberg-6frBzhN5YJvBJvHzLPkxMc/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/timberlake_britne
 openstates_id: ocd-person/707e3027-d06f-4346-8c11-3ff1becbe725
 contact:
   website: "https://openstates.org/person/britnee-timberlake-3QGo8pUJrBDgbyCuDS7tgr/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

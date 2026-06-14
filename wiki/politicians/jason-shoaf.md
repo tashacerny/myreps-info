@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4756.jpg"
 openstates_id: ocd-person/2bae38cc-f703-446b-93ec-576c0e388760
 contact:
   website: "https://openstates.org/person/jason-shoaf-1KQHxX5Y5PpVGi68e2zBCK/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

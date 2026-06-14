@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/69da16_6b5521b823c14ea8a30142dee2
 openstates_id: ocd-person/4b40718c-8dbd-4df2-a1a0-75a9093778ce
 contact:
   website: "https://openstates.org/person/mary-georges-2HzsGgfBc3TIhuuY3dY9Xi/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

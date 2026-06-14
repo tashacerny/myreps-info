@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Cantrell,%20Josh.jpg"
 openstates_id: ocd-person/7bfc4244-9498-4a20-bdf7-44383688b608
 contact:
   website: "https://openstates.org/person/josh-cantrell-3lxL0V5KL1JWmAmqfgRWrA/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

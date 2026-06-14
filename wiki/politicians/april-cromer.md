@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0434090857.jpg"
 openstates_id: ocd-person/dbb8fc98-5116-44c4-8009-8c91e514dec1
 contact:
   website: "https://openstates.org/person/april-cromer-6gbrF6QminRTceo56ydqC1/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/1e5af6bc-1643-4cfd-b4c1-8b2e86b02c2d
 contact:
   website: "https://openstates.org/person/luis-sepulveda-vHL6RT1wALww7mPn0go6X/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

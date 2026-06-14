@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/TFB1.jpg"
 openstates_id: ocd-person/1f444dfe-d3b3-4852-ab10-0682206d773d
 contact:
   website: "https://openstates.org/person/tricia-farley-bouvier-wzybLZSTy4vhW84kJkHb3/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

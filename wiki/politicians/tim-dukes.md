@@ -13,5 +13,5 @@ photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/2
 openstates_id: ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f
 contact:
   website: "https://openstates.org/person/tim-dukes-UOsi92MiUT1mmHh1tjPX5/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

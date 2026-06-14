@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/anavita
 openstates_id: ocd-person/cb7d8c1d-3c26-4f35-8d37-d1cf8a7ce207
 contact:
   website: "https://openstates.org/person/jason-anavitarte-6Byoh6JnmmK0uEIvTYseDn/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

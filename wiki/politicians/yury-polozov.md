@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/3bc62111-d292-4ae2-a648-43b858308394
 contact:
   website: "https://openstates.org/person/yury-polozov-1on5jsL2yqVDqugiTh3MDU/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

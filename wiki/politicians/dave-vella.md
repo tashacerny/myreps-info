@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{E0F72B4C-2737-483E-84FE-E59
 openstates_id: ocd-person/5da7b2ff-c086-49cd-80bc-9802e426cc00
 contact:
   website: "https://openstates.org/person/dave-vella-2qivMKlrXaLAGI3ew8TFaq/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

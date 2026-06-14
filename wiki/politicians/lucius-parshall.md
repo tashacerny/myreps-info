@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4854b313-26e5-49a3-8095-76298f96ced3
 contact:
   website: "https://openstates.org/person/lucius-parshall-2CU9d4wyKfAGQLTWrdwwct/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

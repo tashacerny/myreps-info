@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/19404ada-b556-4609-9814-f19db9c0a0ad
 contact:
   website: "https://openstates.org/person/phyllis-katsakiores-leBluXotUI0gllBWtugP7/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

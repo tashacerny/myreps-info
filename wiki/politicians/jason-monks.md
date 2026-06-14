@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/9808edb1-15b0-4b9b-91d9-91a97ff7bb4b
 contact:
   website: "https://openstates.org/person/jason-monks-4csufX0MJ6TRrQQQ9PaGPj/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

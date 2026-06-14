@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/ef41a7dd-a84f-47db-b794-2a6c6be48771
 contact:
   website: "https://openstates.org/person/david-milz-7HTAawMPbSOcgPJTQnfZNB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

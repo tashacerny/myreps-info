@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tamar
 openstates_id: ocd-person/c135a4b0-9620-4eef-b561-2b08beda7289
 contact:
   website: "https://openstates.org/person/grace-butler-washington-5sa27MbpyqseyMTznVPNYf/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

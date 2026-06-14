@@ -12,5 +12,5 @@ photo_url: "https://housedemocrats.wa.gov/tmp/sites/68/2021/12/20211005_154818cr
 openstates_id: ocd-person/ff625fe2-be44-459e-8361-73af49b48fbc
 contact:
   website: "https://openstates.org/person/dan-bronoske-7lu02bdshe555Hi3DDU7J6/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house93.
 openstates_id: ocd-person/943724d5-5e02-4d0f-bd79-a74e30f18d1a
 contact:
   website: "https://openstates.org/person/adrielle-camuel-4Vg42hGOTvxtq8whnJ9Lwo/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

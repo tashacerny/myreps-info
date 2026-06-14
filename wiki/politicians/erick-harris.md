@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Erick
 openstates_id: ocd-person/57fd0b98-5608-470a-a70b-971165572afb
 contact:
   website: "https://openstates.org/person/erick-harris-2g1yPrUuA2bfrWEzLnrlLX/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

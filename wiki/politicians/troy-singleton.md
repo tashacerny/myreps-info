@@ -12,5 +12,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/singleton_troy_20
 openstates_id: ocd-person/a1c9ec59-4127-4973-b100-f35c30bb817c
 contact:
   website: "https://openstates.org/person/troy-singleton-4vI2iS1AvCfLpzECwwGxZs/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

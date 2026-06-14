@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/b2021972-0991-4a95-a897-b7e992eac8dd
 contact:
   website: "https://openstates.org/person/paul-dargie-5PtanukfGOFcaqwxmR37ML/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

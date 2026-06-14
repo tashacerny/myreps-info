@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist08/hig
 openstates_id: ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0
 contact:
   website: "https://openstates.org/person/megan-hunt-q4V7sTBEUALH3wr4d5sNk/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/beth-lear/headshots/t
 openstates_id: ocd-person/de0a6483-7c16-43e1-a76b-c0cc98a9d7ed
 contact:
   website: "https://openstates.org/person/beth-lear-6kz2qxrUd0sZKDzkKFGKVh/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

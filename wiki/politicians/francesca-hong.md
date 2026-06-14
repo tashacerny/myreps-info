@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2472.jpg"
 openstates_id: ocd-person/17879a06-e9fc-4e11-88bf-3c684c460c07
 contact:
   website: "https://openstates.org/person/francesca-hong-iOnCoUGUgtDyOO5KUs9GJ/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

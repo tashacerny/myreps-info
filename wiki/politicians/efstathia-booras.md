@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/3ffd7496-524f-40b6-92d8-0e932f002a90
 contact:
   website: "https://openstates.org/person/efstathia-booras-1wkLSDSp0E5o3NeOKH41PE/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

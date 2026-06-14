@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Prisc
 openstates_id: ocd-person/898a7833-5441-4ef4-89f1-f25106589133
 contact:
   website: "https://openstates.org/person/priscilla-prado-4BXEEOMaXSKONd7VPwKMeB/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

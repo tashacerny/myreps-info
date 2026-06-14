@@ -12,5 +12,5 @@ photo_url: "https://cdn.prod.website-files.com/659704f376348afc7dd40409/670080f6
 openstates_id: ocd-person/7e80bacf-6b3d-4f33-b854-06dab80a29bd
 contact:
   website: "https://openstates.org/person/troy-shelley-3qhrUnMPMWx50EyzhNdBMb/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

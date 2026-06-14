@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AnneD
 openstates_id: ocd-person/2b9ac6b5-8979-40b1-b2d1-8241b93061a7
 contact:
   website: "https://openstates.org/person/anne-donworth-1KHOz4bEthb9fptM9HfVEV/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

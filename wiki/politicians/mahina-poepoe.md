@@ -12,5 +12,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Poepoe.jpg"
 openstates_id: ocd-person/c6f087db-713b-43c2-b557-7306f62ee15c
 contact:
   website: "https://openstates.org/person/mahina-poepoe-63OP1Lg3Mvg3UpZaRRN3DI/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

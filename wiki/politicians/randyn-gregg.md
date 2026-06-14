@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rgreg
 openstates_id: ocd-person/55023d46-1fcc-4df9-9b29-6b9f2e9e7a4d
 contact:
   website: "https://openstates.org/person/randyn-gregg-2aPN0oe8gLcqr20Fiqp85F/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

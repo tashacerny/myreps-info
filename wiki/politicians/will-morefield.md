@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/0f77b7d1-a89e-41cd-ae83-28d267dab0e2
 contact:
   website: "https://openstates.org/person/will-morefield-TBaxnwUtYo2wRy15oR5vO/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

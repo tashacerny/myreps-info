@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Price_13.png"
 openstates_id: ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303
 contact:
   website: "https://openstates.org/person/randy-price-7dDBcb1H6299PyZjvDNDv/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

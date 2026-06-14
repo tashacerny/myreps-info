@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/d2b25169-0772-4e97-aa9e-49f82f0f5d08
 contact:
   website: "https://openstates.org/person/javier-mabrey-6PZsZaGbZieltVWbcVJsQC/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

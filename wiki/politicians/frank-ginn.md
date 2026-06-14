@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/ginn-fr
 openstates_id: ocd-person/9e417b67-da09-4516-b858-6b2458f53633
 contact:
   website: "https://openstates.org/person/frank-ginn-4ociCwoMU7111Eudch9DIx/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

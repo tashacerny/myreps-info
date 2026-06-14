@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Adam_
 openstates_id: ocd-person/e6d39a32-9602-4a87-905b-a86eeefe9ae1
 contact:
   website: "https://openstates.org/person/adam-presa-71Yw8gemQvlPXH4c6mHEcz/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

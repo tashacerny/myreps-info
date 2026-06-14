@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/HAWKIJ.jpg"
 openstates_id: ocd-person/e214e4ef-2df9-41a2-9113-98715f5a791c
 contact:
   website: "https://openstates.org/person/jon-hawkins-6sboVMAi03Obmmvucver9A/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

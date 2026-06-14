@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/2410.jpg?v=1"
 openstates_id: ocd-person/93379bbe-5fb3-400f-853a-d0b3553e7772
 contact:
   website: "https://openstates.org/person/mary-gonzalez-4TnHgAl7QCLnDENiZr2kp0/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

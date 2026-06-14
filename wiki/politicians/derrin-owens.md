@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/OWENSD.jpg"
 openstates_id: ocd-person/ef1c9af3-b4f9-4eeb-b63d-a22f01c84262
 contact:
   website: "https://openstates.org/person/derrin-owens-7HCEnwgmSMVDRv3F0mEOoM/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---

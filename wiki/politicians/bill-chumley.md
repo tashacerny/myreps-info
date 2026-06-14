@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0351704504.jpg"
 openstates_id: ocd-person/20240c0c-69e5-445f-b8ca-d33dd377e086
 contact:
   website: "https://openstates.org/person/bill-chumley-yeE8V5OHLAvlPyIJHWyIA/"
-last_updated: "2026-06-07"
+last_updated: "2026-06-14"
 ---
