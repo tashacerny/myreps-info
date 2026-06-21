@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: F000483
 contact:
   website: "https://friedman.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

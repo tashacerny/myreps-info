@@ -12,6 +12,6 @@ term_start: "2017-01-03"
 bioguide_id: H001076
 contact:
   website: "https://www.hassan.senate.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

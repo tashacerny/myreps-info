@@ -13,6 +13,6 @@ term_start: "2011-01-03"
 bioguide_id: D000616
 contact:
   website: "https://desjarlais.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

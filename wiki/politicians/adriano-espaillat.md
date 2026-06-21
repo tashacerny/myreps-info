@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: E000297
 contact:
   website: "https://espaillat.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

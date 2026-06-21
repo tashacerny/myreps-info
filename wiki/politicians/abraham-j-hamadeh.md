@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: H001098
 contact:
   website: "https://hamadeh.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2014-01-03"
 bioguide_id: N000188
 contact:
   website: "https://norcross.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2009-01-03"
 bioguide_id: T000469
 contact:
   website: "https://tonko.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

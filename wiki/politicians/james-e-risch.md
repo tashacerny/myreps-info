@@ -12,6 +12,6 @@ term_start: "2009-01-03"
 bioguide_id: R000584
 contact:
   website: "https://www.risch.senate.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

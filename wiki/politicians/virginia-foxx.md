@@ -13,6 +13,6 @@ term_start: "2005-01-03"
 bioguide_id: F000450
 contact:
   website: "https://foxx.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

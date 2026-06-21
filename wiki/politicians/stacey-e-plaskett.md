@@ -12,6 +12,6 @@ term_start: "2015-01-03"
 bioguide_id: P000610
 contact:
   website: "https://plaskett.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

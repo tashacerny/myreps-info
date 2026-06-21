@@ -12,6 +12,6 @@ term_start: "1999-01-03"
 bioguide_id: S000148
 contact:
   website: "https://www.schumer.senate.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

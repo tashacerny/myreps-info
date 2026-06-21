@@ -13,6 +13,6 @@ term_start: "2003-01-03"
 bioguide_id: D000600
 contact:
   website: "https://mariodiazbalart.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

@@ -13,6 +13,6 @@ term_start: "1993-01-03"
 bioguide_id: S000185
 contact:
   website: "https://bobbyscott.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

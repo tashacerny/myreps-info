@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: M001188
 contact:
   website: "https://meng.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

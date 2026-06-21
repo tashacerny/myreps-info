@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: O000175
 contact:
   website: "https://ogles.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

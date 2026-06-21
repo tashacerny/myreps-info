@@ -12,6 +12,6 @@ term_start: "2009-01-03"
 bioguide_id: S001181
 contact:
   website: "https://www.shaheen.senate.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

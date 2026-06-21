@@ -13,6 +13,6 @@ term_start: "2012-01-03"
 bioguide_id: B001278
 contact:
   website: "https://bonamici.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

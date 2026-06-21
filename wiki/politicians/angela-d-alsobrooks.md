@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: A000382
 contact:
   website: "https://alsobrooks.senate.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

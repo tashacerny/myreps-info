@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: C001110
 contact:
   website: "https://correa.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

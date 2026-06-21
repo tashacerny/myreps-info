@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: D000635
 contact:
   website: "https://dexter.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

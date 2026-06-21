@@ -12,6 +12,6 @@ term_start: "2010-01-03"
 bioguide_id: C001088
 contact:
   website: "https://www.coons.senate.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2003-01-03"
 bioguide_id: S001156
 contact:
   website: "https://lindasanchez.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

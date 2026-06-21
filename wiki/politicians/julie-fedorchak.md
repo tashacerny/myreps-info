@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: F000482
 contact:
   website: "https://fedorchak.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

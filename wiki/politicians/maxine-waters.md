@@ -13,6 +13,6 @@ term_start: "1991-01-03"
 bioguide_id: W000187
 contact:
   website: "https://waters.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

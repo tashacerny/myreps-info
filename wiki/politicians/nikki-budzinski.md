@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: B001315
 contact:
   website: "https://budzinski.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

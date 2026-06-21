@@ -12,6 +12,7 @@ photo_url: "https://www.congress.gov/img/member/69eb9743277642362f6112ce_200.jpg
 term_start: "2026-01-03"
 bioguide_id: M001246
 contact:
-last_updated: "2026-06-14"
+  website: "https://mejia.house.gov/"
+last_updated: "2026-06-21"
 ---
 

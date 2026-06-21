@@ -12,6 +12,6 @@ term_start: "2011-01-03"
 bioguide_id: M000934
 contact:
   website: "https://www.moran.senate.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: F000472
 contact:
   website: "https://franklin.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

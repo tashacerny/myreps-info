@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: J000302
 contact:
   website: "https://johnjoyce.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

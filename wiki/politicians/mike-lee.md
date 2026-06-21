@@ -11,7 +11,7 @@ photo_url: "https://www.congress.gov/img/member/l000577_200.jpg"
 term_start: "2011-01-03"
 bioguide_id: L000577
 contact:
-  website: "https://openstates.org/person/mike-lee-ZXpkU4U7yU9kmDHpZ22Vg/"
-last_updated: "2026-06-14"
+  website: "https://www.lee.senate.gov/"
+last_updated: "2026-06-21"
 ---
 

@@ -12,6 +12,6 @@ term_start: "2017-01-03"
 bioguide_id: D000622
 contact:
   website: "https://www.duckworth.senate.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

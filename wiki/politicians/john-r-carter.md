@@ -13,6 +13,6 @@ term_start: "2003-01-03"
 bioguide_id: C001051
 contact:
   website: "https://carter.house.gov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

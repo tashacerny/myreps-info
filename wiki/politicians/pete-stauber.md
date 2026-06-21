@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: S001212
 contact:
   website: "https://stauber.house.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 

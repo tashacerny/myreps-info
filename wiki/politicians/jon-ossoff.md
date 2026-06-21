@@ -12,6 +12,6 @@ term_start: "2021-01-03"
 bioguide_id: O000174
 contact:
   website: "https://www.ossoff.senate.gov"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
 
