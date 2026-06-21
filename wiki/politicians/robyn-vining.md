@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2530.jpg"
 openstates_id: ocd-person/5faa0c8c-6ceb-4629-819b-b13779b93754
 contact:
   website: "https://openstates.org/person/robyn-vining-2uVyzGyGaAwo1fEwV37b0e/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

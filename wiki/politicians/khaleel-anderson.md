@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/031/headshot/
 openstates_id: ocd-person/cf330444-ddcb-44aa-882d-f1488c42533e
 contact:
   website: "https://openstates.org/person/khaleel-anderson-6Iyj2AqSpnr246wivLexI6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

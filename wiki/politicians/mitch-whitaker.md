@@ -13,5 +13,5 @@ photo_url: "https://whitakerforky.com/wp-content/uploads/2023/10/174675061_44958
 openstates_id: ocd-person/3f4b9459-8c62-4d89-b2d6-9d0e951ed24f
 contact:
   website: "https://openstates.org/person/mitch-whitaker-1vR3VHJYmSOcMVZEpEF1DT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

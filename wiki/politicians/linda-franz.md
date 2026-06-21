@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Linda
 openstates_id: ocd-person/61c86857-d1d9-401b-a045-3f4bac5b3312
 contact:
   website: "https://openstates.org/person/linda-franz-2yVqDZvbcKb4KW2rmeq8WI/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

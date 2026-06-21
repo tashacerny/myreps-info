@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/
 openstates_id: ocd-person/a12a3103-37b0-4ac4-81f0-100aaad494e3
 contact:
   website: "https://openstates.org/person/julie-pazina-4u72rZHfKqg98b1ivvm3tL/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

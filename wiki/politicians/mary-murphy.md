@@ -13,5 +13,5 @@ photo_url: "https://www.marymurphynh.com/__static/f58f47d1-c80b-4bd0-84ac-d2badd
 openstates_id: ocd-person/bdc7b519-4849-4992-b21b-f5563d642285
 contact:
   website: "https://openstates.org/person/mary-murphy-5m6oc1uBdhWrGdaGn01z2z/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

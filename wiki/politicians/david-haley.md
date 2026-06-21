@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/606b1f70a46bfa6ea792c0
 openstates_id: ocd-person/0a700e33-0ae7-4627-936c-982317c26b9d
 contact:
   website: "https://openstates.org/person/david-haley-Jh8EKgqYLhn1GicL0iFaf/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

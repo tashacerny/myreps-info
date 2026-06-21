@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/auth_robert_2017.
 openstates_id: ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77
 contact:
   website: "https://openstates.org/person/bob-auth-5GRDlNmNSXQ91P9OetHkHv/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

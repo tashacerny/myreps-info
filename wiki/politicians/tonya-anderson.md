@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/anderso
 openstates_id: ocd-person/d9f1ea57-7b90-484a-9664-927a36c87e0c
 contact:
   website: "https://openstates.org/person/tonya-anderson-6dFtDTK3WQuxaaH2ZDhVpU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

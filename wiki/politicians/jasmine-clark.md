@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/clark-j
 openstates_id: ocd-person/0461f02b-df18-4984-8b3b-ada287879d0a
 contact:
   website: "https://openstates.org/person/jasmine-clark-8Gj5GVqYVp38qaWIkslI2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/108/headshot/
 openstates_id: ocd-person/0ce05d4e-e231-4d3e-8ba5-179499230adc
 contact:
   website: "https://openstates.org/person/john-mcdonald-OIRS2sRSMkHixTv1AoIrE/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

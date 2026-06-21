@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_hawkins_daniel_1.jp
 openstates_id: ocd-person/26eb8f32-d499-4b8b-82c6-8fef014633a3
 contact:
   website: "https://openstates.org/person/dan-hawkins-1BRMHN73dWgdc0XhSSKX11/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

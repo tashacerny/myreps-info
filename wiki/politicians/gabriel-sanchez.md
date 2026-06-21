@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Gabri
 openstates_id: ocd-person/bd990496-ea34-4b79-8d6f-68cfed424c15
 contact:
   website: "https://openstates.org/person/gabriel-sanchez-5llTi08XnArzVngdWU5DYj/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

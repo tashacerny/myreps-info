@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/chapman_lau
 openstates_id: ocd-person/599fd572-0475-4215-8d43-1474237f5a78
 contact:
   website: "https://openstates.org/person/laura-chapman-2j7MOzHFMb6cMSnwhjOOl6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

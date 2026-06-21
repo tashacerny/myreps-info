@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/ae1f415b-958c-4a4c-805b-626e6eca5fe3
 contact:
   website: "https://openstates.org/person/andrew-gounardes-5IYwoSBDxbxdSM6ARSQh4l/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

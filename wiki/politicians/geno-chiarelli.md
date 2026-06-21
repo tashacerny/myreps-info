@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/chiarelli_ge
 openstates_id: ocd-person/409397ae-ceea-4b1b-bce5-b042af057232
 contact:
   website: "https://openstates.org/person/geno-chiarelli-1xqxRz6lATcuqnzC2S4xco/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

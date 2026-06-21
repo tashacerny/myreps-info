@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/adb6f661-e282-42a5-8b55-cb1e5f56aa5a
 contact:
   website: "https://openstates.org/person/moira-rader-5HnHlolUkpHeU2vOfUdfRa/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

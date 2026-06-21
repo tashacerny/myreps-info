@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1981.jpg?1703415645
 openstates_id: ocd-person/1f2c3093-8ce7-41f7-8df0-6cd14ddd354b
 contact:
   website: "https://openstates.org/person/ben-waxman-woxKMJNf1nWyArpWNL4bz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/be2c0041-9ca1-48d1-8244-023a31458b5e
 contact:
   website: "https://openstates.org/person/terry-falk-5mqeL40xbdE0ULOCjX7fQs/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

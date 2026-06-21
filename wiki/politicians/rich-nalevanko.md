@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/34a4f745-0a57-454d-acc0-598c6fcc35ce
 contact:
   website: "https://openstates.org/person/rich-nalevanko-1bKzPydeW1NcAmOd8K7h5a/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

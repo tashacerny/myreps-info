@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-WharffRobert.jpg"
 openstates_id: ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251
 contact:
   website: "https://openstates.org/person/bob-wharff-5jMu8mUtd4ouAyEJiDJqGf/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

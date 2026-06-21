@@ -12,5 +12,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2496.jpg"
 openstates_id: ocd-person/710a050b-1721-4e81-bc01-ad3193836e4d
 contact:
   website: "https://openstates.org/person/sylvia-ortiz-velez-3RIi8nI6TtNybJ5FgkxqhB/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

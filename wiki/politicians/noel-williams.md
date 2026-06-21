@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/william
 openstates_id: ocd-person/3252da04-a17e-4298-b19d-9dd2fbf29ded
 contact:
   website: "https://openstates.org/person/noel-williams-1WxTjmNvf6hcURgroLRSSz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kelli
 openstates_id: ocd-person/97821235-4116-44d1-b58b-acf822bbdc58
 contact:
   website: "https://openstates.org/person/kellie-deeter-4btHbrwi65giSXnYi3xiqu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/af2974f4-4889-4ea5-9cfd-93d68e2d39a2
 contact:
   website: "https://openstates.org/person/jim-kasper-5KWbO9PmN80q1D20t1jTco/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

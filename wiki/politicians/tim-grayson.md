@@ -13,5 +13,5 @@ photo_url: "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos
 openstates_id: ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0
 contact:
   website: "https://openstates.org/person/tim-grayson-4bGPABbsw6dFRBia5mPAC8/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

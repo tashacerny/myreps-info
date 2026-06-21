@@ -12,5 +12,5 @@ photo_url: "https://gov.nv.gov/uploadedImages/gov2022nvgov/content/AboutUs/Gover
 openstates_id: ocd-person/d2c166cc-f53f-491d-9c4a-6c3fc68274fe
 contact:
   website: "https://openstates.org/person/joe-lombardo-6Pglx3scCLnxGhhejxX4co/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

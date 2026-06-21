@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/d43df0c7-0dfd-4640-9881-f37611c15830
 contact:
   website: "https://openstates.org/person/sue-salisbury-6SUgAmrjatMa6szFB7wd0K/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

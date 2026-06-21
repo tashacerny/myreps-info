@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house16.
 openstates_id: ocd-person/3fac3a9c-78ad-4b24-8483-f1786fac9c9e
 contact:
   website: "https://openstates.org/person/jason-petrie-1w9Dyd7lhsQSOJoNfJ51Sg/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

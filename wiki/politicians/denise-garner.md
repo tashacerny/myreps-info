@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/555_sm.jpg"
 openstates_id: ocd-person/e8e66020-d749-42e0-9e4e-35962d7f31f4
 contact:
   website: "https://openstates.org/person/denise-garner-75TV6lG88jwpGvsT5fQ0N2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

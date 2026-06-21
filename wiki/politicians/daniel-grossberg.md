@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house30.
 openstates_id: ocd-person/d4dd968d-1508-476b-bde1-7504a47288f0
 contact:
   website: "https://openstates.org/person/daniel-grossberg-6TfddhjZlxm9Fmo4K5ocPA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

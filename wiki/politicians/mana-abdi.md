@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/0bb988f9-6dca-4fd8-ac06-3603af31094f
 contact:
   website: "https://openstates.org/person/mana-abdi-M7hjNhu8ChD4R91jf7X5T/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

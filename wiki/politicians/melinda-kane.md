@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a33ec105-c8ff-446b-ae8b-1a79f402f983
 contact:
   website: "https://openstates.org/person/melinda-kane-4y2QX3XBkPBPg4TmSynxYZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

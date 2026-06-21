@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/taylor-
 openstates_id: ocd-person/bc40f904-9c20-41d0-80d5-e5645d3e6935
 contact:
   website: "https://openstates.org/person/rhonda-taylor-5jEFVM3KYIQrlVkmagSJ2j/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

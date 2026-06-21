@@ -13,5 +13,5 @@ photo_url: "https://sdaho.org/wp-content/uploads/2018/03/nick-fosness-big-696x96
 openstates_id: ocd-person/1f9d8833-6a73-4985-b33e-635b6bc194b7
 contact:
   website: "https://openstates.org/person/nick-fosness-xekmD8KnLR07t15OMxZWZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

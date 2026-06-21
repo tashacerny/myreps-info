@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/eldridge_jef
 openstates_id: ocd-person/e43a22ad-b630-496b-81f8-6b1f6ceaa13e
 contact:
   website: "https://openstates.org/person/jeff-eldridge-6weokRXRjvvjtknJkPucow/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/jackson
 openstates_id: ocd-person/9046fcb2-f3eb-4233-bd92-32c94e60f9df
 contact:
   website: "https://openstates.org/person/derrick-jackson-4OFKqftYdeWBH68Xp5zhrL/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

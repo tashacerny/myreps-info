@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/mallow-
 openstates_id: ocd-person/73918c45-83c1-4d52-a84d-3ad7ad8de40b
 contact:
   website: "https://openstates.org/person/derek-mallow-3W4dG0KknLaN8bm6oF1hPf/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

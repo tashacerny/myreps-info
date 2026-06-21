@@ -13,5 +13,5 @@ photo_url: "https://www.house.texas.gov/images/members/4480.jpg?v=1"
 openstates_id: ocd-person/5c40c2b0-07c1-4c73-b15b-14d0ef6df40e
 contact:
   website: "https://openstates.org/person/caroline-fairly-2o4tA3aohdr1OeuxSVioMY/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

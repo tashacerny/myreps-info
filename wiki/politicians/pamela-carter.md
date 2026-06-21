@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Pamel
 openstates_id: ocd-person/d78cb0f9-fd3c-472e-aeb8-716abd42f26e
 contact:
   website: "https://openstates.org/person/pamela-carter-6Yje4oDSutYtydFGTafCgw/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

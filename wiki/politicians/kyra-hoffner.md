@@ -12,5 +12,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83
 contact:
   website: "https://openstates.org/person/kyra-hoffner-5Wl6940zaJOTGPrHluA2xX/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

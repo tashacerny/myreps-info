@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/0ddba0a3-ab07-4d9a-ab04-5883d59a42f1
 contact:
   website: "https://openstates.org/person/scott-rosenzweig-Q9Gl1UzIanMl8V60cDdI1/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Goodwin,%20Regina.jpg
 openstates_id: ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19
 contact:
   website: "https://openstates.org/person/regina-goodwin-1NPWChlbJGOzRUULa4FCkz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

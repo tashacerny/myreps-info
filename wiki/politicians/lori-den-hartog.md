@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/di
 openstates_id: ocd-person/d3ee525f-429f-4ac6-ba52-e947881a3e6c
 contact:
   website: "https://openstates.org/person/lori-den-hartog-6RuIFSoghIEAi6fU5nioN2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

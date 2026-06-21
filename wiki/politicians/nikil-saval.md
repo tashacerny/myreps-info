@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1921.jpg?1703415645
 openstates_id: ocd-person/6f172bc8-50b0-4dd3-aed6-b5fd48b70eeb
 contact:
   website: "https://openstates.org/person/nikil-saval-3Ncjit0kIYPupCwBeHeOWx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

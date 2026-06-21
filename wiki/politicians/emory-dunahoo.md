@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/dunahoo
 openstates_id: ocd-person/3b2b9f31-6859-4582-8d82-581597c0c178
 contact:
   website: "https://openstates.org/person/emory-dunahoo-1neTuqxVSyHzUgEJtBNULI/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

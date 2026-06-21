@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_winn_valdenia_1.jpg
 openstates_id: ocd-person/8d608ede-12f3-4ec4-8206-2c3dde0db6b7
 contact:
   website: "https://openstates.org/person/val-winn-4Im2o0vEkn7loBaWm6dSCt/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

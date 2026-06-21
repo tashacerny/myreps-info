@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/al-landis/headshots/t
 openstates_id: ocd-person/debec71d-fcfb-4422-9c9e-c6a8709cbb3a
 contact:
   website: "https://openstates.org/person/al-landis-6mJTtvC2hy8Os9JciOOPEo/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

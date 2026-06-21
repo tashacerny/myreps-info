@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/65a09d4d50790252eca6f8
 openstates_id: ocd-person/7ab0cf86-d569-4a6e-8677-8cd7721a9475
 contact:
   website: "https://openstates.org/person/matt-kishman-3jVrj9elOqCgxLRTrAV0dx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

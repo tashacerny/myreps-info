@@ -12,5 +12,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/CAI.jpg"
 openstates_id: ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543
 contact:
   website: "https://openstates.org/person/ashley-carrick-oUy4oaGzyBicDrPH5puOx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

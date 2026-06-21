@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30549"
 openstates_id: ocd-person/54f49ddd-7a13-4639-87de-7db8760ed5c5
 contact:
   website: "https://openstates.org/person/jeff-reichman-2aJ91ex9qVovQ8nZZ2QoeT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

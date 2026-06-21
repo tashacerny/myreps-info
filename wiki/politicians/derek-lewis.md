@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house90.
 openstates_id: ocd-person/60ef609e-8aed-4698-a626-664f536a6122
 contact:
   website: "https://openstates.org/person/derek-lewis-2wuersLMLfsALWrxL5c8oc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://straffordcountydemocraticcommittee.org/wp-content/uploads/20
 openstates_id: ocd-person/78fa874f-3651-424e-a8c7-094b2d89de95
 contact:
   website: "https://openstates.org/person/john-stone-3gHZPKkqtCHttDe1oNWHOH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

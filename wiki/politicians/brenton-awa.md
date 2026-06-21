@@ -12,5 +12,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/awa.jpg"
 openstates_id: ocd-person/be1149eb-5b0c-48fb-b9f2-9bee875479cc
 contact:
   website: "https://openstates.org/person/brenton-awa-5meRTIqByfWwUMStwwHG3w/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

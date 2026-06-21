@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2021RS/images/amprey01.jpg"
 openstates_id: ocd-person/b6c25db2-72d7-47d0-a70d-f598d135180a
 contact:
   website: "https://openstates.org/person/marlon-amprey-5YrQbAMt8q7Z4fXu3fvoUM/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

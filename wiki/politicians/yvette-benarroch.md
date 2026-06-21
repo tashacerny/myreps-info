@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Yvett
 openstates_id: ocd-person/88aacea0-124a-4980-b046-90cfb0cda4db
 contact:
   website: "https://openstates.org/person/yvette-benarroch-49t0xlEEoPflzqm0KQzWfr/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

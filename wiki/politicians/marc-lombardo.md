@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/MTL1.jpg"
 openstates_id: ocd-person/398f9a47-bc65-4c2a-b12e-347f375d8fac
 contact:
   website: "https://openstates.org/person/marc-lombardo-1kcBjQE6veXaKuSqB88nOu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

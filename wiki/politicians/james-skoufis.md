@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/c1f048f2-6e1d-4e1b-b161-d97e2f16c1f8
 contact:
   website: "https://openstates.org/person/james-skoufis-5txKR7krSgL31QmJGICoVk/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

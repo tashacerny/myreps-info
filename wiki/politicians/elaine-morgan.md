@@ -12,5 +12,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/morgan.jpg"
 openstates_id: ocd-person/6913b936-2e96-414a-80d6-6518f5accb7e
 contact:
   website: "https://openstates.org/person/elaine-morgan-3CHCtVxsO92uPWQVW3qBzy/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

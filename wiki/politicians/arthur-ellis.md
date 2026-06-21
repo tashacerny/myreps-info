@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2019RS/images/ellis01.jpg"
 openstates_id: ocd-person/ad59d051-2efb-495f-b032-524d21a95e50
 contact:
   website: "https://openstates.org/person/arthur-ellis-5H6iUJ7bbPefkwoRLhIFmq/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

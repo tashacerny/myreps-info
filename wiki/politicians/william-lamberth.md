@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h44.jpg"
 openstates_id: ocd-person/5026d19f-d4ec-47b2-b106-f318a45e8585
 contact:
   website: "https://openstates.org/person/william-lamberth-2RF7pxb4BZ1QfHmcnTPSyb/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mn/graphics/50Wiklund.jpg"
 openstates_id: ocd-person/d2fb6801-379e-481c-9313-2ac099d3a775
 contact:
   website: "https://openstates.org/person/melissa-wiklund-6Q7HSfoDoofPF6V81Ygp1x/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

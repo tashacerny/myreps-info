@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate11
 openstates_id: ocd-person/34ed9881-46b8-41ba-b625-3d350140d2b9
 contact:
   website: "https://openstates.org/person/rick-girdler-1bsBJjFtFLI4xElfRJFFYf/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

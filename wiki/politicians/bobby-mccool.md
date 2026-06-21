@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house97.
 openstates_id: ocd-person/22e056d2-728a-425a-a0a1-19e0e5cc59cb
 contact:
   website: "https://openstates.org/person/bobby-mccool-13oGGe5EADl5QLW9KwCac7/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

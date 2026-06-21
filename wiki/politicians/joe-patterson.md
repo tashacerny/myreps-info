@@ -12,5 +12,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc
 contact:
   website: "https://openstates.org/person/joe-patterson-64iQefFynSk8D5MrZClWCy/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

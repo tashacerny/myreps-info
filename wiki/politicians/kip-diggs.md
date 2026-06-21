@@ -13,5 +13,5 @@ photo_url: "https://www.capecod.com/wp-content/uploads/NWS_Kip-Diggs_JS081720.jp
 openstates_id: ocd-person/df1a3cfc-1555-4a05-8a5c-03a7e53932aa
 contact:
   website: "https://openstates.org/person/kip-diggs-6mzHLce1c3ejnlbB85IPso/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

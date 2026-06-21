@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/e2a84cfb-4ec9-4c0c-879b-27e51dbd6674
 contact:
   website: "https://openstates.org/person/joanna-king-6thB88zlX6vXEKSPZRT5Vs/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

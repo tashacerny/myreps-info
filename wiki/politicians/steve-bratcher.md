@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house25.
 openstates_id: ocd-person/e0860aa8-43ba-4bf2-94d7-3632c7375ab6
 contact:
   website: "https://openstates.org/person/steve-bratcher-6pfXNlbCxK1dd8exOkw2WU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

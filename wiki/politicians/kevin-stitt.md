@@ -13,5 +13,5 @@ photo_url: "https://oklahoma.gov/content/dam/ok/en/governor/images/gov-stitt-off
 openstates_id: ocd-person/b4b14ac3-5ee6-4404-a4fc-ec6ea805ac90
 contact:
   website: "https://openstates.org/person/kevin-stitt-5Uxdm6qdpdcqiTebzQXHCi/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

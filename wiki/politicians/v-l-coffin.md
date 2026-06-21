@@ -12,5 +12,5 @@ photo_url: "https://www.vnews.com/attachments/46/46923146.jpg"
 openstates_id: ocd-person/72cf372e-7fd5-40f8-bd04-ccd85fe57e5e
 contact:
   website: "https://openstates.org/person/v-l-coffin-3Udp1ncaM6lOUYuD43HZ5q/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

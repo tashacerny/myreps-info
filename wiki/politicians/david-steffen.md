@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2519.jpg"
 openstates_id: ocd-person/2a067a93-dffc-4ce7-8975-d37fb67b4512
 contact:
   website: "https://openstates.org/person/david-steffen-1HIdadBv6ocyZThBle7LXO/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

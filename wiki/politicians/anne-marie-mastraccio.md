@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/56960ccd-b154-42ae-9fb3-c323e07c23b1
 contact:
   website: "https://openstates.org/person/anne-marie-mastraccio-2dNucDg4RNwIlxXfpe09NR/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/2830876f-1a4d-4332-ae2a-a97607c4e1b9
 contact:
   website: "https://openstates.org/person/janet-wall-1DprzmmhY3YHHaKDWfMTTV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brock
 openstates_id: ocd-person/de8e2d6f-efd8-45f5-b261-5963db78b909
 contact:
   website: "https://openstates.org/person/brock-martin-6lxGr7resjQVjhRmsA9H6v/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

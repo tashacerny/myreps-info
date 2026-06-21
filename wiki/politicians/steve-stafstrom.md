@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Stafstrom/images/Stafstrom_HS.jpg"
 openstates_id: ocd-person/cb252e7b-fffb-4bda-b951-d2b54a3c37e3
 contact:
   website: "https://openstates.org/person/steve-stafstrom-6BKQvrVVpI3f3nvJxNQQSp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/073/headshot/
 openstates_id: ocd-person/9c986c4c-5371-4b77-b095-5a7283a93729
 contact:
   website: "https://openstates.org/person/alex-bores-4lUSYI546YP2Qd6zuv6xlx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

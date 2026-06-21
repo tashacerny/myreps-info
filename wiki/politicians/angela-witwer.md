@@ -12,5 +12,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/0db39d07-a543-4e52-82b0-457f406855e8
 contact:
   website: "https://openstates.org/person/angela-witwer-Pqyzjp23DQzBGmruGkn1M/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

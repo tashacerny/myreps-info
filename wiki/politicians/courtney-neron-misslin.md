@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/neron/PublishingImages/member_phot
 openstates_id: ocd-person/2bf5a8ca-cadb-4544-89e2-749f13673599
 contact:
   website: "https://openstates.org/person/courtney-neron-misslin-1Kww4eXrCJvU67OS8h25KD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

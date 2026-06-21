@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1649715712.jpg"
 openstates_id: ocd-person/dbc0a5ad-b105-4cd9-8849-e2a7c77d23f0
 contact:
   website: "https://openstates.org/person/heath-sessions-6gfMIN4FxoGKXrNghFpRMu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

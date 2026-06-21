@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Bagby1
 openstates_id: ocd-person/fa49c701-d235-4f56-b9af-b772dec36d02
 contact:
   website: "https://openstates.org/person/lamont-bagby-7cHnTtVGTcXW6sbBG2Y2du/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

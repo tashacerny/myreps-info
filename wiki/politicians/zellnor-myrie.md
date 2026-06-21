@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/52c0e400-2385-4c12-8bf4-6b9205c18eb2
 contact:
   website: "https://openstates.org/person/zellnor-myrie-2W9WMrIZovzFCgYZe7bmza/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

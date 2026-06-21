@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/03774445-16e9-4857-8015-317a3d8705a3
 contact:
   website: "https://openstates.org/person/gerry-ward-6XTspSDZcI65eSPQC9GSZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

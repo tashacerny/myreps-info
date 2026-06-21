@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Heath
 openstates_id: ocd-person/b14568dd-d9f5-4557-8ccd-0d000c231650
 contact:
   website: "https://openstates.org/person/heather-baldwin-5OVMSAuZ8VjCxTnsdd3kLA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

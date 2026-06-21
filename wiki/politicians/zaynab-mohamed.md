@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/63Mohamed.jpg"
 openstates_id: ocd-person/332e30b5-dc8d-4074-9c16-6e2a6255d135
 contact:
   website: "https://openstates.org/person/zaynab-mohamed-1YZiUnrAwiymltSnKADchx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

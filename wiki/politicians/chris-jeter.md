@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/8f56f62b-e700-4fdc-b35a-bba408d3e6cf
 contact:
   website: "https://openstates.org/person/chris-jeter-4MTdwmczSSBs3cuB0YHWjH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

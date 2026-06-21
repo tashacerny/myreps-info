@@ -13,5 +13,5 @@ photo_url: "https://mcdonnellforsalem.files.wordpress.com/2022/05/img-8527.jpg?w
 openstates_id: ocd-person/8c0d6811-045b-46ca-91c6-86e360249246
 contact:
   website: "https://openstates.org/person/valerie-mcdonnell-4GH3G4wWbz5crX4zmX0O6Y/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

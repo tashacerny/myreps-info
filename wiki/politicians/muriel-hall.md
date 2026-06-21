@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c85e3c8a-f2b9-40d5-a830-7c59a1328bf4
 contact:
   website: "https://openstates.org/person/muriel-hall-665WxSD60r6AxKBNQfwt1Q/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

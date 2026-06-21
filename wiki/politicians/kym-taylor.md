@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kym_T
 openstates_id: ocd-person/f14ad8e7-adc9-44f2-95eb-8b29c34aa4dc
 contact:
   website: "https://openstates.org/person/kym-taylor-7LJM4sflm7cylvHHZuLHMC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

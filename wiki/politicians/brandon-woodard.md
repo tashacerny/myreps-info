@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_woodard_brandon_1.j
 openstates_id: ocd-person/c56cf970-39c2-4821-8723-a85dfe09cd6b
 contact:
   website: "https://openstates.org/person/brandon-woodard-60XHy9TXUiGrHUwZZS5TOl/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

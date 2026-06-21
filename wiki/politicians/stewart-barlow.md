@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/BARLOSE.jpg"
 openstates_id: ocd-person/b5285658-1e71-48a2-8641-a2bc75957b24
 contact:
   website: "https://openstates.org/person/stewart-barlow-5Vq2oPtp65VqU89J7Qs0ea/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

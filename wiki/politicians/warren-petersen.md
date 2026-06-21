@@ -13,5 +13,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/PETERSEN.
 openstates_id: ocd-person/66e496a4-a407-4af1-add3-ef6899b89807
 contact:
   website: "https://openstates.org/person/warren-petersen-389gJmcYxni26ndfg2NWq7/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

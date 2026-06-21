@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/d59798_0699f998a916470598404706be
 openstates_id: ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682
 contact:
   website: "https://openstates.org/person/ellen-pogemiller-624kbHFHc3zy3nUHVM0tj0/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

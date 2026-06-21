@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/6d1fcaf0-ed3d-4772-876f-09dc5e931556
 contact:
   website: "https://openstates.org/person/barbara-kirkmeyer-3JugxkfPwIzAg4Lc7g5hGo/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

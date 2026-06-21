@@ -13,5 +13,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/86b7914b-08e6-4ac7-bcd6-b4afa4dceb09
 contact:
   website: "https://openstates.org/person/vernon-smith-46CrT9CzWHYHcFmja9BRRR/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

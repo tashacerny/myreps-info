@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-KnappChristopher.jp
 openstates_id: ocd-person/ffe52a1f-bc33-424a-bd8c-a2df967ac83a
 contact:
   website: "https://openstates.org/person/chris-knapp-7mrlr4kY3PsPmqBQvQEZdi/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

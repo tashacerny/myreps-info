@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2
 contact:
   website: "https://openstates.org/person/mandy-lindsay-18mVHCeRep3usBu5k6zIR8/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

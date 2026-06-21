@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/dba46a90-f765-4508-a9e1-9bfdeb4a03dd
 contact:
   website: "https://openstates.org/person/mary-fortier-6gSSOlw7RL6x8itXxyQwAv/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

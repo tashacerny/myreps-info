@@ -12,5 +12,5 @@ photo_url: "https://cdnsm5-ss10.sharpschool.com/UserFiles/Servers/Server_1939879
 openstates_id: ocd-person/9ddc7811-2c18-44e0-b0c9-dccded290a3e
 contact:
   website: "https://openstates.org/person/patrick-biggins-4nsY629WPBPQiypRWExBWA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

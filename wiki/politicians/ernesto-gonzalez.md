@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ernes
 openstates_id: ocd-person/6e5dc279-9e21-4971-9d63-eaf55886db57
 contact:
   website: "https://openstates.org/person/ernesto-gonzalez-3MG0GMU5oq8rMyVFIqtoX9/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

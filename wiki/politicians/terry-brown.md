@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/783/Low"
 openstates_id: ocd-person/1ac38d5f-d089-4589-bcc4-bef1f1675956
 contact:
   website: "https://openstates.org/person/terry-brown-oVAQHHAc56B82vNfGbZSA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

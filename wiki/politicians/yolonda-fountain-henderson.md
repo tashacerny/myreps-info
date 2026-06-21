@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2385"
 openstates_id: ocd-person/6f65a218-7bef-4fa3-b86c-907ed92296d8
 contact:
   website: "https://openstates.org/person/yolonda-fountain-henderson-3OCasNRJczXok7DVXPQAv2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

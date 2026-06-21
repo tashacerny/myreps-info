@@ -13,5 +13,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2021/01/Bryan-Posthumus
 openstates_id: ocd-person/c925c469-552f-448d-a89f-ef456e15da21
 contact:
   website: "https://openstates.org/person/bryan-posthumus-67YiTfxRWuATbkmEL8w3lZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/3f5f30c4-b021-4232-a66c-526b4778fe5a/-/pro
 openstates_id: ocd-person/01cb22d6-e0f5-478e-99b2-801ffbf32d2b
 contact:
   website: "https://openstates.org/person/mike-gaskill-3NpCIXFir9ebcjAkK0oix/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

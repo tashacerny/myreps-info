@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/f68bf624-cad5-4db2-9c74-a49a33348018
 contact:
   website: "https://openstates.org/person/jason-ellsworth-7VE4eNxYgeIgN1kuKclBto/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

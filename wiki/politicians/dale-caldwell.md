@@ -12,5 +12,5 @@ photo_url: "https://www.nj.gov/governor/library/secondary/ltgov_LGDaleCaldwell_n
 openstates_id: ocd-person/45caac41-0f71-4243-99cc-bb18b7b82386
 contact:
   website: "https://openstates.org/person/dale-caldwell-27h5isnewr0UxjbkFcxhg6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

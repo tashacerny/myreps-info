@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c15709b9-8514-4e8f-8a52-6b464eb8484d
 contact:
   website: "https://openstates.org/person/cathryn-harvey-5spIKCukeeBVw0ZjuQbadJ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

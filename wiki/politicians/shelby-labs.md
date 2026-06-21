@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1911.jpg?1703415645
 openstates_id: ocd-person/7c0b9792-8ece-4ae8-b0f3-f5d4b79ff9f1
 contact:
   website: "https://openstates.org/person/shelby-labs-3m4LSZGZDUfx5SRyWjsPGD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

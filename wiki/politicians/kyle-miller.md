@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/a67ee82c-450c-49ed-8862-f58e34a3dfbb
 contact:
   website: "https://openstates.org/person/kyle-miller-54AioqwLfIFJ0u7qNcFIGB/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

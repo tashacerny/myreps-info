@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Ledbetter_24.p
 openstates_id: ocd-person/097b764f-5d8c-462e-a962-3330c50721a4
 contact:
   website: "https://openstates.org/person/nathaniel-ledbetter-HtLu5riwTai7JpGu1u0ii/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

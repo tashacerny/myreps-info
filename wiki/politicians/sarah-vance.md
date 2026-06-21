@@ -13,5 +13,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/VAN.jpg"
 openstates_id: ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50
 contact:
   website: "https://openstates.org/person/sarah-vance-74ds8IEbCOyAqZk8BtwNFI/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

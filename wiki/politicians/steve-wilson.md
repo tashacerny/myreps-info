@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/steve-wilson/headshot
 openstates_id: ocd-person/26444e7e-72b2-4838-bc24-31899c90d504
 contact:
   website: "https://openstates.org/person/steve-wilson-1ACvKIoK9DV4v8Qg7e5tDA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Parsons,%20Joe
 openstates_id: ocd-person/54baf00b-c1da-4dc9-95cc-3210c50360e8
 contact:
   website: "https://openstates.org/person/joseph-parsons-2ZsmkFSqdyL6YOyzCCBODw/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

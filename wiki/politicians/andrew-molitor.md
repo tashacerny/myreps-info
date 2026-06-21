@@ -12,5 +12,5 @@ photo_url: "https://ogden_images.s3.amazonaws.com/www.observertoday.com/images/2
 openstates_id: ocd-person/ba5fb3f1-a049-45a1-abd7-77b132e789d6
 contact:
   website: "https://openstates.org/person/andrew-molitor-5fgJARmg29epCCPZrZnaX0/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/williamsonherald.com/co
 openstates_id: ocd-person/83e732c5-55af-4d56-b3ed-9ff358ed641e
 contact:
   website: "https://openstates.org/person/jack-johnson-40teTE2iR71dcF9lJ76l14/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

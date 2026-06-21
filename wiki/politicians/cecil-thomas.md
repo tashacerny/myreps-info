@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/cecil-thomas/headshot
 openstates_id: ocd-person/5ba7ae7d-2f10-42b7-8784-8e734507ce33
 contact:
   website: "https://openstates.org/person/cecil-thomas-2mwvoNLdpHsJkpohapA1P1/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

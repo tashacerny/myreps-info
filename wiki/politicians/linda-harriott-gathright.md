@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/1e2b57f6-dbb9-4069-a71b-d40828c80cfa
 contact:
   website: "https://openstates.org/person/linda-harriott-gathright-uvZpQYAsjpoW61EvRf8lm/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

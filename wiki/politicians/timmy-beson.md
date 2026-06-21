@@ -12,5 +12,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2021/01/HS_BESON_1220_N
 openstates_id: ocd-person/6b7aadaf-f690-487f-bec8-95f095f6b565
 contact:
   website: "https://openstates.org/person/timmy-beson-3GoF4sAFk3LdFGUVB4QuNZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

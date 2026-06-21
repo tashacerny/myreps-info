@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/bill-reineke/headshot
 openstates_id: ocd-person/10733ff7-ee19-4e86-9b5e-65619ddbf7bf
 contact:
   website: "https://openstates.org/person/bill-reineke-V2Xt1aAUjKiVKPJQJPhmB/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

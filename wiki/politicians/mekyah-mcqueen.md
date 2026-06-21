@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/a3388b_311f34c52195445d89b52eadd1
 openstates_id: ocd-person/f0af2586-d535-4e44-bcaa-65239f9390b1
 contact:
   website: "https://openstates.org/person/mekyah-mcqueen-7KACRSPLHXNBBmQBYGQRN3/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

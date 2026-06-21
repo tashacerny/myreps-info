@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/newportvermontdailyexpr
 openstates_id: ocd-person/5a58d1ac-7e52-457a-b6f4-c46a46d073e2
 contact:
   website: "https://openstates.org/person/richard-nelson-2kTtmzimJA18DSNL3Mltuk/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

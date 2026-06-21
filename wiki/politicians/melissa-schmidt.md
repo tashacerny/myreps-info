@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/530e0b_df591691a465401684e3625621
 openstates_id: ocd-person/7839a137-9de7-440a-bad8-20db1e0ead3b
 contact:
   website: "https://openstates.org/person/melissa-schmidt-3erPnWf8SqtHQy35ZuqWEN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

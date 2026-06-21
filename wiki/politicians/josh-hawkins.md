@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/80182
 openstates_id: ocd-person/5ad5b396-01a0-40eb-8d4b-0f76f2727406
 contact:
   website: "https://openstates.org/person/josh-hawkins-2lOyDdmexP5UdPzIEoPkqU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

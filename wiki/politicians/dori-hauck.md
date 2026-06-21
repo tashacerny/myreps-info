@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8
 contact:
   website: "https://openstates.org/person/dori-hauck-2vXtDiaHKKDqKyhJmvgzIe/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

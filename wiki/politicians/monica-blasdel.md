@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/monica-robb-blasdel/h
 openstates_id: ocd-person/062b9622-c2fa-4af2-bbea-704f0450dd47
 contact:
   website: "https://openstates.org/person/monica-blasdel-Bds7wJKkC3zIO0vmB5iaN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

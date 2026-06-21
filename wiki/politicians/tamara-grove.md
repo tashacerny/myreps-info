@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tamar
 openstates_id: ocd-person/e195011d-04f8-4e39-a9f9-b804495b3f2c
 contact:
   website: "https://openstates.org/person/tamara-grove-6rfMrTPWTViQxjKiy2vhVc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

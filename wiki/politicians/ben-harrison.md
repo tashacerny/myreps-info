@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Harrison_2.png
 openstates_id: ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a
 contact:
   website: "https://openstates.org/person/ben-harrison-4wAYE3nauCpvqyZlPwRfmE/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

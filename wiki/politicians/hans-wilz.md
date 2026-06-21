@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33970"
 openstates_id: ocd-person/831144f3-e67d-4706-a018-abec3c492269
 contact:
   website: "https://openstates.org/person/hans-wilz-3zJszQiHjmKDBtVjJrgVy5/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

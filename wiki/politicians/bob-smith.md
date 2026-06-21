@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/smith_bob_2021.jp
 openstates_id: ocd-person/177d44ba-0c93-4e26-b245-84aa2239f7b4
 contact:
   website: "https://openstates.org/person/bob-smith-iK4QL9ml0J9CbVNebwJds/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

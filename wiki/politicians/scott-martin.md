@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1763.jpg?1703415645
 openstates_id: ocd-person/c2fcd2dc-22f8-4ec2-b70a-439bc6d60802
 contact:
   website: "https://openstates.org/person/scott-martin-5vw3EZ3StY7gSigrJqp2d0/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

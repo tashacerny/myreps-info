@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/orrock-
 openstates_id: ocd-person/bf2c1ec5-d995-4605-85ac-139adb037d99
 contact:
   website: "https://openstates.org/person/nan-orrock-5ojhEyhy91AYbhStnt7kGf/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/turner-ford.jpg"
 openstates_id: ocd-person/74d0c9b2-58a2-41a7-b2a0-582924a45adf
 contact:
   website: "https://openstates.org/person/angela-turner-ford-3YQWcvpBtkwWBWCLcJtwjP/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

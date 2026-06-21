@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{07674912-6AF6-4045-B60C-094
 openstates_id: ocd-person/37f0e4e6-fd0c-4bae-8def-f0ab80f722ff
 contact:
   website: "https://openstates.org/person/lakesia-collins-1hYfLdJIfJY64dV4oVmKGV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

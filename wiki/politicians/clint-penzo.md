@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/637_sm.jpg
 openstates_id: ocd-person/6c773215-c5d7-4039-bcb2-d2abe9053e39
 contact:
   website: "https://openstates.org/person/clint-penzo-3Ifdv3mjtcmNfCodkFMhLt/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

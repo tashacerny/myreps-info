@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/35A.gif?v=112221"
 openstates_id: ocd-person/ed5f1cc0-ff12-461e-9016-0ef27f180430
 contact:
   website: "https://openstates.org/person/zack-stephenson-7DueAi2DuZe3PeJBrY2HHU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

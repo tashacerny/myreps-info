@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_blex_doug_1.jpg"
 openstates_id: ocd-person/050b34c6-14a3-4998-a67a-13c02217a666
 contact:
   website: "https://openstates.org/person/doug-blex-9W58VX7GeIjlJgSQ2snQc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

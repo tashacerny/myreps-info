@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/5b58dd7d-acb3-4554-9e4e-c1281155f4ab
 contact:
   website: "https://openstates.org/person/doug-miller-2mMucafGfj0SDh9Vbz1Tz9/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

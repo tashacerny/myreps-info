@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/senate/2688.jpg"
 openstates_id: ocd-person/1152309b-c82f-4660-bd5d-3e16322f1200
 contact:
   website: "https://openstates.org/person/dan-knodl-WgQgbK3dxMmQmBFc3VEw4/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

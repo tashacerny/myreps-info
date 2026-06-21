@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/16B.gif?v=112221"
 openstates_id: ocd-person/c0275aeb-e2ff-44c7-b4ab-cae4bf495d84
 contact:
   website: "https://openstates.org/person/dave-baker-5qaVkfSeKJYwwvRh9GTJnY/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

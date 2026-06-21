@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/65cccc6e88ea086805c145
 openstates_id: ocd-person/65c05666-3d38-4098-b2fc-6a519f21f71f
 contact:
   website: "https://openstates.org/person/ellie-sato-3607elLJmMA9QMqDL2ZZ3n/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

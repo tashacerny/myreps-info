@@ -13,5 +13,5 @@ photo_url: "https://www.burbankca.gov/documents/1626247/0/20210330-nick-schultz-
 openstates_id: ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600
 contact:
   website: "https://openstates.org/person/nick-schultz-CbU3IlEwRvkiRayenxdTc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

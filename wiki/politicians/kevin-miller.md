@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/kevin-d-miller/headsh
 openstates_id: ocd-person/cefb7a31-f46c-4145-9f38-901be3b70e60
 contact:
   website: "https://openstates.org/person/kevin-miller-6IZLNTklqNNV1Ll3ayiwM4/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

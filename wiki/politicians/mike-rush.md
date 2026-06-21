@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/MFR0.jpg"
 openstates_id: ocd-person/6a82d675-3496-48af-88cf-23c26355b01f
 contact:
   website: "https://openstates.org/person/mike-rush-3EyyjqQ8sSmAT60KWr5KJD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

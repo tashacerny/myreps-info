@@ -12,5 +12,5 @@ photo_url: "https://rhodeislandcurrent.com/wp-content/uploads/2024/09/1-Lori-Urs
 openstates_id: ocd-person/e676d270-0470-40c2-ab57-e8ced3471005
 contact:
   website: "https://openstates.org/person/lori-urso-70sXIJX1W9bNv5OEvTNbjJ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

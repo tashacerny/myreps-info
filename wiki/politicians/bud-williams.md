@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/BLW1.jpg"
 openstates_id: ocd-person/b23dd64e-a05c-4fe1-8562-c29436ca79bb
 contact:
   website: "https://openstates.org/person/bud-williams-5QKtPyVwMvhtaEEAAXLgxX/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

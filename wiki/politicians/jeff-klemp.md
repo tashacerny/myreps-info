@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JeffK
 openstates_id: ocd-person/49a02bbc-55ad-456e-9175-d51041b583de
 contact:
   website: "https://openstates.org/person/jeff-klemp-2EvdZ2vTWhNOWCpxTnB366/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

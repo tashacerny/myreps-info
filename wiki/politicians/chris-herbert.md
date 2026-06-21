@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/7eb393f4-db93-4fbd-95bc-3491d9a6ca93
 contact:
   website: "https://openstates.org/person/chris-herbert-3r56EX6FYy3duWQ95EW6GR/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

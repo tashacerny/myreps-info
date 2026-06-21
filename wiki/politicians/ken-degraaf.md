@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/767c8676-7cf0-45bf-9e20-e615d4d13c5e
 contact:
   website: "https://openstates.org/person/ken-degraaf-3ba0Agi5Zd9UYw4O2LcUvu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

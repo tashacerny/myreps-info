@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/483aaa6b-d64a-48d0-8bc4-bca6c252f8dc
 contact:
   website: "https://openstates.org/person/becky-laubinger-2CIFzA2hpihlyxEsq1DF88/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/scharf/PublishingImages/member_pho
 openstates_id: ocd-person/a22ec130-3ba7-4304-9e6f-3a950b8454cb
 contact:
   website: "https://openstates.org/person/anna-scharf-4w27gHZDINDrIrpbmLrDHH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/tubb.jpg"
 openstates_id: ocd-person/820dcd6c-fdeb-4244-8ceb-7f5ce3048674
 contact:
   website: "https://openstates.org/person/bubba-tubb-3xPJEZaBGlJDhWRQT2PSYG/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

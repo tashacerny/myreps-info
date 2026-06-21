@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/a0b3e01c-d323-4624-a0da-6a1e2b0dfb31
 contact:
   website: "https://openstates.org/person/jessica-ramos-4tEyUIQT2NxVYmsVepNqTZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

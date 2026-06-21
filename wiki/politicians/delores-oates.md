@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/aabaa796-77f3-4b39-a626-ae05944ec484
 contact:
   website: "https://openstates.org/person/delores-oates-5C9zoSBEixGNC63cZwwkYW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/85361b50-c848-444c-9f54-c9203fe94777
 contact:
   website: "https://openstates.org/person/valerie-moore-43Mhn62XW3gcC45NGdxSHH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house91.
 openstates_id: ocd-person/91eec267-436a-49a5-9d41-b6b2632d0a51
 contact:
   website: "https://openstates.org/person/bill-wesley-4RN02ukmg0xxWERpWpqjFh/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

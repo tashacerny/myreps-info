@@ -2,17 +2,15 @@
 name: Robert Garcia
 slug: robert-garcia
 party: Democratic
-state: California
-level: federal
+state: CA
+level: state
 chamber: House
-office: U.S. Representative, California-42
-district: 42
+office: CA State House, District 50
+district: 50
 in_office: true
-photo_url: "https://www.congress.gov/img/member/g000598_200.jpg"
-term_start: "2023-01-03"
-bioguide_id: G000598
+photo_url: "https://www.joincalifornia.com/candidate_pic.php?id=15124"
+openstates_id: ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d
 contact:
-  website: "https://robertgarcia.house.gov"
+  website: "https://openstates.org/person/robert-garcia-4EdVkA20krliymrbdTNNrp/"
 last_updated: "2026-06-21"
 ---
-

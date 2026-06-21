@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/0828d1f5-5772-4e62-88d8-1650abb8b749
 contact:
   website: "https://openstates.org/person/cinthia-moore-FOanK4U2xT8KfxKbBRvRZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

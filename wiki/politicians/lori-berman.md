@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s26_
 openstates_id: ocd-person/762d321c-5bbe-4513-b9f0-7e3d8a6972f5
 contact:
   website: "https://openstates.org/person/lori-berman-3azkRWxa3076oE1tREvrsL/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

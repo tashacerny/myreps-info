@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/51B.gif?v=112221"
 openstates_id: ocd-person/63b26a4d-ae7c-4267-89ab-dfa4a1f341ad
 contact:
   website: "https://openstates.org/person/nathan-coulter-327m8MBqhlyA6feJxzf2FR/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

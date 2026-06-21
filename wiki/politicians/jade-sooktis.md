@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/098c3584-23ff-4de0-a002-94955787083b
 contact:
   website: "https://openstates.org/person/jade-sooktis-I10PaTeDNONJDPDWFObRj/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

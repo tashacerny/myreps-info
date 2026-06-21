@@ -12,5 +12,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2019/01/Victory-580x7
 openstates_id: ocd-person/cd36ab04-a62b-41fa-8b91-d6c792f6719e
 contact:
   website: "https://openstates.org/person/roger-victory-6FEPRYucnlr8vxrpjO8bk6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

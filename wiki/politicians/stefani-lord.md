@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HLORD.jpg"
 openstates_id: ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7
 contact:
   website: "https://openstates.org/person/stefani-lord-7GuXLbw18yMd1sNEVYbbk7/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

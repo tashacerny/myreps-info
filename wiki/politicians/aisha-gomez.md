@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/62A.gif?v=112221"
 openstates_id: ocd-person/09493dc0-a224-4cf6-a859-1384ffeda8a0
 contact:
   website: "https://openstates.org/person/aisha-gomez-HWOwLDPm2QTeyZT2LRbP6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

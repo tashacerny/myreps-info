@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/1e43a5b4-e63c-434a-977c-592174c2c635
 contact:
   website: "https://openstates.org/person/victor-rountree-v6gS196cGP6Ezy1DqlMUn/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

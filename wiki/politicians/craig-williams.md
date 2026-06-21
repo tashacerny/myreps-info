@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1916.jpg?1703415645
 openstates_id: ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e
 contact:
   website: "https://openstates.org/person/craig-williams-6rU5RhL8XjIeTjymUnwjWg/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

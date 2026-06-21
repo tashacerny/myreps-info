@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/81d4b739-eb62-4dae-85db-9e053fb0d886
 contact:
   website: "https://openstates.org/person/curt-cochran-3wzDjbIIz75R8nrc1XNG8U/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

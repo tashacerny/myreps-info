@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4
 contact:
   website: "https://openstates.org/person/cindy-rosenwald-7QFkPHHEYIKfSZ06eHVloq/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

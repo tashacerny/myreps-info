@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{79A5CDE2-DD9F-423E-83F0-464
 openstates_id: ocd-person/436c1e53-1203-4ce3-9931-d22f9e3c406a
 contact:
   website: "https://openstates.org/person/omar-aquino-23DtYupEXfMqwaZD1hO2ig/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

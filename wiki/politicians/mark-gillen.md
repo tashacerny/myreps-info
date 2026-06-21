@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1209.jpg?1703415645
 openstates_id: ocd-person/cd92c819-d5aa-4df3-ba96-2315dbdf4555
 contact:
   website: "https://openstates.org/person/mark-gillen-6FuVOiircpSlYZNbNcqy7J/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

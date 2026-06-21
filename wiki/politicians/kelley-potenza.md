@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/b9b6f587-2395-497d-8f04-dfaae1b3d7f4
 contact:
   website: "https://openstates.org/person/kelley-potenza-5eRBy0tjYlyEzqO8hA7j0u/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

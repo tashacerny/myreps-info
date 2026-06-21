@@ -13,5 +13,5 @@ photo_url: "https://www.cthousegop.com/piscopo/wp-content/uploads/sites/52/2016/
 openstates_id: ocd-person/e7f7ad52-69a8-4306-8dfe-02368f74d75b
 contact:
   website: "https://openstates.org/person/john-piscopo-73iPo5hCZOWhG1GYbIXkJH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

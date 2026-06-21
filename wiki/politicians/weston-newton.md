@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1418749830.jpg"
 openstates_id: ocd-person/eba4b1a4-14ca-44dd-93ab-25cdd3cbd5fd
 contact:
   website: "https://openstates.org/person/weston-newton-7AeSeZpR5k8PcccY6AU6Un/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

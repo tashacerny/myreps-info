@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_droge_duane_1.jpg"
 openstates_id: ocd-person/75db09fb-b9dd-4c6f-ae73-bfde55d7dd62
 contact:
   website: "https://openstates.org/person/duane-droge-3aOCbi8YgfOj0RYFzXtl0k/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

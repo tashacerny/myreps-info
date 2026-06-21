@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house83.
 openstates_id: ocd-person/ff91cf3b-77a1-47b0-81b3-1c18f006349a
 contact:
   website: "https://openstates.org/person/josh-branscum-7mFg4BtmH1NOAtdLtSB01K/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

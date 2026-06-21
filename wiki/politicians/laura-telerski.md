@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/ac414b7c-45dc-48b6-9530-eaa8e80b124f
 contact:
   website: "https://openstates.org/person/laura-telerski-5F2WFBFOrakCDf1PN6UOAp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

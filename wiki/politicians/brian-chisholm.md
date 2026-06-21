@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/chisholm01.jpg"
 openstates_id: ocd-person/395603e6-0fdf-4cf6-bacb-18d98c848990
 contact:
   website: "https://openstates.org/person/brian-chisholm-1kBs2qODgmTOVMmTsKGKnY/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "http://www.gencourt.state.nh.us/house/images/memberpics/408351.jpg"
 openstates_id: ocd-person/2a474f9c-7a7d-4d4f-8c7c-73ade8e11ad8
 contact:
   website: "https://openstates.org/person/kevin-scully-1HmGY7zyaOJfZZ9bjIARhI/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

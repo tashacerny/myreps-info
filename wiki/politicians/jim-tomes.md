@@ -13,5 +13,5 @@ photo_url: "https://cdn.zephyrcms.com/a18fe9f0-b8a3-411e-bcc2-6d9fb9423a19/-/pro
 openstates_id: ocd-person/c2c98fe8-fef2-4d38-93f6-9eff4d591bed
 contact:
   website: "https://openstates.org/person/jim-tomes-5vYcmmnElZiMuHHh6BfZd7/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

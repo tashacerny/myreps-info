@@ -13,5 +13,5 @@ photo_url: "https://www.mass.gov/files/styles/570x/public/2023-01/PRINTFINAL-Sho
 openstates_id: ocd-person/d90a06b9-0edf-4fda-a823-4247987244dc
 contact:
   website: "https://openstates.org/person/maura-healey-6bXuqphPjXmzbuic1qb61E/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

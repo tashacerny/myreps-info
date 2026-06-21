@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/c3b0c2fc-c7bf-45f8-8ee3-50d5a57bad08
 contact:
   website: "https://openstates.org/person/elizabeth-bennett-parker-5xGHby7P3nSqhNXdE1zdNo/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

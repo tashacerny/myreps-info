@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4825494b-dbbb-44f4-a4a7-dee1df0a87ae
 contact:
   website: "https://openstates.org/person/molly-howard-2C8UDhet39djfzCzc4tLLy/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

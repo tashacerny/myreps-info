@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/1b986e08-1270-49ba-b6d0-941a950d3008
 contact:
   website: "https://openstates.org/person/donald-ardell-q4S734TF7Ye8w0WwhLhyC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

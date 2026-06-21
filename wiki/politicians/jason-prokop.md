@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/dda3cdbe-5e52-439e-ac68-02588b6d7cab
 contact:
   website: "https://openstates.org/person/jason-prokop-6kEA5djwaISyU0M5OS8DZz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Harrison,James
 openstates_id: ocd-person/bd5d142d-90c3-41f6-b8af-7591316951da
 contact:
   website: "https://openstates.org/person/jim-harrison-5lK5OCI7RyFCa0M21lHRNK/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

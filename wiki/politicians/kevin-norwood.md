@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/7a7aca64-e9e6-465e-a423-6e4cf939c67a
 contact:
   website: "https://openstates.org/person/kevin-norwood-3j7B7RBxqKTtMI7PW1sT7q/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

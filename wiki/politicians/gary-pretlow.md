@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/089/headshot/
 openstates_id: ocd-person/be7ad489-073e-476e-82a0-992ca0569b99
 contact:
   website: "https://openstates.org/person/gary-pretlow-5nQftMZ3P4ACAi8kJzwVb7/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

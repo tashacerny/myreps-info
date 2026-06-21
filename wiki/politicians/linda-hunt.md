@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/9a681fc4-e005-4c1f-a16b-6fa2b02106e3
 contact:
   website: "https://openstates.org/person/linda-hunt-4hMOzuF3hi1wFccNoWSlEZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

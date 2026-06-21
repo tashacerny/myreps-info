@@ -13,5 +13,5 @@ photo_url: "http://www.gencourt.state.nh.us/house/images/memberpics/376994.jpg"
 openstates_id: ocd-person/9839219c-e885-4957-99e8-01ebb78583de
 contact:
   website: "https://openstates.org/person/bill-ohm-4dEwS2hDbrSA8fGJmZOVby/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

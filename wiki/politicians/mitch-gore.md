@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/30a1de33-efbb-41e1-bf59-bf8171089a3a
 contact:
   website: "https://openstates.org/person/mitch-gore-1TlbXo2Wixa2wdNej7Dk2U/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

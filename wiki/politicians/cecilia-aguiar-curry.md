@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c
 contact:
   website: "https://openstates.org/person/cecilia-aguiar-curry-22z8AalOo8QsISWxTrruf6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

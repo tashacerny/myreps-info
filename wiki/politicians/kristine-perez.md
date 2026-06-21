@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/ea8d6a3b-8312-4ffe-a85a-e8a9776ec560
 contact:
   website: "https://openstates.org/person/kristine-perez-78apXetnHgPOEtkS0icjjs/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

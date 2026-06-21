@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/32Koran.jpg"
 openstates_id: ocd-person/f20a4255-6c65-4091-a0f5-aea70f133cdb
 contact:
   website: "https://openstates.org/person/mark-koran-7MipYW03TreCDs47IjrE43/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

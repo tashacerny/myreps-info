@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Turco/images/Turco_HS.jpg"
 openstates_id: ocd-person/36b9eb8c-9fd8-4f6e-ba6b-fddb03bf3be3
 contact:
   website: "https://openstates.org/person/gary-turco-1fGYBWypIcu0JPLKonco8B/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

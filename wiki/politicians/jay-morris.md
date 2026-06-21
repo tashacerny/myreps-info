@@ -13,5 +13,5 @@ photo_url: "https://senate.la.gov/SenatorPics/Sen35.jpg"
 openstates_id: ocd-person/9d6aa1d9-76b2-41ad-a3e0-4fa86da08645
 contact:
   website: "https://openstates.org/person/jay-morris-4n2WdTmmG1tkZxeRlhNFXp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

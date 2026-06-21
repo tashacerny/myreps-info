@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/a3fd29b8-0e0e-4559-a71f-6f7cf20be60f
 contact:
   website: "https://openstates.org/person/rachel-talbot-ross-4zRRax5iRHE1GzXTiRhRKp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

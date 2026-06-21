@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4843.jpg"
 openstates_id: ocd-person/2c1c37bb-fd17-46d6-9694-8f2757f6da3e
 contact:
   website: "https://openstates.org/person/daryl-campbell-1LEYadT0OqLvGqErklEq1m/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

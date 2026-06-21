@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s31_
 openstates_id: ocd-person/cd3ba8e7-7c51-444b-bff3-e0c29de30660
 contact:
   website: "https://openstates.org/person/gayle-harrell-6FGgscXTUI7qUuaNqrNWKm/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

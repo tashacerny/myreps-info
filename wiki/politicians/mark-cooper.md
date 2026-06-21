@@ -12,5 +12,5 @@ photo_url: "https://lh6.googleusercontent.com/iaonAoAk251JqJvVIy5Mb5RzkB2TaV80v3
 openstates_id: ocd-person/0e9ec0ba-18f6-4dd5-90c2-5893f0216138
 contact:
   website: "https://openstates.org/person/mark-cooper-RaRSENfcnrxGpjDhiim2y/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

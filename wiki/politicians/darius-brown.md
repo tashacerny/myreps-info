@@ -12,5 +12,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/8c5ff346-9896-489e-be96-db9d46d846da
 contact:
   website: "https://openstates.org/person/darius-brown-4Gsm3oVyKGCu3Eh4C5lUy2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

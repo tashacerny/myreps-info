@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2021/senate/martin_patri
 openstates_id: ocd-person/69547a9d-4e96-4ea8-94eb-528e40d5d004
 contact:
   website: "https://openstates.org/person/patrick-martin-3CkngImXiBVgIK9VOEWMMu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

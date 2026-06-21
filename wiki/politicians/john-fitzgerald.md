@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/9f4f8b82-e4ee-4e50-a2ea-d46bbf264d34
 contact:
   website: "https://openstates.org/person/john-fitzgerald-4qc8Bx81tnMunIzjqOkGqC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

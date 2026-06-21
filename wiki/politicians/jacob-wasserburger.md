@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-WasserburgerJacob.j
 openstates_id: ocd-person/b598ad4e-6124-4863-ac74-dbb13630e7db
 contact:
   website: "https://openstates.org/person/jacob-wasserburger-5WfNr0eKVQZmJ1DysoNaTT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

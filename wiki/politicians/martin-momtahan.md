@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/momtaha
 openstates_id: ocd-person/6552dd8d-1020-4bbb-abfc-88975573ebd4
 contact:
   website: "https://openstates.org/person/martin-momtahan-35C5rm660SCQ9lhclSxd92/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

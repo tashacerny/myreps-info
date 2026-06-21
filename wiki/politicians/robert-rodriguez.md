@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/ab377224-ab70-4c20-a535-baa429520e7c
 contact:
   website: "https://openstates.org/person/robert-rodriguez-5D51ep378RcdlGv0r9pRgC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

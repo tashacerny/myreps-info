@@ -12,5 +12,5 @@ photo_url: "https://www.billingsmt.gov/ImageRepository/Document?documentId=49492
 openstates_id: ocd-person/d0749550-4529-4d4b-8278-41e6a1a8da42
 contact:
   website: "https://openstates.org/person/denise-joy-6LLgKKwmeBTC7HrYkTwLuU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0438636311.jpg"
 openstates_id: ocd-person/a8c8738a-88f3-4a32-a61e-96004425b2c3
 contact:
   website: "https://openstates.org/person/ronnie-cromer-58UJgGwD6mI8tFZbyKoYst/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

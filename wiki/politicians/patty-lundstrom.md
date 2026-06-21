@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HLUND.jpg"
 openstates_id: ocd-person/94eed261-74bb-4f8b-a0ab-62b2a7ff8e98
 contact:
   website: "https://openstates.org/person/patty-lundstrom-4X20O4HbTvHes6HLfoReKu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

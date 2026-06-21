@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0608238564.jpg"
 openstates_id: ocd-person/bbff9a4c-7b59-4538-b869-64ba0c8431ff
 contact:
   website: "https://openstates.org/person/cal-forrest-5ikNJ2LnqMrVjJrssUGMKl/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

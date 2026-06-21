@@ -12,5 +12,5 @@ photo_url: "https://www.gfpe.org/library/imglib/Drew-Echols-1.jpg"
 openstates_id: ocd-person/6be704ef-6250-4e08-86d3-f5fa2e1eebf3
 contact:
   website: "https://openstates.org/person/drew-echols-3HbkoZhTJQBlYUHUet4Wo7/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/2365.jpg?v=2"
 openstates_id: ocd-person/12d67093-ab4c-425d-afa3-e5777db09d1c
 contact:
   website: "https://openstates.org/person/philip-cortez-ZXrOAeO9EGsnJ7yhj5IfU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/cryan_joseph_2017
 openstates_id: ocd-person/5dcef6ac-7dbe-4c65-a53b-670c89a615e7
 contact:
   website: "https://openstates.org/person/joe-cryan-2r0rsX4yLupVM0tMxx6qKV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

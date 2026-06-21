@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/091/headshot/
 openstates_id: ocd-person/9a1eed19-c843-4853-bec1-aca4f7034a21
 contact:
   website: "https://openstates.org/person/steve-otis-4gox0AZX1cc7LmfUUsis09/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

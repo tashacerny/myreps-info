@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_stiens_angela_1.jpg
 openstates_id: ocd-person/e0cddd71-639c-4b74-8dea-bc189418034d
 contact:
   website: "https://openstates.org/person/angela-stiens-6qCMQpP6n8WbLD9CZhEwjV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

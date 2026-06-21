@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_minnix_jim_1.jpg"
 openstates_id: ocd-person/ca29b8ff-9845-40ba-a196-458cef943041
 contact:
   website: "https://openstates.org/person/jim-minnix-69TW4iLMNaQm2JQtaU4mQr/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/pritt_david.
 openstates_id: ocd-person/d7f119af-3e41-40a1-9541-bfa1a1e7a9b4
 contact:
   website: "https://openstates.org/person/elliott-pritt-6ZTX4chAp8isipXSiE64Si/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

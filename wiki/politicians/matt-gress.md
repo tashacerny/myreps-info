@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MattG
 openstates_id: ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f
 contact:
   website: "https://openstates.org/person/matt-gress-5pkG1bt3TVDVZQ2Tzgf3QV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

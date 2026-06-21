@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/crowe-c
 openstates_id: ocd-person/e1a9102d-f845-47f5-882e-e344eef060ec
 contact:
   website: "https://openstates.org/person/clint-crowe-6roXD7OjVV3g8AYCQA7UYG/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

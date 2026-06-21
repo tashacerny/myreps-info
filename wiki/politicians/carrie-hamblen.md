@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SHAMB.jpg"
 openstates_id: ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d
 contact:
   website: "https://openstates.org/person/carrie-hamblen-40pyOIBDDw46C0InuS86cH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

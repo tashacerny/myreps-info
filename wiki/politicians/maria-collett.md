@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1799.jpg?1703415645
 openstates_id: ocd-person/323c52e8-f841-4a0b-a49e-91103949fbc8
 contact:
   website: "https://openstates.org/person/maria-collett-1WnBQxjAQUD8XIOP9Y7Ski/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

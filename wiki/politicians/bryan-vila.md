@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s39_
 openstates_id: ocd-person/a4a5f92e-62cf-401b-9fc6-9d9a63498d5c
 contact:
   website: "https://openstates.org/person/bryan-avila-50gagMNTQlTSmyt8zMcpQq/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

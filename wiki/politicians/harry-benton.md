@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{591DB385-5E0D-41CC-8B13-2FD
 openstates_id: ocd-person/1574a50f-6d50-4d7d-87ee-db0254e5093e
 contact:
   website: "https://openstates.org/person/harry-benton-eU91yCxriXKc14migUBSQ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

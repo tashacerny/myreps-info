@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rosal
 openstates_id: ocd-person/6944b102-0d94-4267-916f-59fbd6f2bb18
 contact:
   website: "https://openstates.org/person/rosalba-dominguez-3CdaM9WFcwb2EqSQbf03Eu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

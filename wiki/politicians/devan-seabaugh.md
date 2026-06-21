@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/seabaug
 openstates_id: ocd-person/8f76af22-98dc-4e1e-ba99-75b87c1129d6
 contact:
   website: "https://openstates.org/person/devan-seabaugh-4Mi8m8LhZu0Lfel9T9mQTu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

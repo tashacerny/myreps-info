@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s16_
 openstates_id: ocd-person/3de11937-c291-4561-bee5-4f747665cb37
 contact:
   website: "https://openstates.org/person/darryl-rouson-1slOwFmQ6yxQgbgmXjEgYJ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

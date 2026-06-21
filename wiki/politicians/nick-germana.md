@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/cont
 openstates_id: ocd-person/170e4582-46d4-480d-9bca-b49b2ba8baf3
 contact:
   website: "https://openstates.org/person/nick-germana-hVLQZfu8YJqcj8Q7KH2Ad/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

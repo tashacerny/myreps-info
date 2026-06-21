@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2542.jpg"
 openstates_id: ocd-person/b8666d84-956f-40a7-8faa-75709f9d4a12
 contact:
   website: "https://openstates.org/person/joy-goeben-5bxOf9a3ZkeZHDbefKiMxm/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

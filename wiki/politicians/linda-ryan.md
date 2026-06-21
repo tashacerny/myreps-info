@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/d0a3a869-3612-4910-b31b-32a88667cb84
 contact:
   website: "https://openstates.org/person/linda-ryan-6LhC8tRPZDdNYeb7BxlE0q/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

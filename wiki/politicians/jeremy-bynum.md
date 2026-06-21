@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/jbynu
 openstates_id: ocd-person/b2eaa848-d651-4521-9abb-21b68da5d5c6
 contact:
   website: "https://openstates.org/person/jeremy-bynum-5Rbs7UgWHDL36BOv2eoBqI/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

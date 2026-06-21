@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/a74de022-873d-4a31-986c-66e81356a6f2
 contact:
   website: "https://openstates.org/person/zach-payne-55hJ5GbZe8GbCtPACcH1lq/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

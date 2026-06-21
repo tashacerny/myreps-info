@@ -12,5 +12,5 @@ photo_url: "https://senate.texas.gov/members/d27/img/Hinojosa_Adam-88-0913D-005-
 openstates_id: ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca
 contact:
   website: "https://openstates.org/person/adam-hinojosa-3sVICUmEfaHxfLchb3sY2c/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

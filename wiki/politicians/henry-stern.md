@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd
 contact:
   website: "https://openstates.org/person/henry-stern-37riwFn37s8mamsuhR7oTN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

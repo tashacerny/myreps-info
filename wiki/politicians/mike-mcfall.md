@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/b34263be-1f2e-49db-a261-b30e76ba790a
 contact:
   website: "https://openstates.org/person/mike-mcfall-5SFxvsv7pSgvUqVRUeAn6Y/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

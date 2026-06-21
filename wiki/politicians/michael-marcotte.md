@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Marcotte.Micha
 openstates_id: ocd-person/cffd5316-4723-43a2-bd54-2d41a9e61e16
 contact:
   website: "https://openstates.org/person/michael-marcotte-6KTBF2lEViFhl3c1KCUpBG/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

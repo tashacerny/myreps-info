@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Carris-Duncan,
 openstates_id: ocd-person/f5c660c9-81e8-4038-9cf2-a7ad838ef980
 contact:
   website: "https://openstates.org/person/emily-carris-duncan-7TlmJ28XSB2QrG2xDq0pge/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

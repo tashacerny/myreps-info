@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house21.
 openstates_id: ocd-person/f7bb262c-026f-4af2-9e17-939692c96e89
 contact:
   website: "https://openstates.org/person/amy-neighbors-7XSdByT1tPN5XYfReouxOj/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

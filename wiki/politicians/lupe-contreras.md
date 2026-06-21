@@ -13,5 +13,5 @@ photo_url: "https://npr.brightspotcdn.com/dims4/default/ccf2d8e/2147483647/strip
 openstates_id: ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c
 contact:
   website: "https://openstates.org/person/lupe-contreras-HeFDmXwThv2ooaO9EIeUe/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

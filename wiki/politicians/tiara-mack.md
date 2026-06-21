@@ -13,5 +13,5 @@ photo_url: "https://media3.s-nbcnews.com/j/newscms/2020_47/3429284/201118-MAIN-t
 openstates_id: ocd-person/b3d5296c-05df-46f5-9a93-4caf96121a84
 contact:
   website: "https://openstates.org/person/tiara-mack-5TL2aTc0uqViQ0SHFT00ou/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

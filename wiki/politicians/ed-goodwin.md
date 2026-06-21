@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/744/Low"
 openstates_id: ocd-person/10d93679-f5f4-496f-8b7c-89f923038ac0
 contact:
   website: "https://openstates.org/person/ed-goodwin-Vn8ubaThUda2INfDbN8rI/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

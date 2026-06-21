@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/12084.jpg"
 openstates_id: ocd-person/cce36d0b-a3d8-4375-bf70-06760a2eebc3
 contact:
   website: "https://openstates.org/person/judy-warnick-6EcMr7koR3S2zy80BpjQGJ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

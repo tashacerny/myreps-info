@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/ae3d6133-98b5-444e-b95e-2edc2f5302dc
 contact:
   website: "https://openstates.org/person/carol-mcguire-5ImiMMGEeOwgwghKtLr1hc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

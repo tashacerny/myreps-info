@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mike_
 openstates_id: ocd-person/df4d176b-2a0b-41be-977f-efa722d6a321
 contact:
   website: "https://openstates.org/person/mike-steinmeyer-6nMWECE3uJiLPwE5aKmyqP/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

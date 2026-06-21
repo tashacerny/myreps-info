@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jodi_
 openstates_id: ocd-person/225f946c-4812-435d-83f1-dad22a2fb0d6
 contact:
   website: "https://openstates.org/person/jodi-habush-sinykin-12rPzOa05kvjgxRoCf718A/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

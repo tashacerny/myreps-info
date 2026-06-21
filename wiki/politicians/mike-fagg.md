@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_fagg_michael_1.jpg"
 openstates_id: ocd-person/a0787678-986f-459f-bba3-38d46ef55d8b
 contact:
   website: "https://openstates.org/person/mike-fagg-4snp5J0HnNZSphYvIEyzRD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

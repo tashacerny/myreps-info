@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/752/Low"
 openstates_id: ocd-person/6acc3963-2724-4d88-8762-f78df333be94
 contact:
   website: "https://openstates.org/person/nasif-majeed-3FWW4kzBBAvqCu115QkohI/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

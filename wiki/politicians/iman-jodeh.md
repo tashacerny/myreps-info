@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/506f18ea-3611-408b-aa0e-73adf9681efe
 contact:
   website: "https://openstates.org/person/iman-jodeh-2Rm9mUrqovPdzr9wK6NvnK/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

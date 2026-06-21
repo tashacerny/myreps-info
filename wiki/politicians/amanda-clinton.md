@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Amand
 openstates_id: ocd-person/8dac97e3-d74f-4f58-bb7d-83412600975f
 contact:
   website: "https://openstates.org/person/amanda-clinton-4JKnC6p6Q0XFyh2c1sGhlH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

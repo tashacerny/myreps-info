@@ -13,5 +13,5 @@ photo_url: "https://governor.alabama.gov/assets/2019/09/Governor-Ivey-2019-Heads
 openstates_id: ocd-person/1fcc4f8d-90c5-4e7c-aa4c-3b58a3a87ba5
 contact:
   website: "https://openstates.org/person/kay-ivey-y08CzVDlVT6PXVYwBAZzp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

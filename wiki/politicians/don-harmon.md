@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{CF3F6473-4E6D-4E84-A0A4-4FF
 openstates_id: ocd-person/15c56180-21e1-492d-874f-25d511f804ee
 contact:
   website: "https://openstates.org/person/don-harmon-f52c6ssvTxYMYBDyGvEoY/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

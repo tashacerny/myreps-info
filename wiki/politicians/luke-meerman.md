@@ -12,5 +12,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2020/07/HS_MEERMAN_0119
 openstates_id: ocd-person/187a5c10-ccc0-4c94-a4c9-4c208ace4776
 contact:
   website: "https://openstates.org/person/luke-meerman-kBjWrTW1SCaDR4fiSeAKs/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

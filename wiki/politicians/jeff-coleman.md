@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2071"
 openstates_id: ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370
 contact:
   website: "https://openstates.org/person/jeff-coleman-UIcaHyuvlEyHyyEEalznM/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

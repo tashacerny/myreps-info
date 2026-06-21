@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/34032.jpg"
 openstates_id: ocd-person/4b9b64c6-60eb-4d41-8b52-2f0b3f1ce2a8
 contact:
   website: "https://openstates.org/person/stephanie-mcclintock-2IfRFu6KerbFkAPNEMGrIO/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

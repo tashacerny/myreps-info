@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Debra
 openstates_id: ocd-person/88b67b7d-e856-43b3-9ae3-90092919c4e5
 contact:
   website: "https://openstates.org/person/debra-tendrich-49yLlqBIrJpGB1cjYNSxE5/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

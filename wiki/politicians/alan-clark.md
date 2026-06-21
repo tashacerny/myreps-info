@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/401_sm.jpg
 openstates_id: ocd-person/6448d3df-2802-44a1-a142-7c3cc136d0a5
 contact:
   website: "https://openstates.org/person/alan-clark-33EVvigIhXgyCBajrt0Ecf/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

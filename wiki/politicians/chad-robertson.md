@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Robertson_40.p
 openstates_id: ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7
 contact:
   website: "https://openstates.org/person/chad-robertson-2wtAV3y7ZTdaEbXXNjtCdj/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

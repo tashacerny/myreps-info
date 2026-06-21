@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house53.
 openstates_id: ocd-person/d6c9aa9b-3c6b-411a-bff1-fc1c38d4bce0
 contact:
   website: "https://openstates.org/person/james-tipton-6XIWE4wGldpVSV8FkYLluS/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

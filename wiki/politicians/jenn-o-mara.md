@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1855.jpg?1703415645
 openstates_id: ocd-person/7c8e87fe-1c8e-4736-a03c-35cf729b80e9
 contact:
   website: "https://openstates.org/person/jenn-o-mara-3n2BV30LiLzQGqu5IR5aqv/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

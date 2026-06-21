@@ -12,5 +12,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4864.jpg"
 openstates_id: ocd-person/c844e345-f2a8-42fa-9ef9-d278bcb8fa4c
 contact:
   website: "https://openstates.org/person/shane-abbott-65twj381u68M836bnYJCpQ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

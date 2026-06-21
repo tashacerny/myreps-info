@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a
 contact:
   website: "https://openstates.org/person/clayton-fegley-R45ckD7exnEeJFrxdi5KU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

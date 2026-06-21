@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/202344ed-fa6e-4d6d-b746-516abb5c962d
 contact:
   website: "https://openstates.org/person/phil-hart-yds67B1RwJkWeVh1dAdsz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

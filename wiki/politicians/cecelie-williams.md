@@ -13,5 +13,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/myleaderpaper.com/conte
 openstates_id: ocd-person/66b84db3-dd1a-4c94-8a78-bbf219068347
 contact:
   website: "https://openstates.org/person/cecelie-williams-37pRXsy0oLUmT5YYp7Fusx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

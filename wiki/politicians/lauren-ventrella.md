@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep65.jpg"
 openstates_id: ocd-person/d2ecd14d-09ce-4e45-8969-149531759584
 contact:
   website: "https://openstates.org/person/lauren-ventrella-6Q0c6XTLenSov6QvA6lVH2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

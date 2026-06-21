@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4e9bb139-f952-4fda-bce1-f1bb16c585e3
 contact:
   website: "https://openstates.org/person/david-lundgren-2OKYI2cyUOZEVq5oop6g1z/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

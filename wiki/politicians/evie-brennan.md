@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrennanEvie.jpg"
 openstates_id: ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c
 contact:
   website: "https://openstates.org/person/evie-brennan-3rwWpmIOijmAzOBKarkd0W/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/095/headshot/
 openstates_id: ocd-person/3069edfe-7ff7-4a14-8223-f23b294b3a04
 contact:
   website: "https://openstates.org/person/dana-levenberg-1TM2aFGsahN4DAteHt5spg/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house43.
 openstates_id: ocd-person/897f811e-273d-4fc1-9268-0087e57444cf
 contact:
   website: "https://openstates.org/person/pamela-stevenson-4BSDXk3Efd5mULkEN0h7MN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rsz_m
 openstates_id: ocd-person/bdcadc0a-7e86-4e6a-8e27-4896dbb094ce
 contact:
   website: "https://openstates.org/person/selina-bliss-5m8FvOdFXQ34O7bV1j2t8Y/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

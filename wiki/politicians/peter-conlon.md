@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/PConlon.jpg"
 openstates_id: ocd-person/842ac286-38fb-428e-af54-1176d06b6144
 contact:
   website: "https://openstates.org/person/peter-conlon-41OWlRwg48stEiDw1NiwQW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

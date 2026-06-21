@@ -13,5 +13,5 @@ photo_url: "https://www.wickedlocal.com/gcdn/authoring/2018/08/07/NWKL/ghows-WL-
 openstates_id: ocd-person/5ae88c49-8938-4472-8de2-1c0f0bc0e2f0
 contact:
   website: "https://openstates.org/person/manny-cruz-2lXaDVnixiRdeJRUeNjlPU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

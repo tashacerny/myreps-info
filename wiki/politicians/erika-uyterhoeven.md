@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/E_U1.jpg"
 openstates_id: ocd-person/a3f4c05a-b51a-4b8f-bc5d-d4cb82d74164
 contact:
   website: "https://openstates.org/person/erika-uyterhoeven-4zNbGDgskSovk4hliaYNGu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

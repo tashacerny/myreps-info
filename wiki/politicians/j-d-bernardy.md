@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/9bae2e1c-4557-48a0-8adb-531347472614
 contact:
   website: "https://openstates.org/person/j-d-bernardy-4jlPUjB3PrWkcmb4cFdODM/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

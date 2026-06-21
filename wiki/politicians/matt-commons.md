@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/00b233_c656903b0f40495f862980ada8
 openstates_id: ocd-person/1f2380f8-be03-4499-a72a-8dac376d6aaa
 contact:
   website: "https://openstates.org/person/matt-commons-wkzDczhU3Cc154W8ZMOS2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

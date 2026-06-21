@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96
 contact:
   website: "https://openstates.org/person/cottie-petrie-norris-64GORHAiJOn5TOA2yDc1GI/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

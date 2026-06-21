@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Mattos,Chris.j
 openstates_id: ocd-person/1526326f-c2a8-4103-af27-1805f9a8e32a
 contact:
   website: "https://openstates.org/person/chris-mattos-duIHnTYGB674PDkxvEFPW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

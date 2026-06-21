@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/21a4a059-a8f3-4ec9-ac42-84983f16fb8d
 contact:
   website: "https://openstates.org/person/thomas-kaczynski-11TypvbLQjORxtd6lFBG2P/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

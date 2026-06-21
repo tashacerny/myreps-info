@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Lyons,Ginny.jp
 openstates_id: ocd-person/91dafbcc-d313-4ef3-a506-0113d4ce1975
 contact:
   website: "https://openstates.org/person/ginny-lyons-4RDxiWPCmbAw5MwnT4ISmL/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

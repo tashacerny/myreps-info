@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Hasenbeck,%20Toni.jpg
 openstates_id: ocd-person/25f65ce4-eb63-4beb-92d0-0d07db7f851a
 contact:
   website: "https://openstates.org/person/toni-hasenbeck-19dIrVpjOzeMmygBuUcrms/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

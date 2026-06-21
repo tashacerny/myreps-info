@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{345BE0B5-CE9C-4A36-B292-619
 openstates_id: ocd-person/035b25c2-e97c-413e-8d84-d5c618f6a2fa
 contact:
   website: "https://openstates.org/person/marti-deuter-6Kd9VsazoFFB70k7Portq/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

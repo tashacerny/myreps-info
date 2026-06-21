@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/romman-
 openstates_id: ocd-person/d291834f-70cd-48b5-b7db-b05d23d74a4c
 contact:
   website: "https://openstates.org/person/ruwa-romman-6PKt4Tp2yMdfHwyZ9CpcOS/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

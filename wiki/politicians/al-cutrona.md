@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/al-cutrona/headshots/
 openstates_id: ocd-person/6a1fc3b1-ebfd-47b7-adec-ddcd84d137c9
 contact:
   website: "https://openstates.org/person/al-cutrona-3EFhaVrUXTn6wjr1yAnMGv/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

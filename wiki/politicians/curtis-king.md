@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/13199.jpg"
 openstates_id: ocd-person/a8e7617c-7cbb-45ed-a577-3dd7341a3bd7
 contact:
   website: "https://openstates.org/person/curtis-king-58iS2TdNBXgZSm3whzFZx9/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

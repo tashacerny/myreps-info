@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/horner-
 openstates_id: ocd-person/c4c6c741-0cb4-4179-b46d-9983421b8fdd
 contact:
   website: "https://openstates.org/person/mitchell-horner-5zJKxR6lP6Zt4upDOf1qiT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

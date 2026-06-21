@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/crutchfield01.jpg"
 openstates_id: ocd-person/0f51a760-22e6-4a05-8be0-983dffe30e42
 contact:
   website: "https://openstates.org/person/charlotte-crutchfield-SuCRsOkJdLAZceUHFICQ6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

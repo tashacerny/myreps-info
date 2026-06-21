@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Hart,Lawrence.
 openstates_id: ocd-person/c5bca102-7637-45de-90fb-183c2c024f43
 contact:
   website: "https://openstates.org/person/larry-hart-617guN936LHhRSY7qCwicl/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

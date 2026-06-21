@@ -13,5 +13,5 @@ photo_url: "http://www.senatedems.ct.gov/templates/winfield/images/winfield-hi.j
 openstates_id: ocd-person/102845da-9b93-400d-b58a-fa3e7df1806e
 contact:
   website: "https://openstates.org/person/gary-winfield-UUHTwXjMHVpGMuszocGI2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://indianasenatedemocrats.org/wp-content/uploads/2022/12/Senato
 openstates_id: ocd-person/f22b3c5a-950d-4e0c-83c8-bf9a7c005c73
 contact:
   website: "https://openstates.org/person/andrea-hunley-7Mxtv0SoNCfw4oTs06GAtP/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2545.jpg"
 openstates_id: ocd-person/a38a3643-e446-419c-b255-97d88f880634
 contact:
   website: "https://openstates.org/person/jenna-jacobson-4yauZ3tCMWOmHfYHxSgFVc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

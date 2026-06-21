@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/e4616efb-2824-423e-ba07-30880be759a9/-/pro
 openstates_id: ocd-person/d9013459-1dea-46ee-bdd5-5b2874b76e0a
 contact:
   website: "https://openstates.org/person/liz-brown-6bTstVKNaTHPthpuW7NEN8/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4269.jpg"
 openstates_id: ocd-person/617888c1-3369-49cd-a264-18ab663d2e8a
 contact:
   website: "https://openstates.org/person/bruce-antone-2xvL4xYX4SCRW44xZpigNW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

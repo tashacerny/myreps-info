@@ -12,5 +12,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2462.jpg"
 openstates_id: ocd-person/798979da-9683-41b4-b663-d5c73ec93364
 contact:
   website: "https://openstates.org/person/dora-drake-3hKtgwgxXHIrByuko6sP0G/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/59B.gif"
 openstates_id: ocd-person/b140f0d2-f803-4118-9c6c-72aa322ec3bb
 contact:
   website: "https://openstates.org/person/esther-agbaje-5OTJpZYRvxln6qr7jCRw9T/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3065.jpg?v=1"
 openstates_id: ocd-person/1ca78d00-1ede-4486-b14e-16bd81ba73e4
 contact:
   website: "https://openstates.org/person/tony-tinderholt-s4M4lEvi5eIA8e7MOjb9A/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

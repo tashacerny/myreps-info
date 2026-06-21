@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Elliott_32.pn
 openstates_id: ocd-person/67479855-f23e-4119-b886-91dddc09a47a
 contact:
   website: "https://openstates.org/person/chris-elliott-38svZyaLHy79JOMx4fruA6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/972.jpg"
 openstates_id: ocd-person/0999a0d6-1c62-47cf-aa0d-8250967d3a10
 contact:
   website: "https://openstates.org/person/steve-conway-I78dIsaghtSKEW29NNgHo/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

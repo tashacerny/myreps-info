@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/SBA1.jpg"
 openstates_id: ocd-person/ff433cf6-2895-4e01-b143-26747500f8a4
 contact:
   website: "https://openstates.org/person/shirley-arriaga-7lfloqoFY9Fjkrln2SpcE0/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/db105051-1a17-4bff-a3a3-46332533ac8a
 contact:
   website: "https://openstates.org/person/cathy-kenny-6fMm38KqXwIfK1fhRTlDXW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

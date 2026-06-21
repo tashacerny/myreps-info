@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jonat
 openstates_id: ocd-person/a8fb7327-cfc3-4951-a15f-5a60ba05dcba
 contact:
   website: "https://openstates.org/person/jonathan-almond-58rcfz5V5LfLueFnsP6pdS/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

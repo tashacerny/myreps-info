@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/610_sm.jpg"
 openstates_id: ocd-person/1d522f48-2a04-40ed-860f-3c580d9c87fa
 contact:
   website: "https://openstates.org/person/steve-unger-tKKpYZghDEbITPctgFasE/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

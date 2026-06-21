@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/414685/414
 openstates_id: ocd-person/e26d3225-27da-440d-ac85-cad08bdb5ade
 contact:
   website: "https://openstates.org/person/dave-shallenberger-6tGARvSnkCMYxdWg5KBG7a/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Timot
 openstates_id: ocd-person/206d00d3-65a9-4922-82d8-48f09a411863
 contact:
   website: "https://openstates.org/person/timothy-hill-zBZHWxwEpwRVaCkRLwW9L/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

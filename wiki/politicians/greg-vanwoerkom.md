@@ -13,5 +13,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2020/07/HS_VAN-WOERKOM_
 openstates_id: ocd-person/960d6487-b202-46fa-8905-e001b6954d5a
 contact:
   website: "https://openstates.org/person/greg-vanwoerkom-4Z8y6rQIKhN7k0QK1Rkg2M/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

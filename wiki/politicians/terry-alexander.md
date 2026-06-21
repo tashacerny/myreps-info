@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0011363635.jpg"
 openstates_id: ocd-person/ae65876e-c27c-49ff-a49f-d58bcbbd4bd5
 contact:
   website: "https://openstates.org/person/terry-alexander-5J53xDqp4QDGD120cTjvDZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

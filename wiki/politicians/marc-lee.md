@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/929408f9-eade-45b3-bb06-06da68b8e36d
 contact:
   website: "https://openstates.org/person/marc-lee-4SaWypKAQTfZEZEwBQiSuD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

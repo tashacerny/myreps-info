@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/d347f91a-d60c-48a2-b78b-8e387e7b38a1
 contact:
   website: "https://openstates.org/person/david-preece-6QgGuYQxqj8JXk1i5mhOVt/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

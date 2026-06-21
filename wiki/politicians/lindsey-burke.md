@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house75.
 openstates_id: ocd-person/8048f367-9d46-4be5-9cb8-7a249d06cb13
 contact:
   website: "https://openstates.org/person/lindsey-burke-3u4M6F6eVWffMYhGmFkq9L/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

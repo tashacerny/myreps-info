@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/437d084e-35d3-4a37-9ccb-61d6fcc43b1c
 contact:
   website: "https://openstates.org/person/katy-peternel-23LcnwAYYS23Th2v3oDmiS/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

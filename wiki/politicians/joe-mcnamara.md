@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/a0178eeb-c6bb-4e20-9024-f859d4780be6
 contact:
   website: "https://openstates.org/person/joe-mcnamara-4s5XNvsbEJTdyTMn9amwTO/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

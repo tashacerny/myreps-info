@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/0f97a586-0089-4eb8-86c1-40f42bc1f594
 contact:
   website: "https://openstates.org/person/tonya-pfaff-TQBd4RvytP4eQqwhYNOdw/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

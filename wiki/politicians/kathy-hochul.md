@@ -13,5 +13,5 @@ photo_url: "https://www.governor.ny.gov/sites/default/files/styles/square_extra_
 openstates_id: ocd-person/ccdd914d-9853-4fd2-9a80-ce6c962cdd18
 contact:
   website: "https://openstates.org/person/kathy-hochul-6EZgreVMJpLVd5UqHrB3c0/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

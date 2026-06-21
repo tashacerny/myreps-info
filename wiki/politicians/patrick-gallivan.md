@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/531f1b36-a809-496b-beb8-ba3cd0bc0c53
 contact:
   website: "https://openstates.org/person/patrick-gallivan-2WqZskhtVQApcTNA24i0uZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

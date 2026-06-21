@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Butler_2.png"
 openstates_id: ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a
 contact:
   website: "https://openstates.org/person/tom-butler-1Y0T6mq5Tk0p34wTpO2XBC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

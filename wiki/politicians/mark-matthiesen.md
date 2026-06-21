@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=1937"
 openstates_id: ocd-person/661f49f4-e075-491e-aad8-4dde65ecb6df
 contact:
   website: "https://openstates.org/person/mark-matthiesen-36hW16XEoXyBM7EWbgUwrH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

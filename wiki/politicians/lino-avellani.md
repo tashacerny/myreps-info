@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4d68b7bf-e7fb-4c6d-ac12-526aba53e65e
 contact:
   website: "https://openstates.org/person/lino-avellani-2M4GRwPTFaROs5MoLjJZ78/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

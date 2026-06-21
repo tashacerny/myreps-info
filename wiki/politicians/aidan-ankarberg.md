@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/540cbe60-cc65-4ff6-8c78-5d54488e5ed8
 contact:
   website: "https://openstates.org/person/aidan-ankarberg-2YbB7NEH5IjoAZpJC3CHjU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

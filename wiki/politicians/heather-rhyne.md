@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/d01232af-826f-441e-85c0-efaedd1ba422
 contact:
   website: "https://openstates.org/person/heather-rhyne-6KciffePCssqc9JV4yhEFW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

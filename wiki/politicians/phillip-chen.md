@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491
 contact:
   website: "https://openstates.org/person/phillip-chen-3H8gT9EkN35vhhhZHBNhmj/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

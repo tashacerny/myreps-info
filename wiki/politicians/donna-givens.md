@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Givens_64.png"
 openstates_id: ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b
 contact:
   website: "https://openstates.org/person/donna-givens-7HAvOSKNMx9DKgtfGkrx6p/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/sainz-s
 openstates_id: ocd-person/99082062-acd6-4c6b-bb45-2cfa071f19fc
 contact:
   website: "https://openstates.org/person/steven-sainz-4elXTBwsF3aig4GhhfosRw/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

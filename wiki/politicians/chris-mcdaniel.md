@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate12
 openstates_id: ocd-person/b32a95c9-42ba-449b-8581-97b9cef73c6a
 contact:
   website: "https://openstates.org/person/chris-mcdaniel-5S55SBJla0YfTjcGOfJGHK/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

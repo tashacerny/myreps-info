@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/shanks.jpg"
 openstates_id: ocd-person/002bdecd-2374-44d8-8280-e0636c5f4897
 contact:
   website: "https://openstates.org/person/fred-shanks-K31YJHe6G5nuStRLVn4Z/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/140cefcc-8d67-4b5d-9051-c7892072bc38
 contact:
   website: "https://openstates.org/person/david-leavitt-bpl2BxeIsyHJhCU5XIY1I/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

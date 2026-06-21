@@ -12,5 +12,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/publi
 openstates_id: ocd-person/68cdb041-2986-42dc-a2fd-2b9d6c668665
 contact:
   website: "https://openstates.org/person/rob-rolison-3BlCW96CB8yxKCjzXoYR1B/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/acb20216-f193-42e1-9304-2b1d3572e61d
 contact:
   website: "https://openstates.org/person/mike-moffett-5Fs1s5MBq7TmMEyXk9j9gb/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

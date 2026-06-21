@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9
 contact:
   website: "https://openstates.org/person/brianna-titone-7ct5VZhwaM81shpxxyg8Hx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

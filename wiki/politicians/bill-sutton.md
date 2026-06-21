@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_sutton_william_1.jp
 openstates_id: ocd-person/dc23fc2c-0f64-4fab-96ec-951f0efbe7bb
 contact:
   website: "https://openstates.org/person/bill-sutton-6hOkwTxc3UscR0jVyqdcgl/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

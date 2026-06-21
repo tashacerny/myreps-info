@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/433/Low"
 openstates_id: ocd-person/410836ee-4f48-4934-8f95-fca6b2d2f051
 contact:
   website: "https://openstates.org/person/kevin-corbin-1yiFpT3vYFLEAsrkuBkpLl/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

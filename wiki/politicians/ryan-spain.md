@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{4C25C70B-0E39-406B-9318-A89
 openstates_id: ocd-person/139cce29-08b9-4731-a7e9-bdeec8129eaa
 contact:
   website: "https://openstates.org/person/ryan-spain-b0VtVmPn4OA4aOWxPWypm/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

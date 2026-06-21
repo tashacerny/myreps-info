@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/jackson
 openstates_id: ocd-person/18427775-e3e7-4730-bb6f-722616e6aebe
 contact:
   website: "https://openstates.org/person/edna-jackson-jmBqvVq47Oi4UVCHp3Uqs/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

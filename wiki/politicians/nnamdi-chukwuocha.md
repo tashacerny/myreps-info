@@ -13,5 +13,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86
 contact:
   website: "https://openstates.org/person/nnamdi-chukwuocha-7jElEbZ2LUqXCtQ2oOWj8Y/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

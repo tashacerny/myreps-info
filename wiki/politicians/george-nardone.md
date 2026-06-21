@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/nardone.jpg"
 openstates_id: ocd-person/5d976bb8-2481-45d2-bae9-df4b565d9526
 contact:
   website: "https://openstates.org/person/george-nardone-2qbU7nKL3958BFAReWfnnC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://floridapolitics.com/wp-content/uploads/2025/10/Hillary-Holle
 openstates_id: ocd-person/fd753355-7d8a-4eda-ab3c-8a6478e1ac73
 contact:
   website: "https://openstates.org/person/hilary-holley-7iGcPQ77HfkcRo6Zkz7vWt/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

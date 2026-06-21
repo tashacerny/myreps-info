@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/bcaace10-c9c4-4018-a87c-6112eeb33346
 contact:
   website: "https://openstates.org/person/judy-boyle-5k0cAB1BHs47KV1lkPwVle/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

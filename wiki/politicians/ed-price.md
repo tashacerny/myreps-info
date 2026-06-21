@@ -12,5 +12,5 @@ photo_url: "https://senate.la.gov/SenatorPics/Sen2.jpg"
 openstates_id: ocd-person/1899dc2e-bac6-4951-b3fc-87ea5e2d4969
 contact:
   website: "https://openstates.org/person/ed-price-kQ847WsTyLU8tUr2UKygD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

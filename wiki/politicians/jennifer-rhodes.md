@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/50eaea14-c7e4-4aac-890e-bda69eb86978
 contact:
   website: "https://openstates.org/person/jennifer-rhodes-2Sgk1W8J6dyilujjqAcfXc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

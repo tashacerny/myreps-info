@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/5ceabc0e-ec47-41b5-b014-5eddcdc154f3
 contact:
   website: "https://openstates.org/person/john-bartlett-2pKZDlBtPFeOFYImlD6ntT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

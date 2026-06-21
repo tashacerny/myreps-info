@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-CrumGary.jpg"
 openstates_id: ocd-person/84464d31-bdbb-4687-9757-27794e64d319
 contact:
   website: "https://openstates.org/person/gary-crum-41b78H30t11xroQb2TPrDN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

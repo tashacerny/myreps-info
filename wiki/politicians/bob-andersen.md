@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/db002bad-ee6a-4e22-b5c5-840c665ecad4
 contact:
   website: "https://openstates.org/person/bob-andersen-6fFOeJbsMqRuSrvc1TqCpw/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

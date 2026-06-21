@@ -13,5 +13,5 @@ photo_url: "http://www.nmlegis.gov/Images/Legislators/House/HTRUL.jpg"
 openstates_id: ocd-person/4cbcf352-3f7a-412d-afc6-568dc4b94400
 contact:
   website: "https://openstates.org/person/linda-trujillo-2Knla6veFPxSN91GVY9dzc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

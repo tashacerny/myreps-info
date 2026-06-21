@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/24Jasinski.jpg"
 openstates_id: ocd-person/f6b649e0-5359-4d22-8ff0-6ca017bc5e23
 contact:
   website: "https://openstates.org/person/john-jasinski-7VXPwuibT8dL7QUe4i90wV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

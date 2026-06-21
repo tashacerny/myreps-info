@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2550.jpg"
 openstates_id: ocd-person/58b31138-e0a5-41ae-bd2f-5713e6c0cc0c
 contact:
   website: "https://openstates.org/person/gus-gustafson-2hN9qE3DrSHYymzDjWtyRg/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

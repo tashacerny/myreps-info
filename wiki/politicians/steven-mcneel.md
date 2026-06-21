@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/717e3f_742258cc71f249009c9f26b868
 openstates_id: ocd-person/516cb969-9467-490f-9a05-02c3e7decae3
 contact:
   website: "https://openstates.org/person/steven-mcneel-2Te44DsJoA8BxUo7WuxQbT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

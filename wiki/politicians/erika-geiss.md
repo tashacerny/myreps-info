@@ -12,5 +12,5 @@ photo_url: "https://senatedems.com/geiss/wp-content/uploads/sites/7/2022/12/MDS_
 openstates_id: ocd-person/ebc9981a-cbe1-4d37-99b0-89d3c350fd3f
 contact:
   website: "https://openstates.org/person/erika-geiss-7AvKBijr6FJcNTUOogS6NL/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

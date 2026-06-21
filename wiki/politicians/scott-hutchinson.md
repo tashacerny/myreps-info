@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1629.jpg?1703415645
 openstates_id: ocd-person/5d3e2203-b11c-4471-8f35-5106c30263ec
 contact:
   website: "https://openstates.org/person/scott-hutchinson-2pwgEZSUI6MjhYXqwUUVgK/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

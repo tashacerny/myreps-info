@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2019RS/images/jones.jpg"
 openstates_id: ocd-person/4bf0680f-fd5c-48a1-b6d3-73672f71048a
 contact:
   website: "https://openstates.org/person/adrienne-jones-2JII13pno5yl1V687mzGbS/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

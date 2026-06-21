@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/afaf11_7be85579b8f44be19dc4383628
 openstates_id: ocd-person/d3ad855a-567f-443a-bb9f-480a0c95fb06
 contact:
   website: "https://openstates.org/person/sean-reid-6RQgAxl4lsJXeLeLkFNyI2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

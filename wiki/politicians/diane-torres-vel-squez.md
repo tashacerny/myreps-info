@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/4db618_2eb9e70e0469459fa20a1b6a17
 openstates_id: ocd-person/c8e6de13-632b-4e09-8d1f-ff8ab2431acc
 contact:
   website: "https://openstates.org/person/diane-torres-velasquez-675yGsIXt00FK7ulv6euD6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

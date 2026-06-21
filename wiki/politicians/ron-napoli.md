@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Napoli/images/Napoli_HS.jpg"
 openstates_id: ocd-person/71fb3504-679f-419d-86bf-d1ae7d573244
 contact:
   website: "https://openstates.org/person/ron-napoli-3T4vxoGe56BYO3pTZvvnM4/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

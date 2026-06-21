@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Pillio
 openstates_id: ocd-person/0d2983ef-93a5-4d84-9fa3-2c796024562a
 contact:
   website: "https://openstates.org/person/todd-pillion-Ops79oghjrbRurOZSUauQ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

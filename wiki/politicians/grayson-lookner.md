@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/f6eea224-7845-41b1-8e05-030ef3d8d886
 contact:
   website: "https://openstates.org/person/grayson-lookner-7VxAQX8WCPoG4M9eTnVzde/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

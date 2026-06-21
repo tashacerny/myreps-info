@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a
 contact:
   website: "https://openstates.org/person/alex-lee-2pURSKdvhu27eA1Au6rqdW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

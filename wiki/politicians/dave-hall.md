@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/e1599f41-bd7d-45c4-8a43-c25d8b519f53
 contact:
   website: "https://openstates.org/person/dave-hall-6rEEJu89qglIydnBjZzTKV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

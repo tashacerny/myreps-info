@@ -12,5 +12,5 @@ photo_url: "https://firststudentinc.com/wp-content/uploads/Michael-Argabright-KS
 openstates_id: ocd-person/8810cb09-9e5a-49a9-a37c-00ab2924a16b
 contact:
   website: "https://openstates.org/person/mike-argabright-48kd7LxeBl13bLGVUzCTlb/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

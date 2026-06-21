@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff
 contact:
   website: "https://openstates.org/person/dave-cortese-TWudHoz3xWcpzCLnyfrEl/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

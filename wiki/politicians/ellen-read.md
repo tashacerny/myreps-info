@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/77304532-17fb-4b2c-aed6-213a435e4a46
 contact:
   website: "https://openstates.org/person/ellen-read-3cu958c8SntVh5aSwW0Qbe/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

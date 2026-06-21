@@ -12,5 +12,5 @@ photo_url: "https://sfbos.org/sites/default/files/Roster_frame_stefani_0.jpg"
 openstates_id: ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5
 contact:
   website: "https://openstates.org/person/catherine-stefani-1iPKKOXV08iC30j4g0B6rF/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

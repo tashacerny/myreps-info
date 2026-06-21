@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d18/img/LWK_2020.jpg"
 openstates_id: ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c
 contact:
   website: "https://openstates.org/person/lois-kolkhorst-1FDI4GckgqoM1OPl7SQ6ii/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/26f01212-5287-4735-aa1f-77e4f0d2acb6
 contact:
   website: "https://openstates.org/person/jaci-grote-1BTQ6ILmNBAENCbHjuKf0I/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

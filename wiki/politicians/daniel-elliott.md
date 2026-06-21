@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house54.
 openstates_id: ocd-person/d93e2493-49a8-4395-b7e0-5842893344e1
 contact:
   website: "https://openstates.org/person/daniel-elliott-6bvjWkxyRwM00x6RiDrrdp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

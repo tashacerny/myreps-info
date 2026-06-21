@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{EDDABDD8-51A3-413F-B2A0-FA5
 openstates_id: ocd-person/9729745e-386d-4f4b-8d04-0e762dcd87b2
 contact:
   website: "https://openstates.org/person/adam-niemerg-4bEmk0fuH8XNAfDTzFcyBu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

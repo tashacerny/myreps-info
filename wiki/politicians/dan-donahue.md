@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/DMD1.jpg"
 openstates_id: ocd-person/d70e97f1-b8ec-489d-ab5a-2b7f3775ae8a
 contact:
   website: "https://openstates.org/person/dan-donahue-6Xo1DCsSUQcTt9LR8HVTmU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

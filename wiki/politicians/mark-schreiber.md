@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_schreiber_mark_1.jp
 openstates_id: ocd-person/1748d756-be07-4eaf-be90-82992092e990
 contact:
   website: "https://openstates.org/person/mark-schreiber-hw6wdDbROblGP16NdYOi8/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

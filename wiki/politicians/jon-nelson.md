@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca
 contact:
   website: "https://openstates.org/person/jon-nelson-5TXplI7ub88hXfzOJ5lDNC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

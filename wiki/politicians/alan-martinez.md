@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HMAAL.jpg"
 openstates_id: ocd-person/be61f240-c0ad-4a98-8ad5-d30f4c5f4a06
 contact:
   website: "https://openstates.org/person/alan-martinez-5nFIpT3QP8niHEtTSG8Le2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

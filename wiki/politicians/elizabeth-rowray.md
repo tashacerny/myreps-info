@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/fafeb171-4592-4254-bb59-788745371b7b
 contact:
   website: "https://openstates.org/person/elizabeth-rowray-7dcTYx111sbrlZ0EnA16l9/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

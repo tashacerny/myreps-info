@@ -12,5 +12,5 @@ photo_url: "http://www.rilegislature.gov/representatives/Pictures/Morales.JPG"
 openstates_id: ocd-person/75bd1298-3fc9-42cc-87c6-23bdc20a7b56
 contact:
   website: "https://openstates.org/person/david-morales-3aAVXPt0fYXGdO9hToNopi/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

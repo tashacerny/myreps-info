@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/810aefbf-2c1d-448d-824a-a848d5d05910
 contact:
   website: "https://openstates.org/person/carrie-sorensen-3vV0VRgbgYq0TR0uedhvs0/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

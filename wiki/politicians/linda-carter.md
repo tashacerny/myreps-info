@@ -12,5 +12,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/carter_linda_2018
 openstates_id: ocd-person/199dd5c8-3ef1-4a2c-9585-9de5def27e98
 contact:
   website: "https://openstates.org/person/linda-carter-mKwDYaovc0K8Mo3IrTxFY/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

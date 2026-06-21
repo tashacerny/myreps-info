@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/kendric
 openstates_id: ocd-person/1f94316e-fb58-401f-bbfc-5ada0a717b6b
 contact:
   website: "https://openstates.org/person/dar-shun-kendrick-xaUANpmVaIEpRPeKf6OyZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

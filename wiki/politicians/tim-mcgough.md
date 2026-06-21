@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/18d80f49-9f78-441e-bf28-1ed0929b5fd3
 contact:
   website: "https://openstates.org/person/tim-mcgough-ksYR0nbgbN5rvNDDjVk4h/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

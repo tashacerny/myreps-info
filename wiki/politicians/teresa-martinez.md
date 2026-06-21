@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe
 contact:
   website: "https://openstates.org/person/teresa-martinez-TXruHAQJ9vsIgr2PfCBNm/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

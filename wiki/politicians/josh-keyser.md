@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/b01dc4f2-6477-4386-ba9b-eb0c3a2c2c8b
 contact:
   website: "https://openstates.org/person/josh-keyser-5MKFl1UC2WuGxZRN3Beb2h/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

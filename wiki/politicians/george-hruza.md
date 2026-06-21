@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Georg
 openstates_id: ocd-person/5e3e358e-622b-462c-ba56-ea42bf7c1fc2
 contact:
   website: "https://openstates.org/person/george-hruza-2rphvAstvjF1k2lqG3Ou82/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

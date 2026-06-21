@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep81.jpg"
 openstates_id: ocd-person/b96a872c-91bd-47ea-a50f-f82294b3d91b
 contact:
   website: "https://openstates.org/person/jeff-wiley-5dsGMZDSiEKNV26WvL3nLf/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

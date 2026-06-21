@@ -13,5 +13,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2022/05/HS_HARRIS_0522_
 openstates_id: ocd-person/a93eaebe-bdac-4292-a28f-6a3b04efd191
 contact:
   website: "https://openstates.org/person/mike-harris-59MLef87MuY8zFWsNvNNqb/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

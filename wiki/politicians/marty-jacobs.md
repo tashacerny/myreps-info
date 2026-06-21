@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/e5a2f458-8afb-41b6-9bf0-79143ea24a25
 contact:
   website: "https://openstates.org/person/marty-jacobs-6zJiDrSojVRSRUfrHWK3L3/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

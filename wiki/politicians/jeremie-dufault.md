@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/29098.jpg"
 openstates_id: ocd-person/2dce9967-a2fc-4211-9b1a-bce3b4f32a09
 contact:
   website: "https://openstates.org/person/jeremie-dufault-1OR4OGk6WmWxytNDKo85Fp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

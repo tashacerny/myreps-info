@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a028512b-5d61-4d23-9e28-dec7038577d6
 contact:
   website: "https://openstates.org/person/anita-burroughs-4sDCEIp97WHKYGGNEgtYl4/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

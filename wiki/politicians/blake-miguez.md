@@ -12,5 +12,5 @@ photo_url: "https://senate.la.gov/SenPics/Sen22.jpg"
 openstates_id: ocd-person/8574f94d-93ed-49b0-a5f6-aa1832b5542a
 contact:
   website: "https://openstates.org/person/blake-miguez-43pR4buKQhWG62w0cXJNnu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

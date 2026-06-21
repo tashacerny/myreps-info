@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Smitherman_18
 openstates_id: ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7
 contact:
   website: "https://openstates.org/person/rodger-smitherman-1oPQSc0B591ZG81zUhhZKx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

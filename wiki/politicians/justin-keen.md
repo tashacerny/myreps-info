@@ -12,5 +12,5 @@ photo_url: "https://desotocountynews.com/wp-content/uploads/2023/01/Justin-Keen-
 openstates_id: ocd-person/9eae167e-9e7e-4334-a67e-5b686617c71c
 contact:
   website: "https://openstates.org/person/justin-keen-4pQLSBeKu6blfbE8L8Q3bA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/e5d50b_baf91bfd3abb43beb7eaf7465d
 openstates_id: ocd-person/9b751b3f-3f56-43dd-8eab-1cfdb81d7b34
 contact:
   website: "https://openstates.org/person/amy-romano-4jLKMeG3YHLZw324r7mFAy/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/polistina_vincent
 openstates_id: ocd-person/5a6bf64a-7731-4e80-8208-e1a18f09762b
 contact:
   website: "https://openstates.org/person/vince-polistina-2kceBoPNYtVFoUHjJVMPbn/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

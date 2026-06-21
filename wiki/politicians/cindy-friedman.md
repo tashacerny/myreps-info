@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/CFF0.jpg"
 openstates_id: ocd-person/456b0061-febd-4ff7-8547-42be0685526f
 contact:
   website: "https://openstates.org/person/cindy-friedman-26zMxkQKVf02KQY4IicNNn/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

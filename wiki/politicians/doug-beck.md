@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Beck2021-
 openstates_id: ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403
 contact:
   website: "https://openstates.org/person/doug-beck-7VzVlqOg73guLhub6SNO0R/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

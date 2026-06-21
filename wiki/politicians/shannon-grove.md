@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/g
 openstates_id: ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0
 contact:
   website: "https://openstates.org/person/shannon-grove-5V17cpGtXDjzhb6z6Jxcky/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

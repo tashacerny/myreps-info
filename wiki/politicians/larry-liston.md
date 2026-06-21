@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1
 contact:
   website: "https://openstates.org/person/larry-liston-699GkYKXEDLV1TfhmkEk1h/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

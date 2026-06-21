@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/hayes02.jpg"
 openstates_id: ocd-person/2b26dc52-cb0c-4750-af6b-9c00e12eef29
 contact:
   website: "https://openstates.org/person/antonio-hayes-1JQQchESdF6zgt5wW9N0Dh/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

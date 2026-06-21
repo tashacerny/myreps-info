@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Rober
 openstates_id: ocd-person/32c3fbdd-4034-47d0-b7ab-0411bd200737
 contact:
   website: "https://openstates.org/person/robert-flournoy-1XnBEb1AMU0xkMhJ1ZZlgN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

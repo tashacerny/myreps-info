@@ -13,5 +13,5 @@ photo_url: "https://governor.arkansas.gov/wp-content/uploads/GovSHSOfficialHeads
 openstates_id: ocd-person/1c9262ce-53a4-4d0c-ab9e-45edb5377fa0
 contact:
   website: "https://openstates.org/person/sarah-huckabee-sanders-rugOFDH5MkJWHlvlmw6pU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

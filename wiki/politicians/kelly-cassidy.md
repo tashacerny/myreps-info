@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{3EFBDD50-41FF-4677-AA47-FB3
 openstates_id: ocd-person/e1652f78-fa2e-46de-8630-f3e1e69040a3
 contact:
   website: "https://openstates.org/person/kelly-cassidy-6rJVxNUwABwjoslyZ88cZn/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

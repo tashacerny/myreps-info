@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096
 contact:
   website: "https://openstates.org/person/paul-thomas-4Z9mybU1jo0zqYrtBSPAAg/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

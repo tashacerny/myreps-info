@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_masterson_ty_1.jpg"
 openstates_id: ocd-person/b4774ff4-de16-4716-8956-65ecc740eb8c
 contact:
   website: "https://openstates.org/person/ty-masterson-5UX8yOknTCdktoVI3NGsCy/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

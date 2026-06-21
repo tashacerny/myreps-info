@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0733948776.jpg"
 openstates_id: ocd-person/066a2879-ab95-4082-803d-9c4dd582f04e
 contact:
   website: "https://openstates.org/person/bill-hager-C6T2LRWykxLdBftzCmhqg/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

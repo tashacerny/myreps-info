@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/490_sm.jpg"
 openstates_id: ocd-person/c26f1f0e-232e-4bf2-99f8-be3e80bfcdcc
 contact:
   website: "https://openstates.org/person/robin-lundstrum-5utIECBteQJHYXybSyD1FE/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

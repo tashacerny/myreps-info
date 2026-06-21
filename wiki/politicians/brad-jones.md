@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/BHJ1.jpg"
 openstates_id: ocd-person/368c3f95-1124-4f0a-9ab5-7361cb2805d3
 contact:
   website: "https://openstates.org/person/brad-jones-1evg7Nv7E9cXvarh7zp055/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

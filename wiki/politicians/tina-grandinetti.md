@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Antho
 openstates_id: ocd-person/bce62096-6c4d-4923-8826-7f67a6aaf35d
 contact:
   website: "https://openstates.org/person/tina-grandinetti-5kRj0W9ebPUBmx7ARADsB3/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

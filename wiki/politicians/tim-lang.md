@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/5330ad05-ce69-47c0-9093-6286233c7a7d
 contact:
   website: "https://openstates.org/person/tim-lang-2WybhRCPSPtuuqCM1wTeaD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/RME1.jpg"
 openstates_id: ocd-person/49816a0c-b8e5-4586-859b-8a8f1ae9b6ab
 contact:
   website: "https://openstates.org/person/rodney-elliott-2Eha6YSCnvie1MlKsGMLPv/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

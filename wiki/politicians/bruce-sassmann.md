@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2222"
 openstates_id: ocd-person/d01a9b1a-a262-4d27-9de9-b7ad0ff8c7f0
 contact:
   website: "https://openstates.org/person/bruce-sassmann-6KgYtuUhwVy855g4wCVOjY/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

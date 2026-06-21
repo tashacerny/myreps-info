@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/a254ce_1422fda1afc540a697d4c59e20
 openstates_id: ocd-person/8f02ce28-e826-48f7-adc1-11f8e5c2ed26
 contact:
   website: "https://openstates.org/person/paul-scott-4LrBSKessAC0PIM4DsEkL8/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

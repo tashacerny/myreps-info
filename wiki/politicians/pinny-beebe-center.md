@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/beebe-center-1024x
 openstates_id: ocd-person/db11e611-94a4-4451-8486-f941a532789d
 contact:
   website: "https://openstates.org/person/pinny-beebe-center-6fNUxT3PFe458lyPnEpkIX/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

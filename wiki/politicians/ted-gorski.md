@@ -12,5 +12,5 @@ photo_url: "https://www.tedgorski.com/wp-content/uploads/sites/23/2020/08/ted-go
 openstates_id: ocd-person/c40abbd9-220c-4081-9ad8-9559c10f9aae
 contact:
   website: "https://openstates.org/person/ted-gorski-5xvOt8jdgH3NMEole6CufW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

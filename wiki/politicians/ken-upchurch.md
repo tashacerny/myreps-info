@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house52.
 openstates_id: ocd-person/7aa13bf4-126a-4901-bfeb-2244bd2d3cc3
 contact:
   website: "https://openstates.org/person/ken-upchurch-3jOkNn1Bxbyagr7DLcgazz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

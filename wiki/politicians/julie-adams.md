@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate13
 openstates_id: ocd-person/38ae421f-f4fa-40f6-b025-a75bc6b42f35
 contact:
   website: "https://openstates.org/person/julie-adams-1ixCo54zxSDnDwyKJXYE5d/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

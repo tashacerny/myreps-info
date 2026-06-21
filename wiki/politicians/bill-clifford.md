@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_clifford_william_1.
 openstates_id: ocd-person/463dcd61-1bf6-4182-ae6f-a840e43ea7fe
 contact:
   website: "https://openstates.org/person/bill-clifford-28XhoB5cGxbUz1bWXh638Y/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

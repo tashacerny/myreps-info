@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate10
 openstates_id: ocd-person/a796965c-0c0f-43b2-975b-d9726b34acd8
 contact:
   website: "https://openstates.org/person/jason-howell-56EXJ3Eq2Chv5wRMXEier2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://da.mdah.ms.gov/series-files/legislature/composites/2016/500/h
 openstates_id: ocd-person/2601640f-867f-480f-83a1-c59c332c0b82
 contact:
   website: "https://openstates.org/person/tracy-arnold-19iLKX1VNgk0WjZsAPRSuA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

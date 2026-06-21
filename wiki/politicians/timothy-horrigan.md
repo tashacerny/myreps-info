@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/2a11a559-c16e-4211-82ea-215951d74c1f
 contact:
   website: "https://openstates.org/person/timothy-horrigan-1HNjzzK7oCQCZfbOlcex1r/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

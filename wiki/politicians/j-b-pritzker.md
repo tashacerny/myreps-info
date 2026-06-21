@@ -13,5 +13,5 @@ photo_url: "https://www2.illinois.gov/sites/gov/about/PublishingImages/governor-
 openstates_id: ocd-person/db3adc7a-d2f8-4e61-a017-bf5d3804ba33
 contact:
   website: "https://openstates.org/person/j-b-pritzker-6fgDatdgS27qGT02HHG74l/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

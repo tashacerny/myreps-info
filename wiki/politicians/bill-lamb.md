@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Lamb_62.png"
 openstates_id: ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5
 contact:
   website: "https://openstates.org/person/bill-lamb-7RFJv0V59TjvfYWV1cP8AH/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

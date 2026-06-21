@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Wadsworth_14.p
 openstates_id: ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604
 contact:
   website: "https://openstates.org/person/tim-wadsworth-9NBarZJMe4snLZsioQqUW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

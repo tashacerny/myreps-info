@@ -12,5 +12,5 @@ photo_url: "https://www.scag.gov/media/ie5nqrqm/about-meet.jpg"
 openstates_id: ocd-person/b9f92b67-9de4-489e-861b-995274f4d20e
 contact:
   website: "https://openstates.org/person/alan-wilson-5evRymFTSpHbfHrHml2vhW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

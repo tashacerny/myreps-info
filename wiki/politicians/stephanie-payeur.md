@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/8184319b-a3eb-4538-a78a-5e5cd439e2a3
 contact:
   website: "https://openstates.org/person/stephanie-payeur-3wOQDeqIkTpZChc7F8CgWx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

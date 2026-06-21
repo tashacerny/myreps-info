@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/ihara.jpg"
 openstates_id: ocd-person/94e42ecd-2e4d-4502-8b50-c1c6324617f1
 contact:
   website: "https://openstates.org/person/les-ihara-4Wx8wQrwU4tLza0S38YBJR/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

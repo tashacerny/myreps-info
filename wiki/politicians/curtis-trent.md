@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/c5e38dee-7f82-4795-a134-b984b6878458
 contact:
   website: "https://openstates.org/person/curtis-trent-61PTpG9taPXEBAsQMADXaa/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SSANJ.jpg"
 openstates_id: ocd-person/82528266-9d6a-4fb3-854e-be9ab6a549b7
 contact:
   website: "https://openstates.org/person/joshua-sanchez-3xuhyvlnl4Hp5Q5uuEZSGV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

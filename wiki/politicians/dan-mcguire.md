@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/f67d5fcc-0dac-4bf0-b1ab-b63f73162d0b
 contact:
   website: "https://openstates.org/person/dan-mcguire-7V7PKhadHH2OmbM0Yjx8sV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

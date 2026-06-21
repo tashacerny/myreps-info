@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/2016.jpg?1703415645
 openstates_id: ocd-person/b7c8d063-8db4-4cdf-a159-a0b064b7cae5
 contact:
   website: "https://openstates.org/person/lindsay-powell-5anMoyxStx8gC2OU4mCEKr/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

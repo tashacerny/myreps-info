@@ -13,5 +13,5 @@ photo_url: "https://www.theclintoncourier.net/wp-content/uploads/2024/03/Stateme
 openstates_id: ocd-person/0f07445d-ab7a-4c6f-9b3c-a402436afbed
 contact:
   website: "https://openstates.org/person/keith-jackson-SMClhX0oCWAAqmD1SMgjl/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

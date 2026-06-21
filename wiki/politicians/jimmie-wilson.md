@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/8560a009-9142-4824-bec4-67559d8d0add
 contact:
   website: "https://openstates.org/person/jimmie-wilson-43g8VnTNomZLbn4mm6k0j7/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

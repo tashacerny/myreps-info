@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/b6a16a74-3cb4-43c1-83cd-1b6f211993a0
 contact:
   website: "https://openstates.org/person/jovan-jackson-5YcMzBGRag0vsJZH8sW4Yq/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

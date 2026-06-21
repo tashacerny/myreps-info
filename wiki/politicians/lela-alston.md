@@ -13,5 +13,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/ALSTON.jp
 openstates_id: ocd-person/030638cb-5fcd-4637-8c59-c129e28db988
 contact:
   website: "https://openstates.org/person/lela-alston-5horWX3RlHBiuUrGiMMiu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

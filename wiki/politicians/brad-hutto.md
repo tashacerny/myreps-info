@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0912499891.jpg"
 openstates_id: ocd-person/16ba6021-423d-4b0d-b899-d2fe18778c12
 contact:
   website: "https://openstates.org/person/brad-hutto-gt0JMrIWdIkNsV90TtTaE/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

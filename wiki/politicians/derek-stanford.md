@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/15809.jpg"
 openstates_id: ocd-person/25ac8674-b208-4d11-a579-c58c004f825e
 contact:
   website: "https://openstates.org/person/derek-stanford-195YjxYgRJrprzRm6edaBS/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

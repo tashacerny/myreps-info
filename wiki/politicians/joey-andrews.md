@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/fd51ab83-f1b7-4044-b794-871ba167b504
 contact:
   website: "https://openstates.org/person/joey-andrews-7i0NgSZRuAotTZLrsurnl6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

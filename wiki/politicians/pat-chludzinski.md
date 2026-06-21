@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/892f79_39baff731e7e42719b93232045
 openstates_id: ocd-person/fe6635b5-8f6f-4bdb-ad2c-e68f53ed325b
 contact:
   website: "https://openstates.org/person/pat-chludzinski-7k2lBWyzy08V5bqYtlCRFT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

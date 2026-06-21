@@ -12,5 +12,5 @@ photo_url: "https://lorieball.com/assets/lorie-340x285.jpg"
 openstates_id: ocd-person/b89dda18-b7c5-4184-b6d9-0bff9bed045e
 contact:
   website: "https://openstates.org/person/lorie-ball-5cMj3RoWKVEODhscSFHEiM/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

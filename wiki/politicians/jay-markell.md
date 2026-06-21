@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/a58611_c00244dce5ea457ec1a1d4d2b4
 openstates_id: ocd-person/f96a83f9-c085-451a-9b6b-4f79e2472e90
 contact:
   website: "https://openstates.org/person/jay-markell-7adlYvzMlR5ZIXxEhQp6v2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

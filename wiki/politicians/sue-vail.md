@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/ce985799-268d-4190-b078-955fc63a8c3c
 contact:
   website: "https://openstates.org/person/sue-vail-6Hq2TUWu9VanKao2jnOoLk/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

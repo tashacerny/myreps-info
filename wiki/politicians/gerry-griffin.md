@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/915a097c-1280-478b-b200-0903e323e9e5
 contact:
   website: "https://openstates.org/person/gerry-griffin-4QH28ShbQjmnsvyJR9NgOr/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

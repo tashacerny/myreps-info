@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37392"
 openstates_id: ocd-person/69441bf5-e98f-4872-8bf0-5bca86e3c258
 contact:
   website: "https://openstates.org/person/judd-lawler-3CdJrMi4pmHRqoAM7LWfaC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

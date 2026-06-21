@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/61Dibble.jpg"
 openstates_id: ocd-person/4dc8ff31-159a-457a-9551-a897d222f87e
 contact:
   website: "https://openstates.org/person/scott-dibble-2MmGQcyHLdsWpcleDiVKZC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

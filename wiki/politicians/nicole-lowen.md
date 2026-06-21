@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Lowen.jpg"
 openstates_id: ocd-person/43795702-8cb7-40a5-945d-80fca537e085
 contact:
   website: "https://openstates.org/person/nicole-lowen-23JwBAU3ZV56Q9dxVsBhxd/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

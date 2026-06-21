@@ -12,5 +12,5 @@ photo_url: "https://ltgovhosemann.ms.gov/wp-content/uploads/2024/10/CDH-Headshot
 openstates_id: ocd-person/c735ee81-f40f-4c16-aa57-e7068d7df10e
 contact:
   website: "https://openstates.org/person/delbert-hosemann-63u7QwXArVu9zJY6Psgjza/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

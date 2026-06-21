@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{87402198-6E85-4CFE-BDD2-B9D
 openstates_id: ocd-person/f8e78760-4ec7-44f4-a00f-54f42fb834d5
 contact:
   website: "https://openstates.org/person/napoleon-harris-7ZfuAsXKLMz87w3YoGv33N/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

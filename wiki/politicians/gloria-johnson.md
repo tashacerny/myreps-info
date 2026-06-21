@@ -13,5 +13,5 @@ photo_url: "https://capitol.tn.gov/house/members/images/H90.jpg"
 openstates_id: ocd-person/4dbbf89b-69ab-459f-97ee-c53866e81296
 contact:
   website: "https://openstates.org/person/gloria-johnson-2MgJMAtmjGlxPSxGHXUXdW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

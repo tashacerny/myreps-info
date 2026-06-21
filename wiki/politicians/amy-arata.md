@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/20082672-8aa7-4d49-bad7-fe5a92d1720d
 contact:
   website: "https://openstates.org/person/amy-arata-yRThh0OfHXH71foEjRjPJ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

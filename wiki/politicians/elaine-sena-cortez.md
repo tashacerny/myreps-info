@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/6101dbe38853cb26aaf1d1
 openstates_id: ocd-person/810e1619-ebae-4139-be1e-778e252a09b0
 contact:
   website: "https://openstates.org/person/elaine-sena-cortez-3vWRkmLxgXHcyejBU3kBDU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/massengill.jpg"
 openstates_id: ocd-person/abfa015f-301e-4e17-9917-535bb9079768
 contact:
   website: "https://openstates.org/person/steve-massengill-5EVwJz5kLgXlWVQrYKYFb6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

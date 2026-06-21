@@ -13,5 +13,5 @@ photo_url: "https://cdn.runforsomething.net/candidates/2023/04/campaign/3388.jpg
 openstates_id: ocd-person/bf0211bf-d8ac-4343-bcd8-181e2d2e58a6
 contact:
   website: "https://openstates.org/person/russet-perry-5oQTlfPdVcbrX8oWg8uwTu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Comey/images/Comey_HS.jpg"
 openstates_id: ocd-person/5d963d6d-74c1-4282-9ad4-592c3760bead
 contact:
   website: "https://openstates.org/person/robin-comey-2qawfQ7hFzDMqzysosmGQ1/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/28022.jpg"
 openstates_id: ocd-person/92192e1a-e86f-4605-9d7d-ce4a922681f0
 contact:
   website: "https://openstates.org/person/manka-dhingra-4RgNzvIOqMZQDbDgIkdevQ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

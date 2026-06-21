@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/6751fa70-04e4-45e1-b3c5-6e0a5a397f8f
 contact:
   website: "https://openstates.org/person/helena-scott-38xfmIP4zk6TdnA0pM2o7b/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

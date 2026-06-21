@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Concepcion/images/Concepcion_HS.jpg"
 openstates_id: ocd-person/d44bd84a-b02c-4c1b-94ee-05c8b1008e57
 contact:
   website: "https://openstates.org/person/julio-concepcion-6Sb28k5bbf1umLSFyKUUQ3/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

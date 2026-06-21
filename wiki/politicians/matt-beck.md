@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/dec943c1-07d5-479a-972f-a3c1cc6a2714
 contact:
   website: "https://openstates.org/person/matt-beck-6mOH2KRljHdcNCcLrldEZA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

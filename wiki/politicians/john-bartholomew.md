@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Bartholomew.Jo
 openstates_id: ocd-person/d12670e1-fd0b-4e78-a471-ec5d4ddfafb8
 contact:
   website: "https://openstates.org/person/john-bartholomew-6MexlF0373cAhnxP93bvD6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

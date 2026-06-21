@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/9bb2551b-a7c9-428f-a184-16ef0d718d68/-/pro
 openstates_id: ocd-person/6ffd10c6-9fd6-4378-8841-63ce4ca88764
 contact:
   website: "https://openstates.org/person/michael-crider-3PJnZX2agigLsMB6ueErpc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

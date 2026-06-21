@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/3dac820b-e022-4ee6-a5d5-4b194f8988ec
 contact:
   website: "https://openstates.org/person/chris-aniskovich-1sNMposxKvjqPMXaAiTS1c/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

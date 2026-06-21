@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Pam_B
 openstates_id: ocd-person/8efd1438-4fbb-4e6a-ab55-73222f232022
 contact:
   website: "https://openstates.org/person/pam-brown-4LoZCopZlvGw2LZsGaWhPe/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

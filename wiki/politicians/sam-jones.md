@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Jones_99.png"
 openstates_id: ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e
 contact:
   website: "https://openstates.org/person/sam-jones-rnMVz3uCuk53c5h7b0Hx0/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

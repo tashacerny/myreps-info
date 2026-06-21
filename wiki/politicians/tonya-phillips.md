@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tonya
 openstates_id: ocd-person/787d9bda-d4dd-47fe-aaf0-348c505211e4
 contact:
   website: "https://openstates.org/person/tonya-phillips-3fMTvCooAySWAle4bC9Wy4/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/cf1f0a32-7107-44ea-96f2-1f3c604d87cc
 contact:
   website: "https://openstates.org/person/caldwell-jackson-6Ipb0awJSV03McUm8lhBOu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

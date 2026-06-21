@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/persing
 openstates_id: ocd-person/b39e2164-d570-45f2-b271-5e2fbe99c8d6
 contact:
   website: "https://openstates.org/person/holt-persinger-5SvtKB0gss9vBDLmZs01gc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

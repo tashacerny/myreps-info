@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Pekars
 openstates_id: ocd-person/138f964d-7137-487b-96d6-ad836b67db83
 contact:
   website: "https://openstates.org/person/stella-pekarsky-auTMwGOgJUQE55PRbATB5/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/masters_ian.
 openstates_id: ocd-person/f8921713-413e-4f72-8291-464f2cef3f7b
 contact:
   website: "https://openstates.org/person/ian-masters-7Z2rLebi0DsQt48QZ1gueB/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://sdlegislature.gov/inc/img/Legislators/Reed_2017.jpg"
 openstates_id: ocd-person/6206c534-4bec-4228-b86f-5005547c6957
 contact:
   website: "https://openstates.org/person/tim-reed-2yyLD0WwKSP2XxuTq5v9C3/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a56b0587-b57f-4dbb-a977-ba82c714a379
 contact:
   website: "https://openstates.org/person/shane-sirois-528drXkqlG6I3jF6kE6JY1/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

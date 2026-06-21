@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/642baa61-66d3-44c1-997f-58b2c5740b4f
 contact:
   website: "https://openstates.org/person/kristian-grant-331BeKGPgzmAimyC7uC6f9/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

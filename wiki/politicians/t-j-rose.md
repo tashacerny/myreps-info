@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TJ_Ro
 openstates_id: ocd-person/5327f35f-aecc-4ecb-a23a-9136c8e503e1
 contact:
   website: "https://openstates.org/person/t-j-rose-2WucTmXNcL6FXhlPl5z6AL/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9psK7gbvCRFwb
 openstates_id: ocd-person/6d7d44ab-22ce-4a46-b6d0-643cc3af3d0b
 contact:
   website: "https://openstates.org/person/rob-beiswenger-3KbPVMh9Xdx8Yc5nmvvTT9/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

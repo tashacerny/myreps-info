@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/57dff80c-9579-411d-a55e-b76846f15fd8
 contact:
   website: "https://openstates.org/person/carrie-mcleod-2fogZ3nqRFomfVSQYlHsxE/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/edcefea3-7cd4-4128-92ef-b22bc4a7c0b4
 contact:
   website: "https://openstates.org/person/timothy-soucy-7EjmFtp3pyb2MXJyIUw5UC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

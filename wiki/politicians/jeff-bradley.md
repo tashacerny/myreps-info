@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0171590889.jpg"
 openstates_id: ocd-person/99dd735b-3ab4-4362-a2c5-f1b5c9257e52
 contact:
   website: "https://openstates.org/person/jeff-bradley-4gL1oOw8l9YLgOX7lR5C9C/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

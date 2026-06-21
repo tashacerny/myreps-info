@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/84f79859-fef0-441d-80bb-5edeafc70e78
 contact:
   website: "https://openstates.org/person/jeanine-notter-42u8aCSrXw393YUPjFgkZ6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvc9FWYBOubY6
 openstates_id: ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58
 contact:
   website: "https://openstates.org/person/chris-rogers-42JmdmOBIgsoDOoAGdDiTQ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

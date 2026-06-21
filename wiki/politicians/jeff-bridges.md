@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/c2cade07-9c95-4439-938c-77ac4ed44fab
 contact:
   website: "https://openstates.org/person/jeff-bridges-5vZDlZHOl9w6TIWvnNCsm3/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

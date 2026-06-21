@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/8f5763_3acf103cae51400f8e2caa87b9
 openstates_id: ocd-person/ec11a019-459d-4184-b0d7-8e88ab5f7dd6
 contact:
   website: "https://openstates.org/person/hillary-pugh-kent-7BSF7uGYuclswOIp2cJk3S/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

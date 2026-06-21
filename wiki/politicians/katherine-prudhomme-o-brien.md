@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a0a8c9d8-1f27-4d28-a249-8a5856ea5c05
 contact:
   website: "https://openstates.org/person/katherine-prudhomme-o-brien-4t9uLe3W781XXZQvR7PAov/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0102840897.jpg"
 openstates_id: ocd-person/88861a7f-ca46-4ed7-a053-0d463cca48e0
 contact:
   website: "https://openstates.org/person/justin-bamberg-49cF02f2ze222m0nVRC3PM/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

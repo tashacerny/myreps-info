@@ -12,5 +12,5 @@ photo_url: "https://static.votesmart.org/static/canphoto/185380.jpg"
 openstates_id: ocd-person/5d98b66b-f4d1-4776-953f-67dc348fdd12
 contact:
   website: "https://openstates.org/person/gary-woods-2qc4j7xEMZd6ydMc3z5e2k/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

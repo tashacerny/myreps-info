@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/4655f1_d2a8a2149cf54e91832ddb1038
 openstates_id: ocd-person/87b1ae9f-d7ad-4fc2-b96c-a03c1926c4b1
 contact:
   website: "https://openstates.org/person/jonah-wheeler-483AEeQ60YiCu19YfAKQxV/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

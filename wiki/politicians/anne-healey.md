@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/healey.jpg"
 openstates_id: ocd-person/7bcb723d-68c2-4826-acab-0437aa27471f
 contact:
   website: "https://openstates.org/person/anne-healey-3lb1wl8NQ82Ei4JNE4XgVz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

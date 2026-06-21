@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/jennings_d.jp
 openstates_id: ocd-person/34e1e6dd-469b-4e3d-9cc5-604bffe79730
 contact:
   website: "https://openstates.org/person/buck-jennings-1bmpyt9TnTtFXd21vj6wy0/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

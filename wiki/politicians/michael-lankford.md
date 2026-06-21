@@ -13,5 +13,5 @@ photo_url: "https://montgomerytn.gov/storage/departments/commission/commissioner
 openstates_id: ocd-person/4ac298c0-370f-4b1d-b41c-29d3ec4f6f09
 contact:
   website: "https://openstates.org/person/michael-lankford-2H4MVryGoLxNeF0onX7k0P/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

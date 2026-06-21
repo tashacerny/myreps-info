@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e
 contact:
   website: "https://openstates.org/person/jesse-gabriel-1xhkMPb2PaqZOKDuGmXGVq/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

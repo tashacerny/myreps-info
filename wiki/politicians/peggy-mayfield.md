@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/0acb3367-1e1e-404e-89c8-82e3c6754235
 contact:
   website: "https://openstates.org/person/peggy-mayfield-KMmkVGdwTKbTAPx0IJPjZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

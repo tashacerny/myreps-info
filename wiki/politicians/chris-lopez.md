@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/651b0dc83f033107360db6
 openstates_id: ocd-person/9128a4e7-1464-483c-8642-0d878da05619
 contact:
   website: "https://openstates.org/person/chris-lopez-4PuSdJsNBOeo8z8P4wy3pp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

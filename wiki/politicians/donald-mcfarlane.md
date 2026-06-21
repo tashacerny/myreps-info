@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Donal
 openstates_id: ocd-person/538f12b2-0914-4107-9b08-6f498e7eec66
 contact:
   website: "https://openstates.org/person/donald-mcfarlane-2XfkM97Dvr79WM6IgkIBZm/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

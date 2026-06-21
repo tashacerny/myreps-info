@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/michel.jpg"
 openstates_id: ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3
 contact:
   website: "https://openstates.org/person/walter-michel-2yUuQAa1LZV82bL7V4RVMR/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

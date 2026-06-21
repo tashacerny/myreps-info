@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/c3185181-4ae9-42ce-8bf5-9a2f04c2422b
 contact:
   website: "https://openstates.org/person/mike-lajoie-5w8cGs8V4z1q24U1KJwB3b/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

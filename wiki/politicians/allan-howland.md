@@ -12,5 +12,5 @@ photo_url: "https://www.ci.durham.nh.us/sites/default/files/styles/full_node_pri
 openstates_id: ocd-person/69b94b6a-d5d5-430b-a4b9-c62c8414cb75
 contact:
   website: "https://openstates.org/person/allan-howland-3DUsCQoGXRZY9pQvVSxzoT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

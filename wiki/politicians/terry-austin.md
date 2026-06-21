@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/cb9573ab-1bf6-45d5-a8d7-476d7bed94a8
 contact:
   website: "https://openstates.org/person/terry-austin-6C9k0SZ8EBbYoJ2BW1jJrU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

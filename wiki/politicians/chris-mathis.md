@@ -12,5 +12,5 @@ photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/MATHIS.jpg"
 openstates_id: ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd
 contact:
   website: "https://openstates.org/person/chris-mathis-5Rd4XIlDSNrB2W1P47txPB/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

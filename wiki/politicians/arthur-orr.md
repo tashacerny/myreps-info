@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Orr_3.png"
 openstates_id: ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578
 contact:
   website: "https://openstates.org/person/arthur-orr-5SkX7u30VXM818Yq9cIYgK/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

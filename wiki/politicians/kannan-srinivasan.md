@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/eb7a5152-f275-4dfe-a303-742f7218fb27
 contact:
   website: "https://openstates.org/person/kannan-srinivasan-7AL5xgzryyYPlo8RaZxVfb/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

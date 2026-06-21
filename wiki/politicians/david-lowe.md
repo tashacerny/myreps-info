@@ -13,5 +13,5 @@ photo_url: "https://www.house.texas.gov/images/members/4643.jpg?v=1"
 openstates_id: ocd-person/15ce6502-645c-4031-994d-b228e1c69bb4
 contact:
   website: "https://openstates.org/person/david-lowe-f9A0bX3GGjmnQeFMU4Zl6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h87.jpg"
 openstates_id: ocd-person/807f5a72-fe61-460c-86a3-c65a6b9eaca1
 contact:
   website: "https://openstates.org/person/karen-camper-3uTDXqaoeAEiFUMQwJBvyT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

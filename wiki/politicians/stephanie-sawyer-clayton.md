@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_clayton_stephanie_1
 openstates_id: ocd-person/6c410bc7-76fd-4488-aca4-5158a5a55d70
 contact:
   website: "https://openstates.org/person/stephanie-sawyer-clayton-3IGtdhZW7tknaRXZwF0U8O/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

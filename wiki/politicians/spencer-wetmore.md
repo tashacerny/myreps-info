@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1905681590.jpg"
 openstates_id: ocd-person/a0512457-cf73-4c3a-8190-d381a90af2d8
 contact:
   website: "https://openstates.org/person/spencer-wetmore-4sVqxvTqw76lM1SifnibqS/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

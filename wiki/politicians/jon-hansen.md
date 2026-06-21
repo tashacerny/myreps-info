@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jon_H
 openstates_id: ocd-person/912b0c53-5674-42b0-8f22-8ccd01c3264c
 contact:
   website: "https://openstates.org/person/jon-hansen-4PvYkRwkU65ZASgdNvyNMC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

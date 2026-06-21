@@ -12,5 +12,5 @@ photo_url: "https://www.naco.org/sites/default/files/styles/349x333/public/PIC_O
 openstates_id: ocd-person/e347c564-d1f5-4fb8-a24d-47218fa754e7
 contact:
   website: "https://openstates.org/person/debbie-o-malley-6us3ZmgTupdHMP2y2KR0Jb/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

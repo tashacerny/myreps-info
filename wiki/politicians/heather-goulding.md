@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/bedabc75-c6b4-4949-9e0e-76b9432e740f
 contact:
   website: "https://openstates.org/person/heather-goulding-5o8VIaum9joXti9AHEjkb9/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

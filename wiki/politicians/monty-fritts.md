@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/fd35b0_10146244fb184e609fc7bce8e2
 openstates_id: ocd-person/eb738f26-e0b1-4c51-af77-024bfed96183
 contact:
   website: "https://openstates.org/person/monty-fritts-7AI0SyUolgi7m2V3dKW0ix/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

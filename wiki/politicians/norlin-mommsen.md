@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=14810"
 openstates_id: ocd-person/e8a08a29-2cc5-4b0b-a461-61983aa0771c
 contact:
   website: "https://openstates.org/person/norlin-mommsen-74xaNI924CyjzVACBv7uoe/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

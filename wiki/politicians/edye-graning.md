@@ -12,5 +12,5 @@ photo_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/EdyeGranin
 openstates_id: ocd-person/2f46ddc5-1564-4215-b201-cc3c1521f4c4
 contact:
   website: "https://openstates.org/person/edye-graning-1RD1ZSGZYkvO60aYBnHhIK/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

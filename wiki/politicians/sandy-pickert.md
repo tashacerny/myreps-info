@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_pickert_sandy_1.jpg
 openstates_id: ocd-person/8e21a303-1c30-4c02-a8f8-8eacccb6873c
 contact:
   website: "https://openstates.org/person/sandy-pickert-4KCHVqEQQwIKb0lL8cbvp6/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

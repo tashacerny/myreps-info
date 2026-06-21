@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/29d5158e-c93e-4d69-9da5-70972c26c896
 contact:
   website: "https://openstates.org/person/scott-wagner-1Gw42U4L2gXtqshzNDBd2c/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

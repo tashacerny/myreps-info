@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/10A.gif?v=112221"
 openstates_id: ocd-person/3059daef-810c-4917-b6fa-c059312f97bf
 contact:
   website: "https://openstates.org/person/ron-kresha-1TEh83WCqZKU8PifvVGNBf/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

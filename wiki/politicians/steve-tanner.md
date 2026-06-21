@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/0e6ffb72-a52a-4cac-90a0-ae54a3dfe1a2
 contact:
   website: "https://openstates.org/person/steve-tanner-RF4FfzdY8RTjp5G9oxlHW/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

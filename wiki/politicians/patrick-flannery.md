@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house96.
 openstates_id: ocd-person/8ae56ea2-3f37-490b-a3dc-0dec9fe85c7c
 contact:
   website: "https://openstates.org/person/patrick-flannery-4E5n67hoGCus81pfId6xie/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

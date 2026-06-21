@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/8bc14822-ff62-4ffe-bf42-4114bd5bd99b
 contact:
   website: "https://openstates.org/person/dean-cray-4FiGKn4Ka7xzqOchpDdBxj/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

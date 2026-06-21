@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Quimby,%20Beth
 openstates_id: ocd-person/54f186e0-f30c-410a-bae4-bbd443611e77
 contact:
   website: "https://openstates.org/person/beth-quimby-2aHjTmgPzeh7dv07x3rJPr/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

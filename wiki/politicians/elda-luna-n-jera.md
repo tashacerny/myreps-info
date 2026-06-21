@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/EldaL
 openstates_id: ocd-person/93db82ca-c8b1-43e4-98ce-ba52f4d0f635
 contact:
   website: "https://openstates.org/person/elda-luna-najera-4V0Bhru6qkK1fOmdEfGQFR/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SCERV.jpg"
 openstates_id: ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b
 contact:
   website: "https://openstates.org/person/joe-cervantes-dVZMrAb5m6n47LVqwT0N1/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

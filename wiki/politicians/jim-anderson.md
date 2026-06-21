@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-AndersonJim.jpg"
 openstates_id: ocd-person/f40c41d5-b371-49c5-a597-db8435e613a0
 contact:
   website: "https://openstates.org/person/jim-anderson-7QVjDWkNxoNR9qp8OJRDlo/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

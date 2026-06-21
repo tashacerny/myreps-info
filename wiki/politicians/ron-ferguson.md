@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/ron-ferguson/headshot
 openstates_id: ocd-person/52608475-9678-45ce-823a-74f9c931682c
 contact:
   website: "https://openstates.org/person/ron-ferguson-2VRTinfx97QVZ3z91BUfwS/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

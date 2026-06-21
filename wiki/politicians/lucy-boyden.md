@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Boyden,%20Lucy
 openstates_id: ocd-person/95e547fd-21f0-489d-a558-a8937d6341e5
 contact:
   website: "https://openstates.org/person/lucy-boyden-4YqdaUPpN9EMtf1VbMjOar/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

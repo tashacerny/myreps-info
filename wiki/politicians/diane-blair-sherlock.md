@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{C9D7B27E-2484-4917-A5CA-F85
 openstates_id: ocd-person/d5c22b1c-8057-40bf-aea6-0298070ad67b
 contact:
   website: "https://openstates.org/person/diane-blair-sherlock-6VM6FgxY6VoGbz0IAo7wct/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

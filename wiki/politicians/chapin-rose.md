@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{BA95E1D1-0570-4492-B739-D1F
 openstates_id: ocd-person/b748f1e8-6cfd-47d6-9398-5817aa879f39
 contact:
   website: "https://openstates.org/person/chapin-rose-5Zqvlk6m26zgaP2gzSF881/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

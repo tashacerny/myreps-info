@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{6FD168B8-C34B-4399-8E39-737
 openstates_id: ocd-person/d02beb7e-1f30-48f2-8418-4c9287452562
 contact:
   website: "https://openstates.org/person/dave-syverson-6KoTTfYU2AOdtr6NRKj7T8/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/067/headshot/
 openstates_id: ocd-person/2c20fb3d-4c95-4494-ac3b-a1ab93f72439
 contact:
   website: "https://openstates.org/person/linda-rosenthal-1LGjZ4gYolhNWY2GspCwHZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

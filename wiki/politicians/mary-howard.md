@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Howard,Mary.jp
 openstates_id: ocd-person/3d835c85-50e3-4a02-8891-baa377f63fa5
 contact:
   website: "https://openstates.org/person/mary-howard-1s4Yz5FGygUeizMrc0i6Yn/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

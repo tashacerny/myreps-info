@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cowsert
 openstates_id: ocd-person/4dc87191-fa52-4c2f-bc9c-8823a8b4c882
 contact:
   website: "https://openstates.org/person/bill-cowsert-2Mm0knXw6zeZFhy7VbJo8o/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552
 contact:
   website: "https://openstates.org/person/kyle-mullica-7BDE3pnKsU1T6E48a6PvcY/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

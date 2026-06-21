@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h11.jpg"
 openstates_id: ocd-person/c01a4deb-373d-48a9-b4a2-19125c6e1fe2
 contact:
   website: "https://openstates.org/person/jeremy-faison-5qUXyAq8Kwa5cOJ81s5eZm/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

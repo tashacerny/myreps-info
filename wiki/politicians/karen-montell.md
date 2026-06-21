@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/80900bc0-7e26-4195-a0af-ec56b9f34fe0
 contact:
   website: "https://openstates.org/person/karen-montell-3uaqVvwI0ora9m0lvgpA4O/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

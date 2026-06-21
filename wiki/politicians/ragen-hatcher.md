@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/4c9685ab-f2a4-46e0-980a-699bb01d26cf
 contact:
   website: "https://openstates.org/person/ragen-hatcher-2KWCkaSSYTQXVQaLcuemLv/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

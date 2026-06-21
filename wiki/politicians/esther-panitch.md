@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/panitch
 openstates_id: ocd-person/bdc621be-7296-4383-8c45-b4533d1c106c
 contact:
   website: "https://openstates.org/person/esther-panitch-5m65y91GWC1gNRdu5PHYjM/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

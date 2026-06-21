@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/grayber/PublishingImages/member_ph
 openstates_id: ocd-person/f08a3b2f-8e56-41e4-bf5f-84a43fd5aab5
 contact:
   website: "https://openstates.org/person/dacia-grayber-7JtKThvkXWj9CpVDWaw9xN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

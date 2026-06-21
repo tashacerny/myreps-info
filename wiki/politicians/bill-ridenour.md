@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/ridenour_bill
 openstates_id: ocd-person/ad2e5607-a6ef-4458-88fc-bea91da19ac6
 contact:
   website: "https://openstates.org/person/bill-ridenour-5GmqaUvI5q5mQvY3AltDOA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep64.jpg"
 openstates_id: ocd-person/c64e6628-efa4-4ffe-8b2f-d9df80f4f313
 contact:
   website: "https://openstates.org/person/kellee-hennessy-62CJAcZBTuRQAZUd1ajMDT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

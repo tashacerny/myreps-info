@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d09/img/Rehmet-89-0739D-017-web.jpg
 openstates_id: ocd-person/9647d335-a650-4aa7-b11f-973c4e86b5a6
 contact:
   website: "https://openstates.org/person/taylor-rehmet-4ZZfji4p4MPSuM3KHPMaik/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

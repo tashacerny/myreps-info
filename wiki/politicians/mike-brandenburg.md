@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/52538b14-697a-4632-854b-badf925cbfe6
 contact:
   website: "https://openstates.org/person/mike-brandenburg-2VLY6xkSkfglxCYSGoMWKU/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

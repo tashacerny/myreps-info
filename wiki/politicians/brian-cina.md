@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Cina,Brian3.jp
 openstates_id: ocd-person/35504508-c008-4ecd-869f-6d8e33a4ad56
 contact:
   website: "https://openstates.org/person/brian-cina-1cbH9W7G3UvRvANeYc1yJq/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

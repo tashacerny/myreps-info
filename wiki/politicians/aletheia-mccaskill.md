@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/mccaskill01.jpg"
 openstates_id: ocd-person/311ecab9-74b4-4c0f-849b-c077dfbb291f
 contact:
   website: "https://openstates.org/person/aletheia-mccaskill-1Ugh9FugPSZtvcfq8fXdEN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

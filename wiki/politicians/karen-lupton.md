@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/lupton-
 openstates_id: ocd-person/eb28f991-35c9-4d84-a907-5be56aed1aff
 contact:
   website: "https://openstates.org/person/karen-lupton-79jvBkIQIcETaRA7R7AmVz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

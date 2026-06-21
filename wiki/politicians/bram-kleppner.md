@@ -13,5 +13,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzxkKy2iYtXf9A
 openstates_id: ocd-person/565d034b-76cd-4303-a045-770d4be05f0a
 contact:
   website: "https://openstates.org/person/bram-kleppner-2cxqWKjomfaRuCdCaj67Q2/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

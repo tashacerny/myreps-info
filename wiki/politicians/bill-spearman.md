@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/spearman_william_
 openstates_id: ocd-person/3d5d3c07-70ed-481a-91ba-a19fce581561
 contact:
   website: "https://openstates.org/person/bill-spearman-1rn8h1uRmdQs1yBogKWFXd/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

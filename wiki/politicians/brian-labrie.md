@@ -13,5 +13,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/2024-06/brian-labr
 openstates_id: ocd-person/a04ceb08-3ec9-43b6-87d2-014313ada4a1
 contact:
   website: "https://openstates.org/person/brian-labrie-4sTvHnZgO5tabVhSmIWeDx/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

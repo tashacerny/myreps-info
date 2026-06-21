@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jenni
 openstates_id: ocd-person/64122b0a-5dcf-4f7e-aa74-cff67dcb67b3
 contact:
   website: "https://openstates.org/person/jennifer-mandelbaum-32pXCfxcod5U30A5f0ljDn/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a82b5491-46a0-4062-aec5-362724f8f729
 contact:
   website: "https://openstates.org/person/steve-bogert-57KVnnbY1wKc7apMq9pV97/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

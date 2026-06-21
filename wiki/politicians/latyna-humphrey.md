@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/latyna-m-humphrey/hea
 openstates_id: ocd-person/b2c76bf8-569f-4e80-bd3d-fa8273a8356c
 contact:
   website: "https://openstates.org/person/latyna-humphrey-5RLlkeeW5XFEABWK4uSXFc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

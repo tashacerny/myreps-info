@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s30_
 openstates_id: ocd-person/8c728fd0-2a3b-48ea-88a9-c7d675eb05d0
 contact:
   website: "https://openstates.org/person/tina-polsky-4H1HOpYsfXWdtNRmPHZylc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

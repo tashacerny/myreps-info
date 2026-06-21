@@ -13,5 +13,5 @@ photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Terry-Spahr-1-102
 openstates_id: ocd-person/3427853b-656d-4c4e-9857-acb92e08187d
 contact:
   website: "https://openstates.org/person/terry-spahr-1aPf2JoUCRof1XhEm4hmqz/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

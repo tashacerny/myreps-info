@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2073"
 openstates_id: ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca
 contact:
   website: "https://openstates.org/person/brad-pollitt-2LHsDtX7059zMW02X2ZOGY/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

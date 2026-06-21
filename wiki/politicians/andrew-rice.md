@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Andre
 openstates_id: ocd-person/7517f920-b2ba-4759-a80a-246816ebb09b
 contact:
   website: "https://openstates.org/person/andrew-rice-3Yx3b1mithIqKTfmCzLVf9/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

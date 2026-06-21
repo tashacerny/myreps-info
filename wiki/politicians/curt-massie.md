@@ -12,5 +12,5 @@ photo_url: "https://cloudfront-us-east-1.images.arcpublishing.com/gray/JN4WUIDOK
 openstates_id: ocd-person/132b0654-ebb2-4b6b-81b3-d39b41110d45
 contact:
   website: "https://openstates.org/person/curt-massie-aAW1hHujeEVpKtPjdwKTl/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

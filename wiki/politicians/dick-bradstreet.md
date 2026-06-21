@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/ec504278-9872-4842-a99c-80b31e563707
 contact:
   website: "https://openstates.org/person/dick-bradstreet-7BuroKe6pOkwC2pqQmC8vv/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

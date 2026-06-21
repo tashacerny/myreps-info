@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/4e77c536-5645-4e15-99b2-00a781896717
 contact:
   website: "https://openstates.org/person/marcus-brown-2O48TWRkUs430vHdYEYSBj/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/ebersole01.jpg"
 openstates_id: ocd-person/cbf6aefa-a6aa-4de5-9237-d1c34e5c4930
 contact:
   website: "https://openstates.org/person/eric-ebersole-6CsAybymCSXnpWvfhNERQO/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

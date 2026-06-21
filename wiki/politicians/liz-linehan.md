@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Linehan/images/Linehan_HS.jpg"
 openstates_id: ocd-person/96e6350e-71c4-4031-8af8-a989d0ec3a01
 contact:
   website: "https://openstates.org/person/liz-linehan-4ak3Ln4KZnPOUprd1zCMwD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

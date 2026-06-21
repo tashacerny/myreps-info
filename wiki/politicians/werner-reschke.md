@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/reschke/PublishingImages/member_ph
 openstates_id: ocd-person/709441c1-d716-47bc-8ac6-353abb1e039e
 contact:
   website: "https://openstates.org/person/werner-reschke-3QQtRIaskyd41SgeLrHsAo/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

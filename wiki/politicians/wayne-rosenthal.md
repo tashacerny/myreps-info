@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{43DB5751-834C-4CA0-B8A4-6D1
 openstates_id: ocd-person/5a23473f-1af0-4f7d-8b08-cb287d93db6f
 contact:
   website: "https://openstates.org/person/wayne-rosenthal-2k5QlIfGFMLliKCmWyXrWZ/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

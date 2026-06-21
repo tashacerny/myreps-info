@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/9104a840-3113-47f6-b8fc-112521fe5577/-/pro
 openstates_id: ocd-person/a0b2ce58-2c2d-4b71-a9e2-7b8ae153d53f
 contact:
   website: "https://openstates.org/person/sue-glick-4tEUBegejrhXDdfzvJzHTD/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

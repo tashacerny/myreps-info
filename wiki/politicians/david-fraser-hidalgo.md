@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/fraser01.jpg"
 openstates_id: ocd-person/ccc2ad8a-fa2a-432c-8e95-d301636547fc
 contact:
   website: "https://openstates.org/person/david-fraser-hidalgo-6ENOyBoe8iVp5zkxYhKBgK/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

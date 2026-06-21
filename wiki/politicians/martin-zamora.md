@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HZAMO.jpg"
 openstates_id: ocd-person/dc968f82-503e-4246-9124-b880fd6ae3ae
 contact:
   website: "https://openstates.org/person/martin-zamora-6iF7KnsZFuslpahoRdvFLK/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

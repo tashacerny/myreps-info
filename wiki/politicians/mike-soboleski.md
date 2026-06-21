@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/fc107a79-150e-414f-b796-960c96d75eb6
 contact:
   website: "https://openstates.org/person/mike-soboleski-7fdb14wcPlWHq2RYk9RUYA/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

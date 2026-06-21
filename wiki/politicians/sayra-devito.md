@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/2024-10/Sayra-DeVi
 openstates_id: ocd-person/44357af0-cbba-4906-87fd-1929564931b9
 contact:
   website: "https://openstates.org/person/sayra-devito-24huxkzrFn2nKrf1a3VFGb/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

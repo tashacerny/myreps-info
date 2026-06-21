@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/99ac6698-e0f9-4ddf-9df6-2d82aa70468f
 contact:
   website: "https://openstates.org/person/jennifer-conlin-4fyc1ufluJmrTSZvaISBzT/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2535.jpg"
 openstates_id: ocd-person/d949fee5-765b-43ea-913c-386fe2b3c441
 contact:
   website: "https://openstates.org/person/shannon-zimmerman-6c19Mkguomf0ELmV4vY0ET/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/C_G1.jpg"
 openstates_id: ocd-person/c4d03c0e-713d-4195-ba23-1394f225494b
 contact:
   website: "https://openstates.org/person/carlos-gonzalez-5zNetMugfU4zird1IdVJ8N/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/81d4b890-9bf4-44e0-99b2-eda866f02d48
 contact:
   website: "https://openstates.org/person/brent-crane-3wzDsmovLNhK7Bbboq8VDc/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

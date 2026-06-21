@@ -13,5 +13,5 @@ photo_url: "https://thenews.org/wp-content/uploads/2018/08/7BD9AD2B-7439-4C90-86
 openstates_id: ocd-person/fded60a9-de72-47ba-bf20-90dddd9f9138
 contact:
   website: "https://openstates.org/person/j-t-payne-7j9XW1ow1a5elY5l1FfMjo/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

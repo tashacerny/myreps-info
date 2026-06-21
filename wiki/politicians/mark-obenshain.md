@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Obensh
 openstates_id: ocd-person/b5ce9d0e-c76e-4424-bb84-57ceb335dc52
 contact:
   website: "https://openstates.org/person/mark-obenshain-5X4260VfydRLThmiBaoKyg/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

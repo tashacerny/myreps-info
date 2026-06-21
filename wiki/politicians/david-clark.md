@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/clark-d
 openstates_id: ocd-person/ad18dba4-9247-4542-95b1-2ccef815dbc7
 contact:
   website: "https://openstates.org/person/david-clark-5Gd21gfkvV8et5ryuuPWbP/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

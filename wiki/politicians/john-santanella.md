@@ -13,5 +13,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjHNdAfDeer4lV
 openstates_id: ocd-person/3939d7ca-20d7-4587-9c34-c6ee9bb2014e
 contact:
   website: "https://openstates.org/person/john-santanella-1jyzoCNlCYIfpjIIZPdUDu/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

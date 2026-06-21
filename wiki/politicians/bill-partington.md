@@ -12,5 +12,5 @@ photo_url: "https://www.billpartington.com/images/Partington,-Bill-WEB-FILE.jpg"
 openstates_id: ocd-person/92e88cfe-0a68-45e1-b84c-9f181a46554e
 contact:
   website: "https://openstates.org/person/bill-partington-4TD9ecvYmxPMffIkc1SPOg/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

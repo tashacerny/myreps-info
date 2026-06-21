@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/b5f897f3-cce8-43b0-a130-f98d0d88da8e
 contact:
   website: "https://openstates.org/person/len-turcotte-5XNDYuoyiH86igHhLWkudC/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

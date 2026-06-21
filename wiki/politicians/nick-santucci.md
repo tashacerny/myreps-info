@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/nick-santucci/headsho
 openstates_id: ocd-person/64305698-f25c-486e-b57f-00298cfbe15d
 contact:
   website: "https://openstates.org/person/nick-santucci-333K2xRvoB4Krjk30GeYxB/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

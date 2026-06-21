@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/calabrese_clinton
 openstates_id: ocd-person/5475b510-25ec-4354-abb5-f1f03c3ea2c3
 contact:
   website: "https://openstates.org/person/clinton-calabrese-2ZN9AJ9W7Ck1Q4VnmwnW9z/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

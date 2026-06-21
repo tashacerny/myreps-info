@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/51492780-1440-4625-b487-63640ee2b11d
 contact:
   website: "https://openstates.org/person/laura-smith-2TNoDzyyX8qls94MVmmXlN/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

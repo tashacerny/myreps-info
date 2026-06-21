@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/campbell_jef
 openstates_id: ocd-person/81cad520-b015-42c8-b533-64a9e4596197
 contact:
   website: "https://openstates.org/person/jeff-campbell-3wuhheySSBbBrk9xq1HWid/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{21A3B029-3423-410E-818A-845
 openstates_id: ocd-person/c4a1e37c-3c81-448c-9349-199a8fa5c2d3
 contact:
   website: "https://openstates.org/person/don-dewitte-5z2TimlZfZ7yv4FDHpxpCd/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

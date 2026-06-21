@@ -12,5 +12,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/w
 openstates_id: ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c
 contact:
   website: "https://openstates.org/person/aisha-wahab-1G1XVDXnCp2Y7tFkVGjxiG/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

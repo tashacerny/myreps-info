@@ -12,5 +12,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIu5mvWkZ1XTW
 openstates_id: ocd-person/2abbe0b0-fc8b-47f0-8b29-78e7c1315322
 contact:
   website: "https://openstates.org/person/jose-castaneda-1IdXMO97x26DvlLzRynJ9G/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

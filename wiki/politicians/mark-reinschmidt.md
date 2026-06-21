@@ -12,5 +12,5 @@ photo_url: "https://www.whitehallledger.com/IMG/GgZmsn7rWaScoesaeXeK1AhXw0Fk0/XP
 openstates_id: ocd-person/d8ff9a89-7988-4c31-9548-cc968eea3b35
 contact:
   website: "https://openstates.org/person/mark-reinschmidt-6bT9XJaopniz80hl8UPGNB/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

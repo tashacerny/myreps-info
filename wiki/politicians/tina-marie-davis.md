@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1204.jpg?1703415645
 openstates_id: ocd-person/f9a1f1ab-9538-424c-87f1-65e2a4f4bfc7
 contact:
   website: "https://openstates.org/person/tina-marie-davis-7b364t1ubyaCuRbTYXhbSp/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---

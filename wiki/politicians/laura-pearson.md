@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-PearsonLaura.jpg"
 openstates_id: ocd-person/c6b78357-5a9d-41e9-b947-1d81227b0f15
 contact:
   website: "https://openstates.org/person/laura-pearson-62yLTiut2hFGK4SAM73Y61/"
-last_updated: "2026-06-14"
+last_updated: "2026-06-21"
 ---
