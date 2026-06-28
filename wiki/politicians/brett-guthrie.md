@@ -13,6 +13,6 @@ term_start: "2009-01-03"
 bioguide_id: G000558
 contact:
   website: "https://guthrie.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

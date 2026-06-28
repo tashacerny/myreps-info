@@ -13,6 +13,6 @@ term_start: "2016-01-03"
 bioguide_id: E000296
 contact:
   website: "https://evans.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

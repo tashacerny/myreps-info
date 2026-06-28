@@ -12,6 +12,6 @@ term_start: "2013-01-03"
 bioguide_id: K000383
 contact:
   website: "https://www.king.senate.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

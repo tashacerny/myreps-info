@@ -12,6 +12,6 @@ term_start: "2023-01-03"
 bioguide_id: B001305
 contact:
   website: "https://www.budd.senate.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: D000624
 contact:
   website: "https://debbiedingell.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

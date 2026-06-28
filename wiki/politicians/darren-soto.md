@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: S001200
 contact:
   website: "https://soto.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

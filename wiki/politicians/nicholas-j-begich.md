@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: B001323
 contact:
   website: "https://begich.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

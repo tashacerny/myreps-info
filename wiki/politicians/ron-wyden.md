@@ -12,6 +12,6 @@ term_start: "1996-01-03"
 bioguide_id: W000779
 contact:
   website: "https://www.wyden.senate.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

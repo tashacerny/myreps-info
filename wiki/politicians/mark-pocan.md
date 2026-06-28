@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: P000607
 contact:
   website: "https://pocan.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2024-01-03"
 bioguide_id: M001229
 contact:
   website: "https://mciver.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

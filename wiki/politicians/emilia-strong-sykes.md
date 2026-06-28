@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: S001223
 contact:
   website: "https://sykes.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

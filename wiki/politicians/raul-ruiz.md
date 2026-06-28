@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: R000599
 contact:
   website: "https://ruiz.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

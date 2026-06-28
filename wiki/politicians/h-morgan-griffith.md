@@ -13,6 +13,6 @@ term_start: "2011-01-03"
 bioguide_id: G000568
 contact:
   website: "https://morgangriffith.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

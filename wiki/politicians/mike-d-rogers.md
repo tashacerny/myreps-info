@@ -13,6 +13,6 @@ term_start: "2003-01-03"
 bioguide_id: R000575
 contact:
   website: "https://mikerogers.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: P000622
 contact:
   website: "https://patronis.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

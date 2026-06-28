@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: B001317
 contact:
   website: "https://brecheen.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

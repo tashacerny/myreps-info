@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: G000586
 contact:
   website: "https://chuygarcia.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

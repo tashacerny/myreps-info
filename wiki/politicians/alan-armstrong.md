@@ -11,6 +11,6 @@ term_start: "2026-01-03"
 bioguide_id: A000383
 contact:
   website: "https://www.armstrong.senate.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

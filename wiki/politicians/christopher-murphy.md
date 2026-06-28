@@ -12,6 +12,6 @@ term_start: "2013-01-03"
 bioguide_id: M001169
 contact:
   website: "https://www.murphy.senate.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

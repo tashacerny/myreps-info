@@ -13,6 +13,6 @@ term_start: "2009-01-03"
 bioguide_id: M001177
 contact:
   website: "https://mcclintock.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

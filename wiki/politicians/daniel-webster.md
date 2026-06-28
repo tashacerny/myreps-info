@@ -13,6 +13,6 @@ term_start: "2011-01-03"
 bioguide_id: W000806
 contact:
   website: "https://webster.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

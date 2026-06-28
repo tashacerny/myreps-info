@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: P000614
 contact:
   website: "https://pappas.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

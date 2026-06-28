@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: O000177
 contact:
   website: "https://onder.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

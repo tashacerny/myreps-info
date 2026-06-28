@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: T000480
 contact:
   website: "https://timmons.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

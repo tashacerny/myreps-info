@@ -12,6 +12,6 @@ term_start: "2007-01-03"
 bioguide_id: W000802
 contact:
   website: "https://www.whitehouse.senate.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

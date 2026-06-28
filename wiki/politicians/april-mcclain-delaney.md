@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: M001232
 contact:
   website: "https://mcclaindelaney.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

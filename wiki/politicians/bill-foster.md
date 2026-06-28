@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: F000454
 contact:
   website: "https://foster.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

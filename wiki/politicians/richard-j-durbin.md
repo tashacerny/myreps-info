@@ -12,6 +12,6 @@ term_start: "1997-01-03"
 bioguide_id: D000563
 contact:
   website: "https://www.durbin.senate.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

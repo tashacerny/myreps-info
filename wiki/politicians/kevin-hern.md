@@ -13,6 +13,6 @@ term_start: "2018-01-03"
 bioguide_id: H001082
 contact:
   website: "https://hern.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

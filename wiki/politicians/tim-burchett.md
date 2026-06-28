@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: B001309
 contact:
   website: "https://burchett.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

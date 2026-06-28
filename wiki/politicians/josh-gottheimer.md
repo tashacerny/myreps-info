@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: G000583
 contact:
   website: "https://gottheimer.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

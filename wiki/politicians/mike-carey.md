@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: C001126
 contact:
   website: "https://carey.house.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

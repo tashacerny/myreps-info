@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: S001215
 contact:
   website: "https://stevens.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

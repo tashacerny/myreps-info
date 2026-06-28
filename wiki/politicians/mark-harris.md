@@ -2,15 +2,17 @@
 name: Mark Harris
 slug: mark-harris
 party: Republican
-state: ID
-level: state
-chamber: Senate
-office: ID State Senate, District 35
-district: 35
+state: North Carolina
+level: federal
+chamber: House
+office: U.S. Representative, North Carolina-8
+district: 8
 in_office: true
-photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/directory/Harris3584.jpg"
-openstates_id: ocd-person/84d9ffa4-35f6-4baf-acdd-c3bafee537e7
+photo_url: "https://www.congress.gov/img/member/67742d1b0b34857ecc9090dd_200.jpg"
+term_start: "2025-01-03"
+bioguide_id: H001102
 contact:
-  website: "https://openstates.org/person/mark-harris-42gbzbXpHtyX2li3Beyo0V/"
-last_updated: "2026-06-21"
+  website: "https://markharris.house.gov/"
+last_updated: "2026-06-28"
 ---
+

@@ -13,6 +13,6 @@ term_start: "2022-01-03"
 bioguide_id: F000475
 contact:
   website: "https://finstad.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

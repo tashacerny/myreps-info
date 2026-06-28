@@ -12,6 +12,6 @@ term_start: "2020-01-03"
 bioguide_id: K000377
 contact:
   website: "https://www.kelly.senate.gov"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: W000821
 contact:
   website: "https://westerman.house.gov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
 
