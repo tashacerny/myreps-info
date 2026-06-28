@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/mathiak
 openstates_id: ocd-person/f8db50e0-08ab-406c-ac8b-39c7038ef5ca
 contact:
   website: "https://openstates.org/person/karen-mathiak-7ZaK8KRFGRO7eoBT6SdohG/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

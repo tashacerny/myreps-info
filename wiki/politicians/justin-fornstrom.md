@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-FornstromJustin.JPG
 openstates_id: ocd-person/970ff542-b60c-4a3b-bd63-492a38a0a878
 contact:
   website: "https://openstates.org/person/justin-fornstrom-4b38JxIeAB7brDIgimABVQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

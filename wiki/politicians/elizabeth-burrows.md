@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Burrows,%20Eli
 openstates_id: ocd-person/e7232e6f-4a66-45dc-9a4b-ee9d8b763544
 contact:
   website: "https://openstates.org/person/elizabeth-burrows-729IwEYS6xIjTnRZTflLsa/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

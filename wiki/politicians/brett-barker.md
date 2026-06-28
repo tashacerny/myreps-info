@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37386"
 openstates_id: ocd-person/e34f4bba-5e1f-4e99-8654-d35140a5470b
 contact:
   website: "https://openstates.org/person/brett-barker-6uvUmb5JMWokYCrqwMuPJj/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

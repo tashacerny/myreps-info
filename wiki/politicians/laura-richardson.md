@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5
 contact:
   website: "https://openstates.org/person/laura-richardson-5lWhqYPKmOZlLUEiuiPAAP/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/a0b9b444-ee25-48a1-ab61-cf0be462e89d
 contact:
   website: "https://openstates.org/person/charniele-herring-4tHddiJDStkL7hWHRQzQuD/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

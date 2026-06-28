@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/a3a29593-781a-462d-93cc-685be03b3b56
 contact:
   website: "https://openstates.org/person/mark-babin-4ym38D4YxIXr2NEzaSGlN8/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

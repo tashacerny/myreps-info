@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist12/hig
 openstates_id: ocd-person/3c015cf9-e3de-42cf-a364-64607ecc70ce
 contact:
   website: "https://openstates.org/person/merv-riepe-1pEA51ci9iygp86ECO6AxC/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

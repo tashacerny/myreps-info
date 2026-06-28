@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/a41cd894-d64d-406e-99cd-f1935e40a812
 contact:
   website: "https://openstates.org/person/cornel-rasor-4zfvIzCz8JsBJE6lgSKZvO/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/29102.jpg"
 openstates_id: ocd-person/a203698b-5fe6-4a54-b939-5341937c57ec
 contact:
   website: "https://openstates.org/person/mari-leavitt-4viJcCTa7ymWzbisIPpvS8/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

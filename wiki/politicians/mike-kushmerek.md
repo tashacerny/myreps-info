@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 3rd Worcester
 district: 3rd Worcester
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MPK1.jpg"
 openstates_id: ocd-person/591dc6dd-40b8-4713-83b8-f236ff6250bf
 contact:

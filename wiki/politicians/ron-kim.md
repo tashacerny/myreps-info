@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/040/headshot/
 openstates_id: ocd-person/f8732ad5-c692-4bab-bbaa-fb772a031a5d
 contact:
   website: "https://openstates.org/person/ron-kim-7YojB9IZ9rpy0oClK8pvsz/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

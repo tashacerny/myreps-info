@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/31536.jpg"
 openstates_id: ocd-person/dd5d76ce-7efe-4c95-aae3-a59a4676fe78
 contact:
   website: "https://openstates.org/person/t-wina-nobles-6ji15A1YDGgNxKKVOzyzWK/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

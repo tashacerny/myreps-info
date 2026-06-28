@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Garcia.jpg"
 openstates_id: ocd-person/810a94e5-8524-4de9-bdf2-2e0d6c64b7f2
 contact:
   website: "https://openstates.org/person/diamond-garcia-3vUqS16zuX7PLF67lq2P6A/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

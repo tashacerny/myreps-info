@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate10
 openstates_id: ocd-person/3109e3ae-10c1-417e-bf7f-bf4f539bd3c8
 contact:
   website: "https://openstates.org/person/craig-richardson-1UX8tX7dSVjdfgZnHvD6zY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

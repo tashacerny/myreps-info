@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/006/headshot/
 openstates_id: ocd-person/efcd9b6f-4657-41aa-94a1-9b048c7043cf
 contact:
   website: "https://openstates.org/person/phil-ramos-7IV7zRWVjsHTKeBc1k2soh/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

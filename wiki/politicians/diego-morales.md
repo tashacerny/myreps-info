@@ -12,5 +12,5 @@ photo_url: "https://www.in.gov/sos/images/3033-Secretary-Morales-headshot-1-12-2
 openstates_id: ocd-person/3ed7846b-4aaa-44fc-b502-a64d70bfd36f
 contact:
   website: "https://openstates.org/person/diego-morales-1ua0zGIAGaBHQ6xBlCdITv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

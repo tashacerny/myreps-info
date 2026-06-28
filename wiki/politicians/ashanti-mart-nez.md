@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/martinez01.jpg"
 openstates_id: ocd-person/61ddb821-9c47-454b-8185-b68c47dcb144
 contact:
   website: "https://openstates.org/person/ashanti-martinez-2yfa44ME8GvsNLjRydXXN6/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

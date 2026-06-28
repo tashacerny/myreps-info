@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/126/headshot/
 openstates_id: ocd-person/21b7fbbb-6f39-4251-884d-3d4a146a0874
 contact:
   website: "https://openstates.org/person/john-lemondes-11cpIYD1pyjnoXmatM2LRc/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

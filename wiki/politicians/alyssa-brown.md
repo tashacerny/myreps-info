@@ -12,5 +12,5 @@ photo_url: "https://arkansasadvocate.com/wp-content/uploads/2024/09/Alyssa-Brown
 openstates_id: ocd-person/4dc31c5c-a5a5-417f-bbaa-d99442259b4f
 contact:
   website: "https://openstates.org/person/alyssa-brown-2MjZeWKX1ZqJBSL1OLqIIx/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Vanes
 openstates_id: ocd-person/bc34f3ad-05ad-494c-bb80-bd2eb99e4fe9
 contact:
   website: "https://openstates.org/person/vanessa-grossl-5j8ku8oVaHGuAGWHscenMn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

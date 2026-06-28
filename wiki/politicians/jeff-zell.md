@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jeffr
 openstates_id: ocd-person/236892d9-be31-4afa-9c3c-e68dff8bf480
 contact:
   website: "https://openstates.org/person/jeff-zell-14oWLWhNzqG3AsrV6UsSky/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

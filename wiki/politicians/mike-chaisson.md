@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 1st Bristol
 district: 1st Bristol
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MSC1.jpg"
 openstates_id: ocd-person/0a74c581-eb5c-4935-b5c3-f4a77e6dcd31
 contact:

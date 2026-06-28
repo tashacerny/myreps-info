@@ -12,5 +12,5 @@ photo_url: "https://www.house.mi.gov/media/Representatives/Steele-054.jpg"
 openstates_id: ocd-person/4a5a14f9-56b4-4f7a-ad0c-bfe3750912a3
 contact:
   website: "https://openstates.org/person/donni-steele-2GIbBS9DAdhdI6sgJawy0Z/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

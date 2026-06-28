@@ -12,5 +12,5 @@ photo_url: "https://stratfordcrier.com/wp-content/uploads/2024/10/shakeheadshot.
 openstates_id: ocd-person/91e5bc44-6a8d-410d-bab5-5eb34b90d368
 contact:
   website: "https://openstates.org/person/kaitlyn-shake-4RIsMOJSt7zEVjaKdLVbce/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

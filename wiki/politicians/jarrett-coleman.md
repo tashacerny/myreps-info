@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/2008.jpg?1703415645
 openstates_id: ocd-person/ecd51b53-a59b-4b92-b203-c1d24f748cb1
 contact:
   website: "https://openstates.org/person/jarrett-coleman-7CtZuXC0YGWEXIeQoPlwIL/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/be7ad6b3-da1b-4b8d-b41b-6b6e48a9bdfa
 contact:
   website: "https://openstates.org/person/matt-hostettler-5nQg8EdsHwFpyU2HQzMo0I/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://kyholland.com/wp-content/uploads/2024/04/Ky-headshot-new.jpe
 openstates_id: ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58
 contact:
   website: "https://openstates.org/person/ky-holland-5417flvb6cwyCAat4Rn0Se/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

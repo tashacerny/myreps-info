@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JimSh
 openstates_id: ocd-person/df9c291c-e14f-487a-8ff6-9182734ababf
 contact:
   website: "https://openstates.org/person/jim-shaw-6nweZw7t42Q8tPmEeel0kJ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/07/
 openstates_id: ocd-person/c1ac9f88-970a-4930-8249-7c15e77210ed
 contact:
   website: "https://openstates.org/person/rylee-linting-5tSPIoiZAsmQ5Hd8HmJi61/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

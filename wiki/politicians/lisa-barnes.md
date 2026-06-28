@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/427/Low"
 openstates_id: ocd-person/21577fbd-e06f-4bc3-8717-e050ff165a74
 contact:
   website: "https://openstates.org/person/lisa-barnes-10ujVGkAIf0ePzDEpKXsyy/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

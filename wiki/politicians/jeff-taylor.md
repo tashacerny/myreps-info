@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30544"
 openstates_id: ocd-person/cc1cff7e-82d6-4947-a906-f467b4017285
 contact:
   website: "https://openstates.org/person/jeff-taylor-6D9gaD391TUUflpblik8HN/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlive.com/resizer/v2/NV2ILLLSBNAY7DMKF7SP6EY5UU.jpe
 openstates_id: ocd-person/2b313ed5-ef42-4c8f-ae67-5dbac7346118
 contact:
   website: "https://openstates.org/person/mari-watanabe-1JVArpfQWXtpZWSN7KRRcm/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

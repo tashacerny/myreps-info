@@ -12,5 +12,5 @@ photo_url: "https://www.naag.org/wp-content/uploads/2025/01/ag-NC-Jackson-Jeff-2
 openstates_id: ocd-person/59ece42c-d325-427b-bd54-96b3625bc43d
 contact:
   website: "https://openstates.org/person/jeff-jackson-2jgZkxWZreXC48nGAFY2w9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

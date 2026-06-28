@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/slater.jpg"
 openstates_id: ocd-person/1cd78f67-6adb-47c6-98cd-f49ca8eb603f
 contact:
   website: "https://openstates.org/person/scott-slater-sQINTRJUjUIvbXDCCxT2d/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

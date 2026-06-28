@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/8a7d14ca-669e-4984-8a28-0086e2b9b2ae
 contact:
   website: "https://openstates.org/person/randy-hall-4DK6PSkAyR0QzWR0jQcZFm/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

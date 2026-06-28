@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Olsen,%20Jim.jpg"
 openstates_id: ocd-person/f7a4c019-6e5c-40d8-8faf-9f7d44b83062
 contact:
   website: "https://openstates.org/person/jim-olsen-7XIOXqsq1dR5UnYMc6wlcY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

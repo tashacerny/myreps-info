@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District Second Bristol and Plymouth
 district: Second Bristol and Plymouth
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MCM0.jpg"
 openstates_id: ocd-person/31600b44-797b-4baf-80aa-0762b4f0aff5
 contact:

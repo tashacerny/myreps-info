@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 15th Essex
 district: 15th Essex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/RMH2.jpg"
 openstates_id: ocd-person/799d49f3-28e5-46a1-bcc8-6370e9fbf44a
 contact:

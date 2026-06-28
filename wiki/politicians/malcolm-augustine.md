@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2019RS/images/augustine01.jpg"
 openstates_id: ocd-person/6c4c1b4d-7c32-4d2b-83ab-d207f92e1818
 contact:
   website: "https://openstates.org/person/malcolm-augustine-3ILx24JjrunMaEYbsQGw2K/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

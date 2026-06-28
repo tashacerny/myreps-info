@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate13
 openstates_id: ocd-person/18063ded-67cb-46a9-b558-14d5da92b860
 contact:
   website: "https://openstates.org/person/phillip-wheeler-jKfRLmqRwQ5mBd2dGgB9s/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

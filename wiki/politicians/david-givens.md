@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate10
 openstates_id: ocd-person/5594a97f-7358-427e-af84-43150a21c97e
 contact:
   website: "https://openstates.org/person/david-givens-2bUHlYCXhy00BToWurBvRO/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

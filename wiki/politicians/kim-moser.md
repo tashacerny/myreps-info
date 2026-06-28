@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house64.
 openstates_id: ocd-person/92511255-ca06-4241-bd91-0cafd92e3d5c
 contact:
   website: "https://openstates.org/person/kim-moser-4S5vdHfLs3XFlWxec3x3DI/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

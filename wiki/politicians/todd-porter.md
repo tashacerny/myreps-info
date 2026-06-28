@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08
 contact:
   website: "https://openstates.org/person/todd-porter-4WZP2f3JDuEjPw6DxFfPGy/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

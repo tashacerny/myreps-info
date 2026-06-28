@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cannon-
 openstates_id: ocd-person/cba2f06c-773c-49d3-949c-b1a2db377c21
 contact:
   website: "https://openstates.org/person/chas-cannon-6CFu9onh2QzEQTS8OUhaGf/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

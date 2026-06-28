@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/8dd63807-ac15-408c-97de-c8e9195a6a42
 contact:
   website: "https://openstates.org/person/david-sinclair-4JdocFDLjD989H8LtoYfsQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.carpenterforkansas.com/wp-content/uploads/2022/07/Carpen
 openstates_id: ocd-person/38998536-e18f-44bb-8e80-01bfee04e991
 contact:
   website: "https://openstates.org/person/blake-carpenter-1injDUNghBL8Ucf4z0VrSD/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

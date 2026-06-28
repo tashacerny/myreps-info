@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/2de0a3a1-a1e3-477f-88b9-3212fa52fb9c
 contact:
   website: "https://openstates.org/person/lindsey-daugherty-1OZJXHH2tYN5y0KYCSDJKW/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

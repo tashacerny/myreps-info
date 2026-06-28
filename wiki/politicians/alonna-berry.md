@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66
 contact:
   website: "https://openstates.org/person/alonna-berry-761CJqULzbX6rYFYjvSaW6/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

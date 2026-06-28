@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/jim-thomas/headshots/
 openstates_id: ocd-person/ba95511f-3692-426c-bf85-c41ff737eeec
 contact:
   website: "https://openstates.org/person/jim-thomas-5g4oGoQqlpyBWZ8TQOfovU/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

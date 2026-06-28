@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/786/Low"
 openstates_id: ocd-person/4547831d-14b9-4d9d-9e3c-15b66c389054
 contact:
   website: "https://openstates.org/person/james-roberson-26j9PB8l9vupRuErcgZwUW/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

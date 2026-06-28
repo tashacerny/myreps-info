@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/938f2479-c51f-446a-87f0-76d4f07c61e5
 contact:
   website: "https://openstates.org/person/akbar-ali-4URHsTMjgEKtsaCFgjd7NV/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

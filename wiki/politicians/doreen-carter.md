@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/carter-
 openstates_id: ocd-person/818f1afb-2850-448e-99c1-be63a9acfe95
 contact:
   website: "https://openstates.org/person/doreen-carter-3wTPOELlPd6pskXHWEM5Ej/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

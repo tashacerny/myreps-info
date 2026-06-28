@@ -13,5 +13,5 @@ photo_url: "https://www.house.mi.gov/media/Representatives/Bierlein-097.jpg"
 openstates_id: ocd-person/33fdbffe-7e3d-4146-bd91-bddc098a7bf3
 contact:
   website: "https://openstates.org/person/matt-bierlein-1a6ZVbxZXgJTXGkVGaoAQF/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

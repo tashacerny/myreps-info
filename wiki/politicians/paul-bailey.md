@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/senate/members/images/s15.jpg"
 openstates_id: ocd-person/8e49fca4-e0d8-4273-adab-265632163d86
 contact:
   website: "https://openstates.org/person/paul-bailey-4KUinQUeIRwB9WaIZOdpQ6/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

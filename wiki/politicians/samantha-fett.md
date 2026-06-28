@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37379"
 openstates_id: ocd-person/a629e45d-fc34-4751-9ca3-d70d2b8f332d
 contact:
   website: "https://openstates.org/person/samantha-fett-53Xs08iFzbGGE1WD83StRt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

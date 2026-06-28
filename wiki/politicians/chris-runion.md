@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/bbb38d6c-3b3d-4ce8-bb2f-3d9346ff86f7
 contact:
   website: "https://openstates.org/person/chris-runion-5iBcUUz447tXR2cKM3lWER/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

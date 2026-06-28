@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 4th Hampden
 district: 4th Hampden
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/KWP1.jpg"
 openstates_id: ocd-person/72eea330-24b4-4207-a016-0b1e568e0b6e
 contact:

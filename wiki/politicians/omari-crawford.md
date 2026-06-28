@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/crawfor
 openstates_id: ocd-person/dbb81f07-2181-48dd-b383-19870e08d4fd
 contact:
   website: "https://openstates.org/person/omari-crawford-6gbSifpRWMtstaqSq8o9pF/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

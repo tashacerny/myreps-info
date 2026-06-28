@@ -13,5 +13,5 @@ photo_url: "https://www.pepperodom.com/wp-content/uploads/2019/05/daryl-porter-6
 openstates_id: ocd-person/da9d953d-a95f-4166-9b94-e6c5e5b40c86
 contact:
   website: "https://openstates.org/person/daryl-porter-6eWLG7IaW4aUN7ZwRccMYY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

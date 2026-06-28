@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 16th Middlesex
 district: 16th Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/RME1.jpg"
 openstates_id: ocd-person/49816a0c-b8e5-4586-859b-8a8f1ae9b6ab
 contact:

@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_pettey_pat_1.jpg"
 openstates_id: ocd-person/148ed29a-4c96-4e69-9791-29b2bd3f09b6
 contact:
   website: "https://openstates.org/person/pat-pettey-cn7EWKnEkJ7TSXNulzC58/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

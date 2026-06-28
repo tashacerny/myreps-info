@@ -13,5 +13,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/GIE.jpg"
 openstates_id: ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb
 contact:
   website: "https://openstates.org/person/cathy-giessel-2H7aBCH3wZa7HvLNMowEah/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

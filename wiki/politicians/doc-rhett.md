@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/rhett-m
 openstates_id: ocd-person/efb9168c-b45a-4f43-bba5-d6f05e7d9cbe
 contact:
   website: "https://openstates.org/person/doc-rhett-7ILkbJ3V9D1BYUB8TjmGYI/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

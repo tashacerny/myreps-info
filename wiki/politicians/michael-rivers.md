@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1564346404.jpg"
 openstates_id: ocd-person/ebf046cf-233e-4c98-b78e-4cefbb07615b
 contact:
   website: "https://openstates.org/person/michael-rivers-7BD0Df35JP6FFelnEYtt4V/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

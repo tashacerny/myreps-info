@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1565340722.jpg"
 openstates_id: ocd-person/ea7da5ce-c132-44b0-8b3c-33745f9d3e4b
 contact:
   website: "https://openstates.org/person/robby-robbins-78Tcn4BCt8UpCgF41H3OZP/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

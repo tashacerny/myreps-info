@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_hill_scott_1.jpg"
 openstates_id: ocd-person/64c3ae14-1ec8-46ed-b317-bcd9722319f5
 contact:
   website: "https://openstates.org/person/scott-hill-348eq46djIhmybbT1ihok1/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

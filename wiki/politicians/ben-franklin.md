@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/BenFr
 openstates_id: ocd-person/04b709c6-b487-49c1-9bcf-dfbbc7082beb
 contact:
   website: "https://openstates.org/person/ben-franklin-8tcJZDaz88V7TVzAmfcCp/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

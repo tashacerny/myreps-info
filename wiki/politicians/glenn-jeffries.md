@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/jeffries_gle
 openstates_id: ocd-person/de2f5e4b-192a-463d-91b0-73f212e8f953
 contact:
   website: "https://openstates.org/person/glenn-jeffries-6lFwWeqM5mgVI5iubwZgBP/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

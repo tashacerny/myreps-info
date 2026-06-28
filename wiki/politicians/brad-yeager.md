@@ -12,5 +12,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4882.jpg"
 openstates_id: ocd-person/8d746fc8-370b-4d12-bcf8-3dd4a4061707
 contact:
   website: "https://openstates.org/person/brad-yeager-4Iv82xWzoFeruJSqHayYoZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6
 contact:
   website: "https://openstates.org/person/mark-baisley-5TehBVm924TSPI96qHmvuo/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

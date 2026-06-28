@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/8dd98240-93c9-486a-b6c6-3a794b232090
 contact:
   website: "https://openstates.org/person/andrew-lanza-4JfJphydPYoh7Xs0MGsusC/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/JJM1.jpg"
 openstates_id: ocd-person/0e8c6c71-bca0-46fd-86d1-223d41ed5517
 contact:
   website: "https://openstates.org/person/john-marsi-RS472O2QPTWcZTvDvTNax/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

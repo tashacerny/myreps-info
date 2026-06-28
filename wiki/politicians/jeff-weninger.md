@@ -13,5 +13,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/WENINGER.j
 openstates_id: ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce
 contact:
   website: "https://openstates.org/person/jeff-weninger-6lvWNbZdiBCNHCaDVo49kc/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

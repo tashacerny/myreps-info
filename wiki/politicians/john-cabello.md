@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{9E64DAD4-4264-42B1-AFDA-AB8
 openstates_id: ocd-person/b442db35-fab4-4318-a07b-0e88c314fbaa
 contact:
   website: "https://openstates.org/person/john-cabello-5U9AgCR6gZ3nNZsFyP24vC/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/wilkins01.jpg"
 openstates_id: ocd-person/03da7272-eadc-4ad3-ba4b-f06f60acbed0
 contact:
   website: "https://openstates.org/person/jheanelle-wilkins-7Go4IKzymBdgYr8mDRm6a/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

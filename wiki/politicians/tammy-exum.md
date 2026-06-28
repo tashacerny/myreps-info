@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Exum/images/Exum_HS.jpg"
 openstates_id: ocd-person/8872e78b-25b4-406b-84b2-949c700f7b56
 contact:
   website: "https://openstates.org/person/tammy-exum-49TT0pZwFTa192crbKTIXO/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/vtcng.com/content/tncms
 openstates_id: ocd-person/d44ada7b-9678-4a17-a66c-aa658b03bf38
 contact:
   website: "https://openstates.org/person/brian-minier-6Saa3443nWn7XvrVm1T6JU/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

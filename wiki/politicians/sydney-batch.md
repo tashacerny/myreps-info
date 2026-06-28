@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/434/Low"
 openstates_id: ocd-person/f29f268e-5a29-4f49-8c5e-3fa19688f4a2
 contact:
   website: "https://openstates.org/person/sydney-batch-7NosG7lPyyKSx1eKhrkBb0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

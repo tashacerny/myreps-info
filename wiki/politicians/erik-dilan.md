@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/054/headshot/
 openstates_id: ocd-person/489a01e1-6a0f-4907-bc00-110020e2f27d
 contact:
   website: "https://openstates.org/person/erik-dilan-2CzpP2ydcWwCF0Y5LAv7nB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

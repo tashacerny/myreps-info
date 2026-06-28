@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/a1af9e8e-8f2c-4b6a-a7ca-708a0d0bf6f2
 contact:
   website: "https://openstates.org/person/carl-bjerke-4v61Q5zVlCXJGuZSX0muwc/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

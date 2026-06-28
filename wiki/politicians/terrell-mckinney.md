@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist11/hig
 openstates_id: ocd-person/27784792-d54f-4a64-8408-a4a1ce0c26b1
 contact:
   website: "https://openstates.org/person/terrell-mckinney-1CTfSOEvP63jL7qqhWZv9N/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

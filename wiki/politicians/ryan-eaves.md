@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RyanE
 openstates_id: ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753
 contact:
   website: "https://openstates.org/person/ryan-eaves-7UQNxCg4qiHvVIrGHgVeJH/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

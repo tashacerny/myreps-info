@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/062/headshot/
 openstates_id: ocd-person/f827b8b8-7aa1-4b7b-b40e-d7af0f40d5eb
 contact:
   website: "https://openstates.org/person/mike-reilly-7YGFUbphexceHK2B5LDo0R/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

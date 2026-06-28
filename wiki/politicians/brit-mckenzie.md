@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/604_sm.jpg"
 openstates_id: ocd-person/0fc23ae8-f37f-4684-b8f5-083c8e36e19d
 contact:
   website: "https://openstates.org/person/brit-mckenzie-TjeC7wgimc7hMKSvOR1jh/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://mgaleg.maryland.gov/2026RS/images/coley01.jpg"
 openstates_id: ocd-person/768071e2-ba4a-4910-b4b4-f9b2e88eff7c
 contact:
   website: "https://openstates.org/person/derrick-coley-3bbnEKrmC6to5xzhwf5SF2/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

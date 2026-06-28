@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/adaad5_bffecd22c43440d18ef9083b24
 openstates_id: ocd-person/0fb2e73b-b140-4669-a9bd-b75facb342dd
 contact:
   website: "https://openstates.org/person/quanta-crews-TcdvEJyVJmfibA5SekVpt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

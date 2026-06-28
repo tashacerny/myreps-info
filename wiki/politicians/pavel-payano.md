@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District First Essex
 district: First Essex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PMP0.jpg"
 openstates_id: ocd-person/1d33d1e7-dae9-4e98-aa9e-626b0d711d9a
 contact:

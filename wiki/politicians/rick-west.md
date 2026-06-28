@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/West,%20Rick.jpg"
 openstates_id: ocd-person/bae91554-72c9-4dbd-b042-b4bd800e4732
 contact:
   website: "https://openstates.org/person/rick-west-5gh5iOVPIwzMWgoChy7uk6/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

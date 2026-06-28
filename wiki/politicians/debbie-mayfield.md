@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s19_
 openstates_id: ocd-person/a41e2c13-be68-4af3-8229-3c657b8d980d
 contact:
   website: "https://openstates.org/person/debbie-mayfield-4zgWsezdPc3r0ENoQoWUFJ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

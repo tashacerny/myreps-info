@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Sandy
 openstates_id: ocd-person/4ab15127-5b7a-40bc-8807-26e8e8a73397
 contact:
   website: "https://openstates.org/person/sandy-donatucci-2GwSuRIWlWDQIPsn0IpunH/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

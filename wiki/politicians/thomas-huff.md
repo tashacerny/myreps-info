@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house49.
 openstates_id: ocd-person/7d2b01df-9356-4eaa-923f-144e3f229860
 contact:
   website: "https://openstates.org/person/thomas-huff-3oBh6cthIM9uhbLTIr7zii/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

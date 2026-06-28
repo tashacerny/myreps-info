@@ -13,5 +13,5 @@ photo_url: "https://www.spencerfane.com/wp-content/uploads/2023/05/garrett-j-731
 openstates_id: ocd-person/8aeb3cc6-b0ca-4af6-ae9d-06aca0c6ae14
 contact:
   website: "https://openstates.org/person/johnny-garrett-4E8RaGmOBineCiOBbUDxu0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/
 openstates_id: ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727
 contact:
   website: "https://openstates.org/person/bryant-richardson-2k8RdgHS3ubbCaRWPKXDt9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

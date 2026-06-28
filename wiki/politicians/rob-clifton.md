@@ -2,16 +2,15 @@
 name: Rob Clifton
 slug: rob-clifton
 party: Republican
-birthdate: "1968-12-31"
-state: NJ
+state: GA
 level: state
 chamber: House
-office: NJ State House, District 12
-district: 12
+office: GA State House, District 131
+district: 131
 in_office: true
-photo_url: "https://www.njleg.state.nj.us/members/memberphotos/clifton_robert_2020.jpg"
-openstates_id: ocd-person/b94db48b-9083-48c9-8b27-3603db14fa3e
+photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RobClifton2024.jpg"
+openstates_id: ocd-person/84eb7371-a332-4534-b3b3-542500c798f8
 contact:
-  website: "https://openstates.org/person/rob-clifton-5df5hEhn2wQOcG7Eq5Uqy6/"
-last_updated: "2026-06-21"
+  website: "https://openstates.org/person/rob-clifton-42oaUNYVxUSHxKToCZOSIy/"
+last_updated: "2026-06-28"
 ---

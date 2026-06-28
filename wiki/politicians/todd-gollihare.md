@@ -12,5 +12,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Gollihare%2C%20Todd%20Flags
 openstates_id: ocd-person/54d37a3d-68cb-4e87-9916-c38f2f0f8ed3
 contact:
   website: "https://openstates.org/person/todd-gollihare-2a403fQpr4MSEqyUvoYlRT/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

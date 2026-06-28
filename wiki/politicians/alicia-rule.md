@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/31533.jpg"
 openstates_id: ocd-person/b735531c-ec99-4e19-9f43-967d951f8010
 contact:
   website: "https://openstates.org/person/alicia-rule-5ZhxqWNU6iOf4jbC8bJgwa/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

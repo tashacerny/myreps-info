@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/818/Low"
 openstates_id: ocd-person/1bc1818f-49fd-478a-affa-1f167adcfb51
 contact:
   website: "https://openstates.org/person/tim-longest-qNDyHdKpkWF6BG3wdxPO5/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/67330255adbf4c1a48d665b3/
 openstates_id: ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599
 contact:
   website: "https://openstates.org/person/matt-ball-2GTt0bdPYAQ1q1JmTsVZaD/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

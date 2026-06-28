@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/2
 openstates_id: ocd-person/fe462917-df55-4a43-9fd8-970541544ca6
 contact:
   website: "https://openstates.org/person/anna-caballero-7jo7693ZI31cwOmvvBsK0s/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

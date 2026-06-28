@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 6th Hampden
 district: 6th Hampden
-in_office: true
+in_office: false
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Michael_Finn.jpg"
 openstates_id: ocd-person/b61922e8-c775-4c74-8ecb-557d79162195
 contact:

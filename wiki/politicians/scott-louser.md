@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a
 contact:
   website: "https://openstates.org/person/scott-louser-1laZCjm1QZOW6p1FWaDM30/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

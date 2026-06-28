@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house92.
 openstates_id: ocd-person/7cda4251-f26b-4bab-bf88-ed61b947018e
 contact:
   website: "https://openstates.org/person/john-blanton-3nanB7n6rD8TweDFgiywus/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

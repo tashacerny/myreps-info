@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/holmes.jpg"
 openstates_id: ocd-person/5fff41d7-cea5-4e01-a4da-e4474d267691
 contact:
   website: "https://openstates.org/person/marvin-holmes-2v8vHaLIW9l8rensdup3pZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/White,Rebecca.
 openstates_id: ocd-person/d798a240-afe8-451d-8b56-9d2badd4820c
 contact:
   website: "https://openstates.org/person/becca-white-6Yp6SKJ7zBjTOwWghIYz3k/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

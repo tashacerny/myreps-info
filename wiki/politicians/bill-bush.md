@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/fccfb524-6aee-40a9-8469-081e961dd072
 contact:
   website: "https://openstates.org/person/bill-bush-7h2zJqIW9PkthBqUxvSdKk/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

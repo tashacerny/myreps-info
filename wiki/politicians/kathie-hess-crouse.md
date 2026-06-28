@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2024/house/crouse_kathi
 openstates_id: ocd-person/0686b8e2-2d6a-4950-b3c3-0dbfe5a6e719
 contact:
   website: "https://openstates.org/person/kathie-hess-crouse-CJWNG6JjW5ZznnT0qRng1/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

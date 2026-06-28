@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/344cb784-deed-4671-94f1-0616555296e3
 contact:
   website: "https://openstates.org/person/mike-karickhoff-1agexm299uhRDo1lXRZNJr/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

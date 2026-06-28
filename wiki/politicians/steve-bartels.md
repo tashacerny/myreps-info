@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/df749cfb-56e8-482f-bf4b-183a1fb52594
 contact:
   website: "https://openstates.org/person/steve-bartels-6nea2X1Lo8n8lp7WQalZGW/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

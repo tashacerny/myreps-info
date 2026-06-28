@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b890f601-0023-4d87-acf7-a4db5cbf2b62
 contact:
   website: "https://openstates.org/person/ryan-fecteau-5cGpngV9CfrpnICPhJIpGs/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

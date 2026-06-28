@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0202272703.jpg"
 openstates_id: ocd-person/30329193-5519-45c5-a7de-f841e62b91ac
 contact:
   website: "https://openstates.org/person/case-brittain-1SwjyqNsnYYACZEJNIDeUm/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

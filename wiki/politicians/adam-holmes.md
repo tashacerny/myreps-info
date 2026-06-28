@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/adam-holmes/headshots
 openstates_id: ocd-person/78912d95-3dac-4487-810a-74be41508ebb
 contact:
   website: "https://openstates.org/person/adam-holmes-3fVQOlF5ApbRp8WO85XlVr/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

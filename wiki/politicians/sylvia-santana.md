@@ -13,5 +13,5 @@ photo_url: "https://senatedems.com/santana/wp-content/uploads/sites/8/2022/12/Sa
 openstates_id: ocd-person/8e302b97-4868-4575-a56f-3881e91ae0f8
 contact:
   website: "https://openstates.org/person/sylvia-santana-4KIvJ31OiMNxXdagmUKDKi/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

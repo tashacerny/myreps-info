@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/bob-peterson/headshot
 openstates_id: ocd-person/cdc9f705-514e-4445-ac17-9aeac8f67e97
 contact:
   website: "https://openstates.org/person/bob-peterson-6GJixtytiDZMEY2UuEDKLv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

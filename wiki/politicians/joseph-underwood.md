@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b6102f7e-216a-4632-901c-25b2b446f080
 contact:
   website: "https://openstates.org/person/joseph-underwood-5XY01Crjhuti0iqCYDmsu8/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

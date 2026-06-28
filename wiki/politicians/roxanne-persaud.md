@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/aa80fb3b-9add-463b-bfba-fe51e3409212
 contact:
   website: "https://openstates.org/person/roxanne-persaud-5Bjdh5fwitBCarWfELU9Cc/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

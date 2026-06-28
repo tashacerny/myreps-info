@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 9th Middlesex
 district: 9th Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/TMS1.jpg"
 openstates_id: ocd-person/2becbe4e-5b5e-4b42-be87-b4abf57550c7
 contact:

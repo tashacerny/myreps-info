@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/essexreporter.com/conte
 openstates_id: ocd-person/a7ecda71-d1ad-4e61-bc68-16e929cfc11d
 contact:
   website: "https://openstates.org/person/leonora-dodge-56rxZZWUoJh9Y2hEYeLvq9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

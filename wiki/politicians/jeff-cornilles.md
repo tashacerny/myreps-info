@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/42d3b7d7-1a3a-4d58-ae68-a84cbaaf7ad0
 contact:
   website: "https://openstates.org/person/jeff-cornilles-226FRI2PPsjheerCaltb4C/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

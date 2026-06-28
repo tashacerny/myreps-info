@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Goldman,Leslie
 openstates_id: ocd-person/90a243b6-e5b2-4f16-b19f-612508863535
 contact:
   website: "https://openstates.org/person/leslie-goldman-4Ov36rupdyUZxXkXgzN2nt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

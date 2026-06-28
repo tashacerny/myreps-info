@@ -13,5 +13,5 @@ photo_url: "https://www.house.texas.gov/images/members/4575.jpg?v=1"
 openstates_id: ocd-person/92b45572-c15c-4270-8356-6c3db1846c7b
 contact:
   website: "https://openstates.org/person/helen-kerwin-4SpI8P3gqi8wl0WNFWz8Dz/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

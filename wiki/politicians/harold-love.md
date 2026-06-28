@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h58.jpg"
 openstates_id: ocd-person/2b7b0735-2adf-4d15-8dab-e32cf871d1d9
 contact:
   website: "https://openstates.org/person/harold-love-1K2tQrLiZDQf11ZsocdIqH/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

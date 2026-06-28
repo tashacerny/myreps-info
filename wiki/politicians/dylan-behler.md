@@ -12,5 +12,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/behler01.jpg"
 openstates_id: ocd-person/5a00e3a7-f7ac-4f41-b180-1cf821a4c241
 contact:
   website: "https://openstates.org/person/dylan-behler-2jpiNejWZP2anzLfr6iYZV/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

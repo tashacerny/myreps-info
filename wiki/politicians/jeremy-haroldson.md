@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-HaroldsonJeremy.jpg
 openstates_id: ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181
 contact:
   website: "https://openstates.org/person/jeremy-haroldson-5eTSNzTaDfD02lUYsmB9az/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

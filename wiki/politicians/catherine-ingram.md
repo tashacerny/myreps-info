@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/catherine-d-ingram/he
 openstates_id: ocd-person/94ba65dd-57c5-4ab0-b607-5e310d50cae0
 contact:
   website: "https://openstates.org/person/catherine-ingram-4We30LHDL3QDEmWDGs4W7k/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

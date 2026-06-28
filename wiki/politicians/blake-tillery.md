@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/tillery
 openstates_id: ocd-person/e9c5a2fc-3354-49e1-ac29-783502155fe7
 contact:
   website: "https://openstates.org/person/blake-tillery-777X0WTAqltnm96jkxvgJz/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

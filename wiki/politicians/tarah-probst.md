@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1982.jpg?1703415645
 openstates_id: ocd-person/8caab7df-f601-45f0-9be5-35d94175e766
 contact:
   website: "https://openstates.org/person/tarah-probst-4HQwXfC1X8DoiWFHdl0jrC/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

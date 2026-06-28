@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s04_
 openstates_id: ocd-person/f1eda85d-37f2-4475-a318-8278a11c9466
 contact:
   website: "https://openstates.org/person/clay-yarborough-7MVl9zRQhfXn9ZaPuAsnd0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

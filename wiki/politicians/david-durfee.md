@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Durfee,David.j
 openstates_id: ocd-person/500ffe66-07b0-4ebd-9084-d017872daa84
 contact:
   website: "https://openstates.org/person/david-durfee-2R4h6oLoWIReh55YzYnAUW/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

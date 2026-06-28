@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/444d3040-a7ee-4559-8d5f-bfc515617605
 contact:
   website: "https://openstates.org/person/tammy-schmersal-burgess-24skiLUAF0s5q9dF8R52kH/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

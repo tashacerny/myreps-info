@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477
 contact:
   website: "https://openstates.org/person/brandy-pyle-M2Vw8BEYB6bXGWUhzh3mp/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

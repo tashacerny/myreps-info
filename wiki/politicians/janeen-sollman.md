@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/sollman/PublishingImages/Pages/sta
 openstates_id: ocd-person/9d3f5669-f452-4926-91ec-a74a4c4a48e5
 contact:
   website: "https://openstates.org/person/janeen-sollman-4mijvAnva2KYr2dQHwojY5/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

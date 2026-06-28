@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1733.jpg?1703415645
 openstates_id: ocd-person/3e99b4f3-2efa-4330-b0b9-fb273b1322ea
 contact:
   website: "https://openstates.org/person/greg-rothman-1u7le5UqTrYfhMMiOI4JVS/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

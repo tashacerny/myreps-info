@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/brian-lorenz/headshot
 openstates_id: ocd-person/a3ccce64-ea28-47dc-8bab-3af6ed2dd860
 contact:
   website: "https://openstates.org/person/brian-lorenz-4z5LS2zb4qqsSorKqgIzQG/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

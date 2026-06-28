@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/guzzone01.jpg"
 openstates_id: ocd-person/ba217836-74e4-49ec-8eac-58d21e792e63
 contact:
   website: "https://openstates.org/person/pam-guzzone-5fDrqMW0wt7zEGC0VcG2p1/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

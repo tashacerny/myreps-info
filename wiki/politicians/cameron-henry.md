@@ -13,5 +13,5 @@ photo_url: "https://senate.la.gov/SenatorPics/Sen9.jpg"
 openstates_id: ocd-person/684d1cc7-cce3-4545-a6ab-d689c7c56105
 contact:
   website: "https://openstates.org/person/cameron-henry-3AoRQu1i7uqEqs508e1SJ3/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

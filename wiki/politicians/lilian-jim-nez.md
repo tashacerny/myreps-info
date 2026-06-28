@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{6C475229-0B41-4F93-A2C7-5B1
 openstates_id: ocd-person/256a1090-5fef-4f0c-b016-263735573c77
 contact:
   website: "https://openstates.org/person/lilian-jimenez-18bBdulrZZ9ywEn20GntPL/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

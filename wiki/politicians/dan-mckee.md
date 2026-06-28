@@ -13,5 +13,5 @@ photo_url: "https://governor.ri.gov/sites/g/files/xkgbur236/files/styles/max_130
 openstates_id: ocd-person/7ca005d1-05b8-4ce2-80b4-04ff7acaa59e
 contact:
   website: "https://openstates.org/person/dan-mckee-3nAB6afXXmOeMBQovKFfJu/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

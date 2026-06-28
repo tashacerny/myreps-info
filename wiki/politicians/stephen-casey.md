@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/casey.jpg"
 openstates_id: ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071
 contact:
   website: "https://openstates.org/person/stephen-casey-KzpI0EGQOLcFAZvuHDq9B/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

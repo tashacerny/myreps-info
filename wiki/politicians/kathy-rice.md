@@ -12,5 +12,5 @@ photo_url: "https://gray-kota-prod.gtv-cdn.com/resizer/v2/J7PTGE337BGX3PYCKMQSGV
 openstates_id: ocd-person/f2a2616a-c0d4-45d2-8c52-2c8d7dac5e26
 contact:
   website: "https://openstates.org/person/kathy-rice-7NqLmAyzHugXxf00if8vA6/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

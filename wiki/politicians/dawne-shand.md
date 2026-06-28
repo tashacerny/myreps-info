@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/D_S1.jpg"
 openstates_id: ocd-person/6c49bb2c-7c53-4f22-bfb9-04af813b95b0
 contact:
   website: "https://openstates.org/person/dawne-shand-3IKrizUyLOgwtCe8lzXhXU/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

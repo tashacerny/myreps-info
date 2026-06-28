@@ -12,5 +12,5 @@ photo_url: "https://www.in.gov/lg/images/LG-Headshot-26.jpg"
 openstates_id: ocd-person/f3361ebb-630c-4160-9f66-68c7c9eb7419
 contact:
   website: "https://openstates.org/person/micah-beckwith-7Ovrq5Ev1Z7zpQxcSiZtTF/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

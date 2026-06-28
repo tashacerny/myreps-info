@@ -13,5 +13,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6
 contact:
   website: "https://openstates.org/person/debra-heffernan-3qUKPXgxVkjk3KjlqMbLEc/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

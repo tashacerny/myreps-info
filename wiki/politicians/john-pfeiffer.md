@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Pfeiffer,%20John.JPG"
 openstates_id: ocd-person/671bd947-18c8-4b39-906e-675209b80b73
 contact:
   website: "https://openstates.org/person/john-pfeiffer-38Yw4FamJyrcibJJkUqOot/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

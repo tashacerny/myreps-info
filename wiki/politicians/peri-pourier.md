@@ -12,5 +12,5 @@ photo_url: "https://sdlegislature.gov/inc/img/Legislators/Pourier_2019.jpg"
 openstates_id: ocd-person/8dc5a857-0514-4a81-8215-a2f21a069075
 contact:
   website: "https://openstates.org/person/peri-pourier-4JWFMoW02YnMGDwNIuwNnB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

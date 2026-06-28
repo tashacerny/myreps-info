@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/2a38ba4b-176e-479f-8083-2ff50aef693e
 contact:
   website: "https://openstates.org/person/nathalia-fernandez-1HfbLVIjfRvKBNR543C2D0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

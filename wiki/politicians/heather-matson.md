@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27023"
 openstates_id: ocd-person/ba713234-dc5e-4646-9f74-c25d84f648cc
 contact:
   website: "https://openstates.org/person/heather-matson-5foIp07gBI1vG2smuCvGRA/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae
 contact:
   website: "https://openstates.org/person/frank-cooke-NubLjgP9dxbXPZD5DmoMY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/5df4dc20-8fb9-432c-8844-c72a66a325d6
 contact:
   website: "https://openstates.org/person/laurel-libby-2rIBdSL8itFOanFs5vE6oY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

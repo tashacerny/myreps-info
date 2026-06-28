@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/043/headshot/
 openstates_id: ocd-person/27a087c4-fad6-4245-b680-20aff5c3251c
 contact:
   website: "https://openstates.org/person/brian-cunningham-1Cm3vQe91M5cUPywP5d76K/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/dontavius-l-jarrells/
 openstates_id: ocd-person/74c1210d-fb56-4522-8d3a-0a2bb08c972b
 contact:
   website: "https://openstates.org/person/dontavius-jarrells-3YJMwzOqsnDC7RL8DDUEHL/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

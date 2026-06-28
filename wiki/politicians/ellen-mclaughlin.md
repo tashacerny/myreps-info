@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/318cc276-b981-4744-82ff-1c7cc7d0c0b6
 contact:
   website: "https://openstates.org/person/ellen-mclaughlin-1VUwyzQPO9qVhKQy1EkQ46/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

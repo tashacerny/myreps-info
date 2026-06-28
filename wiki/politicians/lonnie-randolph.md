@@ -13,5 +13,5 @@ photo_url: "https://indianasenatedemocrats.org/wp-content/uploads/2022/12/Senato
 openstates_id: ocd-person/a48f9631-3436-4445-b8fc-87c143f373cd
 contact:
   website: "https://openstates.org/person/lonnie-randolph-50WMNOiNxJMAT15HtxQWIn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

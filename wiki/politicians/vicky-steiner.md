@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/6408b9c3-3e70-4e47-a2c1-d31c11012f4c
 contact:
   website: "https://openstates.org/person/vicky-steiner-32lDevfH9FqW7d14lblLxs/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

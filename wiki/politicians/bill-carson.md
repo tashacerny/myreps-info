@@ -13,5 +13,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b
 contact:
   website: "https://openstates.org/person/bill-carson-1dPyjDI3A9NnuzFTmnIiYl/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.flhouse.gov/FileStores/Web/Imaging/Member/4422.jpg"
 openstates_id: ocd-person/3038008c-cb9b-4735-92b4-b8f2be9c5d8e
 contact:
   website: "https://openstates.org/person/mack-bernard-1SzDvvuE94Eguwd0LTW2SE/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

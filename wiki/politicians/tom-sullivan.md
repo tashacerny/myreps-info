@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/dc9056b8-fb9c-4a66-99b8-210acce64bff
 contact:
   website: "https://openstates.org/person/tom-sullivan-6iCH2qf19PvsCJuQGVsNKB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

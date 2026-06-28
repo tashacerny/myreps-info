@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b7b97724-7abc-44fb-bace-d3606d3fadb2
 contact:
   website: "https://openstates.org/person/jan-dodge-5agLvrjHkUZMxNekS6crmE/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

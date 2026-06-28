@@ -13,5 +13,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2020/07/HS_AnnBollin_01
 openstates_id: ocd-person/3a9d71dc-da5b-4bd3-8062-c8387292dc52
 contact:
   website: "https://openstates.org/person/ann-bollin-1mbVSYYAy33dRT25DkT8uA/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

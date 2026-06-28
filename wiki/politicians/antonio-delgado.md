@@ -12,5 +12,5 @@ photo_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LG_Antonio
 openstates_id: ocd-person/6a95f6b7-1eb0-439b-af25-c9b26d19de9e
 contact:
   website: "https://openstates.org/person/antonio-delgado-3F7iekIaHcx1Wqtjmux6XW/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

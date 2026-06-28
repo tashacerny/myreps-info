@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 2nd Barnstable
 district: 2nd Barnstable
-in_office: true
+in_office: false
 photo_url: "https://www.capecod.com/wp-content/uploads/NWS_Kip-Diggs_JS081720.jpg"
 openstates_id: ocd-person/df1a3cfc-1555-4a05-8a5c-03a7e53932aa
 contact:

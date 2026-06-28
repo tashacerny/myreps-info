@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/fellela.jpg"
 openstates_id: ocd-person/3efcf2f9-f7f8-4441-9ec7-4f6d8c17940f
 contact:
   website: "https://openstates.org/person/deb-fellela-1ur7aIkwo4pJH7o5DRYIEZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

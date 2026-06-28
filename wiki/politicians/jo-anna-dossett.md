@@ -12,5 +12,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Dossett%2C%20Jo%20Anna_flag
 openstates_id: ocd-person/164b3ba9-47d4-4c24-870d-4e6679e15cf8
 contact:
   website: "https://openstates.org/person/jo-anna-dossett-g4DBysQ4EVoxFF9gJ6gJs/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

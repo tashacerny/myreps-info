@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/7893adc7-d4fb-42e4-bae0-1258ce673096
 contact:
   website: "https://openstates.org/person/gary-drinkwater-3fWZFtp1rcpgTEtqjgEsNS/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

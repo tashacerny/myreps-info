@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lesli
 openstates_id: ocd-person/950b0ec2-1c69-4c81-ab1d-c61464519e26
 contact:
   website: "https://openstates.org/person/les-heinemann-4XEuQLlM1w9ww7TVAvS41e/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

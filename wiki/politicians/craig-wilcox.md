@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{E397F861-68AA-4CC2-9A23-50B
 openstates_id: ocd-person/07e2527a-ae7d-4c58-b20b-ea2266a03a9e
 contact:
   website: "https://openstates.org/person/craig-wilcox-EsNIdXmBymTXHcGXLn2vW/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

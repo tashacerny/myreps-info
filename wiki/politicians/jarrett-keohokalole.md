@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/keohokalole.j
 openstates_id: ocd-person/07ed1559-820e-4ea1-803e-024ce5359a87
 contact:
   website: "https://openstates.org/person/jarrett-keohokalole-ExICzvaUDh4WHGbkJ6aQh/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://billstatus.ls.state.ms.us/members/senate/delano.jpg"
 openstates_id: ocd-person/8467b994-f651-446b-b77f-0632ff790ff8
 contact:
   website: "https://openstates.org/person/scott-delano-41qO9Za7snwf8XKxzuteh6/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

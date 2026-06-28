@@ -13,5 +13,5 @@ photo_url: "https://ctsenaterepublicans.com/wp-content/uploads/2021/08/Hwang_Hea
 openstates_id: ocd-person/b1ab473b-e7ff-4c53-96af-ee796c89f4dd
 contact:
   website: "https://openstates.org/person/tony-hwang-5PFuo6EWVOOoVRNBAhbKrl/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

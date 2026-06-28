@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{32750D93-496F-42CA-9CCE-93C
 openstates_id: ocd-person/b79ed17d-30a6-4d03-af90-ad3b34610395
 contact:
   website: "https://openstates.org/person/omar-williams-5aUAuabIuwgphXIFJmhGLt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

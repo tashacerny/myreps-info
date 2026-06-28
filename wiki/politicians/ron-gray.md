@@ -13,5 +13,5 @@ photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/2
 openstates_id: ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4
 contact:
   website: "https://openstates.org/person/ron-gray-2pC818rjN7dxVrUIxsDsBw/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

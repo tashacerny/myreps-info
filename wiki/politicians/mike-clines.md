@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house68.
 openstates_id: ocd-person/34a39b2d-1ff6-4ced-adf2-32f92fa781b1
 contact:
   website: "https://openstates.org/person/mike-clines-1bKMtIvt7FcH5XMGzBV9MX/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

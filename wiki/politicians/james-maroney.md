@@ -12,5 +12,5 @@ photo_url: "http://www.senatedems.ct.gov/templates/Maroney/images/Maroney-hi.jpg
 openstates_id: ocd-person/f37ce303-e106-4972-b453-4287b7915762
 contact:
   website: "https://openstates.org/person/james-maroney-7PSCwuiACLP97Zr6gwvrGM/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

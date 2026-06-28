@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1697.jpg?1703415645
 openstates_id: ocd-person/14106428-709f-4018-8881-5c31ee078ff8
 contact:
   website: "https://openstates.org/person/pat-stefano-brKunvUYsPcUh25hTDYk4/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

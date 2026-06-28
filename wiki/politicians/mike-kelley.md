@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MikeK
 openstates_id: ocd-person/8746752e-619b-454d-9ef6-7f4434acdd71
 contact:
   website: "https://openstates.org/person/mike-kelley-47GA8BXR7nLzHsgZ0P83kn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

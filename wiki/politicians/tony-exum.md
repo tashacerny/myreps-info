@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e
 contact:
   website: "https://openstates.org/person/tony-exum-2APn1FN5rpNMCeu9TR0CXG/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

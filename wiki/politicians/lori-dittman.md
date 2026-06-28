@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/dittman_lori
 openstates_id: ocd-person/3f45442d-ffd9-4566-a661-42efa25f8e18
 contact:
   website: "https://openstates.org/person/lori-dittman-1vOAcrQM0a7WNMCjWtPmQa/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

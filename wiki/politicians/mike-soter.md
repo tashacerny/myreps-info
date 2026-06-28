@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 8th Worcester
 district: 8th Worcester
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MJS3.jpg"
 openstates_id: ocd-person/4cec2aa4-c17b-4749-b0e9-58a25695bf2f
 contact:

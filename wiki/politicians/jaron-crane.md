@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/di
 openstates_id: ocd-person/da5babc3-b974-4f3c-a750-8989ab3a122b
 contact:
   website: "https://openstates.org/person/jaron-crane-6e2DhcrP9Icl3bVPxtJA7P/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

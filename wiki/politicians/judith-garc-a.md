@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 11th Suffolk
 district: 11th Suffolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/JAG2.jpg"
 openstates_id: ocd-person/6f15f647-07f5-4739-a340-497798a474e7
 contact:

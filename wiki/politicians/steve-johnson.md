@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-JohnsonSteve.jpg"
 openstates_id: ocd-person/51b4d190-c5b4-4860-acb9-a6569f26e064
 contact:
   website: "https://openstates.org/person/steve-johnson-2UB0nIKluVoDIMnWc93S7A/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

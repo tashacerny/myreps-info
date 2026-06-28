@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_schmoe_rebecca_1.jp
 openstates_id: ocd-person/23c34f8e-b06b-4de9-91c3-44892dbb2b7d
 contact:
   website: "https://openstates.org/person/rebecca-schmoe-15TzIcn4k6mT4KJW7PfvRd/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

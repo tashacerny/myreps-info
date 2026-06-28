@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/02a86541-b10a-42cc-b260-0d0f5e3226c0
 contact:
   website: "https://openstates.org/person/ben-adams-50wNcIfowdnHSFb1H0IFc/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

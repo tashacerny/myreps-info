@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Melissa-Provenzano.jp
 openstates_id: ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a
 contact:
   website: "https://openstates.org/person/melissa-provenzano-1xkZsCj8Wnq6pENrZkLDUw/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

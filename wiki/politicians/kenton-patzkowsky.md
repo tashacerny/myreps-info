@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Kenton-Patzkowsky,.jp
 openstates_id: ocd-person/91b38015-8cd5-410e-b850-34961760b8d7
 contact:
   website: "https://openstates.org/person/kenton-patzkowsky-4QvuzlAZyNBztVRgFGzQXv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

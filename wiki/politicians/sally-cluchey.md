@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/d91a8965-c40d-481f-af61-5acb9b953fd3
 contact:
   website: "https://openstates.org/person/sally-cluchey-6bfSewwSfUrPKmEYn8JMbz/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/6570ab4ce162d11cdfa700
 openstates_id: ocd-person/50cdb325-0c04-483e-87cb-d6a9037d9bc9
 contact:
   website: "https://openstates.org/person/dolly-henley-2STOFrOBrjE9woOF5o2XP7/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

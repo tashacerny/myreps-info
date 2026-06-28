@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/d8b6809c-61d9-4ea3-b21b-c846051468c2
 contact:
   website: "https://openstates.org/person/monica-duran-6avkHMaGREP11vWpqyRfGM/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

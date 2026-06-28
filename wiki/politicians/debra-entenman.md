@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/11403.jpg"
 openstates_id: ocd-person/76f7fe2c-a48e-4f55-9607-29c89fe3d203
 contact:
   website: "https://openstates.org/person/debra-entenman-3cUQVr6XORsDexZvJwRofb/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

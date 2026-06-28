@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/A_S1.jpg"
 openstates_id: ocd-person/6e81dcb7-4a04-4a88-b5f2-728a3336cf9d
 contact:
   website: "https://openstates.org/person/alan-silvia-3MWVC5ziaEp4paeRvNDImD/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

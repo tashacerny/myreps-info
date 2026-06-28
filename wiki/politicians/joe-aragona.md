@@ -13,5 +13,5 @@ photo_url: "https://www.house.mi.gov/media/Representatives/Aragona-060.jpg"
 openstates_id: ocd-person/f66dcbe7-c834-4c23-83ca-38eb5d1a1ba9
 contact:
   website: "https://openstates.org/person/joe-aragona-7V0Hx9UKwW2vfPgQ9QELNp/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

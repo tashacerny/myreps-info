@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/CAF1.jpg"
 openstates_id: ocd-person/af41924a-7c46-4b6b-b71b-bba683c62c5f
 contact:
   website: "https://openstates.org/person/carole-fiola-5KhceZeM09ipZOLljiyO6B/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 6th Middlesex
 district: 6th Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PSS1.jpg"
 openstates_id: ocd-person/a148ff77-2e73-4e42-a525-20e8d1ed569a
 contact:

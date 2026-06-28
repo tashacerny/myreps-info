@@ -12,5 +12,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4891.jpg"
 openstates_id: ocd-person/ab654947-84ed-4526-9b00-487642499106
 contact:
   website: "https://openstates.org/person/peggy-gossett-seidman-5DPyVCZkQI32w1qqjvNF6U/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

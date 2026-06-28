@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0529545391.jpg"
 openstates_id: ocd-person/3d40ff3f-ddbf-4611-a366-9be7d55b9247
 contact:
   website: "https://openstates.org/person/jason-elliott-1raEbzNro1zYJFe93NyU5f/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/53facaaf-5673-4c76-b15a-6b5061965ae1
 contact:
   website: "https://openstates.org/person/julie-mccluskie-2YSySzaybthutoELHxBudN/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

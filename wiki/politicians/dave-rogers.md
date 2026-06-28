@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/DMR1.jpg"
 openstates_id: ocd-person/51adc4d9-23d8-442f-b692-c4e4204f552e
 contact:
   website: "https://openstates.org/person/dave-rogers-2U7n32IgbMqiikiRtuVUUA/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

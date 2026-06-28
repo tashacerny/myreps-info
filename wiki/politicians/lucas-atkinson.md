@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0066477265.jpg"
 openstates_id: ocd-person/e3d0a679-af6a-4861-aac2-be366fda3210
 contact:
   website: "https://openstates.org/person/lucas-atkinson-6vsbvHkJp0pMXiRbbQ9LLk/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

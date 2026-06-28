@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/590_sm.jpg"
 openstates_id: ocd-person/2920db4d-9f68-411a-bd01-9ca6e9089ef7
 contact:
   website: "https://openstates.org/person/jon-milligan-1FbhSPN2z6zx2xkAKkrqvX/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

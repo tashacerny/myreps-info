@@ -12,5 +12,5 @@ photo_url: "https://i0.wp.com/www.mississippifreepress.org/wp-content/uploads/20
 openstates_id: ocd-person/d0269daa-032c-482b-9faf-1d569a4645a9
 contact:
   website: "https://openstates.org/person/kamesha-mumford-6Km3C25iuu0SUrMj9wWnTV/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

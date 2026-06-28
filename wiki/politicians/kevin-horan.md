@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/horan.jpg"
 openstates_id: ocd-person/b339d980-af38-4e76-b53c-215c26191cc1
 contact:
   website: "https://openstates.org/person/kevin-horan-5SC3xYZbShB5rzZnyuWXZ3/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

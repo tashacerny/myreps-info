@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Feltus,Marty%2
 openstates_id: ocd-person/730abe31-c817-47fa-bf5b-fe6697996e4c
 contact:
   website: "https://openstates.org/person/marty-feltus-3V51gLB72dNA0kOev8nHHI/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

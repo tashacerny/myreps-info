@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e
 contact:
   website: "https://openstates.org/person/william-lindstedt-6gxXcmLxGaJvTvqh6MmJvK/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

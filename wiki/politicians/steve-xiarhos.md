@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 5th Barnstable
 district: 5th Barnstable
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/SGX1.jpg"
 openstates_id: ocd-person/485e001e-95e9-4b79-9226-cf028a307138
 contact:

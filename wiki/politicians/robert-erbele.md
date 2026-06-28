@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78
 contact:
   website: "https://openstates.org/person/robert-erbele-6w92R6YdiQ2tHef980YnjU/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

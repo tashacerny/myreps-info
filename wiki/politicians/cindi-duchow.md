@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2463.jpg"
 openstates_id: ocd-person/171aec6e-ba95-4244-9854-84cddf028d90
 contact:
   website: "https://openstates.org/person/cindi-duchow-hb7uaOZbB9dsAKEczoUnw/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

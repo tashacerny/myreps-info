@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 13th Essex
 district: 13th Essex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/SPK1.jpg"
 openstates_id: ocd-person/308b15a0-dc30-41be-be53-9e5827522cac
 contact:

@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/willis-
 openstates_id: ocd-person/f02d369f-2d48-4d8d-853d-77ce5a8810fc
 contact:
   website: "https://openstates.org/person/inga-willis-7JCou5Wp1FgoZ3IIosyBGm/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

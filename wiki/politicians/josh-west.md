@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/West,%20Josh.jpg"
 openstates_id: ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860
 contact:
   website: "https://openstates.org/person/josh-west-3GkEJajFo1pvn663rMIh3A/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

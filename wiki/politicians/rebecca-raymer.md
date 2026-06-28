@@ -12,5 +12,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house15.
 openstates_id: ocd-person/be2fd4e3-6dfe-4d54-8c45-631eac63bc27
 contact:
   website: "https://openstates.org/person/rebecca-raymer-5msOsJm384CZEBOpxKZoFr/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

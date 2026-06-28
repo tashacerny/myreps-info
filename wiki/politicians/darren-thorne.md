@@ -12,5 +12,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/thorne_darren
 openstates_id: ocd-person/60b7f294-2c42-40ab-ab7d-2a639e5be5e5
 contact:
   website: "https://openstates.org/person/darren-thorne-2wVKJY9nLK7GNBcmW97rBF/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

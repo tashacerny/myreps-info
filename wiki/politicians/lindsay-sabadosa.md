@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 1st Hampshire
 district: 1st Hampshire
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/L_S1.jpg"
 openstates_id: ocd-person/05f9b238-283f-4529-8989-ff7d1bda60a8
 contact:

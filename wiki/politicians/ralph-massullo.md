@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4624.jpg"
 openstates_id: ocd-person/6d1623ae-0b24-4007-9c0f-af352ea22180
 contact:
   website: "https://openstates.org/person/ralph-massullo-3JqHRYuCmw2tpafBBNIuSO/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

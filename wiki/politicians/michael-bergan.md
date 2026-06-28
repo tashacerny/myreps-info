@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18044"
 openstates_id: ocd-person/bf9a43c8-3e2a-489f-94f6-b26035f7f9b9
 contact:
   website: "https://openstates.org/person/michael-bergan-5pY25MWch8EeT1jM2dTCTx/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/0bd1b9d6-e02e-4cb4-91c8-c87466ebf1db
 contact:
   website: "https://openstates.org/person/eric-zehr-MIl9oKkSryvcOz124qlnX/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

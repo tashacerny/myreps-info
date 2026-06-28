@@ -12,5 +12,5 @@ photo_url: "https://media2.fdncms.com/sevendaysvt/imager/u/blog/36217611/img-598
 openstates_id: ocd-person/0f7b93b3-9e96-4e44-8bb4-9c60e4be4b72
 contact:
   website: "https://openstates.org/person/chea-evans-TDMIoTqrk0JkC7rnZW5Eg/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

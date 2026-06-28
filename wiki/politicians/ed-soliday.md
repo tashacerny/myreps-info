@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/3fbcc2a9-c620-456c-b38f-03e0f9063c3f
 contact:
   website: "https://openstates.org/person/ed-soliday-1wGmNeAcQpIVKGrYMCd15z/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Diggs
 openstates_id: ocd-person/ebdc449e-b987-4c44-895b-5047e343c0a0
 contact:
   website: "https://openstates.org/person/danny-diggs-7B3rINfpnqdTQ9YwiPlU0G/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

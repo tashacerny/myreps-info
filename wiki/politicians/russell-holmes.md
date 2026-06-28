@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 6th Suffolk
 district: 6th Suffolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/REH1.jpg"
 openstates_id: ocd-person/078692f2-2afe-4aa1-a320-d4747edacbbb
 contact:

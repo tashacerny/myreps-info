@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1864.jpg?1703415645
 openstates_id: ocd-person/48c5b966-eef2-456a-8ca0-f47d584e7883
 contact:
   website: "https://openstates.org/person/barb-gleim-2DJo53YjmHlichjloJwpUJ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

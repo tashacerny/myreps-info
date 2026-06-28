@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68
 contact:
   website: "https://openstates.org/person/eric-morrison-5pfmoaaWCKQuEjpBmrDP3Y/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

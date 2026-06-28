@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/di
 openstates_id: ocd-person/a0ccdf84-6300-4f9d-bca3-30b3299fece5
 contact:
   website: "https://openstates.org/person/annie-henderson-haws-4tQOm25x8bXADCQVoMZpUD/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.oregonlegislature.gov/ruiz/PublishingImages/member_photo
 openstates_id: ocd-person/fce6eed7-4438-4f31-b47a-ee054c28d4f7
 contact:
   website: "https://openstates.org/person/ricki-ruiz-7hDbOB0vh2lI4XtCMPLeyd/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/3a96a66b-58e9-4ce5-bc6c-803b19c2746d
 contact:
   website: "https://openstates.org/person/john-blust-1mYOwDZ9uk7cI4SN01YqBp/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

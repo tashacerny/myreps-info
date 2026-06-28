@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/pham/PublishingImages/member_photo
 openstates_id: ocd-person/3b7edee5-fb20-48d2-98db-541721e24e65
 contact:
   website: "https://openstates.org/person/khanh-pham-1oGWhBI0nzzYUQuozMqNxV/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

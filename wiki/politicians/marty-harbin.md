@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/harbin-
 openstates_id: ocd-person/078246e9-90b8-43aa-bb92-d7016f517b8e
 contact:
   website: "https://openstates.org/person/marty-harbin-EATwp8cN3tQbu2hwo7yPe/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/0147a633-d6d2-4005-9eb9-35dcf205718b
 contact:
   website: "https://openstates.org/person/jerald-raymond-2Pjdd2J0Kiayf1a0ctpIx/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

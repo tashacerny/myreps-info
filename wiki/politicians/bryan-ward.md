@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/ward_bryan.jp
 openstates_id: ocd-person/6e588e9a-4d48-444d-92b4-629e00900440
 contact:
   website: "https://openstates.org/person/bryan-ward-3MDcqqCKd7ojoRso606ziK/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

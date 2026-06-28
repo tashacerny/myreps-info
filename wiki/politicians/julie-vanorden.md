@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/di
 openstates_id: ocd-person/8efc94ea-7306-48f5-8d45-5bed5f5e1f85
 contact:
   website: "https://openstates.org/person/julie-vanorden-4LoL7EmcXAFyVWB0yedGnV/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

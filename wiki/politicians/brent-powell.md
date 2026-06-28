@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/powell.jpg"
 openstates_id: ocd-person/222077fd-0e92-4437-a156-59521d7faffa
 contact:
   website: "https://openstates.org/person/brent-powell-12OZnMOelqubFBiSe46qGw/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

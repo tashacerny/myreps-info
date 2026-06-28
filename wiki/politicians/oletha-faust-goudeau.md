@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Oleth
 openstates_id: ocd-person/9f48288b-b1a9-43a1-884b-5cc2abfa4e4f
 contact:
   website: "https://openstates.org/person/oletha-faust-goudeau-4qYktqPgSkTudI1m9Sfpi3/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

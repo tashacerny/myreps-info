@@ -12,5 +12,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Amato.jpg"
 openstates_id: ocd-person/3c16b940-790f-43f2-946d-998b6177dc5a
 contact:
   website: "https://openstates.org/person/terez-amato-1pNvJCtZ17vKOZtLem0Joo/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609
 contact:
   website: "https://openstates.org/person/stan-ellis-3l0PWm5XgrhksPLGJoV8z/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

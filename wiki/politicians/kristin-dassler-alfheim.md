@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Krist
 openstates_id: ocd-person/73b2bf4c-54e5-4da3-9a8c-c2c5bf4f102d
 contact:
   website: "https://openstates.org/person/kristin-dassler-alfheim-3WJnvgQTUou3V7p23FAaM9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

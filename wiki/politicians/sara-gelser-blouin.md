@@ -13,5 +13,5 @@ photo_url: "http://www.oregonlegislature.gov/senate/MemberPhotos/gelser.jpg"
 openstates_id: ocd-person/10b42647-1509-4e86-9155-4622c2d17315
 contact:
   website: "https://openstates.org/person/sara-gelser-blouin-VWCl4LwOTSKBqSkcF9pBt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

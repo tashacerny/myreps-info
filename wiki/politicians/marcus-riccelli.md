@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/15706.jpg"
 openstates_id: ocd-person/1ecc75cc-95c9-4ae6-a8a4-1a0f87a10d0e
 contact:
   website: "https://openstates.org/person/marcus-riccelli-w7CuwBAL6Qf1wgCb3JywQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

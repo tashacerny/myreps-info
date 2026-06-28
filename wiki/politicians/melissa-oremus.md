@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1432386192.jpg"
 openstates_id: ocd-person/b3dcafed-7f7a-4b8b-8a5e-a517d768ed42
 contact:
   website: "https://openstates.org/person/melissa-oremus-5TOToT17JcmgJxeE8lw4yA/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

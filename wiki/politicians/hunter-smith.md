@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/0950736c-1a85-4534-91dd-3538759e75cf
 contact:
   website: "https://openstates.org/person/hunter-smith-HZhDceA9lQQCz9C3CKJLj/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

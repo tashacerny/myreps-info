@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/reese-t
 openstates_id: ocd-person/9fe70ed7-31a0-4732-92b1-54d2a79a4654
 contact:
   website: "https://openstates.org/person/teddy-reese-4rjNAnx98OLBffJIIoC0Fo/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/
 openstates_id: ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1
 contact:
   website: "https://openstates.org/person/eric-buckson-7eUAuR7TIS0QZlZ1XixATx/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

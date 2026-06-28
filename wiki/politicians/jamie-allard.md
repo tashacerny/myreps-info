@@ -12,5 +12,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/ALR.jpg"
 openstates_id: ocd-person/9d56634b-f2d0-43fe-b20e-ed2465b0ad9c
 contact:
   website: "https://openstates.org/person/jamie-allard-4mtH1yRlyqJ2zpWzjhPaMm/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

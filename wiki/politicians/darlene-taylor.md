@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/taylor-
 openstates_id: ocd-person/d00eb950-0fb6-41ab-ae22-8e9ce84d7cf0
 contact:
   website: "https://openstates.org/person/darlene-taylor-6Kb8EeUyL3uYPl7OKD2O3M/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

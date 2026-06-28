@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1977.jpg?1703415645
 openstates_id: ocd-person/d927a6f9-9878-4375-ac7d-9996e8968c9d
 contact:
   website: "https://openstates.org/person/lisa-borowski-6blSHBORYjFcZkKJyjD4G5/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

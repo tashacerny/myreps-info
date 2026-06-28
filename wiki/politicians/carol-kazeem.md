@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1976.jpg?1703415645
 openstates_id: ocd-person/05f5a4fa-4a1e-4242-8664-eca508f36a3c
 contact:
   website: "https://openstates.org/person/carol-kazeem-BFDjI2FZD1x0HxvcFwdAK/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

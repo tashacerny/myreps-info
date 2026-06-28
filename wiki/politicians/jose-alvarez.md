@@ -13,5 +13,5 @@ photo_url: "https://www.voterfocus.com/CampaignFinance/photo_osceola/cand_345.jp
 openstates_id: ocd-person/c3e8a214-183a-4b9c-970c-5332e83eb8e6
 contact:
   website: "https://openstates.org/person/jose-alvarez-5xfog46qoqaLpHK3EYMWb0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

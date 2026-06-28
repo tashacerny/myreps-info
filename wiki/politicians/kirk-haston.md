@@ -13,5 +13,5 @@ photo_url: "https://capitol.tn.gov/house/members/images/H72.jpg"
 openstates_id: ocd-person/65b1d39e-414c-46c2-9aca-8cea5b6cba8b
 contact:
   website: "https://openstates.org/person/kirk-haston-35tUVLAZwYl9H7BO1iE5ut/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

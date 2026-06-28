@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/huddles
 openstates_id: ocd-person/9bcfa0eb-ee7d-4762-9555-7bc4a67d6417
 contact:
   website: "https://openstates.org/person/david-huddleston-4k0hE6ebcCVjaxG2mn9wON/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

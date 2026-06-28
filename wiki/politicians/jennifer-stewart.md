@@ -12,5 +12,5 @@ photo_url: "https://www.rilegislature.gov/representatives/Pictures/Stewart.jpg"
 openstates_id: ocd-person/c11b7057-fe39-42b6-8a38-91d9e7349118
 contact:
   website: "https://openstates.org/person/jennifer-stewart-5sO3dcYk9wU5VvLcFNUzAO/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

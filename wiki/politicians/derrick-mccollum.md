@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/mccollu
 openstates_id: ocd-person/3a323603-753e-4380-993c-9bb2a7fc55f3
 contact:
   website: "https://openstates.org/person/derrick-mccollum-1loV5a1w8xzmutcsQ4Lcxv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

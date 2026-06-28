@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/389/Low"
 openstates_id: ocd-person/81a19cd2-9493-4b85-b92b-44df8777530e
 contact:
   website: "https://openstates.org/person/tom-mcinnis-3wbrm3WsHHkMzCHWs4wTYk/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

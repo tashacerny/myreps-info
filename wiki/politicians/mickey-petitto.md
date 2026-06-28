@@ -12,5 +12,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/petitto_micke
 openstates_id: ocd-person/354b56ae-dee4-4536-879e-cfb0d80b4069
 contact:
   website: "https://openstates.org/person/mickey-petitto-1cZ1R3uXu4nMrXVrnKWUjh/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

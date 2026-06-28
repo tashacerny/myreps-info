@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 31st Middlesex
 district: 31st Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MSD1.jpg"
 openstates_id: ocd-person/2e198563-4aeb-499b-8333-b4a46b605491
 contact:

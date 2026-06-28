@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 11th Norfolk
 district: 11th Norfolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/P_M1.jpg"
 openstates_id: ocd-person/d0e66289-022e-4a99-ac8c-f20fb7557e7f
 contact:

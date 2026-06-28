@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Micha
 openstates_id: ocd-person/59b84739-aac0-4d96-bc03-7adbbb7f682e
 contact:
   website: "https://openstates.org/person/michael-nigro-2jIX0sBMIjtDYnDi3HNRok/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Matth
 openstates_id: ocd-person/7afd2d36-9415-44ff-b96d-0010cf4f864e
 contact:
   website: "https://openstates.org/person/matt-lehman-3k4lUEB1k93LYfeJSqDzgM/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

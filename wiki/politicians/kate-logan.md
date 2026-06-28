@@ -12,5 +12,5 @@ photo_url: "https://vcrhyp.org/assets/image-cache/image-cache/Kate%20Logan%202.9
 openstates_id: ocd-person/52b7db57-8a72-4d36-9cfa-5f1a5b69a044
 contact:
   website: "https://openstates.org/person/kate-logan-2W5OP1fL5qOWTKxwoetmrc/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

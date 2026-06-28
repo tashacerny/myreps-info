@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 29th Middlesex
 district: 29th Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/SCO1.jpg"
 openstates_id: ocd-person/f20dd448-92ef-458c-bf92-90e7e766072a
 contact:

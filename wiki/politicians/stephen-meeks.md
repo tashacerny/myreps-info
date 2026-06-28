@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/374_sm.jpg"
 openstates_id: ocd-person/8b64758a-b71a-4bb4-ad5d-d4ea812ebf58
 contact:
   website: "https://openstates.org/person/stephen-meeks-4F1qI4EAiQawfClN0VA4l6/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

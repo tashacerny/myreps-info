@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/conte
 openstates_id: ocd-person/f930a207-e39c-47c9-b82a-d9eca94119c3
 contact:
   website: "https://openstates.org/person/christopher-howland-7aDJVpTcgihEtQK2v5NyaZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

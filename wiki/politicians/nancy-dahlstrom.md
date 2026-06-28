@@ -12,5 +12,5 @@ photo_url: "https://ltgov.alaska.gov/wp-content/uploads/Screenshot-2022-12-14-15
 openstates_id: ocd-person/6b940121-937e-47ba-916a-626b67fe54f4
 contact:
   website: "https://openstates.org/person/nancy-dahlstrom-3GzofIfLVXM7kjwEHiHt24/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0015340908.jpg"
 openstates_id: ocd-person/946afea5-c89c-4a8f-a80e-a841bf7e899a
 contact:
   website: "https://openstates.org/person/karl-allen-4W3lBjM80TQDQp0ZgKKGwk/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

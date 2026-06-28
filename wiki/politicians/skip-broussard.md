@@ -12,5 +12,5 @@ photo_url: "https://americanpress.com/wp-content/uploads/sites/65/2026/02/IMG_73
 openstates_id: ocd-person/b114df8c-8388-44b1-8274-c346addd67c4
 contact:
   website: "https://openstates.org/person/skip-broussard-5O9BDevdyZC1RRfZ5hEvjQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

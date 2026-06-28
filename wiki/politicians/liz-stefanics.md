@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEF.jpg"
 openstates_id: ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03
 contact:
   website: "https://openstates.org/person/liz-stefanics-wB3NoDpguynbE8KFzUJVr/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

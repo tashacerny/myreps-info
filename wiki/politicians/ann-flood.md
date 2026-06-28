@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1910.jpg?1703415645
 openstates_id: ocd-person/e00e0f63-7058-46a4-8b63-f31dc804c614
 contact:
   website: "https://openstates.org/person/ann-flood-6omhogR3qu7dBMHCC2z8mS/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

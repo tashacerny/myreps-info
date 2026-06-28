@@ -13,5 +13,5 @@ photo_url: "https://senatedems.com/anthony/wp-content/uploads/sites/21/2022/12/M
 openstates_id: ocd-person/08eac592-a25a-444f-aea7-db0cdfa79e7b
 contact:
   website: "https://openstates.org/person/sarah-anthony-GpEEdSaUgfNTGwTZGh2GB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

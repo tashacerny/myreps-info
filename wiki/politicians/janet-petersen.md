@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=72&pType=
 openstates_id: ocd-person/3089e8af-0071-4298-822c-2d16ac01fe9f
 contact:
   website: "https://openstates.org/person/janet-petersen-1TaegcIKfDSL7IHuES5kVD/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

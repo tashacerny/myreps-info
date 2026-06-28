@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/32ad6577-b1ee-411f-9dca-e40e06226703
 contact:
   website: "https://openstates.org/person/aundre-bumgardner-1XcrErkBvfK2Wpuj4ESaqR/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7
 contact:
   website: "https://openstates.org/person/rick-zbur-3Gpqz3CpoW51XtCwAvv6mt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

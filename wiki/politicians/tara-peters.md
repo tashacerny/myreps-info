@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2394"
 openstates_id: ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f
 contact:
   website: "https://openstates.org/person/tara-peters-5JLoK3Su19YsCL7H3kWWZr/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

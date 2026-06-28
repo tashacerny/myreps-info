@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2094"
 openstates_id: ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98
 contact:
   website: "https://openstates.org/person/louis-riggs-4hU0ffvKOOAIIt0wLR5Xi4/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/e4f0e3da-2e65-4986-96ad-1ef21f9da73d
 contact:
   website: "https://openstates.org/person/jim-thorne-6y0KvmWVgjX0iUQ65VoAqz/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

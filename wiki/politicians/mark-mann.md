@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mark_
 openstates_id: ocd-person/7bf07db8-9661-4f98-859d-9817cb4362dd
 contact:
   website: "https://openstates.org/person/mark-mann-3lrxZvFvb9dK7hU9w1ax49/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

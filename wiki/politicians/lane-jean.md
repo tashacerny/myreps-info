@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/364_sm.jpg"
 openstates_id: ocd-person/e04b2e49-1a8c-46e5-b9fc-c23d35e10393
 contact:
   website: "https://openstates.org/person/lane-jean-6pEdcBxsNKroGysvBGhUR9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

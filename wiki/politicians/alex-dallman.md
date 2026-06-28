@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2459.jpg"
 openstates_id: ocd-person/c4afc94c-3bad-4e77-9f81-de613c406860
 contact:
   website: "https://openstates.org/person/alex-dallman-5z8pV3zbEdgYbkELHD31lY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

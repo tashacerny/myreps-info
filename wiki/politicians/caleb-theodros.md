@@ -12,5 +12,5 @@ photo_url: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST0VSf38rEGBD-
 openstates_id: ocd-person/a2013778-1144-4936-a0fa-895ad190649f
 contact:
   website: "https://openstates.org/person/caleb-theodros-4vhJP9IDIvbl7zkEEVpUjf/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

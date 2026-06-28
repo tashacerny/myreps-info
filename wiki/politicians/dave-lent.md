@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/di
 openstates_id: ocd-person/fdcf0c8e-5794-4c3c-a092-a64ee5cab9d3
 contact:
   website: "https://openstates.org/person/dave-lent-7ivgBTvrHp60WRWnwgitBD/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

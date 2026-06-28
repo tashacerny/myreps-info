@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/nathanson/PublishingImages/member_
 openstates_id: ocd-person/dd5774a0-d6fe-44cc-86b3-b197225666eb
 contact:
   website: "https://openstates.org/person/nancy-nathanson-6jfGpw2JFXnrUvyN2mirrX/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

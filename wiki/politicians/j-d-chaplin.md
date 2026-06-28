@@ -13,5 +13,5 @@ photo_url: "https://npr.brightspotcdn.com/dims4/default/533a1d5/2147483647/strip
 openstates_id: ocd-person/a34e27e4-59ab-41a6-89ee-1b5d82fcbcf6
 contact:
   website: "https://openstates.org/person/j-d-chaplin-4y9Svej72zLJMVJHzPJb5K/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

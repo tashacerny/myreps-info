@@ -13,5 +13,5 @@ photo_url: "https://sd39.senate.ca.gov/sites/sd39.senate.ca.gov/files/website/sd
 openstates_id: ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525
 contact:
   website: "https://openstates.org/person/akilah-weber-pierson-3I6SbtllPGYw0iniA0ZeUP/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api/storage/uploads/thumbs/200/
 openstates_id: ocd-person/307ab2ac-eafb-4d68-8e02-1fff040f50e4
 contact:
   website: "https://openstates.org/person/brent-anderson-1TThhJJXvXfLdtFF88yRZU/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

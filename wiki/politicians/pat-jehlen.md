@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District Second Middlesex
 district: Second Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PDJ0.jpg"
 openstates_id: ocd-person/6de50ed2-4fe8-4b98-894d-0bc391c876b5
 contact:

@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/cef7caa9-828c-4272-a694-2aa16a5397ea
 contact:
   website: "https://openstates.org/person/cheryl-golek-6IXewnxN2aY7ybIecOcVSM/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s34_
 openstates_id: ocd-person/a8a2eaa4-449b-441f-96bb-d8a3e8191479
 contact:
   website: "https://openstates.org/person/shev-jones-58DAAT6UKYBnGzIOckqwTB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

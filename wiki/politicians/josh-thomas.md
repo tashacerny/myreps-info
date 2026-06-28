@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Thoma
 openstates_id: ocd-person/b6db5cc9-d9d3-4cbd-9532-6126a47c2ab3
 contact:
   website: "https://openstates.org/person/josh-thomas-5Z2qqkokbVfFvB9Aci303H/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

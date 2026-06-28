@@ -12,5 +12,5 @@ photo_url: "https://azleg.gov/alisImages/MemberPhotos/56leg/House/DE_LOS_SANTOS.
 openstates_id: ocd-person/a4fabea6-f50e-4fe9-8696-8b4505a481e8
 contact:
   website: "https://openstates.org/person/oscar-de-los-santos-51JKbK0sepSfTXVslUu1m4/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

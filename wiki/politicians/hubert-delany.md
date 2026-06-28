@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Delany/images/Delany_HS.jpg"
 openstates_id: ocd-person/b666accd-c7f7-41e9-ade0-f64f6e438669
 contact:
   website: "https://openstates.org/person/hubert-delany-5YBWcQDIWzNeaS0RyB5pO5/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

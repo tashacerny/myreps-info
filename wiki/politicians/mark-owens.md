@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/owens/PublishingImages/member_phot
 openstates_id: ocd-person/f73d5af2-f2b6-47d0-a55a-84ac528343ff
 contact:
   website: "https://openstates.org/person/mark-owens-7WX8wJRLaAb3rYujTp3fqB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

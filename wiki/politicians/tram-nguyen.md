@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 18th Essex
 district: 18th Essex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/TTN1.jpg"
 openstates_id: ocd-person/1e7b8d51-56fa-4faf-93e6-9b485812ddf9
 contact:

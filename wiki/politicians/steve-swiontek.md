@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6
 contact:
   website: "https://openstates.org/person/steve-swiontek-3PyYyMq0EJxmcozjW6OrN0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

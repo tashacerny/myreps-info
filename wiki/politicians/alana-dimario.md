@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/senators/pictures/dimario.jpg"
 openstates_id: ocd-person/9dbec823-aab4-40bb-a26a-e51a896dcc1f
 contact:
   website: "https://openstates.org/person/alana-dimario-4neyw7Bo6ah9kqpoD56Zjj/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

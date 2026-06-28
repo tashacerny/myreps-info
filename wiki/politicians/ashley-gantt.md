@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4897.jpg"
 openstates_id: ocd-person/2c62c9ae-8d1d-4dc3-a86a-fcc5dd7ba286
 contact:
   website: "https://openstates.org/person/ashley-gantt-1Lko83QzatJb19tT1lwzJu/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

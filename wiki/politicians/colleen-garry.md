@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/CMG1.jpg"
 openstates_id: ocd-person/0e38852a-52b0-4aac-8a65-fa3fc964c88e
 contact:
   website: "https://openstates.org/person/colleen-garry-QpimnDNugRQbLSbJfjSGs/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

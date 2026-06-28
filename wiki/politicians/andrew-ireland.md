@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/27343a14-0487-4a7a-8ddd-1e0991c4a694
 contact:
   website: "https://openstates.org/person/andrew-ireland-1ByZFIx6OK6piEgvVnUo1E/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

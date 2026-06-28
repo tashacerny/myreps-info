@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist28/hig
 openstates_id: ocd-person/0f176ff3-ed75-4605-9e8b-5bb5a3d3c4cf
 contact:
   website: "https://openstates.org/person/jane-raybould-STawCyRPyeoQBgyW6fYTf/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

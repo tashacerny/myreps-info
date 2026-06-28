@@ -12,5 +12,5 @@ photo_url: "https://arkansasadvocate.com/wp-content/uploads/2024/09/Paul-Childre
 openstates_id: ocd-person/bd307080-d45f-4c7b-8365-2c7386e0fc3a
 contact:
   website: "https://openstates.org/person/paul-childress-5kzgZfPYRoSErd17oFOz0M/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/61ef08d1-e345-42af-a56e-4fcd5076f0f5
 contact:
   website: "https://openstates.org/person/lynn-copeland-2ynUft2OTZqIvXAjMbua5V/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

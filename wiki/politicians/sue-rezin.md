@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{45666230-B77D-4162-A45E-6AC
 openstates_id: ocd-person/a1ac69ba-49db-4529-926f-999e73ef9654
 contact:
   website: "https://openstates.org/person/sue-rezin-4v4YZR0XJdd12xtijPr0y4/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

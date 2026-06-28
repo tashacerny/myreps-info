@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 2nd Berkshire
 district: 2nd Berkshire
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/TFB1.jpg"
 openstates_id: ocd-person/1f444dfe-d3b3-4852-ab10-0682206d773d
 contact:

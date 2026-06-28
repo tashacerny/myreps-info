@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District First Suffolk
 district: First Suffolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/N_C0.jpg"
 openstates_id: ocd-person/8ca6ea6c-1121-40b3-a5cf-9b55dfe6a2b0
 contact:

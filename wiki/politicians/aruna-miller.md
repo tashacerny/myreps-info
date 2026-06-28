@@ -12,5 +12,5 @@ photo_url: "https://governor.maryland.gov/leadership/ltgovernor/PublishingImages
 openstates_id: ocd-person/27dd7c4f-0e25-4cd0-b849-6830e5ec7fa1
 contact:
   website: "https://openstates.org/person/aruna-miller-1DDv2GtdwdJ0xq2uoyqARF/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

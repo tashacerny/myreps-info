@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/paris-m
 openstates_id: ocd-person/bad14891-c7bc-4ac4-b23a-fb5ae3878d67
 contact:
   website: "https://openstates.org/person/miriam-paris-5gWDMtm3Wf5ID5X0ovQw6B/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

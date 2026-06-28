@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/851b5f31-0694-4674-a3b8-468b6eb1f0a8
 contact:
   website: "https://openstates.org/person/tisha-mauro-43AUHciWo131Y6VPGAH62y/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

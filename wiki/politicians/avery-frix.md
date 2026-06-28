@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Frix,%20Avery.jpg"
 openstates_id: ocd-person/f2bc8c9d-050a-4531-84eb-1f233ad7042a
 contact:
   website: "https://openstates.org/person/avery-frix-7O2JF8Fbr6N2g5HyphKo94/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/27504.jpg"
 openstates_id: ocd-person/22583293-d377-4c51-84ca-d00ba4d7e944
 contact:
   website: "https://openstates.org/person/vandana-slatter-12o2oyPjBA8zyzwVNhhRq8/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

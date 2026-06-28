@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_hoffman_kyle_1.jpg"
 openstates_id: ocd-person/c51517ec-db1e-433d-a1d0-683547ae34a2
 contact:
   website: "https://openstates.org/person/kyle-hoffman-5zt7wcaCs5k6V7U1TotVfm/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

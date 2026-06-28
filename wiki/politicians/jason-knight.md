@@ -13,5 +13,5 @@ photo_url: "https://www.jasonknightlaw.com/wp-content/uploads/2025/01/about-img.
 openstates_id: ocd-person/cef11d28-cbbb-4ffd-b8f2-23c71e73f1b3
 contact:
   website: "https://openstates.org/person/jason-knight-6IUbjvJXvpxkOn1Wk9fnKF/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/kazarian.jpg"
 openstates_id: ocd-person/bd30e693-11a2-412f-b81a-bebc78d91145
 contact:
   website: "https://openstates.org/person/katie-kazarian-5kztdtHiPqGzyyYGLYSp7d/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

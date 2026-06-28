@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/396_sm.jpg
 openstates_id: ocd-person/0dee8795-58dd-48a8-980e-044d8d2ac646
 contact:
   website: "https://openstates.org/person/bart-hester-QHuKd9tQhFx76rHFrd2cI/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

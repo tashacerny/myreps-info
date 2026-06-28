@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/D_R1.jpg"
 openstates_id: ocd-person/f3dd7fd8-5d7f-4fa3-b2fe-910e375f2edd
 contact:
   website: "https://openstates.org/person/dave-robertson-7QAMNXtj4IvZUNOjBxLkc9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

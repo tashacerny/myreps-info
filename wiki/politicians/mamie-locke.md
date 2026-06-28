@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Locke2
 openstates_id: ocd-person/48911708-f8c9-4fa5-bf7c-7d035b08874e
 contact:
   website: "https://openstates.org/person/mamie-locke-2CvkjnRms5c4Fhp7dW6HWQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

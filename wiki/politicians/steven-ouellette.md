@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 8th Bristol
 district: 8th Bristol
-in_office: true
+in_office: false
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Steven_Ouellette_20241027_114832.jpeg"
 openstates_id: ocd-person/0fbe25ff-563e-4563-8523-f151bd839e3c
 contact:

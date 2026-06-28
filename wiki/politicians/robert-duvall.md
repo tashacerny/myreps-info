@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house17.
 openstates_id: ocd-person/ad2d1d2a-b838-4727-ac0f-a6fb64298b14
 contact:
   website: "https://openstates.org/person/robert-duvall-5GmHxa86B3aZbxlTs9rey4/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

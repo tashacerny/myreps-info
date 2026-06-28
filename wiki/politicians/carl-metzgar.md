@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1174.jpg?1703415645
 openstates_id: ocd-person/462fc474-e481-436e-b47a-7bbde2de3e3a
 contact:
   website: "https://openstates.org/person/carl-metzgar-28RI8y4qZvTqi3f5vDcmTq/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

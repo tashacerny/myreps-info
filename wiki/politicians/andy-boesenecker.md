@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/278f042b-4fe3-4325-ad59-bc240e4fda0c
 contact:
   website: "https://openstates.org/person/andy-boesenecker-1Ce3gFOOq7MShcly1aafeu/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

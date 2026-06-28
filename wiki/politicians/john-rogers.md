@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/JHR1.jpg"
 openstates_id: ocd-person/50942563-77bb-49ec-a54c-6e26048a31a3
 contact:
   website: "https://openstates.org/person/john-rogers-2S35WTFX4vrFVfjl9YdE9r/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

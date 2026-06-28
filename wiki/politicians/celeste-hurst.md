@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/4b62c6_190e934501654befbc52179bbb
 openstates_id: ocd-person/c854a4e7-61d0-4c5e-8623-694a38f0ad20
 contact:
   website: "https://openstates.org/person/celeste-hurst-6619AT1zmS1RChSXaLI9hI/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

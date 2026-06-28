@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/55a6fa48-006b-48ee-bffd-655ed7e56fce
 contact:
   website: "https://openstates.org/person/sharon-macdonell-2bceijQII5QiccpU17huCE/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

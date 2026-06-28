@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1633.jpg?1703415645
 openstates_id: ocd-person/2313ce98-7ac4-44b9-a61d-5b128338a405
 contact:
   website: "https://openstates.org/person/jordan-harris-14BmYuR1eBX83gCs4SwSyT/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/f01e3e40-01d3-4290-a85b-760683d4292e
 contact:
   website: "https://openstates.org/person/todd-beard-7J5yjjzJsZ0jvVMhzAbuJS/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

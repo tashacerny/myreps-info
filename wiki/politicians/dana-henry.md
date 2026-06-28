@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Dana_
 openstates_id: ocd-person/1175d9fd-94fc-4988-98ee-de8d0029de06
 contact:
   website: "https://openstates.org/person/dana-henry-Wwj7saHKrTAl7Pr951x0o/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

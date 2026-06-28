@@ -13,5 +13,5 @@ photo_url: "https://www.cthousegop.com/case/wp-content/uploads/sites/15/2016/11/
 openstates_id: ocd-person/fc3cb4e1-f784-46ac-9d54-1dd44cb817b0
 contact:
   website: "https://openstates.org/person/jay-case-7fxoBGOs8iLK22nwe43tuS/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

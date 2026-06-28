@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{D070CEE6-55DF-4D51-961B-CCA
 openstates_id: ocd-person/b13c7ff5-806e-426d-afd5-181f53e9fed1
 contact:
   website: "https://openstates.org/person/amy-elik-5ORI0DqvJ7w8BaxnsAAl3B/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

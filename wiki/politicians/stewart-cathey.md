@@ -12,5 +12,5 @@ photo_url: "https://senate.la.gov/SenatorPics/Sen33.jpg"
 openstates_id: ocd-person/dd47283c-c202-461f-b56a-8cc2c0b14f15
 contact:
   website: "https://openstates.org/person/stewart-cathey-6jXp2K0HCw7ZyLl8P8QlDZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

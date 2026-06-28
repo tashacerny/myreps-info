@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/343_sm.jpg
 openstates_id: ocd-person/d7dbf486-9ad6-411a-a2ad-a599d0606f2b
 contact:
   website: "https://openstates.org/person/missy-irvin-6ZJrwf9bpewAuaQUYxKkjz/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/3wAp2PAmslSttAB
 openstates_id: ocd-person/713ca571-304b-48f0-a853-b49fa859134e
 contact:
   website: "https://openstates.org/person/brandei-schaefbauer-3Rfqb7cK871EMOjUwsGYH8/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

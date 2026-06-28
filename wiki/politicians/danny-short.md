@@ -13,5 +13,5 @@ photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/2
 openstates_id: ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3
 contact:
   website: "https://openstates.org/person/danny-short-4WAsPz9ktpYc1m5arVL8V9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

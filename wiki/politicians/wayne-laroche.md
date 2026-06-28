@@ -12,5 +12,5 @@ photo_url: "https://secureservercdn.net/45.40.150.47/620.605.myftpupload.com/wp-
 openstates_id: ocd-person/1ae38fee-1328-4298-aa0a-11b5d0265730
 contact:
   website: "https://openstates.org/person/wayne-laroche-ojnOd1W9LGHbAIgieJiVM/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

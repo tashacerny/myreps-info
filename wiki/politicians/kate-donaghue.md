@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 19th Worcester
 district: 19th Worcester
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/K_D1.jpg"
 openstates_id: ocd-person/e2aa2c0f-d6e6-49d7-8483-d595a3a1eb3a
 contact:

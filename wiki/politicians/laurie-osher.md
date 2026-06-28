@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/051d0089-f1cc-4523-a48d-ae98700165f8
 contact:
   website: "https://openstates.org/person/laurie-osher-9eDMtaynOwUTOplBIZbxo/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

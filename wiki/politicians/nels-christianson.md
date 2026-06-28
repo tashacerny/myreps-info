@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/1db300de-726b-44fc-b3fe-f4c918a55ea1
 contact:
   website: "https://openstates.org/person/nels-christianson-u2a6DRNQ9HjZEo1bYAukj/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

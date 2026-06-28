@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 8th Hampden
 district: 8th Hampden
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/SBA1.jpg"
 openstates_id: ocd-person/ff433cf6-2895-4e01-b143-26747500f8a4
 contact:

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/John_
 openstates_id: ocd-person/0ce6641b-4793-4194-8a6b-de220fcb20d5
 contact:
   website: "https://openstates.org/person/john-carmichael-OLCCyUjpbbY1XLtkD8QM9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

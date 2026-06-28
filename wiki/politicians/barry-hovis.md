@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2129"
 openstates_id: ocd-person/54f9145f-2529-448e-8238-b00d049a782c
 contact:
   website: "https://openstates.org/person/barry-hovis-2aLBTiochC6cRK6EMxuyMu/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

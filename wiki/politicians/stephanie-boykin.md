@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Steph
 openstates_id: ocd-person/129ff7c8-e210-47d5-a30c-777571984925
 contact:
   website: "https://openstates.org/person/stephanie-boykin-Z8xymLKLkBc95TqJipQtZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

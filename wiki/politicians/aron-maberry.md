@@ -12,5 +12,5 @@ photo_url: "https://www.cmcss.net/wp-content/uploads/elementor/thumbs/L10A9877-2
 openstates_id: ocd-person/0b5b90de-2d94-424f-ab28-b434696cb5a9
 contact:
   website: "https://openstates.org/person/aron-maberry-LQlCXD74g92IOJGSr1b3J/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.capitol.tn.gov/house/members/images/h92.jpg"
 openstates_id: ocd-person/a7947036-fe6d-4ace-8e6e-78445dc4e19f
 contact:
   website: "https://openstates.org/person/todd-warner-56DYPs0cvoBU0ZdslLaUWN/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

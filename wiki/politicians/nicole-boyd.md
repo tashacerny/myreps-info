@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/boyd.jpg"
 openstates_id: ocd-person/befe53fc-f95d-49df-93f4-9985e00151e6
 contact:
   website: "https://openstates.org/person/nicole-boyd-5oOllM9tpUgYz0LDShrlKA/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

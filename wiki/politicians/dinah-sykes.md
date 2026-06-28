@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_sykes_dinah_1.jpg"
 openstates_id: ocd-person/549c712e-1cc1-4ca7-9ef7-b09bb36d7229
 contact:
   website: "https://openstates.org/person/dinah-sykes-2ZeqgHtwSTnW0CKmyZf3BB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jason
 openstates_id: ocd-person/b37537b4-ac38-4d83-ba16-025fcb7f0dc6
 contact:
   website: "https://openstates.org/person/jessie-seal-5SdC63Swl2JY0v2j6zFHmA/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

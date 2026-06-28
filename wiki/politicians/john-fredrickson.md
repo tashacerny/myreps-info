@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist20/hig
 openstates_id: ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f
 contact:
   website: "https://openstates.org/person/john-fredrickson-1TuBRzajg7MuofQsbXI6Gd/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

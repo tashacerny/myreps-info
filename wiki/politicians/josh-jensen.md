@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/134/headshot/
 openstates_id: ocd-person/74b2a05d-ca30-400a-b773-7fb8e24ada63
 contact:
   website: "https://openstates.org/person/josh-jensen-3YCk1vfvNIkkNr3Z2krQNn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

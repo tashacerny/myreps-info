@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/145/headshot/
 openstates_id: ocd-person/461e374c-cde4-4865-9fec-141502275a8b
 contact:
   website: "https://openstates.org/person/angelo-morinello-28JGqD2rSJxveBVtJXsICR/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

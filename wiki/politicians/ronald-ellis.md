@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_ellis_ronald_1.jpg"
 openstates_id: ocd-person/6daed22d-40c3-492c-948a-d3de94499e53
 contact:
   website: "https://openstates.org/person/ronald-ellis-3Ky3XLlHZNOaYej0Y2SRIB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

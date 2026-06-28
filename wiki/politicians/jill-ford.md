@@ -12,5 +12,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/ford_(73rd).jpg"
 openstates_id: ocd-person/922a1ebe-1f17-497b-af99-5f14b6b0f66a
 contact:
   website: "https://openstates.org/person/jill-ford-4Ro7ycgohL5jJOdrc0NR74/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

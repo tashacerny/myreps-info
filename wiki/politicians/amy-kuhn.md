@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/d9825f86-280b-4b70-9a6e-2bb7f02e239a
 contact:
   website: "https://openstates.org/person/amy-kuhn-6cQulkYGuG1Q4n8RWJuZzO/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

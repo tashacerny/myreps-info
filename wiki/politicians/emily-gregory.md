@@ -13,5 +13,5 @@ photo_url: "https://www.sun-sentinel.com/wp-content/uploads/2025/10/TFL-L-Emily-
 openstates_id: ocd-person/e2d16b6f-6522-46c6-9817-3d4f4d1b66ce
 contact:
   website: "https://openstates.org/person/emily-gregory-6tzyCLl4uaPIN9YJcLSBDC/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

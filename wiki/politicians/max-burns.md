@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/918888ac-edc7-4178-9133-d058f0f21010
 contact:
   website: "https://openstates.org/person/max-burns-4QcHa3lPp6ivhkxY80BKs4/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

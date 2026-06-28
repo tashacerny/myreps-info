@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/newbritainherald.com/co
 openstates_id: ocd-person/9c30cf12-f07a-4c35-be3f-97bd3a778767
 contact:
   website: "https://openstates.org/person/dave-defronzo-4kj6jxnmwUHKab5tbXs1xP/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

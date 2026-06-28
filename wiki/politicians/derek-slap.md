@@ -12,5 +12,5 @@ photo_url: "http://www.senatedems.ct.gov/templates/slap/images/slap-hi.jpg"
 openstates_id: ocd-person/a33a2113-e60b-4000-9dc7-eb58a775d986
 contact:
   website: "https://openstates.org/person/derek-slap-4y0JUdYxvhVL5aMq6Y0hAE/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

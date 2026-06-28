@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/deloach
 openstates_id: ocd-person/d40576ac-fbc0-4b42-98ee-f6362063784d
 contact:
   website: "https://openstates.org/person/buddy-deloach-6S4rwywAKduNNSLlHQpvgL/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

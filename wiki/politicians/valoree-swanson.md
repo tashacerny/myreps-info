@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3425.jpg?v=1"
 openstates_id: ocd-person/7298c6a9-c6be-41cd-a2ba-0cc79c851373
 contact:
   website: "https://openstates.org/person/valoree-swanson-3UEwXBNvxX52ng4vvI2gJ1/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 1st Middlesex
 district: 1st Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MRS1.jpg"
 openstates_id: ocd-person/a25fd374-e502-43bb-91fe-99c4b6c493a5
 contact:

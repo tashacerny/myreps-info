@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/2277168c-48ae-434a-8380-04e4690e5e9c/-/pro
 openstates_id: ocd-person/aa12c3a4-7207-4474-af92-7a1f9dcf62a3
 contact:
   website: "https://openstates.org/person/gary-byrne-5AvGnCRsLOm6SytSqkDtx5/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

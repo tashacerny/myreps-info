@@ -12,5 +12,5 @@ photo_url: "https://sdsos.gov/general-information/assets/Monae0008a.jpg"
 openstates_id: ocd-person/e4192363-de65-4632-8224-6d59098f1e61
 contact:
   website: "https://openstates.org/person/monae-johnson-6wPjnnenBsJrp36fHTkZov/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

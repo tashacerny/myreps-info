@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2523.jpg"
 openstates_id: ocd-person/3a7f3611-78c4-453a-ae50-3cad3761dc9b
 contact:
   website: "https://openstates.org/person/rob-swearingen-1mNgoqkgi1d0jsfG4mtKSx/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

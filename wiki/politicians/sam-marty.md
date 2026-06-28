@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MARTY
 openstates_id: ocd-person/3ff2f0b9-b570-4980-941f-9616ea0bbc55
 contact:
   website: "https://openstates.org/person/sam-marty-1wfXWEM4JmwH7D58U1vJSv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

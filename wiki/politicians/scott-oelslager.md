@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/scott-oelslager/heads
 openstates_id: ocd-person/52424e91-a002-4908-a205-4ea27cfe68da
 contact:
   website: "https://openstates.org/person/scott-oelslager-2VDfjbkRo2IQaBrjNM3gCY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

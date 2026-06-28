@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/smith-l
 openstates_id: ocd-person/945875f7-f3c5-4c75-acd6-a195a0f76b12
 contact:
   website: "https://openstates.org/person/lynn-smith-4VvI2z7aovCM4LlRvZ2Hha/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

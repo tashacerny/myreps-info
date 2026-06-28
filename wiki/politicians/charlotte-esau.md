@@ -13,5 +13,5 @@ photo_url: "https://jcrpks.org/wp-content/uploads/2024/07/MbZyrxoRqtLO-EsauMedia
 openstates_id: ocd-person/e9245d69-ed9f-456c-9c78-01fc5a1f4244
 contact:
   website: "https://openstates.org/person/charlotte-esau-75vpWKmyjfDTm0yYkwdtY4/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

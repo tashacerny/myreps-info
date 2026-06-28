@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 17th Suffolk
 district: 17th Suffolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/KGH1.jpg"
 openstates_id: ocd-person/9e4b8b32-233e-443f-a147-46fbaa778a58
 contact:

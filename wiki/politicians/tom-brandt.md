@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist32/hig
 openstates_id: ocd-person/37ed5b35-3aea-40a2-95ed-ecc5120fbe82
 contact:
   website: "https://openstates.org/person/tom-brandt-1hX36c6NYH8BqJmYvhlPpi/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

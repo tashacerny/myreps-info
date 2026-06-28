@@ -7,7 +7,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District Berkshire, Hampden, Franklin and Hampshire
 district: Berkshire, Hampden, Franklin and Hampshire
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PWM0.jpg"
 openstates_id: ocd-person/fd5aaac8-48f5-42c2-82a8-abaf6c5de650
 contact:

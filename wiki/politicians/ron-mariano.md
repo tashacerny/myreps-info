@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 3rd Norfolk
 district: 3rd Norfolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/R_M1.jpg"
 openstates_id: ocd-person/e142d28d-e57a-4ff9-afa4-c3cd149f2114
 contact:

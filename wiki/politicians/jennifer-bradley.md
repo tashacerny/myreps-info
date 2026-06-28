@@ -12,5 +12,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s06_
 openstates_id: ocd-person/68e0a17f-338b-497b-ba07-1f74e9623f1d
 contact:
   website: "https://openstates.org/person/jennifer-bradley-3BtrEQCdeAUWC9fCsxoHzp/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

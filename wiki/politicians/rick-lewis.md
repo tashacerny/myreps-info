@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/lewis/PublishingImages/member_phot
 openstates_id: ocd-person/dc371425-a173-439f-903c-6e2e3fd145cd
 contact:
   website: "https://openstates.org/person/rick-lewis-6hXTwXycvK3SjwmSEkgqoH/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

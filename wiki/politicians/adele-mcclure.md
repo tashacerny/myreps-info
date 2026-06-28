@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/d0de7acb-ce8d-4bb2-b6e5-99cefe5e76a6
 contact:
   website: "https://openstates.org/person/adele-mcclure-6M84nwFEnWdGNjyiOeNRd0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

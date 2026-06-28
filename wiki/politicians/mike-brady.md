@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District Second Plymouth and Norfolk
 district: Second Plymouth and Norfolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MDB0.jpg"
 openstates_id: ocd-person/c3cdd26f-1314-4366-89f6-17c4c540bce9
 contact:

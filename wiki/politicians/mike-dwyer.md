@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575
 contact:
   website: "https://openstates.org/person/mike-dwyer-3PozMaj4SK2eKKkL62apk5/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

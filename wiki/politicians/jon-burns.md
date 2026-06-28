@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/burns-j
 openstates_id: ocd-person/64012657-d026-411c-9525-3232524a5145
 contact:
   website: "https://openstates.org/person/jon-burns-32hl0JzkV68yVZJd4Yel7t/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

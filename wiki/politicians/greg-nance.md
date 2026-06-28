@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/34760.jpg"
 openstates_id: ocd-person/e7caacff-8129-4f34-805a-abc2265e868d
 contact:
   website: "https://openstates.org/person/greg-nance-73NqjmtDYggZcb155oIHN7/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

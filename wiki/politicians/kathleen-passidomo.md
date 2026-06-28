@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s28_
 openstates_id: ocd-person/ae123d54-1076-49b2-84f9-2897b7d60ebd
 contact:
   website: "https://openstates.org/person/kathleen-passidomo-5IT01XGHDxww7A7YX8NcQn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/3b59f672-58f4-4d87-8b6e-6f9cc63a4d4c
 contact:
   website: "https://openstates.org/person/noah-arbit-1nzewOaqX8zvOznqzC617c/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

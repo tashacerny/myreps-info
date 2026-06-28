@@ -12,5 +12,5 @@ photo_url: "https://media.upballot.com/candidates/_250x250_crop_center-center_10
 openstates_id: ocd-person/e6caa351-c418-431a-bf50-1bd16923ae49
 contact:
   website: "https://openstates.org/person/nick-kimble-71Uq8rl0VZfmbLcuXEuxDt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/589_sm.jpg"
 openstates_id: ocd-person/4b6071ae-58c1-4400-a49f-416579c6371e
 contact:
   website: "https://openstates.org/person/david-ray-2IEUyPEpTWnlkBH10vxsS6/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

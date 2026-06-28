@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/dbc641db-1cb7-4110-9121-96ddf5d877d7
 contact:
   website: "https://openstates.org/person/chris-bruce-6ghvFeMiC2au1AY6sDyArf/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

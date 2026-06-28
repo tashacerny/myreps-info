@@ -12,5 +12,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/FERNANDEZ
 openstates_id: ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b
 contact:
   website: "https://openstates.org/person/brian-fernandez-2YmR9bFPbqgI6DgEbzZRk3/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

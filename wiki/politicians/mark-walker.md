@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/d16d8ff0-3e6f-4970-9baf-767c9eb09fab
 contact:
   website: "https://openstates.org/person/mark-walker-6NBSuxzYgaJRe3L6OZV0xf/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

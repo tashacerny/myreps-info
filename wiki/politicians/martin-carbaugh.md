@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/1b9ddafb-fca9-4924-b565-d651c2ca133b
 contact:
   website: "https://openstates.org/person/martin-carbaugh-q6vqGSrrQ15vmNBAHuwKh/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

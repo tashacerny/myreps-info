@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/tim-schaffer/headshot
 openstates_id: ocd-person/01a80305-a667-4dda-9676-1e678bddde12
 contact:
   website: "https://openstates.org/person/tim-schaffer-37lz0j5tgaUiqqd5mQ5mE/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

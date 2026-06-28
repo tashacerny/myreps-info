@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/d0a123_fb70d89e1f594b47bca75d33cd
 openstates_id: ocd-person/e06291fc-b2dc-4c19-a9da-fa4bdb9934e1
 contact:
   website: "https://openstates.org/person/larinda-hooks-6pPKKkz9P70nYJLdp1bsob/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

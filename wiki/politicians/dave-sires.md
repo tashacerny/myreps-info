@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37464"
 openstates_id: ocd-person/b261b6a8-cb30-4808-b750-df2e7963d6c8
 contact:
   website: "https://openstates.org/person/dave-sires-5QbHwT3W3ErCb4NS0ulv9k/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

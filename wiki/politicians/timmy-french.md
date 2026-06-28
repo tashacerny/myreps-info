@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Timmy
 openstates_id: ocd-person/ba57d68e-01e5-46ed-b305-ec08dece665b
 contact:
   website: "https://openstates.org/person/timmy-french-5fciKFVZr6ZYb7u9cKUEDj/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

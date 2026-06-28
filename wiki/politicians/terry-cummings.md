@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cumming
 openstates_id: ocd-person/aa7405f9-5c37-4ce8-a7eb-ac5949a6e776
 contact:
   website: "https://openstates.org/person/terry-cummings-5BdiXWy99evu7t4E1y6Zvi/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

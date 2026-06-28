@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HMARJ.jpg"
 openstates_id: ocd-person/221a42af-f54f-4e66-b648-9b0028165595
 contact:
   website: "https://openstates.org/person/javier-martinez-12LjtK0LJmUhLKStzrM0SD/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

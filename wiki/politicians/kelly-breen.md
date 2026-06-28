@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/6f366c7a-8dab-4d39-90b0-3a25760d2234
 contact:
   website: "https://openstates.org/person/kelly-breen-3Nr1EwUe42EvG1Y2K3uaLU/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

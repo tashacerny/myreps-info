@@ -12,5 +12,5 @@ photo_url: "https://frost.mainecandidate.com/images/2105.jpg"
 openstates_id: ocd-person/05a89099-12b0-46b5-9f6e-002e1e621583
 contact:
   website: "https://openstates.org/person/sharon-frost-AfzkXxTNKhGdR1kNDsehv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/brooks_eric.
 openstates_id: ocd-person/db5d813b-3cd2-4a6d-b656-b48624f61094
 contact:
   website: "https://openstates.org/person/eric-brooks-6fw3BgfhinqGMlYa4MdhkS/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

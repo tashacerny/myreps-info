@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist19/hig
 openstates_id: ocd-person/a9cc86ff-602c-453f-9d6c-fd1567c7fbd7
 contact:
   website: "https://openstates.org/person/robert-dover-5APAh8qoepd5TsnjJxQQXn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

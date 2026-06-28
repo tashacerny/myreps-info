@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/28a2a753-16db-4236-baf0-398c0cafa259
 contact:
   website: "https://openstates.org/person/debra-gardner-1Eg1btbHsP8jvPKyF8B4jR/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

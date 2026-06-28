@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/90989c27-4cd8-409e-8325-9bd50dac9cf4
 contact:
   website: "https://openstates.org/person/gregg-swallow-4OqdYcf3CYv1CEQNhvh15Y/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 2nd Essex
 district: 2nd Essex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/K_K2.jpg"
 openstates_id: ocd-person/1129a0d9-c280-4bf0-af34-20879293a2b5
 contact:

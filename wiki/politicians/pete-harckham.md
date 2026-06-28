@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/ee71493b-ee0d-43ac-bac5-c7dde6a0ef1c
 contact:
   website: "https://openstates.org/person/pete-harckham-7FvwdHE97U7QccwAw7NMWC/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

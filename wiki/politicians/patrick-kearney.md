@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 4th Plymouth
 district: 4th Plymouth
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PJK1.jpg"
 openstates_id: ocd-person/0a288f3d-397f-4e7b-8bfd-b5032ae1421f
 contact:

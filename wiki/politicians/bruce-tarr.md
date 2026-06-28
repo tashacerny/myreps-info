@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/BET0.jpg"
 openstates_id: ocd-person/429f87cf-f7a1-4201-ade4-9efeb9149d03
 contact:
   website: "https://openstates.org/person/bruce-tarr-21iOkdyExZggeotHb1K3gx/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

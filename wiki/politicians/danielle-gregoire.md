@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/DWG1.jpg"
 openstates_id: ocd-person/5696763c-5fd6-44dd-9dce-7be56632cedd
 contact:
   website: "https://openstates.org/person/danielle-gregoire-2dO6HiHbl6HsPfPTbFhchZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

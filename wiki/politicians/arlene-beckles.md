@@ -13,5 +13,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/c
 openstates_id: ocd-person/3b3da57c-2f96-4a94-a7bc-eb6a814cc627
 contact:
   website: "https://openstates.org/person/arlene-beckles-1nmicrZ9DDd5OrAaPYJdo7/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

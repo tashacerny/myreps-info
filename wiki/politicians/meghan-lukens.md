@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/c1a18202-08ad-487f-99bb-b1a606c15a22
 contact:
   website: "https://openstates.org/person/meghan-lukens-5tNKMMj9CxFOUjfyucvXAQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

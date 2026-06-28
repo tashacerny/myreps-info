@@ -12,5 +12,5 @@ photo_url: "https://indianasenatedemocrats.org/wp-content/uploads/2020/12/Senato
 openstates_id: ocd-person/ba72879f-42bd-4735-a3e0-d5edd0358f98
 contact:
   website: "https://openstates.org/person/fady-qaddoura-5foubqjbSpbLXfdKzdII2K/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

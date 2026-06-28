@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1904.jpg?1703415645
 openstates_id: ocd-person/acc00fca-50e5-46f7-8676-d502ecfc94ac
 contact:
   website: "https://openstates.org/person/joe-hamm-5FyS45ASQ1BZd14lVGQBYq/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

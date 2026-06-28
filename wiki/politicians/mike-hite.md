@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/hite_michael.
 openstates_id: ocd-person/0ef791a3-2e24-4751-8686-21ffac958ce0
 contact:
   website: "https://openstates.org/person/mike-hite-SF1yXnU04d98HHVQ5mmHo/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

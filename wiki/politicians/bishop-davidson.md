@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2230"
 openstates_id: ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2
 contact:
   website: "https://openstates.org/person/bishop-davidson-fykHJ8Y0S3lL0CcfdgOaw/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

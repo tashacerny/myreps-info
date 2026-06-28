@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 10th Bristol
 district: 10th Bristol
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MDS1.jpg"
 openstates_id: ocd-person/7446bdd1-f6b4-40cb-a039-41f4be68833e
 contact:

@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/7580d002-efd7-461a-80ee-06c82ab0db71
 contact:
   website: "https://openstates.org/person/michelle-davis-3Ziy7jkzptloZeImDv6rir/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://evers.wi.gov/ltgov/PublishingImages/Pages/default/230207%20L
 openstates_id: ocd-person/827a69f2-8b85-4a72-ac01-14be2c08aa6c
 contact:
   website: "https://openstates.org/person/sara-rodriguez-3yCwddzcFpe0hQWxIZxDMC/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

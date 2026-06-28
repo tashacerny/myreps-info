@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/8646c09c-1d84-4065-bcf2-8be6a8baf494
 contact:
   website: "https://openstates.org/person/ann-fredericks-45NIxHe5DLS6GhbdSBDuNQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

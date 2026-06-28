@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House
 district: 
-in_office: true
+in_office: false
 photo_url: "https://www.mass.gov/files/2023-01/PRINTFINAL-Shopper-Kim_Driscoll_91R_1.jpg"
 openstates_id: ocd-person/0587c400-b81a-4ced-b560-a4009519076a
 contact:

@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/baldacci-1024x683.
 openstates_id: ocd-person/34231d57-22e2-4f2f-be41-d2734fa6211f
 contact:
   website: "https://openstates.org/person/joe-baldacci-1aNeCXuJMS9vHEqd0avZ1T/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

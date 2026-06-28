@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/gambill
 openstates_id: ocd-person/909e9026-e549-494b-be99-e8562a389e0c
 contact:
   website: "https://openstates.org/person/matthew-gambill-4OtMEXkDP9XI6jTyCNMnEa/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2020RS/images/ruth01.jpg"
 openstates_id: ocd-person/4357a17f-f87b-4ae0-afe6-5d8ef9b3d7ed
 contact:
   website: "https://openstates.org/person/sheila-ruth-234X45hRMIEfZMTB1DgGOz/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

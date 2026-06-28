@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Hoang
 openstates_id: ocd-person/efcd1f01-061f-4b35-9202-407576e22e77
 contact:
   website: "https://openstates.org/person/hoang-nguyen-7IUuDa0f40aeXMTUMRA1O3/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

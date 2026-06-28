@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/382708_03a01c002bae45c2a4dd4b6658
 openstates_id: ocd-person/9f9d7fb9-9981-412d-b3e2-45c7f67d189a
 contact:
   website: "https://openstates.org/person/aisha-dew-4rBkwgELWqDsdXMdaiZymY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

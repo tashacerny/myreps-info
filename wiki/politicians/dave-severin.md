@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{FC792043-4CE1-4796-BA38-E68
 openstates_id: ocd-person/cbbd1430-7c0b-4be0-9d45-deabdb0c3d0f
 contact:
   website: "https://openstates.org/person/dave-severin-6CRqnmfRSQ8DQWNfj3TCtb/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

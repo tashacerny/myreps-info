@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Campbell,Scott
 openstates_id: ocd-person/b64a9bcc-5c1d-4e8b-931f-81f89ea5137e
 contact:
   website: "https://openstates.org/person/scott-campbell-5XyhNlWVgOJUEnsefHbEUw/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

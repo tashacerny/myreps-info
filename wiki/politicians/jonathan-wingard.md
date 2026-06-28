@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jonat
 openstates_id: ocd-person/077e2743-495e-4198-a096-5675796d78a4
 contact:
   website: "https://openstates.org/person/jonathan-wingard-E8b6mvCzx5EG85bwTOLqe/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

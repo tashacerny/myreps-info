@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 1st Hampden
 district: 1st Hampden
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/TMS2.jpg"
 openstates_id: ocd-person/d8895862-a95b-4982-bb2e-31c8ffa4bf57
 contact:

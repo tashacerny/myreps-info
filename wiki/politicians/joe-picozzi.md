@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Abdul
 openstates_id: ocd-person/00e98952-3983-44cd-aeca-09fb6cd84f3d
 contact:
   website: "https://openstates.org/person/joe-picozzi-1ij2QX4loXZ7VeWwVCIdp/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

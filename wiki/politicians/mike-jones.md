@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Jones1
 openstates_id: ocd-person/3ceca66a-bf31-47c8-a1a6-e2f789b41be3
 contact:
   website: "https://openstates.org/person/mike-jones-1qxgiWPqnQlx89h0AHxj75/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

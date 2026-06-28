@@ -13,5 +13,5 @@ photo_url: "https://www.idahoednews.org/wp-content/uploads/2018/12/Mike-Moyle-62
 openstates_id: ocd-person/060e3496-76ff-4895-9637-4ff7bbe7a05e
 contact:
   website: "https://openstates.org/person/mike-moyle-BQRdsJ3euzi2O6rS8EoJi/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

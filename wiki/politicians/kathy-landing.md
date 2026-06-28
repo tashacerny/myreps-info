@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1066477145.jpg"
 openstates_id: ocd-person/07274f31-3348-491d-af78-4eefad9d39c8
 contact:
   website: "https://openstates.org/person/kathy-landing-DUuSlaGKZuKZvNzgnzQe8/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

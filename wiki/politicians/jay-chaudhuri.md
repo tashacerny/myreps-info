@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/395/Low"
 openstates_id: ocd-person/75860d99-3e31-4c38-b511-734f76477c9b
 contact:
   website: "https://openstates.org/person/jay-chaudhuri-3ZlMbvFHdqCmUGXV4jY08h/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

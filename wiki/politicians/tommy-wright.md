@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H01
 openstates_id: ocd-person/894118dd-1470-48b7-b84b-831ddba58e1b
 contact:
   website: "https://openstates.org/person/tommy-wright-4AzhI8Gu0PxHQ9D7zmjGqB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

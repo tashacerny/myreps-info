@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{D8E9F62C-6A73-4CCD-8148-332
 openstates_id: ocd-person/13dc4688-95d1-4a5d-abc7-fb9a46a432c8
 contact:
   website: "https://openstates.org/person/dennis-tipsword-bTWGRfrUo2P0kVfyk5532/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

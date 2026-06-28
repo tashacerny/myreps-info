@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Lesle
 openstates_id: ocd-person/475639af-fb56-4fde-9a78-213593db91d0
 contact:
   website: "https://openstates.org/person/lesley-smith-2AbrL1JAvlT8KLpBqewCTg/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

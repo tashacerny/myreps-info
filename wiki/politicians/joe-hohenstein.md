@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1858.jpg?1703415645
 openstates_id: ocd-person/99728978-f905-406c-8b52-f2912f374602
 contact:
   website: "https://openstates.org/person/joe-hohenstein-4fYAVsuTMnTnb5GOyBvLkY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

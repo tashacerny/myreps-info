@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_chauncey_shawn_1.jp
 openstates_id: ocd-person/97a9a84c-4616-44eb-845c-1e7064c41066
 contact:
   website: "https://openstates.org/person/shawn-chauncey-4cBNFc6ZxvPg3hK5fD0M8k/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

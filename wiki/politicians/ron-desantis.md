@@ -13,5 +13,5 @@ photo_url: "https://www.flgov.com/wp-content/uploads/desantis/Ron_DeSantis,_Offi
 openstates_id: ocd-person/284392c5-5708-4014-9ea1-9552536c5a3e
 contact:
   website: "https://openstates.org/person/ron-desantis-1DyZb7uCosFz1SO408cCeE/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Wells,Ken%2004
 openstates_id: ocd-person/a10e8620-2957-408b-a004-481d6d19a832
 contact:
   website: "https://openstates.org/person/ken-wells-4tuOvfMDNUyY6SGZxuOAew/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

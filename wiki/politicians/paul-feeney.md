@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District Bristol and Norfolk
 district: Bristol and Norfolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/PRF0.jpg"
 openstates_id: ocd-person/b390af07-1fa2-4516-b8f0-b6bd1b62121a
 contact:

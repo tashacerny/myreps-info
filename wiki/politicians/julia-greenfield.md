@@ -12,5 +12,5 @@ photo_url: "https://greenvoterguidenc.org/wp-content/uploads/Julia-Greenfield-sq
 openstates_id: ocd-person/e9c35f8c-48f0-46e3-bd47-2e9481abc971
 contact:
   website: "https://openstates.org/person/julia-greenfield-776UsKf39MOOTL4e2ZPDTF/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

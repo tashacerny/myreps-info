@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34011"
 openstates_id: ocd-person/1c841d58-bdbe-4021-9126-055184cecdd5
 contact:
   website: "https://openstates.org/person/janice-weiner-roA1cfWmS1QJco0OTYyPN/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

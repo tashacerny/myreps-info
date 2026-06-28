@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Zacha
 openstates_id: ocd-person/b62cfb62-68b6-4804-a1ff-f0259e7513b4
 contact:
   website: "https://openstates.org/person/zack-grady-5Xl9wJ0GnI6T6PaQtTL3G0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

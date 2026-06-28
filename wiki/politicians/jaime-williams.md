@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/059/headshot/
 openstates_id: ocd-person/67047d73-acc1-4d6f-b580-fbeee33cc1f8
 contact:
   website: "https://openstates.org/person/jaime-williams-38OGDjJCOpRoEvS1iyQNvU/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

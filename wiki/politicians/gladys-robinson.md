@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/364/Low"
 openstates_id: ocd-person/af3f63da-d39a-4542-b0f2-41f118d96f55
 contact:
   website: "https://openstates.org/person/gladys-robinson-5KgcqUnfZ2quNRsWHQUER3/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/schofie
 openstates_id: ocd-person/eff357d0-3187-4a7b-93fe-2d54d010b093
 contact:
   website: "https://openstates.org/person/kim-schofield-7ImNCVLTfvhz4664CLEux9/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/JOHNSJD.jpg"
 openstates_id: ocd-person/0c8df9e4-cb46-4dc1-ab5b-6d181efd58e0
 contact:
   website: "https://openstates.org/person/john-johnson-Ngn3OC1aqJL785fKUEm5w/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

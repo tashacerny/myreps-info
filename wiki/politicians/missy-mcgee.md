@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/mcgee.jpg"
 openstates_id: ocd-person/e645db95-2862-40dd-b548-b84b6f0b5f3f
 contact:
   website: "https://openstates.org/person/missy-mcgee-70W9w8WNYrIWsAiXMV1ARb/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

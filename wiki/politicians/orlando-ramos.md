@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 9th Hampden
 district: 9th Hampden
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/O_R1.jpg"
 openstates_id: ocd-person/a1a94ad4-7b75-46be-896e-548c86b23d0c
 contact:

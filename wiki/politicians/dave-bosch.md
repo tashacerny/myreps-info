@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Bosch,David.jp
 openstates_id: ocd-person/31f6e27d-151c-4878-845b-f600ea1742e2
 contact:
   website: "https://openstates.org/person/dave-bosch-1WHRwJlC4dUg9Yr9U7IdUY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

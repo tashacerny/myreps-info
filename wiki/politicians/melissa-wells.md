@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/wells02.jpg"
 openstates_id: ocd-person/55cb04cb-cd28-44ed-a4a4-dcb2b064ede9
 contact:
   website: "https://openstates.org/person/melissa-wells-2bt7uYDdefJ0zsbrgKW8Gf/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

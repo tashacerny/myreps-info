@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/chaichi/PublishingImages/member_ph
 openstates_id: ocd-person/bec9a2c9-a77c-4ac9-b649-2a7360a5c0ad
 contact:
   website: "https://openstates.org/person/farrah-chaichi-5o0gmJ6bNhzyapbmAbJN5Z/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

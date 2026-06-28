@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist21/hig
 openstates_id: ocd-person/3da787e9-f6ed-4069-bd74-58ec7c015efb
 contact:
   website: "https://openstates.org/person/beau-ballard-1sL5oWFVZxOw0ITk1aljAp/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

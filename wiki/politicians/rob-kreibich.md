@@ -13,5 +13,5 @@ photo_url: "https://www.kreibichforassembly.com/hobenug/themes/kreibich-wi/asset
 openstates_id: ocd-person/a5d9287a-c3e7-4457-8faf-31024e0e9ac6
 contact:
   website: "https://openstates.org/person/rob-kreibich-52wyTnAwJFgdUtAHNIqcLu/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

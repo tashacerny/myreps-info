@@ -12,5 +12,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/nawrocki01.jpg"
 openstates_id: ocd-person/bf30221f-f777-4158-bf3b-2ca40dad8144
 contact:
   website: "https://openstates.org/person/ryan-nawrocki-5olWwpdgyMYaCgllxertqO/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

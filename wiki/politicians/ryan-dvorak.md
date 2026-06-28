@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/16b01fca-3a93-41a3-ad6a-f2bf9209ddf7
 contact:
   website: "https://openstates.org/person/ryan-dvorak-goJqjAP2Pm3CfdcEuBOXn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

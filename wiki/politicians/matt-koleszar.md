@@ -13,5 +13,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/42a456fa-8979-468f-b2a6-30f81ff20299
 contact:
   website: "https://openstates.org/person/matt-koleszar-21kb16TlL3w68IQCLQlZQv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

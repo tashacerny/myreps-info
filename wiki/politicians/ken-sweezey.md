@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 6th Plymouth
 district: 6th Plymouth
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/KPS1.jpg"
 openstates_id: ocd-person/1eece00d-5b31-4be0-9263-b594863b295c
 contact:

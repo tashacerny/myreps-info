@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/levye/PublishingImages/member_phot
 openstates_id: ocd-person/2be8d7ed-5767-4a67-a5e9-b519691c14ef
 contact:
   website: "https://openstates.org/person/em-levy-1Kr4wpgvZLokD04O7eosOt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

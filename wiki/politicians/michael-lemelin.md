@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/feb330d7-8122-4547-b38a-38279732a9ce
 contact:
   website: "https://openstates.org/person/michael-lemelin-7kbwN1YekEv0FCOfLz4Yve/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

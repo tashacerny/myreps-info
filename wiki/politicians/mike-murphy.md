@@ -2,15 +2,15 @@
 name: Mike Murphy
 slug: mike-murphy
 party: Republican
-state: NH
+state: KS
 level: state
-chamber: House
-office: NH State House, District Coos 6
-district: Coos 6
+chamber: Senate
+office: KS State Senate, District 34
+district: 34
 in_office: true
-photo_url: "https://nhjournal.com/wp-content/uploads/2024/01/mike-murphy-233x300.jpeg"
-openstates_id: ocd-person/546b9d6e-0e31-4a6c-9d8f-63a0c9bb2b1f
+photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKwXLW2-GGx639WKAs10NgKJgmOprF8JoSnBrc3tSNe41yMEh6bGuVEiIvAulBU795Tk&usqp=CAU"
+openstates_id: ocd-person/8b446a75-944d-4292-8af0-f5114be39021
 contact:
-  website: "https://openstates.org/person/mike-murphy-2ZIXD0K1AXW3euppn2pLCx/"
-last_updated: "2026-06-21"
+  website: "https://openstates.org/person/mike-murphy-4EnCNCh94F6OTrIJ94GFMn/"
+last_updated: "2026-06-28"
 ---

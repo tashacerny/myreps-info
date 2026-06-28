@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MA State House, District 3rd Middlesex
 district: 3rd Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/K_H1.jpg"
 openstates_id: ocd-person/3d709a64-6cd2-49c6-ad0d-b007e834bfec
 contact:

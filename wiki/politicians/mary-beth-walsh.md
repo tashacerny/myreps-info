@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/112/headshot/
 openstates_id: ocd-person/f83f11f2-bfdb-4f84-925a-ae04c97b990e
 contact:
   website: "https://openstates.org/person/mary-beth-walsh-7YQv3IgJqosDeQKROANpyI/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7
 contact:
   website: "https://openstates.org/person/marie-pinkney-7Gnq2DfP7Lax8iosY9U7eB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

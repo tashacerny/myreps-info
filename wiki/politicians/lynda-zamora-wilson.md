@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/e5055578-02cb-435c-9fe0-b877318e3b1b
 contact:
   website: "https://openstates.org/person/lynda-zamora-wilson-6y9gBh7oRJU1BBlmHYXEMN/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

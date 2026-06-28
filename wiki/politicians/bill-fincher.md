@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/f2444048-8c14-45b2-b700-37f7899fa5bb
 contact:
   website: "https://openstates.org/person/bill-fincher-7N9KhnJhLvonDRhyYZR3nv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

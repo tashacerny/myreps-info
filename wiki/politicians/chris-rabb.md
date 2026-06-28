@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1760.jpg?1703415645
 openstates_id: ocd-person/e6a8e555-0d65-4a1f-9673-56ad1e3c7855
 contact:
   website: "https://openstates.org/person/chris-rabb-71FQ5cMXymVLQBvyTJ2GCj/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

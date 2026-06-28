@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Richa
 openstates_id: ocd-person/0065fe7b-08cf-4d17-b358-c0c04ab45616
 contact:
   website: "https://openstates.org/person/dick-fascia-kbuI0YOy4FA11PNJXqPm/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

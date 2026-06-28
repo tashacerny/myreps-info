@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/lauren-mcnally/headsh
 openstates_id: ocd-person/19cbe255-2cdb-47c4-b70a-693b6bf6665b
 contact:
   website: "https://openstates.org/person/lauren-mcnally-mfyyTTPs2xIOTZ1ulJvQJ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

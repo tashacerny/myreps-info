@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1087.jpg?1703415645
 openstates_id: ocd-person/406baa79-8352-4fa4-a1fa-70cc55e34406
 contact:
   website: "https://openstates.org/person/michele-brooks-1xYiAQ8uRyRkir8TCQOjZu/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://ibervilleparish.com/wp-content/uploads/District-10-Chasity-M
 openstates_id: ocd-person/c58cdaf8-5e0d-4a0c-ac40-7e95c38ac83e
 contact:
   website: "https://openstates.org/person/chasity-martinez-60lrHt4kL1oLK5635JTvzi/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

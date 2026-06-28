@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District Norfolk and Suffolk
 district: Norfolk and Suffolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MFR0.jpg"
 openstates_id: ocd-person/6a82d675-3496-48af-88cf-23c26355b01f
 contact:

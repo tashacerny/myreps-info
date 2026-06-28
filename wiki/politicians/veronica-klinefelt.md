@@ -13,5 +13,5 @@ photo_url: "https://senatedems.com/klinefelt/wp-content/uploads/sites/15/2022/12
 openstates_id: ocd-person/3cef42f4-ef0b-43c2-b0b8-01f7f399af2f
 contact:
   website: "https://openstates.org/person/veronica-klinefelt-1qysi9HctV4eDhngcZAyo3/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

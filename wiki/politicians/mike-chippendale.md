@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/chippendale.jp
 openstates_id: ocd-person/02f4f018-3639-4fb1-aced-f8684161121d
 contact:
   website: "https://openstates.org/person/mike-chippendale-5Zv8WgkKwJIzNxEZxQEpB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

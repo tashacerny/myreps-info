@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/parks.jpg"
 openstates_id: ocd-person/d618a68e-ed3a-47a5-be24-852af75d9ab3
 contact:
   website: "https://openstates.org/person/rita-parks-6Vzce7C0G6TLGfm3IyuL7j/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

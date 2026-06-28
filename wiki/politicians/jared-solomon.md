@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1761.jpg?1703415645
 openstates_id: ocd-person/6b6602c0-8b45-4e1e-89ba-1782da5d67c6
 contact:
   website: "https://openstates.org/person/jared-solomon-3GenTd5tcfqG27iDPmIhZG/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/090/headshot/
 openstates_id: ocd-person/12dbcb73-95de-4067-8e68-7d7af51eac55
 contact:
   website: "https://openstates.org/person/nader-sayegh-ZaJ7KdZWLv3eogyAFPJLB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2019RS/images/attar01.jpg"
 openstates_id: ocd-person/d848993b-65e9-4ea3-ab2a-dfaf796142cc
 contact:
   website: "https://openstates.org/person/dalya-attar-6a7WFthmt0cugm7kAxvNeO/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

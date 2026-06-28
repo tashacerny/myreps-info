@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/40d8f8_3ba01018eff64b309a92373dad
 openstates_id: ocd-person/013e94ee-496e-42f3-8b1b-f96c737f1f8e
 contact:
   website: "https://openstates.org/person/john-gaskey-2LaigvPcaSFgm1Umy8vD4/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

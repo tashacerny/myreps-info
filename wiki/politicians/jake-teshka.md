@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/d0f113c5-ffad-4c18-867b-417fea0d0a52
 contact:
   website: "https://openstates.org/person/jake-teshka-6MGZkWeCmdxxhFa1fuJpQo/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

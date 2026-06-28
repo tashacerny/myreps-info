@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Reyes/images/Reyes_HS.jpg"
 openstates_id: ocd-person/f11b5a17-e613-4aa8-9b91-7e2583e1ced5
 contact:
   website: "https://openstates.org/person/geraldo-reyes-7KxeLAkFX0zzQDLqqPNFyv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

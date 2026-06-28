@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/a9b13089-77fc-4e9d-a9e4-35933ea903a0
 contact:
   website: "https://openstates.org/person/shelley-mayer-5ACg6aRzlav3M1R5zmKPJY/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

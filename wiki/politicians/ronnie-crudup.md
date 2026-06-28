@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/crudup.jpg"
 openstates_id: ocd-person/fee2ce67-1403-487e-b891-587e625ce15c
 contact:
   website: "https://openstates.org/person/ronnie-crudup-7kxhVjqmqSr1UfZtb0fnDQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

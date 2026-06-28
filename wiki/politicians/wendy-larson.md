@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=39538"
 openstates_id: ocd-person/b385cd86-67bc-4cff-94cb-6e822f719ca7
 contact:
   website: "https://openstates.org/person/wendy-larson-5Skm1XriJ7Nfjdipa67eEx/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

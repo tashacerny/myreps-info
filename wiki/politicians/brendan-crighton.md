@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/BPC0.jpg"
 openstates_id: ocd-person/77994b2c-f88c-4a5f-bf9d-7abd1875d8dc
 contact:
   website: "https://openstates.org/person/brendan-crighton-3dg8p1rpwHGCALMU2JYWKa/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

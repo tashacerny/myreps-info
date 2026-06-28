@@ -13,5 +13,5 @@ photo_url: "https://www.oregonlegislature.gov/mannix/PublishingImages/member_pho
 openstates_id: ocd-person/af99b8a9-452f-44e0-8404-83dfe05dbfd7
 contact:
   website: "https://openstates.org/person/kevin-mannix-5LLuIc3oOCxnT4rtU3WZuB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

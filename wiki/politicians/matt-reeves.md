@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/reeves-
 openstates_id: ocd-person/0f4f3c5a-1192-4ec1-9698-4aef005b4875
 contact:
   website: "https://openstates.org/person/matt-reeves-St5w2LSQzethppvGpzwMn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

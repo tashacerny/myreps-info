@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bryce
 openstates_id: ocd-person/b1187e7a-8cea-4e91-9c9f-7c7c61df3c85
 contact:
   website: "https://openstates.org/person/bryce-berry-5OApoOqblUiXTk3L9MkGFJ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

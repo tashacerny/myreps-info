@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/cd9538d6-3ed0-4c87-8e0d-d524e8861157
 contact:
   website: "https://openstates.org/person/ben-fuhriman-6FvcXl5QDZPnJs5H5fNfeB/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

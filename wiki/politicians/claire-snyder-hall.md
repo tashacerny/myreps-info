@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d
 contact:
   website: "https://openstates.org/person/claire-snyder-hall-4ToQuFaHu6ysDCbovcHaJx/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

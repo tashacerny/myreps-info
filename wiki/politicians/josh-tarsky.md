@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 13th Norfolk
 district: 13th Norfolk
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/J_T1.jpg"
 openstates_id: ocd-person/9c847f4f-a48b-4d42-95cb-2b6a219f89ac
 contact:

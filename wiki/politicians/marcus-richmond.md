@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/496_sm.jpg"
 openstates_id: ocd-person/41f3a186-d3b7-4b46-b3dc-2da6f89c902e
 contact:
   website: "https://openstates.org/person/marcus-richmond-20Rq8TkNDY6d9osITgYU18/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

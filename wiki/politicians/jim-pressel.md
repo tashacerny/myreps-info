@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/3918dc6e-fbf5-4ea0-b62a-376729b463ec
 contact:
   website: "https://openstates.org/person/jim-pressel-1jjvIXYyPtFfm5hOZBwsjk/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

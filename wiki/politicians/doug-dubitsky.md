@@ -13,5 +13,5 @@ photo_url: "https://www.cthousegop.com/dubitsky/wp-content/uploads/sites/23/2019
 openstates_id: ocd-person/2342cde8-078f-4dd8-8879-f9fdaa036a94
 contact:
   website: "https://openstates.org/person/doug-dubitsky-14XGBgbgooBQ7j5JeG5bC0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

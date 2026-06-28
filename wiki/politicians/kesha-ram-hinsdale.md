@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/RamHinsdale,Ke
 openstates_id: ocd-person/06f7e87d-e1f3-4d29-bd2c-11cadb89069e
 contact:
   website: "https://openstates.org/person/kesha-ram-hinsdale-D9FOVquit5nxXBJzpJZBm/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

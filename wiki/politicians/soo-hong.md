@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hong-so
 openstates_id: ocd-person/64721c9b-451c-4bc9-9040-4ca232ffd746
 contact:
   website: "https://openstates.org/person/soo-hong-33XNg4DA09eAYMp5a9YZzq/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

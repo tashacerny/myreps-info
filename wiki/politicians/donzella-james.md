@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/james-d
 openstates_id: ocd-person/7f88fadb-2f51-48c7-8ae5-e20cd2f33e4a
 contact:
   website: "https://openstates.org/person/donzella-james-3secmUsFngWEVFzNkKPI8Q/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

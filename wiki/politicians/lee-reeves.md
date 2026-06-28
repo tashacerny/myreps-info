@@ -13,5 +13,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/williamsonherald.com/co
 openstates_id: ocd-person/f7006293-9fb3-4053-bd79-d77f84c6e59a
 contact:
   website: "https://openstates.org/person/lee-reeves-7W5HPAQLHzP5OAo1C5pPBK/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

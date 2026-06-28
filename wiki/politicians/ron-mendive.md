@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/di
 openstates_id: ocd-person/71489ac3-457d-41ec-b285-a099648b601b
 contact:
   website: "https://openstates.org/person/ron-mendive-3RlJQORe9D6GdRzqpxarpz/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

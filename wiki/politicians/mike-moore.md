@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MA State Senate, District Second Worcester
 district: Second Worcester
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/MOM0.jpg"
 openstates_id: ocd-person/7b48bd48-8d27-4dd8-958d-703571efe150
 contact:

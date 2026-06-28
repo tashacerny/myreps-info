@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/4ae07d5d-1da3-4370-b796-7698013ca994
 contact:
   website: "https://openstates.org/person/delores-mcquinn-2HI1VK22pGtahUoGwm2qXM/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

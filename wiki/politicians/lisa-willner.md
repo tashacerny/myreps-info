@@ -12,5 +12,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house35.
 openstates_id: ocd-person/6dd815a4-fc3c-4e79-8cd5-a574d8cf0af8
 contact:
   website: "https://openstates.org/person/lisa-willner-3LGuhYNRPOyaVvnSvLFq80/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

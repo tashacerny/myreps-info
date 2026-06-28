@@ -13,5 +13,5 @@ photo_url: "https://www.capitol.tn.gov/house/members/images/H23.jpg"
 openstates_id: ocd-person/a8461189-9673-4d76-a01d-fa7dddc33a28
 contact:
   website: "https://openstates.org/person/mark-cochran-57WjP4pJvwpPfZqvIuHr5c/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

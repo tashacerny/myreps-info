@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 30th Middlesex
 district: 30th Middlesex
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/RMH1.jpg"
 openstates_id: ocd-person/521620ea-1e5b-4a0c-94f8-abe888370e05
 contact:

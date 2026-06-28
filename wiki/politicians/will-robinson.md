@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4733.jpg"
 openstates_id: ocd-person/042b27f1-ec82-497e-958c-ebe5da28b706
 contact:
   website: "https://openstates.org/person/will-robinson-7rgsmbVFg16DVTtEO4J7e/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

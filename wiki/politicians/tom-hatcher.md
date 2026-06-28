@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/6570c60e478ebd26777cfd
 openstates_id: ocd-person/6567e0e2-9ecf-4129-b838-e3618b4cf786
 contact:
   website: "https://openstates.org/person/tom-hatcher-35LhFcrGA6X60GXFAStTKo/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

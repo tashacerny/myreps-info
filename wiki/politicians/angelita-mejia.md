@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tnc
 openstates_id: ocd-person/75986bbd-3629-4520-a770-f86c46f423ab
 contact:
   website: "https://openstates.org/person/angelita-mejia-3Ztl2lIVyMx0KH1x5IoN8l/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

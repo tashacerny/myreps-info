@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3595.jpg?v=5"
 openstates_id: ocd-person/53b19d1e-5b07-4f6e-87a9-27baecddaf70
 contact:
   website: "https://openstates.org/person/john-bucy-2XvX2Gab1q2vZlfATWiQbI/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

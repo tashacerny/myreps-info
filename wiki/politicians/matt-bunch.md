@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/bunch/PublishingImages/member_phot
 openstates_id: ocd-person/fe73a3b7-97cd-43cc-bf41-26a952a9ee8f
 contact:
   website: "https://openstates.org/person/matt-bunch-7k8thgtdBm5KCLDixdhbiR/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

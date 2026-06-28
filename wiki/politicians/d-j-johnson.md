@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house13.
 openstates_id: ocd-person/ed9307f1-cd95-4004-9e72-46970ea64adf
 contact:
   website: "https://openstates.org/person/d-j-johnson-7EINEz2OSmdgof3kL9qw2h/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

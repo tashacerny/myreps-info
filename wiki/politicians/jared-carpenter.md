@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate13
 openstates_id: ocd-person/b2299f51-c122-46ac-9937-3a6a7b682bb8
 contact:
   website: "https://openstates.org/person/jared-carpenter-5QBeeNjuXAQQJ1ySMeL3pw/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

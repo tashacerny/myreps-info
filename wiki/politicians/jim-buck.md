@@ -13,5 +13,5 @@ photo_url: "https://cdn.zephyrcms.com/5d45f119-5f23-4095-bfd8-cd7a96cab132/-/pro
 openstates_id: ocd-person/8c8f7869-329e-4063-ab55-30e4eca00529
 contact:
   website: "https://openstates.org/person/jim-buck-4HEUUuoFRWrmWM8epjaC6r/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5
 contact:
   website: "https://openstates.org/person/mike-gipson-1xL2P8scJyJmtynkdPcPOX/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

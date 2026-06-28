@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Keyser,Chris.j
 openstates_id: ocd-person/568a47fb-6a5e-4346-800f-ac49018a9099
 contact:
   website: "https://openstates.org/person/chris-keyser-2dIX9l2cNqGmkXxAhMe3ib/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

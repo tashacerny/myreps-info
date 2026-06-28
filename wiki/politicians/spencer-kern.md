@@ -12,5 +12,5 @@ photo_url: "https://static.votesmart.org/static/canphoto/216441.jpg"
 openstates_id: ocd-person/4d4f5043-830c-498d-806c-5b1e9eb183df
 contact:
   website: "https://openstates.org/person/spencer-kern-2LsedyudP6Jqfe3zSkzBxn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Aaron
 openstates_id: ocd-person/78900b72-692c-4b5f-ac8b-290577d6abd4
 contact:
   website: "https://openstates.org/person/aaron-reinhardt-3fUuHniwPJxZVFF3b61hLQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

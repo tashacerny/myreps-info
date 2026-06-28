@@ -12,5 +12,5 @@ photo_url: "https://www.exploreclarion.com/wp-content/uploads/sites/2/2024/02/Jo
 openstates_id: ocd-person/2062ecc5-049f-44c4-83bf-850a34b75531
 contact:
   website: "https://openstates.org/person/josh-bashline-z6xilzDsjF7RVA7oXDhDt/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

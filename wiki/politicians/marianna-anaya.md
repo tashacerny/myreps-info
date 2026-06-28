@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Maria
 openstates_id: ocd-person/bc194113-8c8a-4cba-b1f4-25269c72a9fd
 contact:
   website: "https://openstates.org/person/marianna-anaya-5iw67JXrumqdl6JpjWvogn/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

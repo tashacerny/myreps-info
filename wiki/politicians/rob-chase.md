@@ -13,5 +13,5 @@ photo_url: "https://robchase.houserepublicans.wa.gov/wp-content/uploads/2025/01/
 openstates_id: ocd-person/359ededd-b78a-4d25-98f7-6bc5b01876bc
 contact:
   website: "https://openstates.org/person/rob-chase-1dBCEk8FiVsU37dxMiWYrU/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

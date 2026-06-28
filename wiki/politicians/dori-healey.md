@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/3caa9714-29b4-4851-b530-b696c1a87b41
 contact:
   website: "https://openstates.org/person/dori-healey-1qTUyDU2pWAAYC9Sjxyb45/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

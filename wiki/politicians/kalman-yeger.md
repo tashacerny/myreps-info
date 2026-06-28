@@ -13,5 +13,5 @@ photo_url: "https://raw.githubusercontent.com/NewYorkCityCouncil/districts/maste
 openstates_id: ocd-person/ad60765d-3d3c-4523-9c75-0a81af0e85e9
 contact:
   website: "https://openstates.org/person/kalman-yeger-5H9ks1hzZ7RQAvQOpCpAGP/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

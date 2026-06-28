@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/3d690d_54cafbce3962411589e2a2742b
 openstates_id: ocd-person/a8bf9343-7c1b-4a9d-812c-eef5a89365a6
 contact:
   website: "https://openstates.org/person/lindee-brill-58QGBXZwxQq6AvsLciINde/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

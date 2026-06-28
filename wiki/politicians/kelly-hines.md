@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/642c607b85563b44f0aa58
 openstates_id: ocd-person/595024d3-b5fd-45e4-a980-4774f531d051
 contact:
   website: "https://openstates.org/person/kelly-hines-2iWwSgSjP5nOGdWtyVqh4T/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

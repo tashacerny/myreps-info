@@ -12,5 +12,5 @@ photo_url: "https://southdakotasearchlight.com/wp-content/uploads/2025/09/Shubec
 openstates_id: ocd-person/de36e5d9-b079-4778-bd29-2d7a161488f6
 contact:
   website: "https://openstates.org/person/john-shubeck-6lJNrrV4U2venvSJF3xX9C/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

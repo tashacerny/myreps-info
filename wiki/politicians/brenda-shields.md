@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2093"
 openstates_id: ocd-person/b7d28fcb-9563-420c-91bb-01d3202124fd
 contact:
   website: "https://openstates.org/person/brenda-shields-5arp0rLgbkz4v0nKgarfZ7/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

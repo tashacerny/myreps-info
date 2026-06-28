@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MA State House, District 4th Bristol
 district: 4th Bristol
-in_office: true
+in_office: false
 photo_url: "https://malegislature.gov/Legislators/Profile/170/SSH1.jpg"
 openstates_id: ocd-person/54487f49-5377-4c41-bd97-60b748cc240a
 contact:

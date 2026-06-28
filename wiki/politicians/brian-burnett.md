@@ -12,5 +12,5 @@ photo_url: "https://brianburnett.houserepublicans.wa.gov/wp-content/uploads/2025
 openstates_id: ocd-person/0bf66a0a-3341-406f-83b8-000c9f4e0176
 contact:
   website: "https://openstates.org/person/brian-burnett-MZWgajZd7gGtxGx4FrjHS/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

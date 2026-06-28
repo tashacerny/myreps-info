@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/ehrhart
 openstates_id: ocd-person/be05ace3-ea73-4f3f-85ae-c5ed313d4cbe
 contact:
   website: "https://openstates.org/person/ginny-ehrhart-5mZ8Pu0ZZPhDuIDHQ10WFC/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

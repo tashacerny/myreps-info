@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/frankli
 openstates_id: ocd-person/6971bb34-9ea4-4bdc-971e-c1a2c5de344c
 contact:
   website: "https://openstates.org/person/lehman-franklin-3CyAWD7CMhyySMaHaCEp1o/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

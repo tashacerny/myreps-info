@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/497/Low"
 openstates_id: ocd-person/32edee21-40a5-491f-b28e-316ba7262360
 contact:
   website: "https://openstates.org/person/garland-pierce-1Y6LkI5vOySPOwzIpg6NnM/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

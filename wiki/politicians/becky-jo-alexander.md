@@ -13,5 +13,5 @@ photo_url: "https://www.capitol.tn.gov/house/members/images/h7.jpg"
 openstates_id: ocd-person/5110ee0d-fc68-4126-8ff2-7db3814afe66
 contact:
   website: "https://openstates.org/person/becky-jo-alexander-2Sy79sGue84AIYTf3sqMas/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

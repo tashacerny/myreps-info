@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33995"
 openstates_id: ocd-person/e927adb7-9b5c-41a8-8daf-c9a8620741f5
 contact:
   website: "https://openstates.org/person/heather-hora-75xLPWncQA1ZgfS6WPMCgv/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

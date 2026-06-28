@@ -12,5 +12,5 @@ photo_url: "https://cmsv2-assets.apptegy.net/uploads/23522/file/3233138/f4ffcd47
 openstates_id: ocd-person/c6a181c7-b58e-4c2a-aa2d-9ca31fc6548f
 contact:
   website: "https://openstates.org/person/aaron-marquez-62oHxKKHIuiMpTtbhX5MvX/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/4630.jpg?v=1"
 openstates_id: ocd-person/ace50d18-fc98-4460-9d90-928c0e88c79a
 contact:
   website: "https://openstates.org/person/senfronia-thompson-5GFM7yxyoshrUHoeWNu1j0/"
-last_updated: "2026-06-21"
+last_updated: "2026-06-28"
 ---
