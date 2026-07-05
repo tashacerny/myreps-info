@@ -12,6 +12,6 @@ term_start: "2012-01-03"
 bioguide_id: S001194
 contact:
   website: "https://www.schatz.senate.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

@@ -12,6 +12,6 @@ term_start: "2021-01-03"
 bioguide_id: L000570
 contact:
   website: "https://www.lujan.senate.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

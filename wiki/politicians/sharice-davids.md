@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: D000629
 contact:
   website: "https://davids.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

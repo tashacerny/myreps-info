@@ -13,6 +13,6 @@ term_start: "2014-01-03"
 bioguide_id: A000370
 contact:
   website: "https://adams.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

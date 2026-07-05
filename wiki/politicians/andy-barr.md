@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: B001282
 contact:
   website: "https://barr.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

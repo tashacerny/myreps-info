@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: T000486
 contact:
   website: "https://ritchietorres.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

@@ -13,6 +13,6 @@ term_start: "1999-01-03"
 bioguide_id: S001145
 contact:
   website: "https://schakowsky.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

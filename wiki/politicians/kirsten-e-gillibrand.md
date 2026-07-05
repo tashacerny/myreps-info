@@ -12,6 +12,6 @@ term_start: "2009-01-03"
 bioguide_id: G000555
 contact:
   website: "https://www.gillibrand.senate.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

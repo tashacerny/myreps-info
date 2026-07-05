@@ -12,7 +12,7 @@ photo_url: "https://www.congress.gov/img/member/6a29d4f81c6ce0de6fbae1f7_200.jpg
 term_start: "2026-01-03"
 bioguide_id: G000607
 contact:
-  website: "https://openstates.org/person/james-gallagher-2qZkm1AUAk0Zw72tZqoz93/"
-last_updated: "2026-06-28"
+  website: "https://gallagher.house.gov"
+last_updated: "2026-07-05"
 ---
 

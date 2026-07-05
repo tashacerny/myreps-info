@@ -13,6 +13,6 @@ term_start: "2009-01-03"
 bioguide_id: G000559
 contact:
   website: "https://garamendi.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

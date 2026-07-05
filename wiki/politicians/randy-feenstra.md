@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: F000446
 contact:
   website: "https://feenstra.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

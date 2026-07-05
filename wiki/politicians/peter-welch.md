@@ -12,6 +12,6 @@ term_start: "2023-01-03"
 bioguide_id: W000800
 contact:
   website: "https://www.welch.senate.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

@@ -13,6 +13,6 @@ term_start: "1997-01-03"
 bioguide_id: D000096
 contact:
   website: "https://davis.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: S001195
 contact:
   website: "https://jasonsmith.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

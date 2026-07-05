@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: M001208
 contact:
   website: "https://mcbath.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

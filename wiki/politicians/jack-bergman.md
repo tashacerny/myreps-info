@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: B001301
 contact:
   website: "https://bergman.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

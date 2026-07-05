@@ -13,6 +13,6 @@ term_start: "2001-01-03"
 bioguide_id: L000560
 contact:
   website: "https://larsen.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

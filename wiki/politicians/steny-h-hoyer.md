@@ -13,6 +13,6 @@ term_start: "1981-01-03"
 bioguide_id: H000874
 contact:
   website: "https://hoyer.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

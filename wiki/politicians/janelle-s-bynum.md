@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: B001326
 contact:
   website: "https://bynum.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

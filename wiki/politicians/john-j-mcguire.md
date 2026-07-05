@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: M001239
 contact:
   website: "https://mcguire.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

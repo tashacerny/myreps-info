@@ -13,6 +13,6 @@ term_start: "2022-01-03"
 bioguide_id: Y000067
 contact:
   website: "https://yakym.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

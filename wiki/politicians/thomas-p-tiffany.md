@@ -13,6 +13,6 @@ term_start: "2020-01-03"
 bioguide_id: T000165
 contact:
   website: "https://tiffany.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

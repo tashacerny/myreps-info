@@ -13,6 +13,6 @@ term_start: "2007-01-03"
 bioguide_id: W000804
 contact:
   website: "https://wittman.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

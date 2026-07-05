@@ -12,6 +12,6 @@ term_start: "2007-01-03"
 bioguide_id: S000033
 contact:
   website: "https://www.sanders.senate.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

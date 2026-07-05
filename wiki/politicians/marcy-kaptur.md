@@ -13,6 +13,6 @@ term_start: "1983-01-03"
 bioguide_id: K000009
 contact:
   website: "https://kaptur.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

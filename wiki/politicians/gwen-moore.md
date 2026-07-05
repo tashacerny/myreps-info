@@ -13,6 +13,6 @@ term_start: "2005-01-03"
 bioguide_id: M001160
 contact:
   website: "https://gwenmoore.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

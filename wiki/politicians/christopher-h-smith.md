@@ -13,6 +13,6 @@ term_start: "1981-01-03"
 bioguide_id: S000522
 contact:
   website: "https://chrissmith.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

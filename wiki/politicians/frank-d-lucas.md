@@ -13,6 +13,6 @@ term_start: "1993-01-03"
 bioguide_id: L000491
 contact:
   website: "https://lucas.house.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

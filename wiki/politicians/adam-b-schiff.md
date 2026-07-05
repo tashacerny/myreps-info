@@ -12,6 +12,6 @@ term_start: "2024-01-03"
 bioguide_id: S001150
 contact:
   website: "https://www.schiff.senate.gov"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

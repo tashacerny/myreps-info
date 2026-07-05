@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: M001240
 contact:
   website: "https://mcdowell.house.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 

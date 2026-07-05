@@ -12,6 +12,6 @@ term_start: "2013-01-03"
 bioguide_id: K000384
 contact:
   website: "https://www.kaine.senate.gov/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
 
