@@ -12,5 +12,5 @@ photo_url: "https://static.votesmart.org/static/canphoto/219197.jpg"
 openstates_id: ocd-person/3d27678e-e5ec-4ba7-989d-3e4d50245fff
 contact:
   website: "https://openstates.org/person/donald-selby-1rOXTEj18tva2oKTFFldIl/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

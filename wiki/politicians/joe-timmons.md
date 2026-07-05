@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/34037.jpg"
 openstates_id: ocd-person/ea2c1a95-5b70-4068-8135-8166147bafa9
 contact:
   website: "https://openstates.org/person/joe-timmons-77sMJwSjSgBTsDoPVA1KtF/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

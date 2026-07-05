@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/eb947430-2674-4158-8290-0d973c59e834
 contact:
   website: "https://openstates.org/person/marilyn-lands-7AX2VTGSXgJjJoFim9rgPM/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

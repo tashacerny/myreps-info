@@ -12,5 +12,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2021/01/HS_ROTH_1220_NS
 openstates_id: ocd-person/e1147656-e038-47fa-ad70-4d206233db72
 contact:
   website: "https://openstates.org/person/j-r-roth-6qicjvolKIGkORkNZNN7kQ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

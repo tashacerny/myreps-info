@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{BFD8B13A-CD65-452C-8F20-9D3
 openstates_id: ocd-person/4e02286b-b560-4837-8b9c-efa2c679e437
 contact:
   website: "https://openstates.org/person/marcus-evans-2NCO2BQz2HYCrUDP5Y8Mad/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/carney-web-1-1024x
 openstates_id: ocd-person/50f75f0e-328c-413c-8733-de2872c5b7b0
 contact:
   website: "https://openstates.org/person/anne-carney-2SmQylhiNKdNGXY7VrIP6u/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

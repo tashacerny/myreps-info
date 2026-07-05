@@ -13,5 +13,5 @@ photo_url: "https://www.oregonlegislature.gov/golden/PublishingImages/member_pho
 openstates_id: ocd-person/0240017c-38e7-45da-8841-c40b007965dc
 contact:
   website: "https://openstates.org/person/jeff-golden-4FEapL9hjT5dtKQ273ayi/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

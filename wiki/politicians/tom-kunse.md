@@ -13,5 +13,5 @@ photo_url: "https://www.house.mi.gov/media/Representatives/Kunse-100.jpg"
 openstates_id: ocd-person/462dc80a-8642-40d7-9c22-f6234da5451e
 contact:
   website: "https://openstates.org/person/tom-kunse-28QNs8iQnyZ4BQfLJAUsgA/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

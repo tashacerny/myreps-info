@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/FEP1.jpg"
 openstates_id: ocd-person/99109961-27e8-4e58-8269-3a1deb29f228
 contact:
   website: "https://openstates.org/person/francisco-paulino-4epPXAwx7mFck67jLkbvQW/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

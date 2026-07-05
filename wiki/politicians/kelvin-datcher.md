@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kelvi
 openstates_id: ocd-person/441922a8-63c1-498b-9de5-f5ee85d9dcf3
 contact:
   website: "https://openstates.org/person/kelvin-datcher-24Uxpz6iRo8UGYWVmPyqZv/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

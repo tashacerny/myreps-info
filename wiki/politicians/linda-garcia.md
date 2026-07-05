@@ -12,5 +12,5 @@ photo_url: "https://www.house.texas.gov/images/members/4485.jpg?v=3"
 openstates_id: ocd-person/5d3626bb-c865-4c92-a717-a72036c6ce5a
 contact:
   website: "https://openstates.org/person/linda-garcia-2pt25FcJU1kyW70pnmYHMo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

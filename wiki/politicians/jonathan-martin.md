@@ -12,5 +12,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s33_
 openstates_id: ocd-person/e5e1f892-4d9e-464e-b58d-6acf50069b75
 contact:
   website: "https://openstates.org/person/jonathan-martin-6zmVjltnvKsUzFt3sgD9VN/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

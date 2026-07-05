@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/2ca76c73-5db4-499b-b718-c83294b5f68e
 contact:
   website: "https://openstates.org/person/mike-aylesworth-1MGArTgiE8t3EbSdDzxLLC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

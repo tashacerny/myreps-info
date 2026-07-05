@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/bbce3e80-9e27-4dfe-a7db-0c2b3bcc0b94
 contact:
   website: "https://openstates.org/person/larry-luick-5iNomBPvGU0DrR3GN7OzUC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

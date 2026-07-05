@@ -12,5 +12,5 @@ photo_url: "https://listen.sdpb.org/sites/sdpb/files/201905/lege_red_dawn_foster
 openstates_id: ocd-person/d2b91681-6a72-42f8-94f6-c489309798b7
 contact:
   website: "https://openstates.org/person/red-dawn-foster-6PcyOMPzJsAKPAL6GKgeLH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

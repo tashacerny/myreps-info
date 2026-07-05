@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/tarr_eric.jp
 openstates_id: ocd-person/18d03332-9bd9-4070-9101-6cf93ab2105e
 contact:
   website: "https://openstates.org/person/eric-tarr-koxjjHxGijj1qnOgr9RRW/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

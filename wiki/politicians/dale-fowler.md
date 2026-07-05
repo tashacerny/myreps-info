@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{1E60CA94-7006-4CAB-841D-C9D
 openstates_id: ocd-person/5a84a944-7d29-454e-aec6-85e6c3238d53
 contact:
   website: "https://openstates.org/person/dale-fowler-2knw15XEJCvgJ9YABvRoFH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

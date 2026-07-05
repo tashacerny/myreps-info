@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/d38909c5-fdcb-4230-8380-498f6f8cc510
 contact:
   website: "https://openstates.org/person/keishan-scott-6RA0THAgQPAIVOFrUBR14y/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

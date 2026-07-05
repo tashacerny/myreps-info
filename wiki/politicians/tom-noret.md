@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/noret.jpg"
 openstates_id: ocd-person/1f8f3c9b-ba19-45de-af45-b0501d0607f0
 contact:
   website: "https://openstates.org/person/tom-noret-xYDjVBjuZwESqBh03pI3M/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

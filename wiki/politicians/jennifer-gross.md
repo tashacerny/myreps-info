@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/jennifer-gross/headsh
 openstates_id: ocd-person/4817cf28-df1f-4ccc-bc09-25809222e530
 contact:
   website: "https://openstates.org/person/jennifer-gross-2C2KMJWyJzu3UQpSXStIhM/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

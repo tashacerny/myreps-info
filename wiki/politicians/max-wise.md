@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate11
 openstates_id: ocd-person/32b5035e-6d1a-44b8-9f7a-4173a1cdb940
 contact:
   website: "https://openstates.org/person/max-wise-1XgL3OrxWZPk0PDhX7DPNY/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

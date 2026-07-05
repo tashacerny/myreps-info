@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/5e062e_e41671d0d6714f5cb9bbb25925
 openstates_id: ocd-person/6e5b11bc-fc9c-4822-9a82-1a5a59771c00
 contact:
   website: "https://openstates.org/person/john-martin-3MEm28hjtLf4sPkz1rShRw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

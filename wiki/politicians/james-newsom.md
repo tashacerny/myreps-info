@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/James
 openstates_id: ocd-person/58bff024-3ec3-431f-bfa7-0d499b0bb780
 contact:
   website: "https://openstates.org/person/james-newsom-2hT2WUO6wzMVIvqoQdtAky/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

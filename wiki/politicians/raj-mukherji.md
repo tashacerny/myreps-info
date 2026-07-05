@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/mukherji_color.jp
 openstates_id: ocd-person/fe8bf5e4-85ed-423b-b2d8-301f29d3faea
 contact:
   website: "https://openstates.org/person/raj-mukherji-7kK0ohb6TSbbSD26lTVmqQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

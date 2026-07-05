@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{E3E2099C-AB6A-442B-B191-3A8
 openstates_id: ocd-person/e1d4b5b4-34b8-4d91-ab9f-08c8a361e12a
 contact:
   website: "https://openstates.org/person/debbie-meyers-martin-6s8Ttd09eyWzzAofHbR26M/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

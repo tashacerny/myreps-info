@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33976"
 openstates_id: ocd-person/9aa42801-ba2e-4f2e-9448-cf5e6114fba7
 contact:
   website: "https://openstates.org/person/austin-baeth-4hnpxD1vOh0oFX4OAfs63r/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

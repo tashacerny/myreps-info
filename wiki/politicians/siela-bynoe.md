@@ -12,5 +12,5 @@ photo_url: "https://www.nassaucountyny.gov/ImageRepository/Document?documentID=9
 openstates_id: ocd-person/ee6af720-d32a-4744-a62c-deba9747d733
 contact:
   website: "https://openstates.org/person/siela-bynoe-7Ft3XZl260efQzCXX3n7Lv/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

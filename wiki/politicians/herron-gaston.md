@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/3be9e2dc-7ffa-40fb-90c8-d25fe4970dee
 contact:
   website: "https://openstates.org/person/herron-gaston-1p3QsenCrLDCGMN3mvHviQ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.oregonlegislature.gov/wagner/PublishingImages/Headshot%2
 openstates_id: ocd-person/e40f7f2c-4c6a-4064-9fde-e6b380dde2aa
 contact:
   website: "https://openstates.org/person/rob-wagner-6wLKcV3gqHXlwwnq5WyIxO/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/meek/PublishingImages/member_photo
 openstates_id: ocd-person/d6379fd3-d283-4c6e-864b-7dca170b593d
 contact:
   website: "https://openstates.org/person/mark-meek-6WDmG1jBVSsVTvmH9ru469/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/gullett
 openstates_id: ocd-person/f36d2507-b19a-4ee5-b4f9-5c06df761edf
 contact:
   website: "https://openstates.org/person/joseph-gullett-7PL0uVnoZc32NCmMK93ZSJ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

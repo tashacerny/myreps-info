@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/vtcng.com/content/tncms
 openstates_id: ocd-person/4d7ff594-22ad-4a37-b2ed-2190c6be9e54
 contact:
   website: "https://openstates.org/person/saudia-lamont-2MEsycPxtfOI2QtbYpIxYC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

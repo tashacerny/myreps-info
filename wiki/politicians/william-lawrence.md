@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house70.
 openstates_id: ocd-person/3d3b33bc-8852-48fe-90cf-42ce9551424c
 contact:
   website: "https://openstates.org/person/william-lawrence-1rXaPsyHR3vJx15O8WPaX6/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

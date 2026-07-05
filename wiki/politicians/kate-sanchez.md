@@ -12,5 +12,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8
 contact:
   website: "https://openstates.org/person/kate-sanchez-3b4TewxJp2XRxeNQdJjmTw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

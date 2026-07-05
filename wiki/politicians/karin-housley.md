@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/39Housley.jpg"
 openstates_id: ocd-person/dde8cf7d-52c2-48e5-bf65-f0fe2477713c
 contact:
   website: "https://openstates.org/person/karin-housley-6kjhKoNN8L8MbdR9GnInc4/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

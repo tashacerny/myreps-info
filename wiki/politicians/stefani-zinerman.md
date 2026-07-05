@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/056/headshot/
 openstates_id: ocd-person/d4d53fcb-59b0-4869-bad8-42963b716e59
 contact:
   website: "https://openstates.org/person/stefani-zinerman-6TbpMf7sjUMFhpoWIqMfI9/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

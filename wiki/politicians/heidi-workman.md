@@ -13,5 +13,5 @@ photo_url: "https://www.record-courier.com/gcdn/authoring/authoring-images/2024/
 openstates_id: ocd-person/098614cd-1972-4b98-ade6-4f5fa7cefe5b
 contact:
   website: "https://openstates.org/person/heidi-workman-HyCmoY2kqSJzupupZNDZL/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

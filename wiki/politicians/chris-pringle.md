@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Pringle_101.pn
 openstates_id: ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6
 contact:
   website: "https://openstates.org/person/chris-pringle-7QYupRENLYh3k9ofAv3SKs/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

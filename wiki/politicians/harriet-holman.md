@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/8accea_e11fd53b395c467b9a13c9643e
 openstates_id: ocd-person/7f424e9d-ce81-4413-9438-c5aeee1ec079
 contact:
   website: "https://openstates.org/person/harriet-holman-3s8KKelb9sQ6suHvL8t06T/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/ade56d2d-41d7-436d-b76b-85051f036c7a
 contact:
   website: "https://openstates.org/person/bob-marshall-5I8WHnXHRQvlwkX1KKq0N8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

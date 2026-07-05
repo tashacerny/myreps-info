@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d28/img/Perry-Headshot-2019.jpg"
 openstates_id: ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b
 contact:
   website: "https://openstates.org/person/charles-perry-34q5upVwumIoO9Fsq4iQd1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

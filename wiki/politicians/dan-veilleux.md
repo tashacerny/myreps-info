@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/88428a5a-4af6-40b8-a4ff-c2ea283b758f
 contact:
   website: "https://openstates.org/person/dan-veilleux-497Mf7YKMhsQSyaUwk6Dl9/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

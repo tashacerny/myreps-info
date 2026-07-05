@@ -13,5 +13,5 @@ photo_url: "http://www.oregonlegislature.gov/house/MemberPhotos/smithg.jpg"
 openstates_id: ocd-person/72dc94e8-e5d5-4376-aab5-06f6b3a771c7
 contact:
   website: "https://openstates.org/person/greg-smith-3UjvkFDmArf0JeHWWAj2X9/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/sm_saud
 openstates_id: ocd-person/229f3180-5808-47f9-b473-3da3c9585bc5
 contact:
   website: "https://openstates.org/person/stephanie-sauder-13KUQCoNIrWdVTjHvYYmxB/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

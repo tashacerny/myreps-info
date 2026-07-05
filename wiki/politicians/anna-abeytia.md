@@ -12,5 +12,5 @@ photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/ABEYTIA.jpg"
 openstates_id: ocd-person/2e9c0206-d392-48a3-a599-7f6d226527b7
 contact:
   website: "https://openstates.org/person/anna-abeytia-1PwwSLb1YBiv9gnxefkJfT/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

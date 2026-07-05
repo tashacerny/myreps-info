@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/CSC0.jpg"
 openstates_id: ocd-person/ece82669-b6f6-4f0f-ae5d-7b238b1cd1dd
 contact:
   website: "https://openstates.org/person/cynthia-creem-7D2HU9fWCW1BAL3rTkg3H3/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

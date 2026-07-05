@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{D02A93E7-7D84-4429-92AB-60B
 openstates_id: ocd-person/01201203-526d-4d02-b6fc-cbe5a749b6ab
 contact:
   website: "https://openstates.org/person/eva-dina-delgado-27eCvPSG2Cw3CQS2u7lrH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

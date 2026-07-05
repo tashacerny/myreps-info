@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Hashimoto.jpg
 openstates_id: ocd-person/3b99a717-698f-4bcf-a630-183bb63e623e
 contact:
   website: "https://openstates.org/person/troy-hashimoto-1oSlXTQvbufy3p2muU3OP8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

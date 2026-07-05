@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/0bc83772-75ee-453c-868c-8d2a034788b1
 contact:
   website: "https://openstates.org/person/allison-knab-MEPicdgzfMBiDnObhdSWf/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

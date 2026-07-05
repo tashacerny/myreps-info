@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/samessenger.com/content
 openstates_id: ocd-person/fe8a848a-09ff-4cca-b3b7-5f7c2750556f
 contact:
   website: "https://openstates.org/person/tom-oliver-7kJLw8j9UbGlvgZt93MkP9/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

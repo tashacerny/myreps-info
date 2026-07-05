@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Carnley_31.pn
 openstates_id: ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be
 contact:
   website: "https://openstates.org/person/josh-carnley-2UAH8KT9fPWmJbS6tQ9bLS/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

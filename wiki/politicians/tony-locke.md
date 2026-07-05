@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-LockeTony.jpg"
 openstates_id: ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337
 contact:
   website: "https://openstates.org/person/tony-locke-OFRtkJ2pOBWqjXYGQyGoR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

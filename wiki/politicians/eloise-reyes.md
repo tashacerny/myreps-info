@@ -13,5 +13,5 @@ photo_url: "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos
 openstates_id: ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f
 contact:
   website: "https://openstates.org/person/eloise-reyes-mzUlPHDphYpi1OvP5KBlX/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

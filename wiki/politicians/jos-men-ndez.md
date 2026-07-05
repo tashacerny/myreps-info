@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d26/img/headshot.jpg"
 openstates_id: ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e
 contact:
   website: "https://openstates.org/person/jose-menendez-4FeVKPhtr6NqEJeZMVXPri/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

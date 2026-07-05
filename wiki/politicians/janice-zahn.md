@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/35736.jpg"
 openstates_id: ocd-person/25b3a4f1-c767-49db-9d8a-217592e5b3a0
 contact:
   website: "https://openstates.org/person/janice-zahn-198oSASUCQ70sBmS2QSMS0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

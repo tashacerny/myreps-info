@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/efda26eb-c8f7-443c-a963-95419878a856
 contact:
   website: "https://openstates.org/person/melanie-sachs-7IarRAwt0kld75cFlPiHjS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

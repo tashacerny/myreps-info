@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/df313cc3-ceb2-4fb0-bb36-b2f9cb9e959d
 contact:
   website: "https://openstates.org/person/britt-raybould-6n9n0VjAMYkPIeIQixDNfB/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

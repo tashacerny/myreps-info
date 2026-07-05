@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/d5be5146-f7a9-46eb-86f9-b0d1cebc4e9c
 contact:
   website: "https://openstates.org/person/regina-english-6VKL8jywYhKr3fWLMbKx6C/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

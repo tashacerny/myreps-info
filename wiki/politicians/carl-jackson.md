@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/jackson04.jpg"
 openstates_id: ocd-person/4eb57c5a-70c0-4b16-a247-53cf291bc38a
 contact:
   website: "https://openstates.org/person/carl-jackson-2OWL7kjq6S0oaWibg1YpBK/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

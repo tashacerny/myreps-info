@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Stacy
 openstates_id: ocd-person/d93d9d8d-1299-423a-bb9e-ade2bcb0fa11
 contact:
   website: "https://openstates.org/person/stacy-adams-6bvUaCMMmOssKXkKbcJCqX/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

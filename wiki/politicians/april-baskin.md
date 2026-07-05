@@ -12,5 +12,5 @@ photo_url: "https://www4.erie.gov/baskin/sites/www4.erie.gov.baskin/files/styles
 openstates_id: ocd-person/b1371ded-fa50-44d8-8fad-a8532b98406a
 contact:
   website: "https://openstates.org/person/april-baskin-5OOpTxraj7oGePJaHmYfQg/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

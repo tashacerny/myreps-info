@@ -12,5 +12,5 @@ photo_url: "https://img1.wsimg.com/isteam/ip/e1321b08-490c-4811-92f2-f320e773119
 openstates_id: ocd-person/6fbc7a9b-82b3-4897-86e1-61e3fb4a4f77
 contact:
   website: "https://openstates.org/person/liz-barbour-3OqHZQTZXoE4MwFnduzNF1/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep77.jpg"
 openstates_id: ocd-person/d3ecec03-0408-46f0-8c82-b775f787e6e1
 contact:
   website: "https://openstates.org/person/mark-wright-6RteaL0uZH7KTfXGUM1LYv/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

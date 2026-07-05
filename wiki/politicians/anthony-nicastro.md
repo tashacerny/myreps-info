@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/06fef2c8-9695-47b2-9015-999a5dd3bded
 contact:
   website: "https://openstates.org/person/anthony-nicastro-DCSs7wx8K7PxloMeYGbHR/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/1f33e4be-1228-4c31-9b0f-c79012be9d07
 contact:
   website: "https://openstates.org/person/lucien-daigle-wsTbg5Gqt3PmPOTjGTSBr/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

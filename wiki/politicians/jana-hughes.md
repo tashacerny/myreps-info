@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist24/hig
 openstates_id: ocd-person/967bf436-18bf-444e-bd2f-d83e5ec78995
 contact:
   website: "https://openstates.org/person/jana-hughes-4ZxUlFDiIO08PCGaYcXVKf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

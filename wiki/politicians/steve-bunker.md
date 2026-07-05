@@ -12,5 +12,5 @@ photo_url: "https://dailybulldog.com/wp-content/uploads/2024/01/SteveB2-300x300.
 openstates_id: ocd-person/fb8f35c6-65a4-42d0-9009-3def6dcc62cb
 contact:
   website: "https://openstates.org/person/steve-bunker-7egWJhGNBPxhQ1we0hEwdn/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

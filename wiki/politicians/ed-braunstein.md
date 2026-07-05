@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/026/headshot/
 openstates_id: ocd-person/b7e93c8c-9a4b-4678-8d6a-effce9a76938
 contact:
   website: "https://openstates.org/person/ed-braunstein-5b2BU0c97MGTrSVTklKMZM/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

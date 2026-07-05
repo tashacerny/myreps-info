@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/a033ad21-bdb7-4af2-be2e-e21c3e4cfa24
 contact:
   website: "https://openstates.org/person/adrienne-benavidez-4sIO5CnIXeKRTZU5nHseCS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

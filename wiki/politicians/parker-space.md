@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/space_parker_2020
 openstates_id: ocd-person/1dde507a-70ed-4f89-95f8-cd11748a753c
 contact:
   website: "https://openstates.org/person/parker-space-uMNHAAVC5MhpfwSCpRdaG/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

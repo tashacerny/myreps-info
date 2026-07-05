@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/106/headshot/
 openstates_id: ocd-person/da883f7a-698b-49d6-8519-11bab87823cf
 contact:
   website: "https://openstates.org/person/didi-barrett-6eMakd18bPdhAcubmCKZrD/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

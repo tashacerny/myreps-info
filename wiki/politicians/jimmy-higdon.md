@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate11
 openstates_id: ocd-person/4042b29b-c6bb-407e-856d-9197a03d55ff
 contact:
   website: "https://openstates.org/person/jimmy-higdon-1xFzN0V4dsSDGFdJDjwiFD/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

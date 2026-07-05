@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/4647c4f2-f1d1-4151-a85a-74db23a7fb5d
 contact:
   website: "https://openstates.org/person/lori-goss-reaves-28cGDSNPiTgcv8hHOyhEnV/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

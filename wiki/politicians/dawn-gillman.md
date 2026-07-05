@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/17A.gif?v=112221"
 openstates_id: ocd-person/f4047f6d-971d-41be-bbce-e15dac5829ae
 contact:
   website: "https://openstates.org/person/dawn-gillman-7QSBMUGHO6YyPQFZtPlA0E/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

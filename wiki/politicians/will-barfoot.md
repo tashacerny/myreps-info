@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Barfoot_25.pn
 openstates_id: ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e
 contact:
   website: "https://openstates.org/person/will-barfoot-4HfH9wzqSweK6S9XxqOpZu/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

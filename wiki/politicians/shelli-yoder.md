@@ -13,5 +13,5 @@ photo_url: "https://indianasenatedemocrats.org/wp-content/uploads/2020/12/Senato
 openstates_id: ocd-person/872447dd-3b06-421e-af8c-25ea68aa5ae4
 contact:
   website: "https://openstates.org/person/shelli-yoder-470XkyQp0eND7NcTESbnng/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

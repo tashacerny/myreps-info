@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep9.jpg"
 openstates_id: ocd-person/4661fe94-874c-4884-99a2-c60516c811ff
 contact:
   website: "https://openstates.org/person/dodie-horton-28oFHT08WHPVSqzwZMzT1r/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

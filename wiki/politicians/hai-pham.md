@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/phamh/PublishingImages/member_phot
 openstates_id: ocd-person/a13db125-e6e2-4621-a1a7-7de714796b90
 contact:
   website: "https://openstates.org/person/hai-pham-4uFxOOppUZx1g9yIh2bTnc/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d22/img/headshot.jpg"
 openstates_id: ocd-person/44a23037-5ccd-4781-9e93-c4b950f74355
 contact:
   website: "https://openstates.org/person/brian-birdwell-25Vb6h4kgxND3nFLUfikh3/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

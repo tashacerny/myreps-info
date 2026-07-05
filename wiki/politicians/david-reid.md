@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/0258144f-e8e8-4710-a80c-362f2077f57b
 contact:
   website: "https://openstates.org/person/david-reid-4QEh888NGlHMMfeZn6T8N/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

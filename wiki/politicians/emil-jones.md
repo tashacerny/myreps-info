@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{2C0EE719-E9D8-4625-990D-69F
 openstates_id: ocd-person/05030c23-9600-4d1c-ab77-46c17aec2059
 contact:
   website: "https://openstates.org/person/emil-jones-9SLxxid7OdMKJ5wRwUXIf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/e50aa4_23cec1e445944f57b026e5e2b1
 openstates_id: ocd-person/24a8e487-fca2-4d84-999c-4877ab721136
 contact:
   website: "https://openstates.org/person/brad-simon-17AuIAB9toapEqbk7UywwY/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

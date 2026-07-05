@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/2a085551-6f62-4320-a1eb-bc9a177b9a6d
 contact:
   website: "https://openstates.org/person/steve-pearson-1HJU8NNZP2Q065M0O2WX3F/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

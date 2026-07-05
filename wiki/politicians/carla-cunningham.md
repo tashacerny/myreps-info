@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/642/Low"
 openstates_id: ocd-person/f1ba290a-c2a5-453a-884c-6d03a2c8e83a
 contact:
   website: "https://openstates.org/person/carla-cunningham-7M8E1vXBe0fp0pYX2s5Aeg/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

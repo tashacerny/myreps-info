@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/559_sm.jpg"
 openstates_id: ocd-person/c3be3a52-2646-4ea6-9aef-e4ff36a16762
 contact:
   website: "https://openstates.org/person/nicole-clowney-5xMRA7cHgDeVQDTLb1YuQM/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

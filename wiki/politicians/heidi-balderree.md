@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/BALDEH.jpg"
 openstates_id: ocd-person/650616ca-3c57-4995-a514-37644fe1fa8f
 contact:
   website: "https://openstates.org/person/heidi-balderree-34d0TfCdocmweCK0YXH5LT/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

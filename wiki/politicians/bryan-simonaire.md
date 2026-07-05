@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/simonaire.jpg"
 openstates_id: ocd-person/b0d22b6f-68c0-4dd0-892c-7844e6830693
 contact:
   website: "https://openstates.org/person/bryan-simonaire-5NehEdd0YtP1DjGPY04d0N/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

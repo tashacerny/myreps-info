@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4686.jpg"
 openstates_id: ocd-person/56263ea0-3c5c-45cb-998d-ac7cf8db5446
 contact:
   website: "https://openstates.org/person/lawrence-mcclure-2cYoiGNe3XrDGNDgtL10n0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

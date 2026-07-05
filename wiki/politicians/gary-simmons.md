@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/simmons01.jpg"
 openstates_id: ocd-person/e420ea16-5cb8-49b4-ba37-e5b5876a02fc
 contact:
   website: "https://openstates.org/person/gary-simmons-6wTI8HZqIvzMN7ABtrGyUO/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

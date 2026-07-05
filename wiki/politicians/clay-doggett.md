@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/H70.jpg"
 openstates_id: ocd-person/bdfd00ac-13a8-4208-b687-e46e980d79de
 contact:
   website: "https://openstates.org/person/clay-doggett-5mVAgPX3pN7LeFA93Qlcwo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

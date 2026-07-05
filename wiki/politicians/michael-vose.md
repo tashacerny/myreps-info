@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/1aa8819a-e1bd-4569-93ec-305ad61e8ea4
 contact:
   website: "https://openstates.org/person/michael-vose-oIo6GaEN1bkXsiCH0Zhwa/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

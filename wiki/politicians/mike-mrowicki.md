@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Mrowicki,Mike.
 openstates_id: ocd-person/4258ac6c-c453-4faf-b15c-4cbd8ea91ebd
 contact:
   website: "https://openstates.org/person/mike-mrowicki-21C15Gfi05t1TgJGfsS3O1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

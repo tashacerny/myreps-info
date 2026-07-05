@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Quinn/images/Quinn_HS.jpg"
 openstates_id: ocd-person/155c99fd-9d59-47e7-9134-12872a72426f
 contact:
   website: "https://openstates.org/person/michael-quinn-eJ9mtnntSerk5pmAw8yn1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

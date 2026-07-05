@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Parke
 openstates_id: ocd-person/9cf66125-7bd7-4991-bee6-ddc21fd23b5d
 contact:
   website: "https://openstates.org/person/parker-fairbairn-4mBOimNEKj1JsM4RELusWr/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

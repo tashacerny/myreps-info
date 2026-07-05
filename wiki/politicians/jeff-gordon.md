@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/1a60b520-6887-4830-b33e-78520b7b53aa
 contact:
   website: "https://openstates.org/person/jeff-gordon-nlzkUDMLGX7zPe7ejHEYk/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

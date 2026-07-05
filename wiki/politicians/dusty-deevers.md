@@ -12,5 +12,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Deevers%2C%20Dusty%202023%2
 openstates_id: ocd-person/56666b37-2788-433a-9c32-19af826613e4
 contact:
   website: "https://openstates.org/person/dusty-deevers-2d291rzkV8gUGwlrK5N1CW/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

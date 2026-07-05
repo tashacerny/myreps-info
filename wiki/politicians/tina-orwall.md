@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/14205.jpg"
 openstates_id: ocd-person/ef711ad1-b4e6-44c9-a971-7d57e8140f04
 contact:
   website: "https://openstates.org/person/tina-orwall-7Hor1H7NHRysfs10HvrFUy/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

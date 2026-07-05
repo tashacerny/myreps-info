@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10731"
 openstates_id: ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056
 contact:
   website: "https://openstates.org/person/ken-rozenboom-shBHwnsewdZGUAecUHPgk/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

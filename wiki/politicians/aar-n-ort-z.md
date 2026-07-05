@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{D96B0DF9-0E06-487B-825C-AB0
 openstates_id: ocd-person/a76e0c0e-81d3-4f3b-8cc8-b8360d3cecb4
 contact:
   website: "https://openstates.org/person/aaron-ortiz-55w0dTiU98bQQfi62NSQ68/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

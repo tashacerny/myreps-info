@@ -13,5 +13,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/51d00dd2-d18c-4d77-9ad1-710016d30448
 contact:
   website: "https://openstates.org/person/vanessa-summers-2UNSU2kBVYB1rPe7Yxey1g/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/6ec04f29-e02d-4c39-96e8-e9ed823437e7
 contact:
   website: "https://openstates.org/person/vicki-doudera-3Mz2ZebHt09FICSQxGuFPz/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

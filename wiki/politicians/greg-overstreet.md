@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/947a4007-eb7a-43c7-9519-8e77fb3a6919
 contact:
   website: "https://openstates.org/person/greg-overstreet-4WAjR5xg93dMCeBqv4SX7Z/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

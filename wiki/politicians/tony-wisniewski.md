@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/di
 openstates_id: ocd-person/ee4e19dc-d39c-4a93-b466-346b2e822f86
 contact:
   website: "https://openstates.org/person/tony-wisniewski-7FfrhFp9YExwr7cXKfMk4s/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-BradyMarlene.jpg"
 openstates_id: ocd-person/b2d0dc89-4104-4f6e-a1eb-bbc9dafbefa9
 contact:
   website: "https://openstates.org/person/marlene-brady-5RQ5DW8Kg3Ge0vCFTLKekL/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

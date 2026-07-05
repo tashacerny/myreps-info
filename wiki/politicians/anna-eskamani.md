@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4746.jpg"
 openstates_id: ocd-person/1f8e10ad-0047-4854-b696-38e15fda7afa
 contact:
   website: "https://openstates.org/person/anna-eskamani-xXgXJiyRZTNpr1YG9X1Yo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

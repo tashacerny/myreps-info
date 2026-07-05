@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/beaab5ae-3e8d-4c12-b388-a59cdc467771
 contact:
   website: "https://openstates.org/person/marty-martinez-5nmYVqxntDY3UMCNfWvYbR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

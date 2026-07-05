@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1081.jpg?1703415645
 openstates_id: ocd-person/c4a1a8f4-cb29-4700-8235-b103fcb40279
 contact:
   website: "https://openstates.org/person/pat-harkins-5z2NF9LLuniQbYghCAhDiL/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

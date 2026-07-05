@@ -13,5 +13,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/0019e62f-6671-4085-b2d3-55d3c4a23717
 contact:
   website: "https://openstates.org/person/brenda-carter-BppOBSjVrTjMoMAH4B79/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/LEACH.jpg
 openstates_id: ocd-person/00f9103d-191e-40ca-8f5c-e5bf806896a6
 contact:
   website: "https://openstates.org/person/vince-leach-1poywhncorI30txHMun0Y/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

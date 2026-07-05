@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/carson-
 openstates_id: ocd-person/713cac52-0a57-4baa-8273-6eeca5b491df
 contact:
   website: "https://openstates.org/person/john-carson-3RfrMK1ocXpXG58IuaufTr/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

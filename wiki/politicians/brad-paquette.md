@@ -13,5 +13,5 @@ photo_url: "https://dtj5wlj7ond0z.cloudfront.net/uploads/2020/07/HS_PAQUETTE_011
 openstates_id: ocd-person/04a88313-6387-44ab-972c-b000b3c316f4
 contact:
   website: "https://openstates.org/person/brad-paquette-8myjFZsK9zeEfo1ie3ZTw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

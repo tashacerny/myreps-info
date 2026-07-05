@@ -12,5 +12,5 @@ photo_url: "https://ltgov.nv.gov/uploadedImages/ltgov2022nvgov/content/AboutUs/S
 openstates_id: ocd-person/e730bc7c-c97e-4428-8bc7-f1e9708cb878
 contact:
   website: "https://openstates.org/person/stavros-anthony-72FV0I2rSt91QXVjHPFSUC/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

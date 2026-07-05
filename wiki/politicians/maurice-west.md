@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{AFB160BE-629B-4C70-8541-877
 openstates_id: ocd-person/77906cdf-58a8-4329-bb24-c65e6e38342f
 contact:
   website: "https://openstates.org/person/maurice-west-3dc5XqUR9Log0QbO9zATzL/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/theresa-gavarone/head
 openstates_id: ocd-person/0fe32749-fe89-4f96-87d3-3d831bea2459
 contact:
   website: "https://openstates.org/person/theresa-gavarone-Tyh30lAzkjSd00KTDaF0D/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

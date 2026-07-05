@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/ea2c35cb-7071-43de-8dc6-e91756d03f11
 contact:
   website: "https://openstates.org/person/ben-smaltz-77sPKfbARg321NHjxJGYlN/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://friendsoftonyisa.com/wp-content/uploads/2023/12/Tony_Cutout.
 openstates_id: ocd-person/e75ceaff-b623-4887-90a3-2b5328d184c5
 contact:
   website: "https://openstates.org/person/tony-isa-72ZgqpKXK4W8GmrU7WHx9J/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

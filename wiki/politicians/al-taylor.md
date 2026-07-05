@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/071/headshot/
 openstates_id: ocd-person/c197076b-7dde-4f90-b04f-352053fbab94
 contact:
   website: "https://openstates.org/person/al-taylor-5tIXS19ibwHqPsiBDqztwq/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://womencount.org/wp-content/uploads/2024/03/Michelle-Paulene-A
 openstates_id: ocd-person/8cc272e5-bf6a-441e-9b0a-407ed6361afa
 contact:
   website: "https://openstates.org/person/paulene-abeyta-4HbmvRIghthzsX2v4piLGs/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

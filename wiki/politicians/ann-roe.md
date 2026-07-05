@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/92eb51fb-7865-4b2f-8ea1-c56b5f287b5c
 contact:
   website: "https://openstates.org/person/ann-roe-4TEQ7pTarILcGIoEWYQwqC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/adesany
 openstates_id: ocd-person/5474fbe2-6cdb-4ad2-9831-cdffaca442af
 contact:
   website: "https://openstates.org/person/solomon-adesanya-2ZMofaBvE5Pu106CoTonrL/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

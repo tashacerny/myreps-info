@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Kevin-West.jpg"
 openstates_id: ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7
 contact:
   website: "https://openstates.org/person/kevin-west-7bk9C4QwceFWtrY3vSmrbT/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

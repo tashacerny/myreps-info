@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Laure
 openstates_id: ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed
 contact:
   website: "https://openstates.org/person/lauren-kuby-eguEywczTfiKdeWLWQpVF/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/5d70140860791400013fe3
 openstates_id: ocd-person/b1789e29-3532-4554-9ee1-853497224a85
 contact:
   website: "https://openstates.org/person/denny-heck-5OslOFQVnUc8iT0qCUcA4r/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

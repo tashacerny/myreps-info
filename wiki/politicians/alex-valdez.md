@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/45c957a4-0017-4c0c-8650-393d656fc5a0
 contact:
   website: "https://openstates.org/person/alex-valdez-27gU1XRsmZtONzLseXJeMq/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

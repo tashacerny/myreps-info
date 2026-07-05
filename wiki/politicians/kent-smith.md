@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/kent-smith/headshots/
 openstates_id: ocd-person/d9c3dfce-8b7f-402f-9dec-5179e38b528f
 contact:
   website: "https://openstates.org/person/kent-smith-6cuqgNz2KiOdZU7pDsdnnb/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

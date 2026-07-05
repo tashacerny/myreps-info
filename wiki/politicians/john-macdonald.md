@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/a22a36bb-3514-4d76-a39e-791902f41d6c
 contact:
   website: "https://openstates.org/person/john-macdonald-4w031JdarYUtdYuGJtYM4S/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

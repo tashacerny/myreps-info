@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2080"
 openstates_id: ocd-person/b93bdb73-001b-43ed-a436-99ad2efe4937
 contact:
   website: "https://openstates.org/person/ian-mackey-5dWvzMybQe1XYnenAKsZ8h/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

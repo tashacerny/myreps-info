@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Nick_
 openstates_id: ocd-person/467c2737-7494-44d0-a370-c38c178740e9
 contact:
   website: "https://openstates.org/person/nick-menapace-290CSr8ordMv77mEt63kU5/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

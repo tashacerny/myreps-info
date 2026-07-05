@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/008/headshot/
 openstates_id: ocd-person/7d944986-094e-4116-871c-d902074d70a5
 contact:
   website: "https://openstates.org/person/mike-fitzpatrick-3oxo79oYXaE0s51TEuvgU1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

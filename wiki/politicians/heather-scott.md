@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/di
 openstates_id: ocd-person/bd967aaf-a9d5-4bec-bf7c-cf0aa19d72ca
 contact:
   website: "https://openstates.org/person/heather-scott-5lkJmGE8cpzWO0PrtCqiL4/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

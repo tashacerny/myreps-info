@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jay_B
 openstates_id: ocd-person/ee5fab91-b6eb-43be-bf26-300302eec5d1
 contact:
   website: "https://openstates.org/person/jay-block-7FntVEfe04Uh38XKVA4cGv/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

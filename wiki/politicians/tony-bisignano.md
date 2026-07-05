@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=906"
 openstates_id: ocd-person/be302cfd-09b1-4a29-974d-479aa24469eb
 contact:
   website: "https://openstates.org/person/tony-bisignano-5msYcsHEJnyu8IuaxUdhjH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

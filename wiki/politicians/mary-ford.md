@@ -12,5 +12,5 @@ photo_url: "https://www.digitalequity.us/wp-content/uploads/2022/05/mary-ford-30
 openstates_id: ocd-person/c353b272-e9b3-41d1-812c-17ee08295476
 contact:
   website: "https://openstates.org/person/mary-ford-5wZkiB5jhIXOdMxa9moFtO/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

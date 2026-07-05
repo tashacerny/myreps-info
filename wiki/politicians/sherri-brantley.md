@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_brantley_sherri_1.j
 openstates_id: ocd-person/cf31199e-7382-4bbe-9359-92c92b428861
 contact:
   website: "https://openstates.org/person/sherri-brantley-6IxqjFrO2o2OFWHa485ahF/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

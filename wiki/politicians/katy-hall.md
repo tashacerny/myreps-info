@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/HALLK.jpg"
 openstates_id: ocd-person/37301850-0f06-4bbd-ba85-faa7c4d39906
 contact:
   website: "https://openstates.org/person/katy-hall-1g8YYpOnHN8XYjArXKiX26/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

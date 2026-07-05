@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/7cc1d333-efac-47fb-a109-98113c762790
 contact:
   website: "https://openstates.org/person/diane-pauer-3nPcrVinz4FjkQVPi60kc4/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

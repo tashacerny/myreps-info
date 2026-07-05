@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/o'brien.jpg"
 openstates_id: ocd-person/4352dbd3-90e5-4cf3-9bf6-accff7592c33
 contact:
   website: "https://openstates.org/person/bill-o-brien-232LqlxCPubS0o3LfPAamZ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

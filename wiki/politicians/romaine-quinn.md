@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/senate/2564.jpg"
 openstates_id: ocd-person/003644e8-cb82-45c6-b875-e52bc28424bb
 contact:
   website: "https://openstates.org/person/romaine-quinn-OnfMZlVsj6xPzOo5ue5L/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

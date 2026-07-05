@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/5f3e7bcf-9e43-423b-946b-982cc6ecc154
 contact:
   website: "https://openstates.org/person/andrea-stewart-cousins-2tipDmNbK1TqOUqT1Am0jk/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

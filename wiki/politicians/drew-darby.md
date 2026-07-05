@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/2645.jpg?v=1"
 openstates_id: ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1
 contact:
   website: "https://openstates.org/person/drew-darby-1yXbSFI1v9zvUWO53rjo5R/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

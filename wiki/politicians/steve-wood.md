@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/94645c8f-f06c-485e-b5fa-797e3590ea30
 contact:
   website: "https://openstates.org/person/steve-wood-4W0jFCJfzHRQVVpFgB5Psm/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

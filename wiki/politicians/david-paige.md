@@ -12,5 +12,5 @@ photo_url: "https://www.davidfornh.com/wp-content/uploads/sites/40/2022/06/david
 openstates_id: ocd-person/09308be5-c800-42a8-b0bf-afbc877ab976
 contact:
   website: "https://openstates.org/person/david-paige-HL7ElLZiMETRPYnDMcU0k/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

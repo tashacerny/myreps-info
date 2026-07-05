@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Long.Emily.jpg
 openstates_id: ocd-person/36bd1884-fd78-46b4-9ac3-318ca6358a67
 contact:
   website: "https://openstates.org/person/emily-long-1fI0AGJsD6GvYt8nKvUbtX/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

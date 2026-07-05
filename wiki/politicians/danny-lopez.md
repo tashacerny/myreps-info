@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/7403f289-e044-47ad-b594-05d174ec486e
 contact:
   website: "https://openstates.org/person/danny-lopez-3Wuuf35j3dbkVJoVLAEZlm/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

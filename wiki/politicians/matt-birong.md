@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Birong.Matt.jp
 openstates_id: ocd-person/e3e3144c-e166-4b0f-a7e7-e3e24cd40039
 contact:
   website: "https://openstates.org/person/matt-birong-6w125koy7Lldqzr7AB0Ex7/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

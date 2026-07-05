@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{1A24C379-4D87-4EA7-B9DA-BA6
 openstates_id: ocd-person/8392abef-edd4-4e47-b649-ce4ac82ebb21
 contact:
   website: "https://openstates.org/person/paul-faraci-40H1U5iePIveqJDQVHVd5N/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

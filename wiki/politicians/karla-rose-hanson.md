@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd
 contact:
   website: "https://openstates.org/person/karla-rose-hanson-42Pl9qEvAnFHAfDfkcmSZ3/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

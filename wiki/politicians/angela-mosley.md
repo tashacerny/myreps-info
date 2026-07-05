@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Mosley202
 openstates_id: ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd
 contact:
   website: "https://openstates.org/person/angela-mosley-8Zq4dSg4oEaowGvf9DT0H/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

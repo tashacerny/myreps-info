@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/a
 openstates_id: ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3
 contact:
   website: "https://openstates.org/person/ben-allen-72ASxK9bXvDQwlApBfTC6N/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

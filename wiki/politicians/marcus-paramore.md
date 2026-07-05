@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Paramore_89.pn
 openstates_id: ocd-person/723a971e-91d9-4717-8f19-45f16e18690f
 contact:
   website: "https://openstates.org/person/marcus-paramore-3TXtrurQzx93jdH3siZ9qh/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

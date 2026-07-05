@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/blackmo
 openstates_id: ocd-person/ee145624-3295-4db4-b3ce-9d1583e4ef6e
 contact:
   website: "https://openstates.org/person/shaw-blackmon-7FFSzY32Vnp8U4mKCx5Gbm/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

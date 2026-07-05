@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jacly
 openstates_id: ocd-person/b7335950-e605-45b7-9c64-1e725315deca
 contact:
   website: "https://openstates.org/person/jaclyn-zimmermann-5Zh3rf4tp3NpdIGVUg70l0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

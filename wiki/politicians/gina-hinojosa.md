@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3210.jpg?v=1"
 openstates_id: ocd-person/1f9ed42e-27de-4cd1-b2bf-f890ee33cb49
 contact:
   website: "https://openstates.org/person/gina-hinojosa-xfLWJ5Zor5hbGpZ6gzLVx/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

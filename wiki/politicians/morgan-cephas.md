@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1759.jpg?1703415645
 openstates_id: ocd-person/05326e52-202a-46cd-bbbe-cc8d01d9a44b
 contact:
   website: "https://openstates.org/person/morgan-cephas-9o0XCy0z2GcXRc6kUxdWd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

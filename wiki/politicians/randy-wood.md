@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Wood_36.png"
 openstates_id: ocd-person/451a4cb7-3585-46d3-86c7-61b345f7a601
 contact:
   website: "https://openstates.org/person/randy-wood-26OULoJ4znAwNjstHzf1O5/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

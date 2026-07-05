@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{39D6F100-DAEC-4C4B-A4F5-F20
 openstates_id: ocd-person/1ae7c123-b1a4-4c6e-b4d3-dc22db461e44
 contact:
   website: "https://openstates.org/person/patrick-joyce-oliBAB58zTCiWYWfJAsRY/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

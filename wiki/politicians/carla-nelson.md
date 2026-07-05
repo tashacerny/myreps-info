@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/24Nelson.jpg"
 openstates_id: ocd-person/69ac712d-4de2-448a-8b84-ef07b4c4e423
 contact:
   website: "https://openstates.org/person/carla-nelson-3DP02HC0E2uOKuktc0dcmZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

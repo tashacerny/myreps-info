@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Holk-Jones_95.
 openstates_id: ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff
 contact:
   website: "https://openstates.org/person/frances-holk-jones-1olbnbn6lIIjqQlacSONrD/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

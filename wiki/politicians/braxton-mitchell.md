@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/8664c246-dc7e-48aa-9db1-9e33055dcb67
 contact:
   website: "https://openstates.org/person/braxton-mitchell-45b1A6sbCiHwGGtyKwjUyl/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

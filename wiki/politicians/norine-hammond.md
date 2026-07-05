@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{07D3914D-440A-4891-99AE-256
 openstates_id: ocd-person/cce820c8-7ce2-4b30-8ebd-4734eab16a94
 contact:
   website: "https://openstates.org/person/norine-hammond-6EeW5Men6KWAzVGJq7Mmqy/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

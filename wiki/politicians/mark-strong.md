@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/STRONMA.jpg"
 openstates_id: ocd-person/5d383c2b-0450-48db-92bf-e20977953cd8
 contact:
   website: "https://openstates.org/person/mark-strong-2ptz7lPfQXAtEyXMIzQjcm/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

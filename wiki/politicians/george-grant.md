@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/66dfa3554a4adb713d8421
 openstates_id: ocd-person/8ecb185e-f9d2-4da1-94af-8ea367b7b34a
 contact:
   website: "https://openstates.org/person/george-grant-4LRixespKlHnnGgFRVc0Ta/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

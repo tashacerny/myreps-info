@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/d96c807a-9e72-4861-bca4-67d787cbf49f
 contact:
   website: "https://openstates.org/person/ryan-lauer-6cGv4CwmcwTQnbdm3z7c9X/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

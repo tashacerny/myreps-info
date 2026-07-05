@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/GROVEK.jpg"
 openstates_id: ocd-person/7634ce2b-d172-4852-919c-7089eaa38db8
 contact:
   website: "https://openstates.org/person/keith-grover-3b3E3Qrj7e7SO8nv7qUvZg/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

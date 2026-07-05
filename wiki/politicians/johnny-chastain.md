@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/chastai
 openstates_id: ocd-person/8106e2d8-e1e3-42a8-b550-fbd2627fa474
 contact:
   website: "https://openstates.org/person/johnny-chastain-3vT9k4iCydkiEqAOsVBtNk/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

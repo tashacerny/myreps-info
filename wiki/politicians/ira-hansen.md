@@ -13,5 +13,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/
 openstates_id: ocd-person/94c7e249-88bb-4f83-b225-6b34f9361d0f
 contact:
   website: "https://openstates.org/person/ira-hansen-4WkD7PyNSM0x6pzE0k4mMx/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

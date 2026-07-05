@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/566_sm.jpg"
 openstates_id: ocd-person/0e0e799b-70de-4472-b289-4a0c2aba3a26
 contact:
   website: "https://openstates.org/person/ashley-hudson-QWVTXLQFLDF40cX3vFZVW/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

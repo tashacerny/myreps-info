@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/rahman-
 openstates_id: ocd-person/5b6e0e37-802b-4103-b401-551532aba2e7
 contact:
   website: "https://openstates.org/person/sheikh-rahman-2mWb1vUTyRWDZCNomtfrrL/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://lettersandscience.ucdavis.edu/sites/g/files/dgvnsk15706/file
 openstates_id: ocd-person/e8ac7b26-03a5-4818-b05d-0f379029bbdb
 contact:
   website: "https://openstates.org/person/maggy-krell-7532ipUKoRZ2K7qxqJh8uJ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

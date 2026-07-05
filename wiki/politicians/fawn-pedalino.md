@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1453408917.jpg"
 openstates_id: ocd-person/5861846a-d293-416f-b5ab-227f8fd12b94
 contact:
   website: "https://openstates.org/person/fawn-pedalino-2gltCFozqzIf9zQOoOeBIC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

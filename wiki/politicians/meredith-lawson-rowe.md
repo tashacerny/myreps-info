@@ -12,5 +12,5 @@ photo_url: "https://thenewamericansmag.com/wp-content/uploads/2024/03/Meredith-L
 openstates_id: ocd-person/4b1e7c00-c159-407e-83d8-2eb24ba175db
 contact:
   website: "https://openstates.org/person/meredith-lawson-rowe-2HkM4BVVJNIKoDJvxXrDad/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

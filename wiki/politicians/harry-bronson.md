@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/138/headshot/
 openstates_id: ocd-person/a23e140f-4beb-43d5-b850-198ff81a75f3
 contact:
   website: "https://openstates.org/person/harry-bronson-4w97reVeFXtsEb4IvEV02l/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

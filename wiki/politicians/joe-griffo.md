@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/738fe4f1-dfee-40c6-9f00-f793ea369dbc
 contact:
   website: "https://openstates.org/person/joe-griffo-3W3sP4KL3SSMUIUgka9lDY/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

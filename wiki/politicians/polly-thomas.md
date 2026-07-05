@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep80.jpg"
 openstates_id: ocd-person/d95410b8-a66c-4662-bcc6-1884252e061b
 contact:
   website: "https://openstates.org/person/polly-thomas-6c5kgCOIUxcMfaXAXU4SXD/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

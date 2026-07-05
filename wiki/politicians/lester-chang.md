@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/049/headshot/
 openstates_id: ocd-person/b43ab7e1-e8f3-4b46-905e-ebfdded05b80
 contact:
   website: "https://openstates.org/person/lester-chang-5U5S64EFOz6DEtVa55NYIa/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

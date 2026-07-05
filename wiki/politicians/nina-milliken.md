@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/a1ab39cd-e95b-4f16-9fdc-9f7d2685fc45
 contact:
   website: "https://openstates.org/person/nina-milliken-4v40vrdESLL8qC5FIMQO9d/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

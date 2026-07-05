@@ -12,5 +12,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRozO487RdH1VF6
 openstates_id: ocd-person/be77ffd0-b287-4585-8409-5189885d180a
 contact:
   website: "https://openstates.org/person/macy-bolinske-5nPNgDaeMuR1LfiK6V55C6/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

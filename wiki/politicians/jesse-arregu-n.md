@@ -13,5 +13,5 @@ photo_url: "https://berkeleyca.gov/sites/default/files/elected-office-holder/por
 openstates_id: ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8
 contact:
   website: "https://openstates.org/person/jesse-arreguin-40PyfAIqIropoFpD071PgG/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

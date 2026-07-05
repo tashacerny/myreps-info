@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/533_sm.jpg"
 openstates_id: ocd-person/7dff69f1-609b-4230-9937-b8bbc239f5b5
 contact:
   website: "https://openstates.org/person/aaron-pilkington-3pklRuB2Hkxo0q1hd6EnRN/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

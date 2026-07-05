@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/lewis-w
 openstates_id: ocd-person/21651856-bba6-49fd-b3f8-8ed1b723e804
 contact:
   website: "https://openstates.org/person/regina-lewis-ward-110wjgNaAz5sF8dTybDRlE/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

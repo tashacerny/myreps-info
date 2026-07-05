@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_ousley_jarrod_1.jpg
 openstates_id: ocd-person/65fa3818-4803-4821-8533-51a7802694ec
 contact:
   website: "https://openstates.org/person/jarrod-ousley-36QZg9mzeesxtboO4ej1x6/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

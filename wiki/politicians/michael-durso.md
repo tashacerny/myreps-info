@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/009/headshot/
 openstates_id: ocd-person/d72babb1-84cc-49d4-8b91-7945b7b9abf5
 contact:
   website: "https://openstates.org/person/michael-durso-6Y1J5P48L7ZtNCPC1RiZNd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

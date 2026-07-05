@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/cbdafb85-539d-4ef4-a3ee-30f4985969fa
 contact:
   website: "https://openstates.org/person/jerry-walker-6CfW5tKkZDw2BIBIEPxTIo/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

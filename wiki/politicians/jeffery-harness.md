@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/harne
 openstates_id: ocd-person/73fee1dd-f8c0-40a7-a4f9-e7576b4ecc3f
 contact:
   website: "https://openstates.org/person/jeffery-harness-3Wsb958MSO4gG55zecN8Zz/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/cms.ipressroom.com/175/files/20187/5b883c6f
 openstates_id: ocd-person/631f715e-754c-4410-a967-1e5a928ae971
 contact:
   website: "https://openstates.org/person/cindy-nava-312bo2mvML5OujYmrt1kjB/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/281/Low"
 openstates_id: ocd-person/23f1da0b-34b2-4347-adb4-f5fc26e0475d
 contact:
   website: "https://openstates.org/person/brent-jackson-15pFzjaRmLplMUbXBi6NCf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

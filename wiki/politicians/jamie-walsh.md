@@ -12,5 +12,5 @@ photo_url: "https://npr.brightspotcdn.com/dims4/default/eb103d1/2147483647/strip
 openstates_id: ocd-person/96cbec5b-b9a4-4325-8346-bd4d08d87237
 contact:
   website: "https://openstates.org/person/jamie-walsh-4aY2cO9r8luUkKndGuq2T9/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

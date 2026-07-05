@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/b71e9f3a-2c59-4e18-80e6-da0a7cc51648
 contact:
   website: "https://openstates.org/person/hal-slager-5ZXaaQsJdpBkjNNXxSgN0S/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

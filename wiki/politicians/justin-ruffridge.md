@@ -12,5 +12,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/RUF.jpg"
 openstates_id: ocd-person/722ec3e9-7e0d-4dda-bf19-11d873df7031
 contact:
   website: "https://openstates.org/person/justin-ruffridge-3TSUojff3ShP7s2OvLzVh3/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

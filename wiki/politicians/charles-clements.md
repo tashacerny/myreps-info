@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2021/senate/clements_cha
 openstates_id: ocd-person/8941d02d-cee0-47a4-9c68-de73382b20af
 contact:
   website: "https://openstates.org/person/charles-clements-4B01a4V9RO7TidQA007M4N/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

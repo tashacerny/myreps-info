@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hugley-
 openstates_id: ocd-person/0f5a9273-2fc6-458f-af59-b75070a1dc76
 contact:
   website: "https://openstates.org/person/carolyn-hugley-SyH8hKWYVbb9svDKFB6Ig/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

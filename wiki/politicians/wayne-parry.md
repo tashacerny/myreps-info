@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/8a75e2da-2389-4052-9592-1e607ba2dfc1
 contact:
   website: "https://openstates.org/person/wayne-parry-4DGoXmniP4o7y7M1AlfmDp/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

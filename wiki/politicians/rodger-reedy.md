@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2096"
 openstates_id: ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b
 contact:
   website: "https://openstates.org/person/rodger-reedy-5lNEUJnSJa4mjiZkX3q42F/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

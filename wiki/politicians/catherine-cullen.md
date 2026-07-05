@@ -12,5 +12,5 @@ photo_url: "https://cullen4nm.com/wp-content/plugins/phastpress/phast.php/c2Vydm
 openstates_id: ocd-person/35f36593-4252-4205-b123-cc7236e96954
 contact:
   website: "https://openstates.org/person/catherine-cullen-1dnpD1V6i1sSFMsL2tLwyS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

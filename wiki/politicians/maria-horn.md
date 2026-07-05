@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Horn/images/Horn_HS.jpg"
 openstates_id: ocd-person/283ad876-68be-4235-a108-e0aedbadde40
 contact:
   website: "https://openstates.org/person/maria-horn-1DuaIwhKjqBnKNwK23RZuC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

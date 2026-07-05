@@ -12,5 +12,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/1b71cbce-bf12-4009-b1cd-79da2f22b9aa
 contact:
   website: "https://openstates.org/person/karen-whitsett-pmnSkeQjxbsrgTiPkFGqA/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

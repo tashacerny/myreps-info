@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/ac2c89af-df39-4057-bdeb-15ca57b7ef9f
 contact:
   website: "https://openstates.org/person/wendy-mcnamara-5Et272w20LVUtyFKpUhmoR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

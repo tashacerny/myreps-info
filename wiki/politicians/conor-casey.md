@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Casey,Conor.jp
 openstates_id: ocd-person/526f33a9-fcbe-4963-ae6c-abccde1fe4da
 contact:
   website: "https://openstates.org/person/conor-casey-2VYBn402QMDgGKo4LZjMt8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

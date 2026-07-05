@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Dathan/images/Dathan_HS.jpg"
 openstates_id: ocd-person/2ed1f7b0-a1e3-4754-93a5-46b5a3fb9836
 contact:
   website: "https://openstates.org/person/lucy-dathan-1QLbLudBS0ZAFCiNEVBRHK/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/2cc808df-0763-4807-9a67-b53a1764f84c
 contact:
   website: "https://openstates.org/person/charlie-foote-1MV4rfq4GvIJVwxs5krza8/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

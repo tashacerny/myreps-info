@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/_MG_3
 openstates_id: ocd-person/fb97e59c-6d06-476c-a834-06613cb8f9bd
 contact:
   website: "https://openstates.org/person/stacy-zinn-7ekUS1082nJawfrEWssdh7/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a
 contact:
   website: "https://openstates.org/person/tasha-boerner-4ouybAAhbHOxQ8noMjFzRq/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

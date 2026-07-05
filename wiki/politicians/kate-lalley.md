@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/vtcng.com/content/tncms
 openstates_id: ocd-person/f9d0a963-ca4d-4ab2-a761-ad4aa6983055
 contact:
   website: "https://openstates.org/person/kate-lalley-7bORmOSBhrar0WZu0JhzCX/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/diehl/PublishingImages/member_phot
 openstates_id: ocd-person/fa290a38-0cea-4dc8-a981-33ee4ff341f4
 contact:
   website: "https://openstates.org/person/ed-diehl-7c2ptaQWFM8kNketYqGrvI/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

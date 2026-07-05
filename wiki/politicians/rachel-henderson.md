@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b61923e6-c463-4df4-95b2-117d74c030bd
 contact:
   website: "https://openstates.org/person/rachel-henderson-5Xc5k57ZoIDJHGDF9KIA7J/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

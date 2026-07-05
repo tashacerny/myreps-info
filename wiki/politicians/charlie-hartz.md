@@ -13,5 +13,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/cont
 openstates_id: ocd-person/08342d93-85d9-498e-a602-85ef9715ebf6
 contact:
   website: "https://openstates.org/person/charlie-hartz-FTmbrT3Dn5Y6ECFurdnHy/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

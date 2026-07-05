@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h48.jpg"
 openstates_id: ocd-person/a9676141-e809-4554-9d0c-283916c36f63
 contact:
   website: "https://openstates.org/person/bryan-terry-59ewm9viK8mV5fihdCEmtX/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

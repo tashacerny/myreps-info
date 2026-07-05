@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/
 openstates_id: ocd-person/11f44d71-88c1-4022-a2f5-f8ca9b8795f2
 contact:
   website: "https://openstates.org/person/bert-gurr-XsVzxjx4F8NSVOe2vvCHS/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

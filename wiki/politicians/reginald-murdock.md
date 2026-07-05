@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/639_sm.jpg
 openstates_id: ocd-person/f148aa6d-abfe-4577-9c15-44f2ea79c707
 contact:
   website: "https://openstates.org/person/reginald-murdock-7LIMGWcolhjMfm5wmg8Q9H/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-HicksLarry.jpg"
 openstates_id: ocd-person/286af01e-ace3-4de2-b1c3-44756370d932
 contact:
   website: "https://openstates.org/person/larry-hicks-1EGYxVP7hsJcfbocJYhHjW/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

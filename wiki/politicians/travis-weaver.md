@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{0A077509-6D57-4C96-8525-048
 openstates_id: ocd-person/63883963-04b0-454c-8d18-81dcca230b55
 contact:
   website: "https://openstates.org/person/travis-weaver-31oUgjzWi5qlhXALJfhykf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

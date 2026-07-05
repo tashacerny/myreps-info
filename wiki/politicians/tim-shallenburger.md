@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_shallenburger_tim_1
 openstates_id: ocd-person/c091ed05-ad26-42f2-b7e8-a830404cb152
 contact:
   website: "https://openstates.org/person/tim-shallenburger-5rNDKnpu3hD5oiaJFYbrJC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

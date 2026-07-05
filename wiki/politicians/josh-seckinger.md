@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/May26
 openstates_id: ocd-person/e395ea05-2482-4149-bda3-d553d4ec14d3
 contact:
   website: "https://openstates.org/person/josh-seckinger-6vRlgj6NCQ2LDEcved2rgp/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

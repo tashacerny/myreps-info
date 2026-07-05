@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house71.
 openstates_id: ocd-person/a110d6ba-f17f-4847-b0e9-327c82cd7122
 contact:
   website: "https://openstates.org/person/josh-bray-4tvSWDJ74Rw454MrKMyD2o/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

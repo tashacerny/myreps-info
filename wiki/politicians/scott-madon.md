@@ -13,5 +13,5 @@ photo_url: "https://thecityofpineville.com/wp-content/uploads/2018/08/mayor-scot
 openstates_id: ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4
 contact:
   website: "https://openstates.org/person/scott-madon-6YypQfsbLsPGGzSU3i06mS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

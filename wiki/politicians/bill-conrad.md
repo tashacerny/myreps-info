@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/140/headshot/
 openstates_id: ocd-person/b03e8fcb-e9e1-4096-9483-654b3383341b
 contact:
   website: "https://openstates.org/person/bill-conrad-5MZEtp5qz1HS5pWBIFp2oV/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

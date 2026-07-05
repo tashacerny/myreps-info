@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/olaleye
 openstates_id: ocd-person/80928bd9-c963-4b21-954c-c62ee9373064
 contact:
   website: "https://openstates.org/person/phil-olaleye-3ubzMOTcyFHEo8cXRLzCnE/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

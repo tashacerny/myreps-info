@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{66C5580C-A414-41BB-B3AC-638
 openstates_id: ocd-person/500ffee4-de06-4a0b-b4df-f8e6f52c4e96
 contact:
   website: "https://openstates.org/person/blaine-wilhour-2R4hAD94kYSTuq92EO9x94/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

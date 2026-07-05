@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b3f3ab98-9169-42f8-b7d7-c04b3bdfb545
 contact:
   website: "https://openstates.org/person/david-haggan-5TYz18fBnqXJdXqAxC55Qj/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/d15f8f7e-148b-47fc-858d-84ad23347f64
 contact:
   website: "https://openstates.org/person/robin-shackleford-6N54BvSDmpSodLqARzgewO/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

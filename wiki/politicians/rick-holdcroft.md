@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist36/hig
 openstates_id: ocd-person/62ccba1d-4200-41c7-a051-21fa421a206a
 contact:
   website: "https://openstates.org/person/rick-holdcroft-30Qo83vkybspM1bY3hNI2E/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

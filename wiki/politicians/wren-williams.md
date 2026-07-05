@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/d3a4b614-4a6f-4b38-b3cc-8990f0f7d4d3
 contact:
   website: "https://openstates.org/person/wren-williams-6RMeYumaXxPFNbAVXdupZz/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

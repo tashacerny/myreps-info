@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/092/headshot/
 openstates_id: ocd-person/18f58d92-0a20-4ec1-a2dd-e77a10280e9b
 contact:
   website: "https://openstates.org/person/maryjane-shimsky-l626G9f5XkElvMwizC0wV/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

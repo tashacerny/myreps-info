@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/2360.jpg?v=1"
 openstates_id: ocd-person/ea169f77-0bd8-4ca0-ac59-f894c9a09e71
 contact:
   website: "https://openstates.org/person/nicole-collier-77iXg734BVMNkU41fjyi6z/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1742.jpg?1703415645
 openstates_id: ocd-person/844f3ed7-03df-420f-81bd-3f547c12e61e
 contact:
   website: "https://openstates.org/person/aaron-bernstine-41fCYBiTjz78enWh54VU10/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

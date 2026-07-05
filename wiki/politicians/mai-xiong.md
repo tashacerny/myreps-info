@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MaiXi
 openstates_id: ocd-person/cd44a574-079b-4fd8-82cd-0daea8d7ff96
 contact:
   website: "https://openstates.org/person/mai-xiong-6FKnVM6LZZmpjOzr5eurzS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/senate/members/images/s13.jpg"
 openstates_id: ocd-person/80bf42b1-4942-4187-af19-94e830333ce2
 contact:
   website: "https://openstates.org/person/dawn-white-3uwQIS3Ex4dGgBLLlyH4iI/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

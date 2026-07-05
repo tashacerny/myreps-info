@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alana
 openstates_id: ocd-person/1f3a2599-a310-46f5-9b72-ea57f7b59c9b
 contact:
   website: "https://openstates.org/person/alanah-griffith-wvKn1EvrgG2FsHxb8OSiZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

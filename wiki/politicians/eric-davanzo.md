@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1875.jpg?1703415645
 openstates_id: ocd-person/80abce94-a517-4357-a70d-cbc791aa34a1
 contact:
   website: "https://openstates.org/person/eric-davanzo-3unX67zSa2bzWKZ93PBFqr/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

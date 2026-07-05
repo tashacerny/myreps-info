@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/47d80aae-1c7b-4330-96bd-76db7fe8b060
 contact:
   website: "https://openstates.org/person/tracy-clark-2BZBZ7v5ZhtMgjl0xfRsJM/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

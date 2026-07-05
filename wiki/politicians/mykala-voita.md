@@ -12,5 +12,5 @@ photo_url: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressiv
 openstates_id: ocd-person/5cfb95b9-aa6a-4285-89d1-04770ae033fd
 contact:
   website: "https://openstates.org/person/mykala-voita-2pSGepeqSDiXmdy53tuZiv/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/butler_jim.j
 openstates_id: ocd-person/905290bd-c655-4a3d-9961-65a2f9c0e271
 contact:
   website: "https://openstates.org/person/jim-butler-4OKcuPGO1UjAm0h0wOtcWH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

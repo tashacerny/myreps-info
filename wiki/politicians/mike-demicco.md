@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Demicco/images/Demicco_HS.jpg"
 openstates_id: ocd-person/ca9357d4-dffa-456a-a715-d4a7671c1f84
 contact:
   website: "https://openstates.org/person/mike-demicco-6AFmjVYq7ii793JhZKPHzY/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

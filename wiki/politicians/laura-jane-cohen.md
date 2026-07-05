@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Laura
 openstates_id: ocd-person/6840c55c-6496-44ce-8a60-3288e222ddc0
 contact:
   website: "https://openstates.org/person/laura-jane-cohen-3AinkSd0GduFS492rd27Bw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

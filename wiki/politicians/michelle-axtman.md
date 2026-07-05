@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b
 contact:
   website: "https://openstates.org/person/michelle-axtman-1Dc4GfZqTpDxJRCgR3bfUh/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

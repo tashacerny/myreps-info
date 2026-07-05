@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/2150.jpg"
 openstates_id: ocd-person/f72eb41b-2ff9-434f-96cf-75b9724289ab
 contact:
   website: "https://openstates.org/person/rafael-anchia-7WQRnQhrrm4ND0zRGiWLHv/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

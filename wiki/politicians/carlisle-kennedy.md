@@ -12,5 +12,5 @@ photo_url: "https://votecarlislekennedy.com/wp-content/uploads/2024/04/MG_3387-s
 openstates_id: ocd-person/31de54c6-a271-4c9e-a109-35de035197ce
 contact:
   website: "https://openstates.org/person/carlisle-kennedy-1W6EEkjYBXFHo1Zi2I9zuo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

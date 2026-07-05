@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep99.jpg"
 openstates_id: ocd-person/85a96a1b-a8a0-4ddd-acd7-9452b48f5ace
 contact:
   website: "https://openstates.org/person/candace-newell-44DOvletSTJCn1LZG93VJ0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

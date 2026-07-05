@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/2a831795-d6fc-4635-88bf-4fd5f72ab1e7
 contact:
   website: "https://openstates.org/person/scott-wyatt-1IDaORZVASGVWNGJ6wGEMx/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

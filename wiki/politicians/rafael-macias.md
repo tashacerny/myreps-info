@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/813482/813
 openstates_id: ocd-person/ef82117f-6819-4f84-92dc-a49bebded523
 contact:
   website: "https://openstates.org/person/rafael-macias-7HwbfQfAafLrduTrLoIS8J/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

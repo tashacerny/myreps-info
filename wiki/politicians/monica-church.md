@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/b3878069-33ec-4ecc-8236-f9d0de68f5da
 contact:
   website: "https://openstates.org/person/monica-church-5SlY9nmbbMajjrGIdG18TS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

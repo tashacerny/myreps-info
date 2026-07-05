@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/
 openstates_id: ocd-person/bd27bab3-8a47-439f-8ae5-8ce3ba534f90
 contact:
   website: "https://openstates.org/person/max-carter-5kvhmPTRznRo7gAwGRcsRk/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

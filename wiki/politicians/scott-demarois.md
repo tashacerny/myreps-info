@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Scott
 openstates_id: ocd-person/b4eef5bc-1509-462d-905b-cd0f03ec3981
 contact:
   website: "https://openstates.org/person/scott-demarois-5VPp4pZvt17aTLdviaXb61/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

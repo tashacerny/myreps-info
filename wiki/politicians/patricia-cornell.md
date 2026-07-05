@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/e657ef2c-bfc3-4a08-99fe-4456be3bfe2a
 contact:
   website: "https://openstates.org/person/patricia-cornell-70eQ7PgenvXlq21WrtgrUI/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

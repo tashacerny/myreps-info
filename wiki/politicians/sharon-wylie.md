@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/16462.jpg"
 openstates_id: ocd-person/6f15e225-ea56-4f95-90c6-64627f367424
 contact:
   website: "https://openstates.org/person/sharon-wylie-3Nc9EsmJoLwU7BkkorC73U/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

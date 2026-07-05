@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/jml0.jpg"
 openstates_id: ocd-person/92a770ae-a348-4f86-92ad-c4a8ebc568f6
 contact:
   website: "https://openstates.org/person/jason-lewis-4SjOo1EGiitFVuM4GWm4gw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

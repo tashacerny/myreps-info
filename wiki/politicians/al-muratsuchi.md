@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/78610d0e-c790-4fc9-ab8e-0887adbbe063
 contact:
   website: "https://openstates.org/person/al-muratsuchi-3f9QlLdFSsonjDLkj9caGp/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

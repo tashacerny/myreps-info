@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/testa_michael_201
 openstates_id: ocd-person/4cb8db73-8982-4b4f-9c90-f86b20b217bc
 contact:
   website: "https://openstates.org/person/mike-testa-2KltbSYdSS1snAn1WSPjoq/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

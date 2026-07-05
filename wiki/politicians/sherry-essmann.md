@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/a010acb1-3638-4369-ac44-23ce1661b36f
 contact:
   website: "https://openstates.org/person/sherry-essmann-4s2OLElQO4Szb1z1Jwq4CN/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

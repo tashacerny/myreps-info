@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/32Kreun.jpg"
 openstates_id: ocd-person/3a76623e-d295-4c58-be60-fd37a285a39b
 contact:
   website: "https://openstates.org/person/michael-kreun-1mJehaI3EUHOsZ1Wrjbg1j/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

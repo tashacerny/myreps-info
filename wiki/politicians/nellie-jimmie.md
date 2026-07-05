@@ -12,5 +12,5 @@ photo_url: "https://npr.brightspotcdn.com/dims4/default/41429e9/2147483647/strip
 openstates_id: ocd-person/1454451c-f821-4b6d-903e-07bef45ab0de
 contact:
   website: "https://openstates.org/person/nellie-jimmie-cMMCFQ5uXZ4CccIE6DGn8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

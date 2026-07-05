@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/_Beth
 openstates_id: ocd-person/3b05e975-1b79-42ec-94e8-7a258142dd46
 contact:
   website: "https://openstates.org/person/bethany-soye-1nNFRNRbyaGDPWAPZ78jxu/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

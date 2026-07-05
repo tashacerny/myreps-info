@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1179545313.jpg"
 openstates_id: ocd-person/6409590b-b759-47e0-ba61-cfe5aee94228
 contact:
   website: "https://openstates.org/person/shane-martin-32lVHxHPyf8YNsWxB427dA/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

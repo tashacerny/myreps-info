@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/153.jpg?17034156456
 openstates_id: ocd-person/fe79a0f0-7dfd-442a-8b79-f8792613a4de
 contact:
   website: "https://openstates.org/person/tony-williams-7kBdOuIcwXLWsM7FCIfiIw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/5310d199-fa92-40aa-8d0b-efad6d3027b2
 contact:
   website: "https://openstates.org/person/ceci-maher-2Wk33dNY1K6bVGCYw5nJUQ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

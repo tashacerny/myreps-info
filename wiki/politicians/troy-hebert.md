@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep31.jpg"
 openstates_id: ocd-person/ba2902d5-5a0e-4e71-b396-6e85358511de
 contact:
   website: "https://openstates.org/person/troy-hebert-5fHJWad7z5cNhM9MTLMQEI/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

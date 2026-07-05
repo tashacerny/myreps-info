@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s10_
 openstates_id: ocd-person/b1525f57-c2db-407e-bca9-66675cc4d3ff
 contact:
   website: "https://openstates.org/person/jason-brodeur-5ObHk5aDCMuJtQ22DWcYaF/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/66254480-6178-4312-8a18-268ec84153cc
 contact:
   website: "https://openstates.org/person/scott-bottoms-36kFPwrN8zlYd7loQk62xA/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

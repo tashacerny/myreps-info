@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_vanhouden_charles_1
 openstates_id: ocd-person/bb92c4f1-d89e-4147-9b09-5fc1f56fca1c
 contact:
   website: "https://openstates.org/person/chip-vanhouden-5hwdbyOSMqXlJyk3ynpJwC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

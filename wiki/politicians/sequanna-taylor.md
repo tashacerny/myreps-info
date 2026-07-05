@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/IMG_5
 openstates_id: ocd-person/a3db3b70-1e27-44a4-a5ae-025450ae4d3d
 contact:
   website: "https://openstates.org/person/sequanna-taylor-4zBwCItQjbdZS6f685Ft2D/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

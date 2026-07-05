@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_caiharr_carolyn_1.j
 openstates_id: ocd-person/f1e5ad82-52f7-4a6a-b028-40df8a3f929b
 contact:
   website: "https://openstates.org/person/carolyn-caiharr-7MS73am4pIZmlln5anUMSR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

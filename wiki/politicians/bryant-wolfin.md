@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bryan
 openstates_id: ocd-person/06f2e023-3786-4c2f-b057-fd9087a6a1db
 contact:
   website: "https://openstates.org/person/bryant-wolfin-D6wncXU9bCesnHfgE8cLD/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

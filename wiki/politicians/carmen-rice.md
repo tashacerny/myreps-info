@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Carme
 openstates_id: ocd-person/3646e872-85a6-4383-97c5-36ff96ca7113
 contact:
   website: "https://openstates.org/person/carmen-rice-1ePzQGBs5NzlYIoV3wymwd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

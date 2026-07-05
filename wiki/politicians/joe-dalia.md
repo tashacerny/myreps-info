@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/282757f9-1693-4ac5-bd98-4315543cd61a
 contact:
   website: "https://openstates.org/person/joe-dalia-1DlfjgW0XrXscz0YUFS9LG/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

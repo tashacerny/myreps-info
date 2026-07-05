@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Underwood_3.pn
 openstates_id: ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98
 contact:
   website: "https://openstates.org/person/bubba-underwood-1hyEjBe6xSMWPprCaJ8EEC/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

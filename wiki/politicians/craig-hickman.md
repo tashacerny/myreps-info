@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/hickman-1024x1024.
 openstates_id: ocd-person/5a475e6f-5277-425e-bb09-1c55facbc736
 contact:
   website: "https://openstates.org/person/craig-hickman-2kLvM5S6s1xHTpko05Ee98/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

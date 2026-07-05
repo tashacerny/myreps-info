@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Nolan/images/Nolan_HS.jpg"
 openstates_id: ocd-person/c7160abf-d376-484d-b87e-600a398ab503
 contact:
   website: "https://openstates.org/person/anthony-nolan-63fXrves7fOnaMJi14u0TT/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

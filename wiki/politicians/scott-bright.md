@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Scott
 openstates_id: ocd-person/fb530f21-a08e-473c-b215-9a4de6a86ee9
 contact:
   website: "https://openstates.org/person/scott-bright-7eF1zk9bHe7t3K0HEGRLOT/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

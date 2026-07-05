@@ -13,5 +13,5 @@ photo_url: "https://www.cthousegop.com/polletta/wp-content/uploads/sites/74/2017
 openstates_id: ocd-person/df318645-047c-46a5-be61-682a7272e6b6
 contact:
   website: "https://openstates.org/person/joe-polletta-6n9v8ubJWSl9NYAPS61KcQ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

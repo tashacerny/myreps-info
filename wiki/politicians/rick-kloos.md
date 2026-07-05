@@ -13,5 +13,5 @@ photo_url: "https://www.ksn.com/wp-content/uploads/sites/13/2018/10/20180607_Ric
 openstates_id: ocd-person/5281ab3e-91a8-43be-bcc7-5d9d4c2a2545
 contact:
   website: "https://openstates.org/person/rick-kloos-2Vgd2TYQy25lnwiuPE18IH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

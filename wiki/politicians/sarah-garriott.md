@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30551"
 openstates_id: ocd-person/ce66871e-57e7-471d-b231-d772dd41eb63
 contact:
   website: "https://openstates.org/person/sarah-garriott-6HTH1wCROZXukzuxnkaINf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Rigsby_25.png"
 openstates_id: ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb
 contact:
   website: "https://openstates.org/person/phillip-rigsby-3gCyi4b2j0jH5BgfjvaY4x/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

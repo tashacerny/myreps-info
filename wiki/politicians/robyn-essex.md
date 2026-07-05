@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_essex_robyn_1.jpg"
 openstates_id: ocd-person/d034154f-ba03-4c97-ac96-c4023968f9b3
 contact:
   website: "https://openstates.org/person/robyn-essex-6KsCmL7Js7mLQ0XZongx8N/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

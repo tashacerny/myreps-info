@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Treadaway_51.p
 openstates_id: ocd-person/3f96a690-e9a3-4774-8484-49a5a079b18c
 contact:
   website: "https://openstates.org/person/allen-treadaway-1vzMZkWlHAVZBYkW7GQNvI/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

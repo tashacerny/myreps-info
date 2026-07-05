@@ -12,5 +12,5 @@ photo_url: "https://www.naag.org/wp-content/uploads/2020/09/ag-ME-Frey-Aaron-202
 openstates_id: ocd-person/530fa17b-8a45-4d39-adb1-e9492081a761
 contact:
   website: "https://openstates.org/person/aaron-m-frey-2WjVOinu2Pm5ilzbLW3beL/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

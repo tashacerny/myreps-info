@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/O'Brien,John.j
 openstates_id: ocd-person/6b0c1c32-609e-4d13-a9c5-699b73bd1470
 contact:
   website: "https://openstates.org/person/john-o-brien-3FziE4aURvanO9sJQC6x1s/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

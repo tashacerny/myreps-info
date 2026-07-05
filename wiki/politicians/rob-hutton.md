@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/senate/2560.jpg"
 openstates_id: ocd-person/49d245a5-ad19-46cf-9857-581573c0b99b
 contact:
   website: "https://openstates.org/person/rob-hutton-2FIX8V5je8DegCTxzisjPf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

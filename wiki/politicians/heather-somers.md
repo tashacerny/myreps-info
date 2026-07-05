@@ -13,5 +13,5 @@ photo_url: "https://ctsenaterepublicans.com/wp-content/uploads/2020/12/HeatherHe
 openstates_id: ocd-person/a648c360-3b9e-408d-ba2a-c171edada365
 contact:
   website: "https://openstates.org/person/heather-somers-53lyhqgMS5Byl673F5tdS9/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

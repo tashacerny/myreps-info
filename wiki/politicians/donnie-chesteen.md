@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Chesteen_29.p
 openstates_id: ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063
 contact:
   website: "https://openstates.org/person/donnie-chesteen-5thuPrfpRtaIowl5gNb0yJ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

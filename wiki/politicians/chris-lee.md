@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/clee.jpg"
 openstates_id: ocd-person/3484e323-b1a2-4c41-ad9f-8153445f8cd4
 contact:
   website: "https://openstates.org/person/chris-lee-1b6KV1jAm8D2aT1kblhfkK/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

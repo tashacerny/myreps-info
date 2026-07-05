@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/b3e74d72-fdba-4c02-b75c-1ba8cc5b44b2
 contact:
   website: "https://openstates.org/person/tony-harbison-5TTKaX8nWXSVxMG2gIA5Eg/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

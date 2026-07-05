@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/d7ca6eb8-615f-4b3c-8651-3a5f86577f0a
 contact:
   website: "https://openstates.org/person/tom-france-6ZBrSLe9oisADQpiNCJ8jy/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

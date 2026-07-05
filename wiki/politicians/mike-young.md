@@ -13,5 +13,5 @@ photo_url: "https://cdn.zephyrcms.com/3234d40a-6603-4164-b8e7-6529ae02811b/-/pro
 openstates_id: ocd-person/01bb6149-aa0f-457f-b759-1338b6c8ae5f
 contact:
   website: "https://openstates.org/person/mike-young-3GclQEisrNE8P9H4C0FH5/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

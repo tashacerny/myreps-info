@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/8274985f-2a84-4d59-a4e4-d1ba9555e64b
 contact:
   website: "https://openstates.org/person/jedediah-hinkle-3yAHlwBsij6B4Rl9COVlz1/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/f7d38428-2656-4fb3-ac28-2455d5533a0b
 contact:
   website: "https://openstates.org/person/steve-rhoads-7Xdlc1Wugt1djRo1PpXp87/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

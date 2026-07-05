@@ -12,5 +12,5 @@ photo_url: "https://www.legmt.gov/wp-content/legislator-photos/lowres/1323.jpg"
 openstates_id: ocd-person/6b9930b6-a74b-420a-af6d-22675ad569dd
 contact:
   website: "https://openstates.org/person/thedis-crowe-3H2BbNl2DWgA0miIDPkbDZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

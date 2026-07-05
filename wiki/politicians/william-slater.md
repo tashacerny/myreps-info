@@ -13,5 +13,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/gallatinnews.com/conten
 openstates_id: ocd-person/33aa517f-98cc-4c9a-8bae-5b41542555fa
 contact:
   website: "https://openstates.org/person/william-slater-1ZURYCVFLl2QvcZICOlxMo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://billstatus.ls.state.ms.us/members/house/gibbs_(36th).jpg"
 openstates_id: ocd-person/38d590c5-20ff-42d5-b9dd-af77664213cf
 contact:
   website: "https://openstates.org/person/karl-gibbs-1jFAXYnxBMnP2Dy1FANXvr/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

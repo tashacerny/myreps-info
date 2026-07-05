@@ -12,5 +12,5 @@ photo_url: "https://npr.brightspotcdn.com/01/2a/8d768d42405b8992ce1c5dcb8159/244
 openstates_id: ocd-person/5cb48d67-2db5-4b6e-89b1-1509110bd708
 contact:
   website: "https://openstates.org/person/kim-holloway-2ovo16i2WEQ698DZAhuLFY/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

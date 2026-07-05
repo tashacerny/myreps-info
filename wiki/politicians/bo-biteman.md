@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-BitemanBo.jpg"
 openstates_id: ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e
 contact:
   website: "https://openstates.org/person/bo-biteman-2csCizf0utkxnZC1NoY18/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

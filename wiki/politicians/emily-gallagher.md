@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/050/headshot/
 openstates_id: ocd-person/81456b86-152f-4764-a489-dade7cc572c6
 contact:
   website: "https://openstates.org/person/emily-gallagher-3vvjaAiSA3hBYzhV4xNAvO/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

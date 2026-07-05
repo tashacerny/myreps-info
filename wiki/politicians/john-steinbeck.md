@@ -12,5 +12,5 @@ photo_url: "http://www.leg.state.nv.us/Session/83rd2025/legislators/Senators/Ima
 openstates_id: ocd-person/deb46b96-7bab-40be-a145-8d397b436d87
 contact:
   website: "https://openstates.org/person/john-steinbeck-6mEkQhgRP5LUqR2C4ro5wd/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

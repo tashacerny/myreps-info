@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1685.jpg?1703415645
 openstates_id: ocd-person/4a2176cc-292b-4d19-aff6-8b4c4b460ba0
 contact:
   website: "https://openstates.org/person/jason-dawkins-2Fsiy67mSRs57VovspMWCu/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

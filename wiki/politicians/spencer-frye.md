@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/frye-sp
 openstates_id: ocd-person/e6ae8d30-4b1b-4b06-8918-2be6fa7f8108
 contact:
   website: "https://openstates.org/person/spencer-frye-71I0L2Wx7XIVV33coIPBNo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

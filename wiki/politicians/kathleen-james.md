@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/James,Kathleen
 openstates_id: ocd-person/8b47b675-97d4-4cdc-a3ae-d44c05594b5c
 contact:
   website: "https://openstates.org/person/kathleen-james-4EohmroejcSHqJyHH1y9C0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

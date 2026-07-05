@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/023/headshot/
 openstates_id: ocd-person/b4246863-b244-4d37-acae-0600d4b429b4
 contact:
   website: "https://openstates.org/person/stacey-pheffer-amato-5TvFwtCdiCZUBZcmphPv5I/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

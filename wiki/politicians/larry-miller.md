@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h88.jpg"
 openstates_id: ocd-person/3e7acb18-4b9e-45d5-9787-dbce0f1959d8
 contact:
   website: "https://openstates.org/person/larry-miller-1ttdjwwlzbinpRAFyx3Ldw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "http://www.senatedems.ct.gov/templates/Kushner/images/Kushner-hi.jpg
 openstates_id: ocd-person/34ca88f1-c2bc-430e-9f7c-93e8f3563e33
 contact:
   website: "https://openstates.org/person/julie-kushner-1bc9tzv4FvQJFCzvXDzOx1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

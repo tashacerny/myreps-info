@@ -12,5 +12,5 @@ photo_url: "https://arkansasadvocate.com/wp-content/uploads/2024/09/Brad-Hall-SO
 openstates_id: ocd-person/d1286114-790d-404b-ac09-ef86b7fa6556
 contact:
   website: "https://openstates.org/person/brad-hall-6MfqgE2WADfm1py59VigCM/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

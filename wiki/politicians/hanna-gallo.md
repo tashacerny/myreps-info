@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/gallo.jpg"
 openstates_id: ocd-person/75750ad6-0bec-4d81-8561-85036c0d99df
 contact:
   website: "https://openstates.org/person/hanna-gallo-3ZdacqWnrZn3eM2z0RZ14B/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

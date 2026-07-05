@@ -13,5 +13,5 @@ photo_url: "https://i0.wp.com/robertreeseforsc70.com/wp-content/uploads/2024/05/
 openstates_id: ocd-person/82c25564-6f95-4fbc-96b8-2ab8a5954a4b
 contact:
   website: "https://openstates.org/person/robert-reese-3yjoPvAY7vjcwgDLhoyGct/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

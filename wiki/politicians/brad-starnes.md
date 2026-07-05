@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_starnes_brad_1.jpg"
 openstates_id: ocd-person/2b66826b-7af3-4053-8d3b-90dbcf4f0740
 contact:
   website: "https://openstates.org/person/brad-starnes-1JtW3OEeNrbYUBoKJAYYy0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

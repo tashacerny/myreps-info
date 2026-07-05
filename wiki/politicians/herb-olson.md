@@ -12,5 +12,5 @@ photo_url: "https://addisonindymediaoffload.s3.amazonaws.com/wp-content/uploads/
 openstates_id: ocd-person/d6336e80-d57f-46df-9c49-9931d8efc0b7
 contact:
   website: "https://openstates.org/person/herb-olson-6WBrShlQGGyT2eBmEer1s7/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

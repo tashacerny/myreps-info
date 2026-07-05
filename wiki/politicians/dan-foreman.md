@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/04ccb3bd-ae8d-4a64-a6c2-1b63a6f94d15
 contact:
   website: "https://openstates.org/person/dan-foreman-93W8raxhIbHTgC2m5p1vB/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

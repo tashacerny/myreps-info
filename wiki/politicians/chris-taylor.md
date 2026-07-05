@@ -12,5 +12,5 @@ photo_url: "https://3.files.edl.io/f264/22/08/30/162354-6ed2c7ed-c20a-4c29-a9b7-
 openstates_id: ocd-person/8a7c0a35-c3bc-4b94-a1c3-c726c8ecaaae
 contact:
   website: "https://openstates.org/person/chris-taylor-4DJcu8yu6GXpvG86vsCYaE/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

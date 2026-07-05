@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/deb760cf-91f7-415c-949a-bab0c5311d6f
 contact:
   website: "https://openstates.org/person/jim-maggiore-6mG6EtANyB85gIRKS7TJlv/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

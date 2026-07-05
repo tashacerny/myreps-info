@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Goslant.Kennet
 openstates_id: ocd-person/723a6dd0-9f92-4fdf-b506-f6947a3ccfe7
 contact:
   website: "https://openstates.org/person/kenneth-goslant-3TXpITi29wK7MYIg5nf6fv/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

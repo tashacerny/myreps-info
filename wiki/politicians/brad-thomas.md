@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/thomas-
 openstates_id: ocd-person/933a841a-19d6-42c2-a046-991ff9903a23
 contact:
   website: "https://openstates.org/person/brad-thomas-4Toc44uVQanLVmsfgwI3Gd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

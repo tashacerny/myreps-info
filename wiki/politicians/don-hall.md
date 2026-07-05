@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/51cc52d2-b23d-4b37-b8fd-2bc53941ee47
 contact:
   website: "https://openstates.org/person/don-hall-2ULkmg3hL8x7uEQxt5LifX/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

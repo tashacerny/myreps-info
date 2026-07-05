@@ -12,5 +12,5 @@ photo_url: "https://wp.civilbeat.digitaldemocracy.org/wp-content/uploads/sites/3
 openstates_id: ocd-person/6003933a-c572-4df8-8ad8-d3a4f8e70882
 contact:
   website: "https://openstates.org/person/cov-ratcliffe-2vAtcvNkGoSCG5BQP7v4GA/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

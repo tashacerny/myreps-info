@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/b8703f11-7463-4df6-aedb-9b3d51560bcb
 contact:
   website: "https://openstates.org/person/nancy-jenkins-arno-5c1srXMuXmi4kztUvBbzUh/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

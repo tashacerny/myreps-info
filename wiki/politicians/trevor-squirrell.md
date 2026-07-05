@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Squirell,Trevo
 openstates_id: ocd-person/7e019459-6d2e-4c45-8092-72cb8334bf25
 contact:
   website: "https://openstates.org/person/trevor-squirrell-3plkoKZ2q8FwvyH6zMp7vJ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

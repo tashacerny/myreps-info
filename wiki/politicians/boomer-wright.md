@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/wright/PublishingImages/member_pho
 openstates_id: ocd-person/a95c31b3-9bfa-4ab1-93d1-278082ead92a
 contact:
   website: "https://openstates.org/person/boomer-wright-59Zppyu6XjATkUjr3VXD6w/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

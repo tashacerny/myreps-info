@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/folden01.jpg"
 openstates_id: ocd-person/d8938e62-87cd-420e-a009-f78a418ed138
 contact:
   website: "https://openstates.org/person/william-folden-6afm6vmKq4ytWEMnARUdBo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

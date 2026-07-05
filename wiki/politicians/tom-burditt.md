@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/TBurditt.jpg"
 openstates_id: ocd-person/68d53f5e-f99c-4167-9dff-3c802fc6e857
 contact:
   website: "https://openstates.org/person/tom-burditt-3BoehDxQS2eUZgaVfXgaIB/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

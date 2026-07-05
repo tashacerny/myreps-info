@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Bailey,Richard
 openstates_id: ocd-person/e997532b-9034-4d46-8c99-c92d763d8d0e
 contact:
   website: "https://openstates.org/person/richard-bailey-76mMo1eSASF3qI7K1FULp0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/%7BBB70A39A-DE8F-4EF5-A923-0
 openstates_id: ocd-person/6f9e28df-bdf5-4493-aac1-68f1b7be39cb
 contact:
   website: "https://openstates.org/person/kyle-moore-3OcQVAdgAbQxmEjovck9il/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Glenn
 openstates_id: ocd-person/56f58b74-b3b6-4f73-ad18-15af5119c4bc
 contact:
   website: "https://openstates.org/person/glenn-bailey-2e5YN3T0zPCtNTCgrsdPcS/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

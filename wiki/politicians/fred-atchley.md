@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/2859e9_1cd01bea042640618e87046b22
 openstates_id: ocd-person/a9c952eb-ff76-4d8c-9dbd-820b8909622e
 contact:
   website: "https://openstates.org/person/fred-atchley-5ANhveRSfBYFLC6THMde18/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Stewart%2C%20Jack%20Flags%2
 openstates_id: ocd-person/8e22d71d-fd9a-4d9d-aa7c-09af3da43118
 contact:
   website: "https://openstates.org/person/jack-stewart-4KCpc6i0cBGXKKQt1zT1lg/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

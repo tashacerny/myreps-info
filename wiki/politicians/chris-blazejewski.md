@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/blazejewski.jp
 openstates_id: ocd-person/a9ba95ac-22f3-4aeb-8fdd-eb236675d8d4
 contact:
   website: "https://openstates.org/person/chris-blazejewski-5AGyJ0iMEbzhasSX8b8GkW/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

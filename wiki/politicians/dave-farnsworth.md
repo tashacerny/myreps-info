@@ -13,5 +13,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/56leg/Senate/FARNSWORT
 openstates_id: ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2
 contact:
   website: "https://openstates.org/person/dave-farnsworth-1AANjO7VlyIVcVXHNANqQE/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

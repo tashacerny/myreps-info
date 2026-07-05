@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist04/hig
 openstates_id: ocd-person/63d2956a-a0be-40db-a0e3-6c32743951ab
 contact:
   website: "https://openstates.org/person/brad-von-gillern-32MTb1ECuhjOUtZyl6MBHH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

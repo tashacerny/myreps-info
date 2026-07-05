@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/36B.gif?v=112221"
 openstates_id: ocd-person/372ff500-488c-4bf6-9557-6b5824c6e193
 contact:
   website: "https://openstates.org/person/brion-curran-1g8UeVvnV3PnZWYIMmMydX/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/561892b1-c618-43cb-9767-9237514f0a92
 contact:
   website: "https://openstates.org/person/tony-hartsook-2cSZLAqkUsWRU9XPo5dON8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

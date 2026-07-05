@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18043"
 openstates_id: ocd-person/37952941-d329-4c96-8458-654fa495ec76
 contact:
   website: "https://openstates.org/person/jane-bloomingdale-1gskB6hYen2HnyMHvudAj0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

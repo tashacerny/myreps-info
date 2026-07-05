@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/evans/PublishingImages/member_phot
 openstates_id: ocd-person/8334f7e1-d712-44b4-8570-d0d0a6d131d3
 contact:
   website: "https://openstates.org/person/paul-evans-3zaCUDxjd2QfaD3L1V0zDf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

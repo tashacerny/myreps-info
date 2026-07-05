@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1766.jpg?1703415645
 openstates_id: ocd-person/431a823e-0268-4921-a62d-5f698211e706
 contact:
   website: "https://openstates.org/person/dan-laughlin-22cbE6mRUoG9cgjb76j18w/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/444/Low"
 openstates_id: ocd-person/dfacde1f-3324-4ebe-bc96-ae473548e951
 contact:
   website: "https://openstates.org/person/brad-overcash-6o4HxSLT86q2Pi2pXpLG7t/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

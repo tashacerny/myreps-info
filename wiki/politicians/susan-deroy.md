@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/2024-07/susan-dero
 openstates_id: ocd-person/09972c73-4e4f-471a-9888-558053aace85
 contact:
   website: "https://openstates.org/person/susan-deroy-I615DcPHeIvefxkr4u4En/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

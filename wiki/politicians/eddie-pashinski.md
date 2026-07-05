@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1112.jpg?1703415645
 openstates_id: ocd-person/c1cb6f95-37c8-4e25-802e-80387e70ad74
 contact:
   website: "https://openstates.org/person/eddie-pashinski-5tgULs86gk6ijWzBwJnWU8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

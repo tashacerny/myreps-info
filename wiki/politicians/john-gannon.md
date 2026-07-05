@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/di
 openstates_id: ocd-person/048117e1-cf54-4ebf-9afc-f244d023e039
 contact:
   website: "https://openstates.org/person/john-gannon-8UxprnSPYUhHZRLrEGjfN/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

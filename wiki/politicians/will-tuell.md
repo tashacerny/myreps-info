@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/76a9907f-f257-4621-b176-8e911bb8cf35
 contact:
   website: "https://openstates.org/person/will-tuell-3buaJdzHLGRrT4UQqQOo2H/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

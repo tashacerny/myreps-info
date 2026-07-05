@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/d9c1cb89-9943-4afd-9353-8c771dcac356
 contact:
   website: "https://openstates.org/person/craig-snow-6cttlrv99CLsml1Ihjzpna/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

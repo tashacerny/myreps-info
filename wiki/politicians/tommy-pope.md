@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1484090731.jpg"
 openstates_id: ocd-person/7a31b7ee-6b6c-487b-bc69-c3c323357c05
 contact:
   website: "https://openstates.org/person/tommy-pope-3iZmghSkJYVGNmg5TQ5sfd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

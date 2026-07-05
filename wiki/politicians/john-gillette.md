@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/
 openstates_id: ocd-person/fd68e4c2-0463-477c-81ea-e2e36273e12b
 contact:
   website: "https://openstates.org/person/john-gillette-7iAzhfDK2J1fR2UlliMSux/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3975.jpg?v=1"
 openstates_id: ocd-person/2609ba13-abf1-40b5-9f4c-a4c1135e56e2
 contact:
   website: "https://openstates.org/person/lacey-hull-19m9WUYNTAmHtYKajz0Lgo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

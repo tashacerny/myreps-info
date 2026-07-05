@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep40.jpg"
 openstates_id: ocd-person/dcf2c7e1-e124-424c-ac0c-8d1e6600e970
 contact:
   website: "https://openstates.org/person/dustin-miller-6ivGJEYmhS9SVISR5YaemG/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

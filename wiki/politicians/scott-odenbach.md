@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Scott
 openstates_id: ocd-person/18602d7b-fb7f-495b-bf94-2b0da2aae00f
 contact:
   website: "https://openstates.org/person/scott-odenbach-jzlgg3oYKm5M2FSrDPy51/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

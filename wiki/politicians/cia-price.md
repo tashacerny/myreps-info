@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/58b46062-f618-4b27-b0ec-3bbb57db839b
 contact:
   website: "https://openstates.org/person/cia-price-2hNkwB3Bc3uTaEOQbUlnAZ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

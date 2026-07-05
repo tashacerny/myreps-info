@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/df050043-0b4f-4b51-8df0-ffd6cd6cd5b2
 contact:
   website: "https://openstates.org/person/dan-woog-6mpZbxgBUrVGzDtiplMjNC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

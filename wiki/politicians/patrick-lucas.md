@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/lucas_patric
 openstates_id: ocd-person/9a7c2d4d-002a-439e-b095-e7b86329fc1c
 contact:
   website: "https://openstates.org/person/patrick-lucas-4hVZB1NkT1JojxMfFWqYSC/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

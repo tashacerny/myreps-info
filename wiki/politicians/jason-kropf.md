@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/kropf/PublishingImages/member_phot
 openstates_id: ocd-person/47e270fe-abc4-4f5d-9bad-2b7979442f5d
 contact:
   website: "https://openstates.org/person/jason-kropf-2BdwEM6hVkPhmhpyuQFAtx/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

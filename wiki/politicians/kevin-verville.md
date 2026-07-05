@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/9d10ccec-b571-4eea-b025-9ed7634b6516
 contact:
   website: "https://openstates.org/person/kevin-verville-4mNTKuFajtp7mjo7YO9jVe/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

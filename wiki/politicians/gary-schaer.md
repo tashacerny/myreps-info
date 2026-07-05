@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/schaer_color.jpg"
 openstates_id: ocd-person/93a1a3ce-eb52-4e71-b01c-346f41b6bde4
 contact:
   website: "https://openstates.org/person/gary-schaer-4UZjz58DAzG24TkH915Ilo/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

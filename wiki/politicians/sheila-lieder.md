@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/b44045eb-e2fb-4723-9e91-d68fb55c0bf7
 contact:
   website: "https://openstates.org/person/sheila-lieder-5U7zUKGZgGLEWI8Kd1HZeJ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

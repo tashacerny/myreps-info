@@ -13,5 +13,5 @@ photo_url: "https://jaclynforgeorgia.com/wp-content/uploads/sites/127/2024/02/ph
 openstates_id: ocd-person/37602f7b-947e-4067-8f2e-b2fec620643e
 contact:
   website: "https://openstates.org/person/jaclyn-ford-1gUXA2mvMAsGGc4Anw0UeM/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

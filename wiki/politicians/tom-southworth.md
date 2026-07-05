@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4febed48-b7fd-4b44-98e8-fb20de52968e
 contact:
   website: "https://openstates.org/person/tom-southworth-2QoDBhhqHhC3mKbfwtOIs2/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

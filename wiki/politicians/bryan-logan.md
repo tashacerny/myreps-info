@@ -12,5 +12,5 @@ photo_url: "https://nondoc.com/wp-content/uploads/2025/05/Bryan-Logan-mug-croppe
 openstates_id: ocd-person/a3c36ebe-151f-4632-ab04-31963f55f9d8
 contact:
   website: "https://openstates.org/person/bryan-logan-4z13rFnvRQ3EWNEGAVq8Ay/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

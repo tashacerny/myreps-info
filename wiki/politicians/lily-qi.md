@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/qi01.jpg"
 openstates_id: ocd-person/832c64da-9793-49a2-8231-c62d0cd7078a
 contact:
   website: "https://openstates.org/person/lily-qi-3zWHXaaZwVqdh7PDWTmI4w/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist29/hig
 openstates_id: ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede
 contact:
   website: "https://openstates.org/person/eliot-bostar-2sAvmE0zaInMhz7i0sdzLi/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

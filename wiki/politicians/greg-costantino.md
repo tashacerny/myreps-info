@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/costantino.jpg
 openstates_id: ocd-person/4b45cbc5-99f3-4a08-a154-cac0cc90ae1a
 contact:
   website: "https://openstates.org/person/greg-costantino-2I2JvNKIH9ejNNNIIheG2k/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

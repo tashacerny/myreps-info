@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/6616e5c7caac657d5a7f96
 openstates_id: ocd-person/6b27dd86-5c03-4223-957c-9efd12c70e04
 contact:
   website: "https://openstates.org/person/homar-gomez-3GCOdyAv4VVqvBWUwWA7nQ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

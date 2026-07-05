@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/a8ed53f7-00fb-428b-a629-7532efaf902d
 contact:
   website: "https://openstates.org/person/beau-baird-58lAXy5zzirLh51OAfprjx/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

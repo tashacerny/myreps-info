@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/justin-pizzulli/heads
 openstates_id: ocd-person/9892fcd7-9432-425f-85a6-7599fbe3177d
 contact:
   website: "https://openstates.org/person/justin-pizzulli-4du0RsRfAwA5T4qpaKcSJZ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

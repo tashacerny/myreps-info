@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Chris
 openstates_id: ocd-person/a05c5eab-d5d5-475d-a66a-39b8b514b8e6
 contact:
   website: "https://openstates.org/person/christine-seibert-4saz61egXOFrSafYRaPakQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

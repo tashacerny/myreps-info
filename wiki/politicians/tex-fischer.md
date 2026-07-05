@@ -12,5 +12,5 @@ photo_url: "https://ogden_images.s3.amazonaws.com/www.salemnews.net/images/2024/
 openstates_id: ocd-person/16e469e4-8014-4ba2-8fc4-91804d6ef491
 contact:
   website: "https://openstates.org/person/tex-fischer-hCDQIq4cAaCTXnIlMnTLF/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

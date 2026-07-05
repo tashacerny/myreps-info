@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/dcba8890-86e8-4a0c-a4a5-77b2fa98a267
 contact:
   website: "https://openstates.org/person/j-d-prescott-6iVYaoXSAom45oLe5baXBf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

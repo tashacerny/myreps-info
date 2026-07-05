@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/3474.jpg"
 openstates_id: ocd-person/2d0faef3-45a8-489c-84bd-9491c8ce0315
 contact:
   website: "https://openstates.org/person/phil-fortunato-1N1oxx3leEJyvDM5M4tOZp/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

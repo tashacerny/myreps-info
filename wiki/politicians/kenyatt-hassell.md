@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/kenyatte-hasse
 openstates_id: ocd-person/63c5bc01-757d-474a-9c75-286da0076e3e
 contact:
   website: "https://openstates.org/person/kenyatte-hassell-32GbWYXeY4tmRfvbaIkCsA/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

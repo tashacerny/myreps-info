@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/061/headshot/
 openstates_id: ocd-person/5390ebc9-7fbe-4be9-91c4-b28b59f7fd2f
 contact:
   website: "https://openstates.org/person/charles-fall-2XgaiZoCPsSllXB59g33Sp/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

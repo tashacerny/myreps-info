@@ -12,5 +12,5 @@ photo_url: "https://sdlegislature.gov/inc/img/Legislators/MAY_2017.jpg"
 openstates_id: ocd-person/2b581087-9814-4f0d-80e5-b29a6e7aee67
 contact:
   website: "https://openstates.org/person/liz-may-1JmulsPIsyP3A7fnfSEtlv/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

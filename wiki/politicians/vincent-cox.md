@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep85.jpg"
 openstates_id: ocd-person/fe1e7481-9bbb-4e58-8d19-9be18558f12b
 contact:
   website: "https://openstates.org/person/vincent-cox-7jVy57oCb5USJiTGR8k3Sd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

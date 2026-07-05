@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Miche
 openstates_id: ocd-person/5822cf27-1b1f-40bd-ace3-a06a7f304820
 contact:
   website: "https://openstates.org/person/michelle-mccane-2gJEQBhM72711o5tYyS4g4/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/rumpf_brian_2020.
 openstates_id: ocd-person/d6731a7f-a22e-48dd-8bba-fd2c155c16c3
 contact:
   website: "https://openstates.org/person/brian-rumpf-6WexXsT1Jh1ymkLfdBe2pH/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

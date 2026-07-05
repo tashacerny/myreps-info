@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Nick_
 openstates_id: ocd-person/4b82405d-205f-47f7-8d9c-a7af23e9bada
 contact:
   website: "https://openstates.org/person/nick-burkes-2ITwsDpQZWU8lCeKJgBRdK/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

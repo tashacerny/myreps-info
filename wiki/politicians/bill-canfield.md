@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Canfield,Bill%
 openstates_id: ocd-person/c66f104c-310a-40a1-9222-6d366b42e576
 contact:
   website: "https://openstates.org/person/bill-canfield-62REgwjhkCxcikyPyMtRJ8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

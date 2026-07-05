@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/f87d7b76-3065-48f4-bc3b-50bf00926180
 contact:
   website: "https://openstates.org/person/becky-beard-7YtRRYD8gG3Wu4qgJvWCq8/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

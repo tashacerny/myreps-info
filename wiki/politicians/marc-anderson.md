@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Marc_
 openstates_id: ocd-person/8d16f666-803c-4946-8adc-32f1e80d79d9
 contact:
   website: "https://openstates.org/person/marc-anderson-4IEPXiZlasuijIBYqWyCrp/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

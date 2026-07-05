@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/cont
 openstates_id: ocd-person/bdde38b3-3210-4b2d-890b-bbf2d2bf314a
 contact:
   website: "https://openstates.org/person/steve-woodcock-5mH6WmZLeiqIwD035Zzmo6/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

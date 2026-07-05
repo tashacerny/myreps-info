@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/albers-
 openstates_id: ocd-person/ac1cac30-3fec-4c56-b172-b483db465a6b
 contact:
   website: "https://openstates.org/person/john-albers-5ElmaOW3CImOIZbmfNs1gR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

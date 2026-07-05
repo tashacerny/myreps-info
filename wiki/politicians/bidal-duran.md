@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/02A.gif?v=112221"
 openstates_id: ocd-person/8a84172a-6b96-4b28-a9ab-bf11625528a3
 contact:
   website: "https://openstates.org/person/bidal-duran-4DNJ0kdFAekDTAxu6iqNQR/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

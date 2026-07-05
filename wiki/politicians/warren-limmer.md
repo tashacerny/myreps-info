@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/37Limmer.jpg"
 openstates_id: ocd-person/dc676c57-0779-4d0e-9ba4-a07d7034dfa1
 contact:
   website: "https://openstates.org/person/warren-limmer-6htZjxdaS5rxPrJWcDfQvZ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

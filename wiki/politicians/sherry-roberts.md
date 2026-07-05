@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/roberts.jpg"
 openstates_id: ocd-person/6c7285bd-fdd3-4629-be6f-4a01d19e9c25
 contact:
   website: "https://openstates.org/person/sherry-roberts-3IdVVZ1btf157QZxhcsQTd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

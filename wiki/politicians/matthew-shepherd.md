@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/380_sm.jpg"
 openstates_id: ocd-person/2774b34a-6b89-4ee9-b8af-32b7a7d8e174
 contact:
   website: "https://openstates.org/person/matthew-shepherd-1CS22i7AAfeTDRQ7wN3WGy/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

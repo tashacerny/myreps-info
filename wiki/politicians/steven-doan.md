@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house69.
 openstates_id: ocd-person/a41c47ce-cbfa-49e3-8a21-5666f24ef96a
 contact:
   website: "https://openstates.org/person/steven-doan-4zffHWiUnRc4XCxTpWecqQ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

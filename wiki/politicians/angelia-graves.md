@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Willia
 openstates_id: ocd-person/f747c790-f609-4da1-b125-73f1807e1430
 contact:
   website: "https://openstates.org/person/angelia-graves-7WbuIn4ZKSuY7xXn4NkTxo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

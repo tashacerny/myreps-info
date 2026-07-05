@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/ab04d84a-c320-4d82-b211-d36206213195
 contact:
   website: "https://openstates.org/person/chris-pope-5ChtvQQxOBpINvzMoE4UyL/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

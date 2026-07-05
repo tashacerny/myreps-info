@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4798.jpg"
 openstates_id: ocd-person/313e81ee-19af-4d9d-9186-fbbca7e6d65d
 contact:
   website: "https://openstates.org/person/kevin-chambliss-1UvBmXgNmvpGKdNVDE0Z9Z/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

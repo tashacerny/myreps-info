@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Berbeco,Daisy%
 openstates_id: ocd-person/c7019f00-84e8-405f-9efe-055112cbb4c4
 contact:
   website: "https://openstates.org/person/daisy-berbeco-63WDGI8wq9DXcGt75mVPJU/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

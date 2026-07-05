@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/gunter-
 openstates_id: ocd-person/432ef767-d4c8-4736-b2ac-96397205fb3d
 contact:
   website: "https://openstates.org/person/stan-gunter-22lwsMOu6fmahW4P5R4nHh/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/652.jpg"
 openstates_id: ocd-person/1f837050-2dca-48fa-b429-a562d1c858f8
 contact:
   website: "https://openstates.org/person/mark-schoesler-xSpRkpaJzo3k4julrvV5U/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Berger-Girvalo/images/Berger-Girvalo_HS
 openstates_id: ocd-person/b43c741a-89b2-4e46-abfc-1d75f26189fe
 contact:
   website: "https://openstates.org/person/aimee-berger-girvalo-5U6FGNsLGIdgpexnTnEgu6/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

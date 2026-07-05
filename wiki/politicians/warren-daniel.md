@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/295/Low"
 openstates_id: ocd-person/5397305f-16ba-460d-aa16-3bee6185299b
 contact:
   website: "https://openstates.org/person/warren-daniel-2XjSJUU6S51AbBz1Jqayfz/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

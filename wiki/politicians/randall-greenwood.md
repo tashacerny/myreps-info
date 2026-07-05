@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/abfa3321-4f0f-42a1-81ef-25b5d7bbfd3e
 contact:
   website: "https://openstates.org/person/randall-greenwood-5EW1pQwrHfBPMtcrgSvNKI/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

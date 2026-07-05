@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/KavrosDeGraw/images/KavrosDeGraw_HS.jpg
 openstates_id: ocd-person/2a3c062a-ac41-4295-9c26-195f78369242
 contact:
   website: "https://openstates.org/person/eleni-degraw-1Hh6kIWQ8kOVsydurJ40cU/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

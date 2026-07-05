@@ -13,5 +13,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/0f97edaa-0f48-4c61-82dd-c70aeb05a5ff
 contact:
   website: "https://openstates.org/person/justin-moed-TQJc73XZK2i5f6lJDq8cR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

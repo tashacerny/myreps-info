@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/25d71e57-9def-4149-8257-2bfb3c5e5415
 contact:
   website: "https://openstates.org/person/tom-cormen-19P1aAdx5QQuP8CkQdXXWf/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

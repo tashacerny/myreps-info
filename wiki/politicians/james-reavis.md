@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/6fa7b921-7111-45a9-a5f9-1be6cc8ba2ea
 contact:
   website: "https://openstates.org/person/james-reavis-3OgnTUzfN6iGEH0kbglJVK/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

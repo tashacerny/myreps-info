@@ -13,5 +13,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/64f12acb-0356-4726-ab8e-0c9c1945d5b0
 contact:
   website: "https://openstates.org/person/laurie-pohutsky-34TRfxMdvmNM7i6FrRqpVo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

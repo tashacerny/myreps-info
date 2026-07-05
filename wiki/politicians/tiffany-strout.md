@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/2ffd13d7-b22a-4bea-8bc0-eaa6c0a53c17
 contact:
   website: "https://openstates.org/person/tiffany-strout-1SYIMGBXvC8zM77hjXXUb1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

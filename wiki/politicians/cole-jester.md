@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/77a57e2c-188c-42fd-adad-24066f27ec3c
 contact:
   website: "https://openstates.org/person/cole-jester-3dliTWy2fItmolbbuMKgP6/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

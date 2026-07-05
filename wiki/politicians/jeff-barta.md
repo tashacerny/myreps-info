@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/49d467a4-d6ad-49bb-b498-445117bd1669
 contact:
   website: "https://openstates.org/person/jeff-barta-2FJVZDX7UvVjVgINY99gGP/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

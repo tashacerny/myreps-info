@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/e1d87954-4ee4-4668-9075-c6240dbe8c9b
 contact:
   website: "https://openstates.org/person/kimberly-edwards-6sACYBC3E5c37FWYFdb0JP/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

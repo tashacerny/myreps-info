@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/5938951d-3c45-4913-8612-aa70ba790f88
 contact:
   website: "https://openstates.org/person/dawson-holle-2iMAs6gOJPwN8LKsF2n6LY/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

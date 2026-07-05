@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/0f78413a-b328-4856-ab48-21a5d4d614c0
 contact:
   website: "https://openstates.org/person/michael-edgar-TBqAjhOPJDyCB2qxu2ClU/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

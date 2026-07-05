@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/5dbb7ac2-a4c8-42b8-bfb1-1b012737fa74
 contact:
   website: "https://openstates.org/person/marc-snyder-2qrxofnpEOwvW2FMInJcAu/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

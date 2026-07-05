@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/draper-
 openstates_id: ocd-person/2a66b922-b812-4c45-9786-478187cd5e33
 contact:
   website: "https://openstates.org/person/saira-draper-1I0caLyCyr23JxDithOQkN/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

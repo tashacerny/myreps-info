@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HLUTA.jpg"
 openstates_id: ocd-person/a564eb5c-5c29-43ef-a40f-241efb70ef8d
 contact:
   website: "https://openstates.org/person/tara-lujan-525qxghw2XPEfjSI9SVb7V/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

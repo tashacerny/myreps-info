@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/47233e65-87c6-4a8b-ba37-271c2413615d
 contact:
   website: "https://openstates.org/person/jessica-lamontagne-2AEYoycjNmC9ly2WBkJKPN/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

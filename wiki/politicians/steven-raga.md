@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/030/headshot/
 openstates_id: ocd-person/b3a5dc39-1c55-48b7-986c-d36a3db0917e
 contact:
   website: "https://openstates.org/person/steven-raga-5SzQLDd4PMkANIoG6xYW8k/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

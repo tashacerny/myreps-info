@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/49453d65-a175-4c22-bc1f-878d02ea3d45
 contact:
   website: "https://openstates.org/person/beth-richards-2EG57MlLzCylXjVVId7P6r/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

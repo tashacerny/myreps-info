@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/mcclammy.png"
 openstates_id: ocd-person/c4b563a3-2b20-4c2d-8f54-2b7ed6a3af3f
 contact:
   website: "https://openstates.org/person/penni-mcclammy-5zBOFjNQROc6qOiubbhj95/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

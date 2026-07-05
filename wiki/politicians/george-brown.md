@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house77.
 openstates_id: ocd-person/bb3e5fee-3bda-4a5d-95ee-dc31ff9defed
 contact:
   website: "https://openstates.org/person/george-brown-5hK4Mui6vOdOkugzFJlRtN/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

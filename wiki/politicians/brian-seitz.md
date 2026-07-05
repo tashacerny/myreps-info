@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2240"
 openstates_id: ocd-person/83283f83-e8d3-4e03-949c-1bdfae4bfd7f
 contact:
   website: "https://openstates.org/person/brian-seitz-3zUO4VvrqkOzvLDjdqyFGZ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

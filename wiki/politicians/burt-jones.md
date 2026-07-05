@@ -12,5 +12,5 @@ photo_url: "https://ltgov.georgia.gov/sites/ltgov.georgia.gov/files/styles/4_3_7
 openstates_id: ocd-person/ddfab174-3a42-42c0-946e-0ce3169c4d1b
 contact:
   website: "https://openstates.org/person/burt-jones-6krs1XFY2pnLXsZDuKtDhr/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

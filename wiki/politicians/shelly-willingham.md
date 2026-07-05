@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/700/Low"
 openstates_id: ocd-person/f0d9b7f4-abb7-4111-b640-766a1f81d653
 contact:
   website: "https://openstates.org/person/shelly-willingham-7KTegDdeWs23EtxbI9juS3/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

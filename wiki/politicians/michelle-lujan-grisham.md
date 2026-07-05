@@ -13,5 +13,5 @@ photo_url: "https://www.sos.state.nm.us/wp-content/uploads/2019/06/Michelle-Luja
 openstates_id: ocd-person/cb607080-ff7b-48c8-acf4-0180e6e2f999
 contact:
   website: "https://openstates.org/person/michelle-lujan-grisham-6BlVwxb136W3ej84I6n2vh/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

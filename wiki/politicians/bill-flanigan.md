@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/flanigan_bil
 openstates_id: ocd-person/84ae4ee5-01d1-402d-8267-787a78dd58e5
 contact:
   website: "https://openstates.org/person/bill-flanigan-42Me45GvK98Z49jq36Tuh3/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

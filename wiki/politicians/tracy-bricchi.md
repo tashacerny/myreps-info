@@ -12,5 +12,5 @@ photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Tracy-Bricchi-1-1
 openstates_id: ocd-person/31497c82-3d45-49e4-9232-1c435a5c72e3
 contact:
   website: "https://openstates.org/person/tracy-bricchi-1V0CrBMOl5I7tgYFyDK8Dj/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

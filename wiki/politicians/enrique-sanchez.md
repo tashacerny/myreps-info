@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/representatives/Pictures/Sanchez.jpg"
 openstates_id: ocd-person/e70e3449-7587-4a64-a940-922d543f5a2d
 contact:
   website: "https://openstates.org/person/enrique-sanchez-71ziZQCDjPJssbqIZrgqgH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

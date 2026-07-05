@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/roberts
 openstates_id: ocd-person/9007dcd9-3246-4cf3-9185-7478b3a9ad7a
 contact:
   website: "https://openstates.org/person/shea-roberts-4NmUHCIn0gQej1O32KCYR8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

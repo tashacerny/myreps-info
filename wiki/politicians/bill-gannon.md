@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/d3c437bd-532d-458b-961f-4f6dccec1e4b
 contact:
   website: "https://openstates.org/person/bill-gannon-6Rb3GlTM1R2YhWv0ktOqT5/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

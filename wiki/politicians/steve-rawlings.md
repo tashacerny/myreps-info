@@ -12,5 +12,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate11
 openstates_id: ocd-person/b702771e-135c-4444-b148-a321ee8088b2
 contact:
   website: "https://openstates.org/person/steve-rawlings-5ZKinEPXPGALSqLg0CUmwM/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

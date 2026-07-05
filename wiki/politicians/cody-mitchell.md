@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1344033930.jpg"
 openstates_id: ocd-person/16726551-937d-43ca-a13b-c94c608d1ba3
 contact:
   website: "https://openstates.org/person/cody-mitchell-gM6pdzxpyXpokbYlFWzND/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

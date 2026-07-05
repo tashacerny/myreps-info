@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_poskin_mari_lynn_1.
 openstates_id: ocd-person/46d9caea-ab2c-4a6e-a08c-ebc927403dc8
 contact:
   website: "https://openstates.org/person/mari-lynn-poskin-29gzeUbfQaZGSKStiNxUIS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/29109.jpg"
 openstates_id: ocd-person/80548fd7-06a0-44f1-b121-7caae4819ed6
 contact:
   website: "https://openstates.org/person/amy-walen-3u9f5ZHKj4d6lVstbOZfi2/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

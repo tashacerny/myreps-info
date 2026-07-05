@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/moore-a
 openstates_id: ocd-person/b001a55f-61fa-4e62-85fd-ac6c282f2711
 contact:
   website: "https://openstates.org/person/angela-moore-5M7OuOU2OIWd1tvj100oJF/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

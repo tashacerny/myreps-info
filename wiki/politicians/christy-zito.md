@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/adb43503-bebd-4a83-8fa6-e6416576de2f
 contact:
   website: "https://openstates.org/person/christy-zito-5Hm1hTJ3pmdn0rXvkATlJX/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

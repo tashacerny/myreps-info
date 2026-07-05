@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/c92ba4ff-72aa-4985-b8c0-bb3178187c81
 contact:
   website: "https://openstates.org/person/kent-marmon-67bP0O7FiqFW2yh2ioJ79l/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

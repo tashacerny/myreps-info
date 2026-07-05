@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rep_h
 openstates_id: ocd-person/d951217c-00c1-4957-842b-02ecf79ee70d
 contact:
   website: "https://openstates.org/person/henry-helgerson-6c4PX5iNgQqxeq8NFIiDHR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

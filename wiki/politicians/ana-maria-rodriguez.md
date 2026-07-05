@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s40_
 openstates_id: ocd-person/afd55a58-b8f6-4dd7-9d93-a2207b65e425
 contact:
   website: "https://openstates.org/person/ana-maria-rodriguez-5Ln9uBYMxYvKnM41eVuMI1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

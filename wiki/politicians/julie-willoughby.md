@@ -12,5 +12,5 @@ photo_url: "https://azleg.gov/alisImages/MemberPhotos/56leg/House/WILLOUGHBY.jpg
 openstates_id: ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab
 contact:
   website: "https://openstates.org/person/julie-willoughby-6NW5wwiuQlOyLYwj79VnGF/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

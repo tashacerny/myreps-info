@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/riche
 openstates_id: ocd-person/f34606de-25d3-4e18-991e-b21727563eb6
 contact:
   website: "https://openstates.org/person/riche-colcombe-7P38XjK3kx5mozKyPJ6wOU/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

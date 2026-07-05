@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Sibilia,Laura.
 openstates_id: ocd-person/57c62cd8-8701-4af6-9627-b89e735b5632
 contact:
   website: "https://openstates.org/person/laura-sibilia-2fctip8QzTP739PlMwh2ck/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

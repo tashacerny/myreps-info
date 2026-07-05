@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/3d1f7d21-9a20-4245-b51f-03ca0d2b14eb
 contact:
   website: "https://openstates.org/person/jose-cambrils-1rKvBZSupfIbmur9GoEHTn/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

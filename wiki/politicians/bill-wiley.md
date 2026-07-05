@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/ec0c5f08-2974-4f9c-896c-34c9d5d33fac
 contact:
   website: "https://openstates.org/person/bill-wiley-7BPqFqKB2dkdFssGTNCISi/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

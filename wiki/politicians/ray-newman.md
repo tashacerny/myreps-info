@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/candidate_d
 openstates_id: ocd-person/f68b34d8-19af-449e-a4cc-3d2729bb9e23
 contact:
   website: "https://openstates.org/person/ray-newman-7VDjFvtmf8s0w1xZAu8qTD/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

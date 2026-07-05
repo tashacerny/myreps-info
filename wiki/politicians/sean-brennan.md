@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/sean-p-brennan/headsh
 openstates_id: ocd-person/993f089c-60bf-418d-9704-fa92e4f01c71
 contact:
   website: "https://openstates.org/person/sean-brennan-4fAdDFyXlwZDoKW8Sn824X/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

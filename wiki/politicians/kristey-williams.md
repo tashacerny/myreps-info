@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_williams_kristey_1.
 openstates_id: ocd-person/81803637-3bf0-4bbe-9ae4-7724488955b7
 contact:
   website: "https://openstates.org/person/kristey-williams-3wMbOQRUpg2GHJ6pZpb74x/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

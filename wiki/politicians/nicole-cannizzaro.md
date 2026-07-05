@@ -13,5 +13,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/
 openstates_id: ocd-person/d2ca0a59-3bf1-4e1c-b4d7-9da33a4c5152
 contact:
   website: "https://openstates.org/person/nicole-cannizzaro-6Pkij3bDNzC5lWDLrg60iQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

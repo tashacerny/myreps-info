@@ -12,5 +12,5 @@ photo_url: "https://portal.ct.gov/-/media/SOTS/Headshots/Secretary-Stephanie-Tho
 openstates_id: ocd-person/e54205b6-c824-4f64-9a68-301d01318457
 contact:
   website: "https://openstates.org/person/stephanie-thomas-6ybPjtMHkGRkqaSKm8cclD/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

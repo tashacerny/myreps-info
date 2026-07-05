@@ -13,5 +13,5 @@ photo_url: "http://www.leg.state.nv.us/Session/36th2025Special/legislators/Assem
 openstates_id: ocd-person/61389b89-1169-49b3-a17b-c904f2111b4e
 contact:
   website: "https://openstates.org/person/heidi-kasama-2xS7mD45WRBqKIwBAXtuRC/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

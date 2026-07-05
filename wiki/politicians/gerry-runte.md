@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/7dea9101-48ec-4f1a-871e-a4f1c98b8914
 contact:
   website: "https://openstates.org/person/gerry-runte-3pbEkz6kN8AwWW1y807ifk/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

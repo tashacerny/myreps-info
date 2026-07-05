@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/ba1cff78-9a39-4e6e-a998-c8dc324d7b80
 contact:
   website: "https://openstates.org/person/mark-meirath-5fBp8xijfftvqzLYzZMmG0/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

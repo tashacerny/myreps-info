@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownGary.jpg"
 openstates_id: ocd-person/472c50ea-da65-42c3-a9b3-3639a9881a7f
 contact:
   website: "https://openstates.org/person/gary-brown-2AIhsUAeCdDOrh4Z8reHh1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/7f03a30f-5a77-49b2-8c92-57f7a4238052
 contact:
   website: "https://openstates.org/person/matt-moonen-3rfgdCyXiyxzoQHRjkplNS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

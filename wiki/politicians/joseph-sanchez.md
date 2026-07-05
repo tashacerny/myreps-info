@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HSAJO.jpg"
 openstates_id: ocd-person/0ed175a3-3c71-4b42-bf53-9435d0f93f52
 contact:
   website: "https://openstates.org/person/joseph-sanchez-RxcBJZ4w7ycnfuqspPqmw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

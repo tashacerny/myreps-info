@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/76ab2f9a-14e8-4eb5-ae0e-1a26e4a3a04c
 contact:
   website: "https://openstates.org/person/reagan-paul-3bvKG8nGsUlm3copsj0cvM/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

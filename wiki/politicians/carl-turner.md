@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_turner_carl_1.jpg"
 openstates_id: ocd-person/71b474cb-1732-41fc-b525-4d53911cbbbe
 contact:
   website: "https://openstates.org/person/carl-turner-3SYbIpptl5nfNZPgzUkqbe/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

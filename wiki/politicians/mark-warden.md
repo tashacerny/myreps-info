@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mark_
 openstates_id: ocd-person/01358592-fa6d-49bf-a933-ea2f223572d7
 contact:
   website: "https://openstates.org/person/mark-warden-2HS0tZ2hOh7n23IHyplrz/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

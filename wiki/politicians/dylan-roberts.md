@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad
 contact:
   website: "https://openstates.org/person/dylan-roberts-2JD6vNmO1kveCTJNRxnEUf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/ackerman.jpg"
 openstates_id: ocd-person/7c4d8cad-55e5-474d-ac05-8db9a59da7fd
 contact:
   website: "https://openstates.org/person/mia-ackerman-3mYUIr0GEhNaX1ruIXMvIT/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

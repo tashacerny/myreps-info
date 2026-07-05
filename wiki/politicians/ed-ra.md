@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/019/headshot/
 openstates_id: ocd-person/42d68829-d969-44d1-9e22-042a6e787dc5
 contact:
   website: "https://openstates.org/person/ed-ra-227XAGN3X0vxV8o5gP4dNd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

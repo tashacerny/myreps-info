@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house23.
 openstates_id: ocd-person/817df40b-8e76-460d-81cf-63277866268a
 contact:
   website: "https://openstates.org/person/steve-riley-3wLZOvUj5Z0jZTpJ9ifo8w/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

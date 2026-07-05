@@ -12,5 +12,5 @@ photo_url: "https://lh3.googleusercontent.com/9PpyqvnxL-_EDZreC-j_BhwrWNQfFmzOa0
 openstates_id: ocd-person/5afc747c-0880-4f38-9ae3-28a966cd7a64
 contact:
   website: "https://openstates.org/person/joe-hamblen-2lggGQq2CvF3xenpZ9kVOO/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

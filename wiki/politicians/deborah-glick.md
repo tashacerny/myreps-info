@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/066/headshot/
 openstates_id: ocd-person/5a9c40ed-69dc-4004-b34a-cc943428f8b1
 contact:
   website: "https://openstates.org/person/deborah-glick-2kyiUCQQudrsiTU9rUzjYf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

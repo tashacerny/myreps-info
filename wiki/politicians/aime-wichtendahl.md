@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37390"
 openstates_id: ocd-person/e0883366-eaba-4dc1-9a66-4c35cb1d0290
 contact:
   website: "https://openstates.org/person/aime-wichtendahl-6pgWYn0Un08xa2CpFEYrfU/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

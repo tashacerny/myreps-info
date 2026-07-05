@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/fee23b32-9f92-4951-889e-6d09749a78b9
 contact:
   website: "https://openstates.org/person/owen-henry-7kxRDawwWIu0If7xPXlBqz/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/06Heintzeman.jpg"
 openstates_id: ocd-person/4d922135-f178-4e50-8439-ebbf47cf025c
 contact:
   website: "https://openstates.org/person/keri-heintzeman-2MNBorSMHKG1ZRQ17BytQ4/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

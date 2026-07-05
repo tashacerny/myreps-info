@@ -13,5 +13,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/
 openstates_id: ocd-person/189d270a-96e5-45af-a2b8-bbcc2ad225c1
 contact:
   website: "https://openstates.org/person/carrie-buck-kRdLx6xW0V7Jmx4hiWJyD/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

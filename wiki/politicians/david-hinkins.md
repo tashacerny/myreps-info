@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/HINKIDP.jpg"
 openstates_id: ocd-person/78b7c95c-45a7-40cb-a82c-681db75f9529
 contact:
   website: "https://openstates.org/person/david-hinkins-3fn4KozPRusnKR1wGzdNc1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

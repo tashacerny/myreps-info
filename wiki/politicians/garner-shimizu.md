@@ -13,5 +13,5 @@ photo_url: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUEhycIE3vAcgX
 openstates_id: ocd-person/9019d5ea-bfe8-4cca-9254-7960319a15bc
 contact:
   website: "https://openstates.org/person/garner-shimizu-4NuhWSu8WHZ4xCtawHmOdQ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

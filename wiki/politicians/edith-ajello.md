@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/Pictures/ajello.jpg"
 openstates_id: ocd-person/e073b501-75f0-4fc6-9e61-392b9931f070
 contact:
   website: "https://openstates.org/person/edith-ajello-6pX9tBC2pXoFYtuOlRVjWa/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

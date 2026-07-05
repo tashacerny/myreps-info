@@ -12,5 +12,5 @@ photo_url: "https://media.sharethetrail.net/prod_d_1/images/silas-miller_5_sq.he
 openstates_id: ocd-person/38e5e1b5-72d2-4968-be98-032e8320d475
 contact:
   website: "https://openstates.org/person/silas-miller-1jMcqNiaedTarsydQqEgpZ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

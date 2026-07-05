@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0874999895.jpg"
 openstates_id: ocd-person/a02e7674-1693-446b-8863-3d7df87a20fa
 contact:
   website: "https://openstates.org/person/lonnie-hosey-4sG0MQgMGpPT5EwKvRsglG/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

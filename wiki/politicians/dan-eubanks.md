@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/eubanks.jpg"
 openstates_id: ocd-person/48567f29-ec70-4ff5-bda5-873f2e42933b
 contact:
   website: "https://openstates.org/person/dan-eubanks-2CUyYHao5ejP5Aygg6t9sR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

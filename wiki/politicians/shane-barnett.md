@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/5472abbae4b08591450395
 openstates_id: ocd-person/9b8df60b-26ba-4cdc-b862-87b15f81fdc1
 contact:
   website: "https://openstates.org/person/shane-barnett-4jWgbAtT781IIdRLeTWFvd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

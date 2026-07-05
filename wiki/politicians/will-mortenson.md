@@ -13,5 +13,5 @@ photo_url: "https://www.gannett-cdn.com/-mm-/7d2e32043f35f170234758f26dd14f0d4c0
 openstates_id: ocd-person/46a0838c-0bb9-446a-8828-21a3f2124d1b
 contact:
   website: "https://openstates.org/person/will-mortenson-29Goi6hOkKPRrsbmAzUGVv/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Aboul
 openstates_id: ocd-person/e60aed5e-cbb4-4b27-ab1b-2ce1dd787dac
 contact:
   website: "https://openstates.org/person/aboul-khan-705EC8WNj2OZuDVPiKC9Ua/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

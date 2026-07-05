@@ -13,5 +13,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/f35b571a-d734-4086-b358-ff21382d802f
 contact:
   website: "https://openstates.org/person/bryan-townsend-7PCsRIi9bRgHH8wVTHrj3v/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

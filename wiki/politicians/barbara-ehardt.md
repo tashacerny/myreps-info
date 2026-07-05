@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/c8c374b3-22b8-4221-a65a-6a4616cb107d
 contact:
   website: "https://openstates.org/person/barbara-ehardt-66pmuoexho2VWqm3x715q9/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

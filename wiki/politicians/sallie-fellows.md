@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/2260bb0a-065f-4d26-a814-f70aa2c16705
 contact:
   website: "https://openstates.org/person/sallie-fellows-12rwb6BeIlRoSIBCnkxo3R/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/817554/817
 openstates_id: ocd-person/77bd81c9-3436-4635-a945-11f1cf37ead7
 contact:
   website: "https://openstates.org/person/chris-huff-3dwgtRF2YiiYMbUSt5AGQh/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

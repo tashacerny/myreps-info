@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/hopson.jpg"
 openstates_id: ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e
 contact:
   website: "https://openstates.org/person/briggs-hopson-7NVr1aEJVPp8tnPiIJETeA/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

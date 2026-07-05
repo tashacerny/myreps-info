@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb
 contact:
   website: "https://openstates.org/person/byron-pelton-1N0bbUkqSQzLxxgZGsjc6d/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

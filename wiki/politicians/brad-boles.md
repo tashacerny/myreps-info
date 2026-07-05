@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Boles,%20Brad.jpg"
 openstates_id: ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57
 contact:
   website: "https://openstates.org/person/brad-boles-5n6ZsB5dMOLbg9M8aZdZ1L/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

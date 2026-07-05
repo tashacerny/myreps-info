@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/cc0182c9-3cfe-46b1-8fd2-03e90385c6d5
 contact:
   website: "https://openstates.org/person/bob-hallstrom-6Cx7lC5ixt71d6Mby6urdl/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

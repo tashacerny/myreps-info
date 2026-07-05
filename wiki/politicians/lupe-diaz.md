@@ -12,5 +12,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DIAZ.jpg"
 openstates_id: ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5
 contact:
   website: "https://openstates.org/person/lupe-diaz-5jMT5DnBxQnibCSE0xDssn/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

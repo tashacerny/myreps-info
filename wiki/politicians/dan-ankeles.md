@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/eb5efd36-8020-46f1-a6ef-6dac6873f692
 contact:
   website: "https://openstates.org/person/dan-ankeles-7A8bdGBIPnp4YM9XlTTU1K/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

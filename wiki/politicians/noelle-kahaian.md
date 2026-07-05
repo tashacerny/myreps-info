@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/nkaha
 openstates_id: ocd-person/fdf78e39-985f-48c3-8ed3-ccf15946871f
 contact:
   website: "https://openstates.org/person/noelle-kahaian-7jEBto75x9cM9M9vdKWZpP/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

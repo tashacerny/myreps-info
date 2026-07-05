@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/678132/678
 openstates_id: ocd-person/1dcb1bfa-861d-4d16-8d7d-02364e1b4def
 contact:
   website: "https://openstates.org/person/levi-dean-uDb7MATJXDfquOPAZw75z/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

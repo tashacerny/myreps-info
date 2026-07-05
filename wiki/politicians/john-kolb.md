@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-KolbJohn.jpg"
 openstates_id: ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe
 contact:
   website: "https://openstates.org/person/john-kolb-58BzqzY0rd2ZDUDFZ2TOpi/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

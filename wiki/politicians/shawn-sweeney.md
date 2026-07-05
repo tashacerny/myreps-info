@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/6650b6e279073165095c1c
 openstates_id: ocd-person/e9419bea-beed-4507-bb1d-250a32ea800f
 contact:
   website: "https://openstates.org/person/shawn-sweeney-769C7upSfkjVe6i1M3i66p/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

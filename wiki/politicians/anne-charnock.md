@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/charnock_an
 openstates_id: ocd-person/37bf9de9-84b5-4983-8742-a5c3eeeca64a
 contact:
   website: "https://openstates.org/person/anne-charnock-1hC97YT1MaX83RfAa0IKvy/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

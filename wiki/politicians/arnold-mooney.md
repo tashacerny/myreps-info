@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Mooney_43.png"
 openstates_id: ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275
 contact:
   website: "https://openstates.org/person/arnold-mooney-4WHlHGPuMcQyn8fQWVTKX/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

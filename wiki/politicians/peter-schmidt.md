@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/16654889-3b48-44d6-a6d3-8da5d7a434f1
 contact:
   website: "https://openstates.org/person/peter-schmidt-gG7Irj1FmsQtCrulShOld/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

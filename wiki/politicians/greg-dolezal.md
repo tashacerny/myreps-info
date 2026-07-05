@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/dolezal
 openstates_id: ocd-person/1f7d013a-8861-4e08-b6bf-7c8d36f8107c
 contact:
   website: "https://openstates.org/person/greg-dolezal-xPt9CGpMZqDulbva8JwQW/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

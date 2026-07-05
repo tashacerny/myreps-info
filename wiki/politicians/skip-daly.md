@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/
 openstates_id: ocd-person/a0553b6f-7142-4321-9e3a-c089447d3a78
 contact:
   website: "https://openstates.org/person/skip-daly-4sXirEzroxY0vx4ekA1F9s/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

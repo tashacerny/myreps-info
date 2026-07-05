@@ -13,5 +13,5 @@ photo_url: "https://www.capitol.tn.gov/house/members/images/H56.jpg"
 openstates_id: ocd-person/c8a26be8-8de1-434b-864a-21697f8f15d4
 contact:
   website: "https://openstates.org/person/bob-freeman-66aguxjrheSH6BfO2z032y/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

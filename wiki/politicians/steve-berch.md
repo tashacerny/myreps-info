@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/di
 openstates_id: ocd-person/0c413128-0ec7-4228-aa8b-93572d153c6f
 contact:
   website: "https://openstates.org/person/steve-berch-N7hRiVtfZiS3McAVoVUD9/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

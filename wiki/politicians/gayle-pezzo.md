@@ -12,5 +12,5 @@ photo_url: "https://lccvermont.org/wp-content/uploads/2024/07/IMG_0519-gayle-pez
 openstates_id: ocd-person/0aa1e822-d69d-4417-a26e-0ca6935b6b8b
 contact:
   website: "https://openstates.org/person/gayle-pezzo-K3uimX2nIo8NS2SFclzlj/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

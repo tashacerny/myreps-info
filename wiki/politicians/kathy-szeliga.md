@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/szeliga.jpg"
 openstates_id: ocd-person/943d1601-904b-40dc-8b98-84bbb02851ab
 contact:
   website: "https://openstates.org/person/kathy-szeliga-4VimPE6nRl2EIGIqO4ZU8R/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

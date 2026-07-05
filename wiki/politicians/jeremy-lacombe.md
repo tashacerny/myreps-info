@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep18.jpg"
 openstates_id: ocd-person/9ae6b490-4fe0-435c-93fd-ad316e474204
 contact:
   website: "https://openstates.org/person/jeremy-lacombe-4iIFYmlooN00ECTuxFZ9OO/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

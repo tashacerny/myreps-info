@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/matt-huffman/headshot
 openstates_id: ocd-person/23d51717-c6eb-4a2c-bd55-038c72593a61
 contact:
   website: "https://openstates.org/person/matt-huffman-15c73zM6yEgimLB24Dc4LR/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

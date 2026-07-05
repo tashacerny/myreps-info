@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/6a8995a4-deab-416f-89ce-987c8c6557aa
 contact:
   website: "https://openstates.org/person/rae-moore-3F23u4XC29IYTzGuHzxLxq/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

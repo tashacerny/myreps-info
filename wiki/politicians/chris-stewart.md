@@ -12,5 +12,5 @@ photo_url: "https://www2.cbia.com/govaff/images/legpics/H051_Stewart.jpg"
 openstates_id: ocd-person/fdce734b-2080-4a62-bf9c-baec09572938
 contact:
   website: "https://openstates.org/person/chris-stewart-7ivPDlmGV0kvuOL7l8pss4/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

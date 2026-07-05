@@ -12,5 +12,5 @@ photo_url: "https://images.bradyunited.org/production/images/Shaundelle-Brooks.j
 openstates_id: ocd-person/93b13ac4-5a82-40fb-b646-2fe7c07f8ac1
 contact:
   website: "https://openstates.org/person/shaundelle-brooks-4Ugrhg7OohWITxL40NkRFp/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

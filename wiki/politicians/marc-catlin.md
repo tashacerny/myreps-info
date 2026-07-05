@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372
 contact:
   website: "https://openstates.org/person/marc-catlin-5rpQOA0fAaeicS1reYNGKo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

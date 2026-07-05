@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/Senators/Pictures/valverde.jpg"
 openstates_id: ocd-person/80931d0d-c52e-492a-8b92-c191aa00c03f
 contact:
   website: "https://openstates.org/person/bridget-valverde-3ucFQngcsgzZdeaTCpKtw7/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

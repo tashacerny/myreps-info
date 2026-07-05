@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Sep27
 openstates_id: ocd-person/fc8fe4ef-dfff-465c-92db-a369ac888afe
 contact:
   website: "https://openstates.org/person/angelito-tenorio-7gZpEBw7egPZkNizMhgDC2/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

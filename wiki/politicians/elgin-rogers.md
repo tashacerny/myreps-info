@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/elgin-rogers-jr/heads
 openstates_id: ocd-person/bfe003c4-6a28-46d6-b831-07bfe8662926
 contact:
   website: "https://openstates.org/person/elgin-rogers-5q3uNz8rafzW5Zhvm8XMZS/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

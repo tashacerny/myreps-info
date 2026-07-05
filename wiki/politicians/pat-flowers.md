@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/4877fdac-4a93-4654-ad03-1b3038145c69
 contact:
   website: "https://openstates.org/person/pat-flowers-2CkHZw3p6FpB2tw8NnkE5x/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

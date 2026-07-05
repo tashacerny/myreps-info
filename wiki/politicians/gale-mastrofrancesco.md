@@ -13,5 +13,5 @@ photo_url: "https://www.cga.ct.gov/legpics/080.png?ver="
 openstates_id: ocd-person/c60ec8d2-fcc3-414e-a122-cca6aeef901d
 contact:
   website: "https://openstates.org/person/gale-mastrofrancesco-61jEi2ptt5FpZ9vqL9MHwD/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

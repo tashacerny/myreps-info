@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b0c25078-ee4b-4638-9523-17997681a6e7
 contact:
   website: "https://openstates.org/person/michael-brennan-5NXRzO2ZLDNcsGxg9P5Kx5/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/149/Low"
 openstates_id: ocd-person/d4713ec5-e36b-49bb-bfc8-6b7fe9c0e9a7
 contact:
   website: "https://openstates.org/person/mitchell-setzer-6Ss7qMYMwL87CvXCAR1Jd1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

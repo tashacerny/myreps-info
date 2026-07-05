@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/09Rasmusson.jpg"
 openstates_id: ocd-person/4c3116e2-98db-4367-b543-a12220c9b12f
 contact:
   website: "https://openstates.org/person/jordan-rasmusson-2JlqkLeiAZYMs1mI352Xx1/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

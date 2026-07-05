@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/mcunn
 openstates_id: ocd-person/7bfc5a9c-40aa-4698-907c-578c772aef43
 contact:
   website: "https://openstates.org/person/melody-cunningham-3lxNhXgRlEwhyr7rxfVn6J/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

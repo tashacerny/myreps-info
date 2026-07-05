@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2024/house/holstein_jos
 openstates_id: ocd-person/9d8c89be-2ece-4dff-8a6d-65dccb8e647e
 contact:
   website: "https://openstates.org/person/josh-holstein-4nI1KIMpY8qfCrRdInk1zK/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

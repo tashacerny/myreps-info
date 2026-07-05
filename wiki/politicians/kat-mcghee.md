@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4c8bec8a-e86d-4316-8b2e-2f8c4157cae5
 contact:
   website: "https://openstates.org/person/kat-mcghee-2KRMSf60ufR0lJVNunx8on/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

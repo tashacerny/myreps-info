@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/0b894582-b3d6-4600-a401-ed874e8c632d
 contact:
   website: "https://openstates.org/person/todd-lakey-LleEDMPutVxC6lnMB6ljB/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

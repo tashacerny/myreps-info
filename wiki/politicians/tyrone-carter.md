@@ -13,5 +13,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/38d2f8c4-f40c-44b7-a2dd-57a4d5375572
 contact:
   website: "https://openstates.org/person/tyrone-carter-1jDz357NlzMCzl3I4b6cTq/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

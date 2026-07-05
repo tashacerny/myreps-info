@@ -13,5 +13,5 @@ photo_url: "https://www.oregonlegislature.gov/lively/PublishingImages/member_pho
 openstates_id: ocd-person/13afc78a-1028-462e-8f98-6df3f7f028d5
 contact:
   website: "https://openstates.org/person/john-lively-b9BVcfLGpA75Eb2LoemzF/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

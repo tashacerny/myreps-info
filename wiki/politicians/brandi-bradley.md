@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8
 contact:
   website: "https://openstates.org/person/brandi-bradley-2kFWrpILhvESiCMzyqW1WK/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.cga.ct.gov/legpics/119.png?ver="
 openstates_id: ocd-person/f0517411-fc60-49ad-86e6-1f025ab4579b
 contact:
   website: "https://openstates.org/person/kathy-kennedy-7JTNjQEhJvb46WpPGYXb4t/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

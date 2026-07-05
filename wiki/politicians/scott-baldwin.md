@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/2a259e46-1091-4af6-8894-cd56343d3aa1/-/pro
 openstates_id: ocd-person/7aea558c-2623-446e-9870-9ee2b8fe5e47
 contact:
   website: "https://openstates.org/person/scott-baldwin-3jw9bSjmireLGk4ecFECgh/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

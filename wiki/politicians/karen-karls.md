@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/a1829243-52bf-4ade-9ed8-6955241120c3
 contact:
   website: "https://openstates.org/person/karen-karls-4ulR1eUM4i8wdOF0Ku6YKJ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/436/Low"
 openstates_id: ocd-person/1ba9c7a6-3a28-47ec-9704-6f3437463845
 contact:
   website: "https://openstates.org/person/gale-adcock-qCNi8icLMxSyZTq4VYcuz/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

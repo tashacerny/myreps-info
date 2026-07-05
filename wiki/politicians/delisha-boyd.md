@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep102.jpg"
 openstates_id: ocd-person/d107ae2b-6cb6-4545-a185-d63408f46033
 contact:
   website: "https://openstates.org/person/delisha-boyd-6MQuBhWN2Y8VQ77DcUdkO3/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

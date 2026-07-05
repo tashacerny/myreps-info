@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/ce4bd827-c1bc-4736-a580-f4f0215e727d
 contact:
   website: "https://openstates.org/person/manny-rutinel-6HH4ymCQUfqObbjKrvsKE9/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

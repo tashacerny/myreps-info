@@ -12,5 +12,5 @@ photo_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgg9y84-E8FaeD
 openstates_id: ocd-person/b8b4337f-5741-4fad-bcf3-38c526cf6c5a
 contact:
   website: "https://openstates.org/person/christi-gillespie-5cWwIcAmaOr2nWkGbKcQdG/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

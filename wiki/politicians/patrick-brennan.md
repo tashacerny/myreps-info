@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Brennan,Pat.jp
 openstates_id: ocd-person/44bcd67b-5b5f-4fca-a61a-20f91072c5e7
 contact:
   website: "https://openstates.org/person/patrick-brennan-25hmCAdYgl800YisMGKJtf/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

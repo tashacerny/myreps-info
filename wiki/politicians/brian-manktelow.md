@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/130/headshot/
 openstates_id: ocd-person/2ef71a27-afab-49e4-9c52-d3954352242f
 contact:
   website: "https://openstates.org/person/brian-manktelow-1QcZWnL28xX7qDDnIRuPYV/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

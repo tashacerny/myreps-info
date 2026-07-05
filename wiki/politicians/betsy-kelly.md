@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/kelly_betsy.
 openstates_id: ocd-person/ffd4b452-510d-48f0-ac07-51af538b46f0
 contact:
   website: "https://openstates.org/person/betsy-kelly-7mkFTI2qBeP9wL8hMVxvrU/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

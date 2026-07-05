@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist40/hig
 openstates_id: ocd-person/01d5ca17-53a1-463a-b2f6-74fe24833c0f
 contact:
   website: "https://openstates.org/person/barry-dekay-3Sh38RxjLWxm9bxpqsn7f/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

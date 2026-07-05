@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{0322F94E-013C-4237-9808-446
 openstates_id: ocd-person/8dfe2e37-8a40-4be0-b44d-0bf65861f4e0
 contact:
   website: "https://openstates.org/person/anne-stava-4Jw4tQFErBB62nurYyP4aW/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

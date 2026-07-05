@@ -12,5 +12,5 @@ photo_url: "https://www.cthousegop.com/vail/wp-content/uploads/sites/66/2016/11/
 openstates_id: ocd-person/ffa361d0-7471-450e-aee8-cb0c32ee2742
 contact:
   website: "https://openstates.org/person/kurt-vail-7mNhyBBPOHzqlhFLv68o30/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

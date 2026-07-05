@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/664cf2aeab798b712953cf
 openstates_id: ocd-person/9a5bf877-6bb2-4135-a3de-fc344e84c1c6
 contact:
   website: "https://openstates.org/person/tony-micklus-4hGqdePWw4mIhESJW6Yf8Y/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.southamptontownny.gov/ImageRepository/Document?documentI
 openstates_id: ocd-person/60b6c2ff-a1ce-46a1-b484-affd805bc297
 contact:
   website: "https://openstates.org/person/tommy-john-schiavoni-2wUmiKl5he8gj0xM9SE49f/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/maynard_mark
 openstates_id: ocd-person/e98e90d4-7e6d-47e0-b837-6f5f8b492d9c
 contact:
   website: "https://openstates.org/person/mark-maynard-76iMcjHqFe2OVxmeKvqayK/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

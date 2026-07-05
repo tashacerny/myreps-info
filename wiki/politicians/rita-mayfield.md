@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{3A2DAB8B-B5F8-48EE-85D3-058
 openstates_id: ocd-person/cb9d1283-1029-46cf-8507-1e7ed6937606
 contact:
   website: "https://openstates.org/person/rita-mayfield-6CDDvSaOuXckxGDTaTu3i2/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

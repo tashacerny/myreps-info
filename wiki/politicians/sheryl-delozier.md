@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1167.jpg?1703415645
 openstates_id: ocd-person/9e4954ab-971c-4620-9f9d-ebb68311e3f1
 contact:
   website: "https://openstates.org/person/sheryl-delozier-4ogIaqHyToi3bXYSnuIYN7/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/663d42995f6d2818eea58e
 openstates_id: ocd-person/ed6fd366-fcec-4d7c-91fc-847667f604c9
 contact:
   website: "https://openstates.org/person/renee-muir-7E2HjTiduhgqj6uNNoT6Aj/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

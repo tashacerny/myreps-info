@@ -12,5 +12,5 @@ photo_url: "https://lh6.googleusercontent.com/B0rlahTdpFZwO6AZ8vVvuatYXSGDutKpkU
 openstates_id: ocd-person/7ddd32be-c3f8-4861-9964-89e07127bec8
 contact:
   website: "https://openstates.org/person/brenda-steady-3pV7ytHi3eEJRPnoV0LVFo/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

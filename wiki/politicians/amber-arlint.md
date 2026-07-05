@@ -12,5 +12,5 @@ photo_url: "https://siouxfallschamber.com/wp-content/uploads/sites/3/2022/11/Dis
 openstates_id: ocd-person/f9dd87da-ac23-450d-9574-1efa95ef0d81
 contact:
   website: "https://openstates.org/person/amber-arlint-7bUKPXCSQmks9cndoczGS1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

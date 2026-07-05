@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/0929165d-f73c-4820-8820-209de58c1e78
 contact:
   website: "https://openstates.org/person/mary-hakken-phillips-HHhtG7ZTijlqiqmChfkzI/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

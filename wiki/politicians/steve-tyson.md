@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/774/Low"
 openstates_id: ocd-person/e4c62004-8706-4984-acb1-0140967173f0
 contact:
   website: "https://openstates.org/person/steve-tyson-6xgnDzW5000vW61In9fMlE/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

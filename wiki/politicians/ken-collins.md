@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_collins_kenneth_1.j
 openstates_id: ocd-person/9d1f2540-8f56-49c1-be08-2ee7b7faed8e
 contact:
   website: "https://openstates.org/person/ken-collins-4mU1n0M3yPmqcngW8CzH5y/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

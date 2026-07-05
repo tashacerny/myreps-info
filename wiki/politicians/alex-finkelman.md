@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/representatives/Pictures/Alex%20Finkel
 openstates_id: ocd-person/202a1def-abb3-4f77-8ef1-5c453d2d5423
 contact:
   website: "https://openstates.org/person/alex-finkelman-yh07WgqLiymFWTbWfsCot/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

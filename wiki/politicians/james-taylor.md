@@ -12,5 +12,5 @@ photo_url: "https://www.azcentral.com/gcdn/authoring/authoring-images/2024/05/29
 openstates_id: ocd-person/70f55f83-fed8-497f-86a9-94b6d428b9b4
 contact:
   website: "https://openstates.org/person/james-taylor-3R9H8erzNWjVOT6IKphko8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://snworksceo.imgix.net/drt/1ca40038-9f0d-422c-b469-afddf7607f6
 openstates_id: ocd-person/33c30ffc-2203-48fc-9161-e14946abce23
 contact:
   website: "https://openstates.org/person/russ-muirhead-1ZfkeSWdhHWp2BlhVaRa3H/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

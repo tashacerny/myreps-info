@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/con
 openstates_id: ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261
 contact:
   website: "https://openstates.org/person/mike-berg-16Lr1vRMLIf5XSOyVJ6h7/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

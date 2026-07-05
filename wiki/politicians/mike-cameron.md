@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/cameron
 openstates_id: ocd-person/f4f9be12-5d7c-4fae-8b7b-9e9d19d2282f
 contact:
   website: "https://openstates.org/person/mike-cameron-7SGG91LjlY141r1IVhCefn/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

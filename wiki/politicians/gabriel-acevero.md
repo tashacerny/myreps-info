@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2026RS/images/acevero01.jpg"
 openstates_id: ocd-person/2f6dc3da-2750-4c4a-b4cf-034c40f3cb31
 contact:
   website: "https://openstates.org/person/gabriel-acevero-1RUnjPIWL1odXLcd5XIRsH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_corbet_ken_1.jpg"
 openstates_id: ocd-person/afee9b4c-c30b-4cba-b5a2-e20a186c75b1
 contact:
   website: "https://openstates.org/person/ken-corbet-5LyhRjBqJwBH5jYp1migiX/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

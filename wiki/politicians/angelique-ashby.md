@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/a
 openstates_id: ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f
 contact:
   website: "https://openstates.org/person/angelique-ashby-2crVF9NmcEHB0YxRhqpg9n/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

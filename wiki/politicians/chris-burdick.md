@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/093/headshot/
 openstates_id: ocd-person/35febe88-13a1-4611-b0e3-2088c719db24
 contact:
   website: "https://openstates.org/person/chris-burdick-1dt0jIWDydK7RGRqI4HwPs/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

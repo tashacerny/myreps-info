@@ -13,5 +13,5 @@ photo_url: "http://www.gencourt.state.nh.us/house/images/memberpics/376936.jpg"
 openstates_id: ocd-person/0772e02f-5d9a-45d3-aa62-81a5416b06e2
 contact:
   website: "https://openstates.org/person/jack-flanagan-E3RZCNm9DU8f9HIB5SRYg/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

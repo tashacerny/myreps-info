@@ -13,5 +13,5 @@ photo_url: "http://www.senatedems.ct.gov/templates/looney/images/looney-hi.jpg"
 openstates_id: ocd-person/2d21e401-cb76-4001-b836-e57f667f550f
 contact:
   website: "https://openstates.org/person/martin-looney-1NA8qrrNkJWGK8M3KTafMd/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

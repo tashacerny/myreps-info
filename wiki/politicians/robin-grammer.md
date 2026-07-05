@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2020RS/images/grammer01.jpg"
 openstates_id: ocd-person/84c7f5dc-7dfc-4a3b-9a85-7c7732515f0a
 contact:
   website: "https://openstates.org/person/robin-grammer-42YMtevwtH2G3jEm5yulGE/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

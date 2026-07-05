@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/bennett_dona
 openstates_id: ocd-person/43f0eeae-cf06-4d8b-a568-03e63c72b796
 contact:
   website: "https://openstates.org/person/donald-bennett-24Caio9hde4tQ8opLXH9z4/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

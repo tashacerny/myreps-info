@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=13794"
 openstates_id: ocd-person/955a4d7c-a378-4bd2-8a74-dac94f74ba52
 contact:
   website: "https://openstates.org/person/john-wills-4Xp7l7jXGwlaqNKwNvxRMw/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

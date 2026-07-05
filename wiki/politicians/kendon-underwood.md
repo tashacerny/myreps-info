@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/592_sm.jpg"
 openstates_id: ocd-person/42e0cedc-8165-45c0-988a-d3a414a521c6
 contact:
   website: "https://openstates.org/person/kendon-underwood-22CEKX3wFfuX4Q2LwKqBOg/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

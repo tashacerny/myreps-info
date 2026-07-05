@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d21/img/Zaffirini_2017.jpg"
 openstates_id: ocd-person/c7aad3b7-ca16-4989-bf68-87ed72498a6b
 contact:
   website: "https://openstates.org/person/judith-zaffirini-64lXYWCNqupSV4GqOTZf4N/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

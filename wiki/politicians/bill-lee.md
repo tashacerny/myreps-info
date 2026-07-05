@@ -13,5 +13,5 @@ photo_url: "https://www.tn.gov/content/dam/tn/governorsoffice-documents/governor
 openstates_id: ocd-person/d94cf7a2-1ba6-46f2-bdbf-54ace20b8dfc
 contact:
   website: "https://openstates.org/person/bill-lee-6c2VZ3B25Jtvxdsp4ZUhS8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

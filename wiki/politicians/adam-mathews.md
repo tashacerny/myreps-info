@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/adam-mathews/headshot
 openstates_id: ocd-person/b04e2962-e7c6-46b8-9a99-d7a6d3a32717
 contact:
   website: "https://openstates.org/person/adam-mathews-5MgMuTU8zAkrFYCdF8YPI7/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

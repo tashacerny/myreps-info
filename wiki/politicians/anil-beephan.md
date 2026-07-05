@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/105/headshot/
 openstates_id: ocd-person/b4820549-d7f0-4f0f-abef-74d3b1515ed9
 contact:
   website: "https://openstates.org/person/anil-beephan-5Uc2Nr8hVilPOwEm0Yc8aH/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

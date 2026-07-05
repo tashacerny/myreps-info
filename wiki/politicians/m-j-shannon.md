@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/d65472_8f9c284ad8f943ab9eb91ca4b6
 openstates_id: ocd-person/79a30b4c-53c7-4031-9267-66fbae2df6c8
 contact:
   website: "https://openstates.org/person/m-j-shannon-3hWa8pXtCE1PR7au6hRN9c/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

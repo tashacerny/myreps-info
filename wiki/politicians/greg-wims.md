@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/wims01.jpg"
 openstates_id: ocd-person/330c3ef8-92a2-41fc-9ef8-877d389aecdf
 contact:
   website: "https://openstates.org/person/greg-wims-1YKCiQGb3QY0rWqFl6DFz5/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

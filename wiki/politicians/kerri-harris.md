@@ -13,5 +13,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b
 contact:
   website: "https://openstates.org/person/kerri-harris-3jt0NjhTXVhnWgdtx0iY8Z/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

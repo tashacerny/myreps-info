@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/804/Low"
 openstates_id: ocd-person/1e2d0ef7-d021-4427-af07-14fae1ad5aa0
 contact:
   website: "https://openstates.org/person/neal-jackson-uwMPwP0oFkAYTLo1WVfw8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

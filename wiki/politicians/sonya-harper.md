@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{04C99384-69F8-4ACE-9E43-11E
 openstates_id: ocd-person/8a39d16f-edbf-454b-8a77-33030fa9a8c2
 contact:
   website: "https://openstates.org/person/sonya-harper-4CpMZVXuBsi5CRJRVTHNRq/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

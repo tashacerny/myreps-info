@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/e4e1f1a9-7134-4d90-9fed-2aa7a0e3a307
 contact:
   website: "https://openstates.org/person/james-coleman-6xtVRqs492bMPYSK8Tc6YJ/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

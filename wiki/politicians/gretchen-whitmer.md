@@ -13,5 +13,5 @@ photo_url: "https://www.michigan.gov/whitmer/-/media/Project/Websites/Whitmer/Im
 openstates_id: ocd-person/9b425a88-36ae-439c-b2f9-8da167b9ff27
 contact:
   website: "https://openstates.org/person/gretchen-whitmer-4iy8KYtiacQjPrVI04Os3L/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

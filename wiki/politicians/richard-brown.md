@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/d08d07c4-6aa0-4ce4-a940-924ab72e216f
 contact:
   website: "https://openstates.org/person/richard-brown-6LWr0qWtdGxQjsGlaIISkB/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

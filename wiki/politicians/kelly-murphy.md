@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/8abb4c0b-ed96-442e-8483-93a05845dcc5
 contact:
   website: "https://openstates.org/person/kelly-murphy-4DmXEq2IK9zQob2hQhqw5N/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

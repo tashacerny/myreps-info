@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/103/headshot/
 openstates_id: ocd-person/01fc9264-bdd4-4259-9e51-dbf2c888b285
 contact:
   website: "https://openstates.org/person/sarahana-shrestha-3kPujVOM87hIIHUXsAxi1/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

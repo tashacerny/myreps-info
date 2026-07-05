@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694
 contact:
   website: "https://openstates.org/person/elizabeth-velasco-5lERxdq3MW9NieaZD1H9W8/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

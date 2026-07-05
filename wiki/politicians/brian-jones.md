@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/b
 openstates_id: ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4
 contact:
   website: "https://openstates.org/person/brian-jones-78ELyGR6tpqu9pwkzNKwnk/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

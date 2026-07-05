@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/06fded2a-c138-46b5-9966-7662c0f28c41
 contact:
   website: "https://openstates.org/person/daryl-schmitt-DBzusAiWciV8tmChXsHvl/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

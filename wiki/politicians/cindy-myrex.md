@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/cbfd2b4e-f512-4176-b2f6-1df9d2d9c99c
 contact:
   website: "https://openstates.org/person/cindy-myrex-6Cv8k3ZrPk9Yi27A9WU6ZQ/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

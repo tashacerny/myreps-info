@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/630/Low"
 openstates_id: ocd-person/940d4a15-ee12-4a3b-a7b5-70b9dea38379
 contact:
   website: "https://openstates.org/person/harry-warren-4VMw8NwIf4Okiprj2Oa0lt/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---

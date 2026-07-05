@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Hanad
 openstates_id: ocd-person/684e4e66-da40-4914-943a-40ef578fa231
 contact:
   website: "https://openstates.org/person/hanadi-nadeem-3AozG7nmpPfU1otwxFs3Hd/"
-last_updated: "2026-06-21"
+last_updated: "2026-07-05"
 ---

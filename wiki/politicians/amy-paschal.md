@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AmyPa
 openstates_id: ocd-person/34dbb5f1-239b-4924-911e-27ff91bde5cd
 contact:
   website: "https://openstates.org/person/amy-paschal-1bk0Yties9pWeZ7e5tzkuT/"
-last_updated: "2026-06-28"
+last_updated: "2026-07-05"
 ---
