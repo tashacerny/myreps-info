@@ -13,6 +13,6 @@ term_start: "2009-01-03"
 bioguide_id: P000597
 contact:
   website: "https://pingree.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

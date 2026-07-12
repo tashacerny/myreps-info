@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: R000603
 contact:
   website: "https://rouzer.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

@@ -12,6 +12,6 @@ term_start: "2011-01-03"
 bioguide_id: B001277
 contact:
   website: "https://www.blumenthal.senate.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

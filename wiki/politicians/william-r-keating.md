@@ -13,6 +13,6 @@ term_start: "2011-01-03"
 bioguide_id: K000375
 contact:
   website: "https://keating.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: K000405
 contact:
   website: "https://knott.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

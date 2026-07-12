@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: C001112
 contact:
   website: "https://carbajal.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

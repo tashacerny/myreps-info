@@ -13,6 +13,6 @@ term_start: "2007-01-03"
 bioguide_id: J000288
 contact:
   website: "https://hankjohnson.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

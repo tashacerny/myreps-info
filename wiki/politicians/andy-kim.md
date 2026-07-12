@@ -12,6 +12,6 @@ term_start: "2024-01-03"
 bioguide_id: K000394
 contact:
   website: "https://www.kim.senate.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

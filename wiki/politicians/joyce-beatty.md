@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: B001281
 contact:
   website: "https://beatty.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

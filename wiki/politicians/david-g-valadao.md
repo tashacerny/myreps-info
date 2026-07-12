@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: V000129
 contact:
   website: "https://valadao.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

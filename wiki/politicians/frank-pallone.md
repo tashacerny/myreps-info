@@ -13,6 +13,6 @@ term_start: "1987-01-03"
 bioguide_id: P000034
 contact:
   website: "https://pallone.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

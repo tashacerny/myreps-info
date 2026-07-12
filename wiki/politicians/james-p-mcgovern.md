@@ -13,6 +13,6 @@ term_start: "1997-01-03"
 bioguide_id: M000312
 contact:
   website: "https://mcgovern.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

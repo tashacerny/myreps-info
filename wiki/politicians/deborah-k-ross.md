@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: R000305
 contact:
   website: "https://ross.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2007-01-03"
 bioguide_id: B001260
 contact:
   website: "https://buchanan.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

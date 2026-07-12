@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: M001226
 contact:
   website: "https://menendez.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

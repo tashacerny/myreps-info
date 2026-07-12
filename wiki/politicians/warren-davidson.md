@@ -13,6 +13,6 @@ term_start: "2016-01-03"
 bioguide_id: D000626
 contact:
   website: "https://davidson.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

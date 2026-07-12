@@ -12,6 +12,6 @@ term_start: "2019-01-03"
 bioguide_id: B001243
 contact:
   website: "https://www.blackburn.senate.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

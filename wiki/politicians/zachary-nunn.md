@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: N000193
 contact:
   website: "https://nunn.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

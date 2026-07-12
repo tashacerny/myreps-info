@@ -13,6 +13,6 @@ term_start: "2018-01-03"
 bioguide_id: B001306
 contact:
   website: "https://balderson.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

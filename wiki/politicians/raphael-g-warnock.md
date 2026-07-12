@@ -12,6 +12,6 @@ term_start: "2021-01-03"
 bioguide_id: W000790
 contact:
   website: "https://www.warnock.senate.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

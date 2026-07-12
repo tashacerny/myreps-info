@@ -12,6 +12,6 @@ term_start: "1993-01-03"
 bioguide_id: M001111
 contact:
   website: "https://www.murray.senate.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

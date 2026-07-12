@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: B001287
 contact:
   website: "https://bera.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

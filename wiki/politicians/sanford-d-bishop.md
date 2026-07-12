@@ -13,6 +13,6 @@ term_start: "1993-01-03"
 bioguide_id: B000490
 contact:
   website: "https://bishop.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

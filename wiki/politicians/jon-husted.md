@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: H001104
 contact:
   website: "https://www.husted.senate.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

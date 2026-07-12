@@ -13,6 +13,6 @@ term_start: "2009-01-03"
 bioguide_id: Q000023
 contact:
   website: "https://quigley.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

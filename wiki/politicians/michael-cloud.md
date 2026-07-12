@@ -13,6 +13,6 @@ term_start: "2018-01-03"
 bioguide_id: C001115
 contact:
   website: "https://cloud.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

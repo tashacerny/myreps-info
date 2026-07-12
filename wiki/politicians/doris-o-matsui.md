@@ -13,6 +13,6 @@ term_start: "2005-01-03"
 bioguide_id: M001163
 contact:
   website: "https://matsui.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

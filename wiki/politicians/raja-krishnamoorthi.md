@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: K000391
 contact:
   website: "https://krishnamoorthi.house.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

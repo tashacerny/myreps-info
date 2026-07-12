@@ -12,6 +12,6 @@ term_start: "2023-01-03"
 bioguide_id: B001319
 contact:
   website: "https://www.britt.senate.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

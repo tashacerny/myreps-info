@@ -12,6 +12,6 @@ term_start: "2015-01-03"
 bioguide_id: C001095
 contact:
   website: "https://www.cotton.senate.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

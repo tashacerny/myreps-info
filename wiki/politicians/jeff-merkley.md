@@ -12,6 +12,6 @@ term_start: "2009-01-03"
 bioguide_id: M001176
 contact:
   website: "https://www.merkley.senate.gov"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

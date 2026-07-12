@@ -13,6 +13,6 @@ term_start: "2024-01-03"
 bioguide_id: F000480
 contact:
   website: "https://fong.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: M001205
 contact:
   website: "https://miller.house.gov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
 
