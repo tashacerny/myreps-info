@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/weber/PublishingImages/member_phot
 openstates_id: ocd-person/835d23bd-afb1-4e82-93c4-4b1b1822aeb4
 contact:
   website: "https://openstates.org/person/suzanne-weber-3zsYhhrkNlscNlJjCIngoO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

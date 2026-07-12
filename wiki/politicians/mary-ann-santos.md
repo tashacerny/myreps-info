@@ -12,5 +12,5 @@ photo_url: "https://img1.wsimg.com/isteam/ip/d3c0c01c-397b-4334-bf90-8a34a01abd0
 openstates_id: ocd-person/7deae3f1-5548-4afe-9018-e8112945fd8d
 contact:
   website: "https://openstates.org/person/mary-ann-santos-3pbNw7Gti3HIbu0MbOAt6j/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

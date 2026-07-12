@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_smith_charles_1.jpg
 openstates_id: ocd-person/8b617466-af12-4848-8cca-ed088fb196da
 contact:
   website: "https://openstates.org/person/chuck-smith-4F0TA6I5rnaFLDD2ZeoqAE/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Dante
 openstates_id: ocd-person/d0cbde92-5f2b-4177-822a-f100613a9b30
 contact:
   website: "https://openstates.org/person/dante-pittman-6LzZV4NHxJQ89MUlowLTDU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

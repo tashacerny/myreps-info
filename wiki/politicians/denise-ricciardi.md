@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/8dc59c94-caba-41b2-a6ba-6bca0f595118
 contact:
   website: "https://openstates.org/person/denise-ricciardi-4JWE47jGJGSjP7nMG6TQ0u/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

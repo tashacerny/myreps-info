@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/c10414ad-5251-4fba-8ad9-a541311f2b9f
 contact:
   website: "https://openstates.org/person/patrick-hope-5sDNoC04rKjqPV7OXyXSff/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

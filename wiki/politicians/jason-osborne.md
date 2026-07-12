@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/6e2bc564-5cd1-4f96-a265-4753b7f12ee1
 contact:
   website: "https://openstates.org/person/jason-osborne-3Lt9sjV7C6Ou0yofC599az/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/044/headshot/
 openstates_id: ocd-person/a0a7d4b0-2624-4560-8129-dbca30c4d4a1
 contact:
   website: "https://openstates.org/person/robert-carroll-4t9TDLPstfuPFEldeqxQhd/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

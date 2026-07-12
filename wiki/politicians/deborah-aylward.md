@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/8015d8e4-78cd-41a5-93f9-f6a704910c2f
 contact:
   website: "https://openstates.org/person/deborah-aylward-3th07x8N9Hnftb4OQ4O5vD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

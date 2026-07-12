@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/051/headshot/
 openstates_id: ocd-person/1dd95774-3fbe-43a8-ac78-6b4d05146e27
 contact:
   website: "https://openstates.org/person/marcela-mitaynes-uK6NT3KrsjqHYpy73ss91/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

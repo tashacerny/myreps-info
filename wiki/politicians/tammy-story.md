@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/489b3afa-1e08-40f4-918a-f01c186b6f73
 contact:
   website: "https://openstates.org/person/tammy-story-2D0O3Z6Z0anJx2A9H5qnvH/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

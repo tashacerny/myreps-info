@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18040"
 openstates_id: ocd-person/9d60676d-f50e-4117-8d22-681927e43a01
 contact:
   website: "https://openstates.org/person/skyler-wheeler-4mxqpSmqfEVLX3a85z4NZR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

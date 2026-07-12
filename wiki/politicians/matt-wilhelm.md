@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/61d2e8f3-f2b9-4357-81af-fe982ee1821f
 contact:
   website: "https://openstates.org/person/matt-wilhelm-2yadnFVUKAJFJ76H1hcc7r/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

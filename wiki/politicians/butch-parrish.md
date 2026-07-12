@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/parrish
 openstates_id: ocd-person/842218b5-88ae-4ba8-8395-756bf3340e16
 contact:
   website: "https://openstates.org/person/butch-parrish-41KZIRo1XyFsEHQPuPf8lC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

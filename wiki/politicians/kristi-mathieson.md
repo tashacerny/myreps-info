@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/375e5fda-9367-4ce3-a209-1c772c32219f
 contact:
   website: "https://openstates.org/person/kristi-mathieson-1gThqY3EBB40nI92hRtwjv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

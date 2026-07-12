@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1863.jpg?1703415645
 openstates_id: ocd-person/a2579707-5a31-4f4b-a9ed-49847d35eae6
 contact:
   website: "https://openstates.org/person/danilo-burgos-4wKmiCmMHLgCLSmgDBZiys/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

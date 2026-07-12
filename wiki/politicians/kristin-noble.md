@@ -12,5 +12,5 @@ photo_url: "https://kristinnoble.com/wp-content/uploads/2022/06/Kristin-Noble1.p
 openstates_id: ocd-person/4246d501-b872-4cf9-bfd8-7ef21015da7a
 contact:
   website: "https://openstates.org/person/kristin-noble-213rYulrMKLjMOwVCWsMpu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

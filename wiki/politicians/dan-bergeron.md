@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/325902/325
 openstates_id: ocd-person/4ae310b1-b493-47b9-888e-e318a5ea0e76
 contact:
   website: "https://openstates.org/person/dan-bergeron-2HJCTkjtO8d7Nwg2wIqB6M/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

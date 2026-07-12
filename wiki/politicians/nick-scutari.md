@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/scutari_nicholas_
 openstates_id: ocd-person/4d47b297-b5f4-4d83-94e6-bb95eb91ecd7
 contact:
   website: "https://openstates.org/person/nick-scutari-2LpAr1izUqczjm4NU6Qb71/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1971.jpg?1703415645
 openstates_id: ocd-person/b1beaa5c-93d2-479e-9408-47c7687cd212
 contact:
   website: "https://openstates.org/person/joe-hogan-5POm7sH7n5GCGlMWYLGv6g/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

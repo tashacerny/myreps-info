@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/006e6bcf-0a2c-4eef-92e3-44714f31aa4e
 contact:
   website: "https://openstates.org/person/craig-haggard-oSgDhLTm2GEJhUdd2Jpe/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

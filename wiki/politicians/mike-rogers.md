@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2019RS/images/rogers01.jpg"
 openstates_id: ocd-person/eb13f926-c0f1-426b-b0a7-63c324f9a558
 contact:
   website: "https://openstates.org/person/mike-rogers-79aK7vAFqgXIH945S2BOcy/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

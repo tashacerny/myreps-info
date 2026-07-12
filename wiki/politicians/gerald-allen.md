@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Allen_21.png"
 openstates_id: ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a
 contact:
   website: "https://openstates.org/person/gerald-allen-5Hr72DRPPaGGgEMEtN0Mfa/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

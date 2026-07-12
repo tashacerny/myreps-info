@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/8e013e93-3dd2-4530-a42f-d9ba62ea5f04
 contact:
   website: "https://openstates.org/person/donovan-fenton-4JxThoVfrxdMd49e5igTsi/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/clark_wayne.
 openstates_id: ocd-person/de66a26a-0d5d-44d4-a687-58cffa1a2512
 contact:
   website: "https://openstates.org/person/wayne-clark-6lfCRKAvF7HFXQeAkaDLH8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

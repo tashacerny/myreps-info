@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/dbf73f29-d4ce-4192-b8fe-42b3ac538dda
 contact:
   website: "https://openstates.org/person/kevin-parker-6h4JK6eKW57oIftFOHUIDC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

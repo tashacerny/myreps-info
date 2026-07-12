@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/jhohn
 openstates_id: ocd-person/3a454e94-ca27-4e34-b603-c2768c047bc3
 contact:
   website: "https://openstates.org/person/joy-hohn-1lxE9iGMQi4kWOPTzcwZZD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

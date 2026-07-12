@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/jason-stephens/headsh
 openstates_id: ocd-person/fbd5ca34-d2ed-41d0-a0f8-03ee8eca8a4d
 contact:
   website: "https://openstates.org/person/jason-stephens-7fCm89zZiHCl9xdLD23Haf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

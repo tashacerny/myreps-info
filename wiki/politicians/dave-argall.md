@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/69.jpg?170341564567
 openstates_id: ocd-person/2a2df3c1-9ede-46b7-8d73-896b1e317aff
 contact:
   website: "https://openstates.org/person/dave-argall-1Hag1yxLrwVyCUtGMdeuLP/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

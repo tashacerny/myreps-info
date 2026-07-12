@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/2c48b67e-10dd-4162-af2b-add94f3bc728
 contact:
   website: "https://openstates.org/person/shelley-rudnicki-1LYtJq1JD0rReJKhQ4I9v6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

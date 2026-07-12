@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist14/hig
 openstates_id: ocd-person/f5d27385-af4c-4c08-8654-3e27ef120d94
 contact:
   website: "https://openstates.org/person/john-arch-7TrIO9RvTWkdaCMOP77KXk/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

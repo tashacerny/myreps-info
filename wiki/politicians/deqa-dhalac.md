@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/3080d13f-59de-437a-b405-a2313be6ee89
 contact:
   website: "https://openstates.org/person/deqa-dhalac-1TWV5NUmjEXMH5HIvlQJsf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

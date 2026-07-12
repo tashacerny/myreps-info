@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/791928fe-00bb-46bf-9b57-36b7a40e0250
 contact:
   website: "https://openstates.org/person/bob-heaton-3gVZKDKtcWAalaOIu3wx28/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

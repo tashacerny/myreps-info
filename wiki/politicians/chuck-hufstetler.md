@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hufstet
 openstates_id: ocd-person/b11d0191-cd84-4a93-add6-ee65494caff2
 contact:
   website: "https://openstates.org/person/chuck-hufstetler-5OCteokrcPmqZHKdJC7lHm/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

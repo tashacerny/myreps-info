@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/07A.gif?v=112221"
 openstates_id: ocd-person/2e342c55-f56d-4895-9dd2-ef1271f784c0
 contact:
   website: "https://openstates.org/person/spencer-igo-1PBUOXKU7fYohAI32WTcR6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

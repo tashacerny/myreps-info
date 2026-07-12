@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-ProvenzaKarlee.jpg"
 openstates_id: ocd-person/588c810c-0a65-475b-9593-46fa556cb962
 contact:
   website: "https://openstates.org/person/karlee-provenza-2h5XBmYZvCORcvnrSWeJbW/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

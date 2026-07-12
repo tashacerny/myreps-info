@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mn/graphics/15Mathews.jpg"
 openstates_id: ocd-person/aabdca28-85ec-41e4-be90-726acaaa0cff
 contact:
   website: "https://openstates.org/person/andrew-mathews-5CBQdowl9YfU4wkyyAURl1/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Micha
 openstates_id: ocd-person/b61922e8-c775-4c74-8ecb-557d79162195
 contact:
   website: "https://openstates.org/person/mike-finn-5Xc5dH0kWHyv17GqlA3U61/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

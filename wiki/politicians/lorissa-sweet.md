@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/3568c1ff-87a5-4121-a468-ced11a824691
 contact:
   website: "https://openstates.org/person/lorissa-sweet-1cmT09LCydTa8TEZYmBf3B/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

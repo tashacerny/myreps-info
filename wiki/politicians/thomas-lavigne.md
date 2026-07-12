@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/be3df38c-150a-4e3c-8c16-6e97bdbeadc4
 contact:
   website: "https://openstates.org/person/thomas-lavigne-5myqwgUAaXXX3FQQTvRk1s/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Cathe
 openstates_id: ocd-person/5223be3f-79ec-4442-8164-588d2ccc77e0
 contact:
   website: "https://openstates.org/person/catherine-rombeau-2Uzhjrqbp30ehDp5M0ujey/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

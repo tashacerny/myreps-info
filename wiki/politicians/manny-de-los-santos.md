@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/072/headshot/
 openstates_id: ocd-person/e9e827d2-5eb7-4c53-bec7-d6a9fdef82fa
 contact:
   website: "https://openstates.org/person/manny-de-los-santos-77NJ4J8N3iSzVUShDLakaw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2022/house/anderson_bill
 openstates_id: ocd-person/b5b3734c-fa9f-422b-b0d4-ce8b2b2624c5
 contact:
   website: "https://openstates.org/person/bill-anderson-5WrcSDPGcalDrfWYpHvADF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

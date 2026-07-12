@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7
 contact:
   website: "https://openstates.org/person/jerry-mcnerney-76VrZYQ8ooj9846wLQglbL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

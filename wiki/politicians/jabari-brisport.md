@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/e053b536-631c-47a7-a3af-adb30dab37de
 contact:
   website: "https://openstates.org/person/jabari-brisport-6pIXDmjwaVkDdaoFTnmBGY/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

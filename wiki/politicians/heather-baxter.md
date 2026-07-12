@@ -13,5 +13,5 @@ photo_url: "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto
 openstates_id: ocd-person/229c5337-951c-41d2-9e76-dc74878bcf89
 contact:
   website: "https://openstates.org/person/heather-baxter-13JB9Qicx3zue6sYh2rikT/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

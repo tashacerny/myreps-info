@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84
 contact:
   website: "https://openstates.org/person/pat-heinert-xAeqjcTIfl5pfzuEAzY6G/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/620c3de64a803d6ee0289e
 openstates_id: ocd-person/3f38bb4c-1371-4b8c-851f-cc441b5c853b
 contact:
   website: "https://openstates.org/person/michelle-powers-1vIRSzopLzyvtWp5q6Ce5b/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

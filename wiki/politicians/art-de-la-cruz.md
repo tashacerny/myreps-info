@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HDELA.jpg"
 openstates_id: ocd-person/057c7d79-a168-4b7b-ae96-66cf41e4f115
 contact:
   website: "https://openstates.org/person/art-de-la-cruz-ALqvxGDPJpotRRLrni19J/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

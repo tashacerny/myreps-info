@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/deangelo_color.jp
 openstates_id: ocd-person/08016f74-f5d6-4554-91b4-385fdbd558a7
 contact:
   website: "https://openstates.org/person/wayne-deangelo-F6araPZwBTGizkiGkbbt9/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

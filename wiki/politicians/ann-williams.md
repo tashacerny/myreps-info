@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{C45B418C-4848-4467-ADC2-739
 openstates_id: ocd-person/02f2799d-4633-48e9-b5ab-379d48e70b40
 contact:
   website: "https://openstates.org/person/ann-williams-5YnM4Pf8QTW4eskXYSjey/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

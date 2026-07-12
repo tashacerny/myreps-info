@@ -13,5 +13,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep20.jpg"
 openstates_id: ocd-person/8ce9b8d1-a92d-4351-a098-617599dde680
 contact:
   website: "https://openstates.org/person/neil-riser-4Htjh3VVTZenLshzpFQ6SW/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/060/headshot/
 openstates_id: ocd-person/075a2bdd-9f2f-4160-bec6-dfa293da4c4e
 contact:
   website: "https://openstates.org/person/nikki-lucas-Ds9ai15xXEuG2OxB4gRhe/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

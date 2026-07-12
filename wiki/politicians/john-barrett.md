@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/J_B1.jpg"
 openstates_id: ocd-person/da8051b7-de05-4c30-9d37-5d7223906356
 contact:
   website: "https://openstates.org/person/john-barrett-6eIy65iakh2wD52PYbTlLS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

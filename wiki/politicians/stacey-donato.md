@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/48630e3d-f299-4f66-a5d9-052719d70bb5/-/pro
 openstates_id: ocd-person/b2c735b9-54fb-4e12-9fef-36ffda822b43
 contact:
   website: "https://openstates.org/person/stacey-donato-5RLfkPQg19Z7tykGw5wEJn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

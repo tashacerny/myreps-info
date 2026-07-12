@@ -12,5 +12,5 @@ photo_url: "https://www.palegis.us/resources/images/members/200/2025.jpg?2024122
 openstates_id: ocd-person/7ec5f0f0-0899-4f54-b284-c4c5931c25bc
 contact:
   website: "https://openstates.org/person/brian-rasel-3rDUXPu4L8Lg92nfGCKDRU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

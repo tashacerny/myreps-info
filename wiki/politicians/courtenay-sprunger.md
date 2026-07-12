@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/db529569-d550-4ed9-b371-b5a1cae9e007
 contact:
   website: "https://openstates.org/person/courtenay-sprunger-6fr3kKz4G6q3aMntXAqurn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

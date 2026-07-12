@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Kitchens_9.pn
 openstates_id: ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e
 contact:
   website: "https://openstates.org/person/wes-kitchens-1v1lfWZD9Xe8NSOMEVyIt4/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

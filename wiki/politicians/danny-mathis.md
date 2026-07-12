@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/mathis-
 openstates_id: ocd-person/1a9598cc-056f-4725-a3fb-64c3f0fd26ed
 contact:
   website: "https://openstates.org/person/danny-mathis-oAAJrsiwXFFHeDqinYd9Z/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

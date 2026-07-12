@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1797.jpg?1703415645
 openstates_id: ocd-person/2c5551d6-71a8-4099-b1a4-a30721320869
 contact:
   website: "https://openstates.org/person/tim-o-neal-1LeeWOeuvTtGHeE9Eu9YoD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

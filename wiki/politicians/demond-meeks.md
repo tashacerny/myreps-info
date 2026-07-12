@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/137/headshot/
 openstates_id: ocd-person/34f326e1-6e7e-40b2-9ece-10856986cb1b
 contact:
   website: "https://openstates.org/person/demond-meeks-1buikIW2GNikYGFI0HyEqR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

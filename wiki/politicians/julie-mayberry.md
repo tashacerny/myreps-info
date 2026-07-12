@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/491_sm.jpg"
 openstates_id: ocd-person/1621cc3a-d18c-486f-96fb-57c6a2890da1
 contact:
   website: "https://openstates.org/person/julie-mayberry-flHA5hCq7XnLTYp8lBCGv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

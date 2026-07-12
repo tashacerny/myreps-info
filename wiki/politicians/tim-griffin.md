@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/d112b6c3-e52f-4da4-a6fe-5866bf3f6799
 contact:
   website: "https://openstates.org/person/tim-griffin-6MVwoWkhgcEyCPWNaBoiEb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

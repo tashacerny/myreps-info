@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/capjournal.com/content/
 openstates_id: ocd-person/e03644b8-7ddd-4ae0-a734-6f6e76e735ba
 contact:
   website: "https://openstates.org/person/mary-fitzgerald-6p555ArRIDEZs33PcvZR7a/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

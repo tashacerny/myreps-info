@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Roger
 openstates_id: ocd-person/69b0ca35-e513-4250-90fd-3a8c44dbeae8
 contact:
   website: "https://openstates.org/person/roger-degroot-3DQzE5fXYhbmBrrmhEJ2IS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

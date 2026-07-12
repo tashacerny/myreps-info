@@ -12,5 +12,5 @@ photo_url: "https://www.cushingcitizen.com/sites/cushingcitizen.com/files/styles
 openstates_id: ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f
 contact:
   website: "https://openstates.org/person/molly-jenkins-3yfmIrUspowXrbCuKvoQm7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/PETERT.jpg"
 openstates_id: ocd-person/faa88790-ac92-4a09-b00e-7049cc8521b6
 contact:
   website: "https://openstates.org/person/tom-peterson-7cz6CGu7ERJmCb6m43VJB8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

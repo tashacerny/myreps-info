@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/hall_walter.j
 openstates_id: ocd-person/542b49b1-72ed-4e96-98bf-e7c236b92e12
 contact:
   website: "https://openstates.org/person/walter-hall-2Yp8YlN1NvEmTXgAE5YUEs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

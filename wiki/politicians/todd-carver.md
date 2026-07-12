@@ -12,5 +12,5 @@ photo_url: "https://www.iredellfreenews.com/wp-content/uploads/2023/12/Todd-Carv
 openstates_id: ocd-person/1a7c3ce0-97be-4601-895d-8300458a7e42
 contact:
   website: "https://openstates.org/person/todd-carver-nyZnHIfkv5kgqKCzyEt74/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

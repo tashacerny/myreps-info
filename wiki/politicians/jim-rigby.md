@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1836.jpg?1703415645
 openstates_id: ocd-person/343e541b-fbd3-4622-bf42-7843494b1714
 contact:
   website: "https://openstates.org/person/jim-rigby-1aa5HcyZXSjsRo1t3iIpoS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

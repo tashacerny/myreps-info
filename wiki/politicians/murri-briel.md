@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{E820664D-DF76-4A22-88DC-736
 openstates_id: ocd-person/d717abc0-a4ec-4ce9-bd24-cbda0a48c361
 contact:
   website: "https://openstates.org/person/murri-briel-6XsAPYC90OZt9VF7ZwQ4Ez/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

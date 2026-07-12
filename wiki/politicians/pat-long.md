@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/14d0ff58-3340-4344-bb79-c6acd5f8ba6c
 contact:
   website: "https://openstates.org/person/pat-long-dHMEb8TllJxcb1liUHD0W/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

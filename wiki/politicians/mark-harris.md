@@ -12,7 +12,7 @@ photo_url: "https://www.congress.gov/img/member/67742d1b0b34857ecc9090dd_200.jpg
 term_start: "2025-01-03"
 bioguide_id: H001102
 contact:
-  website: "https://markharris.house.gov/"
+  website: "https://openstates.org/person/mark-harris-42gbzbXpHtyX2li3Beyo0V/"
 last_updated: "2026-07-12"
 ---
 

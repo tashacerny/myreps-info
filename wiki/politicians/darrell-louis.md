@@ -12,5 +12,5 @@ photo_url: "https://www.darrelllouis.com/files/86903/Untitled.png"
 openstates_id: ocd-person/7349598b-1f4e-4a54-8053-34534c9663e0
 contact:
   website: "https://openstates.org/person/darrell-louis-3VXdaZRBpyKrzTerwqbSt6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

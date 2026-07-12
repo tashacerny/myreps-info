@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/DFC1.jpg"
 openstates_id: ocd-person/5f227f77-f58b-4ac6-b193-9f406bde4055
 contact:
   website: "https://openstates.org/person/dan-cahill-2tW2GuttYDlNBuWikNNFwL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

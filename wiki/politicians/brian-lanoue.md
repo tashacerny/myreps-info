@@ -13,5 +13,5 @@ photo_url: "https://www.cga.ct.gov/legpics/045.png?ver="
 openstates_id: ocd-person/fc3ba144-870e-4603-b2a4-26d3e80b5c70
 contact:
   website: "https://openstates.org/person/brian-lanoue-7fxJfwvG2CC26O7GO5wXSa/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

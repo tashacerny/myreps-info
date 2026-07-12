@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Morrow,Chris.j
 openstates_id: ocd-person/70fc16c3-0cba-429c-8616-dbcc6b9b7bf7
 contact:
   website: "https://openstates.org/person/chris-morrow-3RCLQOvfKAiaB3vhO0Tzdv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

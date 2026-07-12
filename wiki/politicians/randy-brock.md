@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/RBrock.jpg"
 openstates_id: ocd-person/e8028cf6-fe46-49bf-b8fc-6c9bcd1fa020
 contact:
   website: "https://openstates.org/person/randy-brock-73nNttRVL8gSvOGYW51Nb6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

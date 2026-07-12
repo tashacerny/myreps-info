@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/roy-klopfenstein/head
 openstates_id: ocd-person/73e72147-0d40-4478-bbf6-3419f0e00b46
 contact:
   website: "https://openstates.org/person/roy-klopfenstein-3Whk96YWIUPMZLMiSejMt4/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

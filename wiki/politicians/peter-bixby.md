@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/2c42e95c-0192-4910-9fc6-8a43b58c6467
 contact:
   website: "https://openstates.org/person/peter-bixby-1LWEwcMVcR1Ua1JzSnnM9P/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

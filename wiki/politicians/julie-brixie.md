@@ -12,5 +12,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/192ea166-adcc-4d74-b497-2fd4db882a00
 contact:
   website: "https://openstates.org/person/julie-brixie-lW7KyauFrDiNiSKVvaK8m/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

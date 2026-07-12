@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist31/hig
 openstates_id: ocd-person/9d6fd408-5497-4038-9716-c1f487e348d2
 contact:
   website: "https://openstates.org/person/kathleen-kauth-4n4trPN9f8ZiuEVHUnAX6Q/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

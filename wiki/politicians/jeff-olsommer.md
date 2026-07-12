@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jeff_
 openstates_id: ocd-person/08211014-af0e-4d71-92a7-e0045ba8062a
 contact:
   website: "https://openstates.org/person/jeff-olsommer-FL2zuhOHwN7kD5YhmjZxS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

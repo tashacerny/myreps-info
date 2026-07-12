@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Randy
 openstates_id: ocd-person/73f418c4-6d07-4ef5-924f-1664738d2b46
 contact:
   website: "https://openstates.org/person/randy-deibert-3WnfXyRHAUeBTP8CeulbmA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

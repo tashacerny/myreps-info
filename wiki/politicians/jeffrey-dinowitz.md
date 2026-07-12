@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/081/headshot/
 openstates_id: ocd-person/ff604a07-1aaf-4e61-b070-dd478f42cea5
 contact:
   website: "https://openstates.org/person/jeffrey-dinowitz-7lt2xBgWY9lEoluya3KdWv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

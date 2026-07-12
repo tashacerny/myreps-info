@@ -12,5 +12,5 @@ photo_url: "https://nhjournal.com/wp-content/uploads/2024/01/sean-durkin-300x300
 openstates_id: ocd-person/8d99d9dc-999d-438c-84c8-01d80f1ef5cd
 contact:
   website: "https://openstates.org/person/sean-durkin-4JCE9GwIOeiALdOQTq4JdF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

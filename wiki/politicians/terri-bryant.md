@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{58FBFE5F-39EE-4F3C-853A-0DB
 openstates_id: ocd-person/372be8dc-8177-47e7-b128-1e6a81621f3a
 contact:
   website: "https://openstates.org/person/terri-bryant-1g6dyMDs1GK9N40x5ZFlhy/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

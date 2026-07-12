@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/vtcng.com/content/tncms
 openstates_id: ocd-person/5581159f-1776-41de-ab76-72c8fe5167c0
 contact:
   website: "https://openstates.org/person/jed-lipsky-2bLL3FngHnm7OK23AU7e88/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

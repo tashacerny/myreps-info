@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2024/house/young_kayla.
 openstates_id: ocd-person/3317959e-9fbd-40dc-aa7a-0f0a9cc06c3f
 contact:
   website: "https://openstates.org/person/kayla-young-1YPNyrTMqqkUa0DoNd6SpL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

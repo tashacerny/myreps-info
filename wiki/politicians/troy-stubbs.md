@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Stubbs_31.png"
 openstates_id: ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b
 contact:
   website: "https://openstates.org/person/troy-stubbs-3y8oUHwIRVSCzDwwjFYEPb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

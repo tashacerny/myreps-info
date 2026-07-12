@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/ESCAML.jpg"
 openstates_id: ocd-person/6983c74c-3687-4e48-b462-38a80caeb260
 contact:
   website: "https://openstates.org/person/luz-escamilla-3D6Ps1Nc79GQy5HRt1EQ88/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

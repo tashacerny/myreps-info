@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b873e7d2-9103-47e9-8c25-df94056f728d
 contact:
   website: "https://openstates.org/person/jennifer-poirier-5c3YXhAGCIhetuL8IJnEQX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

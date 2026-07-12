@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/d7569723-ddde-4706-a857-422804198fa8
 contact:
   website: "https://openstates.org/person/lorena-garcia-6YKvB1BojgFFTKH7qH3jc8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

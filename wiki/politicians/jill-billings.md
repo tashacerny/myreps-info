@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2448.jpg"
 openstates_id: ocd-person/7da63875-0a3c-4b03-aaa8-fe48c718eb45
 contact:
   website: "https://openstates.org/person/jill-billings-3p60EsSV5RdF5Bo1l4k7Sn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

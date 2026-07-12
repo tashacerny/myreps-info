@@ -13,5 +13,5 @@ photo_url: "https://cdn.zephyrcms.com/248dafe4-9869-419e-8b36-190d40ffd50b/-/pro
 openstates_id: ocd-person/4267823b-aec1-452a-a040-25b337f04c54
 contact:
   website: "https://openstates.org/person/jeff-raatz-21InQR2Uj4j2cX4fJBcd9g/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://d2gjqh9j26unp0.cloudfront.net/profilepic/227f30057b7cd301a72
 openstates_id: ocd-person/7c8a79bb-76d5-488c-988b-084fa40b34c7
 contact:
   website: "https://openstates.org/person/mike-ouellet-3n0KaL5KvTGgxOjA1GmzUl/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

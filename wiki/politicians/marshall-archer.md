@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/5f6ec7_b6a4675891d74ce79ddda01994
 openstates_id: ocd-person/9b3c17b4-3c7a-4f8d-96bb-8215a385fdd2
 contact:
   website: "https://openstates.org/person/marshall-archer-4ivGvhRhudtDPkNyiy5HOc/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

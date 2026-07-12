@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/korman01.jpg"
 openstates_id: ocd-person/b86e252c-2904-4d28-9d2f-b13d854efa66
 contact:
   website: "https://openstates.org/person/marc-korman-5c0vKPY5pf9ju71g4Nlnbq/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

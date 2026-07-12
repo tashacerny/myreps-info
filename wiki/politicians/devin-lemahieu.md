@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/senate/2425.jpg"
 openstates_id: ocd-person/be7a6f06-6d2c-49d1-908d-451adef564eb
 contact:
   website: "https://openstates.org/person/devin-lemahieu-5nQUemfWGPNEQC3Avdwf3D/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

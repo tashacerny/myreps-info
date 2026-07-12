@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep95.jpg"
 openstates_id: ocd-person/46b660af-1c4c-46a1-905e-ffd89a9cc32f
 contact:
   website: "https://openstates.org/person/shane-mack-29QoCYUqClKcARdUL2F5TD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

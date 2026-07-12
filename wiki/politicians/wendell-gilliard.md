@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0675568101.jpg"
 openstates_id: ocd-person/7d11e90b-a028-4947-89d1-ac0788530446
 contact:
   website: "https://openstates.org/person/wendell-gilliard-3o0E0QkOvyw8bpoTrluTjS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c027d650-709d-440f-8740-84b3e11406ba
 contact:
   website: "https://openstates.org/person/jim-mackay-5qajPPP75hPvqnD2iR7Y0w/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

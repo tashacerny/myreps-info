@@ -12,5 +12,5 @@ photo_url: "https://aps.ss20.sharpschool.com/UserFiles/Servers/Server_3217444/Im
 openstates_id: ocd-person/9c2accab-1bbf-495c-8036-137e48ba684d
 contact:
   website: "https://openstates.org/person/michael-carter-4kgMTB8FGj4anMOawu5U7B/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

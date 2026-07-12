@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/653bf32647727060129bd0
 openstates_id: ocd-person/afd0bd15-a816-44ae-b28e-cecf50dda45b
 contact:
   website: "https://openstates.org/person/logan-monson-5Ll3AB1sfN90vvYv56Tklf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

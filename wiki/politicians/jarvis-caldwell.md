@@ -12,5 +12,5 @@ photo_url: "https://coloradonewsline.com/wp-content/uploads/2023/12/jarvis-caldw
 openstates_id: ocd-person/544a4247-320e-456a-b5dd-f0373bdad788
 contact:
   website: "https://openstates.org/person/jarvis-caldwell-2Z3I5youaCdNv8KDSINIGu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

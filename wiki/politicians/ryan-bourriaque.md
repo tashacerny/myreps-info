@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep47.jpg"
 openstates_id: ocd-person/85ef927c-d038-4534-a8ff-b99ad6656bda
 contact:
   website: "https://openstates.org/person/ryan-bourriaque-44jSmlJA9PkI8TThtpZYFu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

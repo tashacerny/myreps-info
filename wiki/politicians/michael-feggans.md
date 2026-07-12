@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/598f6428d482e9b47f6c2f
 openstates_id: ocd-person/cbf3268e-ced2-4aad-8ed1-18e4f37534ec
 contact:
   website: "https://openstates.org/person/michael-feggans-6CqYsKQ23nem4ZiIfDqKrs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

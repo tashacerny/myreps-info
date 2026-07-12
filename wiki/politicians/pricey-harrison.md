@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/504/Low"
 openstates_id: ocd-person/4c2e2654-2647-4394-8efe-f09532225ff6
 contact:
   website: "https://openstates.org/person/pricey-harrison-2JkVSBZy3RIUMlbF43Qhbq/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

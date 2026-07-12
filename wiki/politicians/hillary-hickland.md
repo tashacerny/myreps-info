@@ -13,5 +13,5 @@ photo_url: "https://www.house.texas.gov/images/members/4520.jpg?v=1"
 openstates_id: ocd-person/ef5a2ea8-61b0-484c-bbe1-b52c5ad2f075
 contact:
   website: "https://openstates.org/person/hillary-hickland-7HeNX0uJS6YMr1PBWVR2TF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

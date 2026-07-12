@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d
 contact:
   website: "https://openstates.org/person/rod-pelton-27iAQTTa539GSsxpGkDIZJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

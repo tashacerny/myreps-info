@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Headrick,Troy%
 openstates_id: ocd-person/4da3dea2-48bb-4162-a1a5-ff0525f7cbf6
 contact:
   website: "https://openstates.org/person/troy-headrick-2MVISphtAo9JF7RixTTDeA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

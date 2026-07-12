@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_waymaster_troy_1.jp
 openstates_id: ocd-person/655437d6-f80f-4e14-b061-c28a8977cf0f
 contact:
   website: "https://openstates.org/person/troy-waymaster-35CiC3yZYnBEws0gYtcdax/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/AMS3.jpg"
 openstates_id: ocd-person/adb7ebb2-480f-4215-859e-3a1194e9a598
 contact:
   website: "https://openstates.org/person/amy-sangiolo-5HnivCaOntYeABEZlpuPvM/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

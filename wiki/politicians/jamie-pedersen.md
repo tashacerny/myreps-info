@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/12002.jpg"
 openstates_id: ocd-person/f6d8dcb4-c212-4f2b-a043-a541e47dede0
 contact:
   website: "https://openstates.org/person/jamie-pedersen-7VnDYiqodIiBD4NLKHkMJE/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

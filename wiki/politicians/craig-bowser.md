@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Craig
 openstates_id: ocd-person/b4963502-06af-4855-bc95-8db7972d2e04
 contact:
   website: "https://openstates.org/person/craig-bowser-5UlGLZa0VBJMq4DSY4tHjI/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

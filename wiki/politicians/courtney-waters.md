@@ -12,5 +12,5 @@ photo_url: "https://courtneywaters.com/wp-content/uploads/2024/11/courtney-water
 openstates_id: ocd-person/0a87faa3-3d88-4fd6-a29f-583102f8c89f
 contact:
   website: "https://openstates.org/person/courtney-waters-Js45Ct265p9zXU5eQyJUF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

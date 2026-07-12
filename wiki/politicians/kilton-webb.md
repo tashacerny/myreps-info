@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/813534/813
 openstates_id: ocd-person/f905d6bf-dd0b-4637-94ba-381e14083f6e
 contact:
   website: "https://openstates.org/person/kilton-webb-7ZtkywDMdIMadOSf5CAB94/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

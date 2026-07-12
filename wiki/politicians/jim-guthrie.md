@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/di
 openstates_id: ocd-person/e2a8fbe1-e9dc-4569-865f-450fa5f13665
 contact:
   website: "https://openstates.org/person/jim-guthrie-6thUULE3LsK7SHwLMItEsn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

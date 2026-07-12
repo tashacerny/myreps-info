@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2023/house/lewis_hollis
 openstates_id: ocd-person/68163122-16de-4528-8eda-fd1f9783c45d
 contact:
   website: "https://openstates.org/person/hollis-lewis-3APLJM8UCePl3xkuLYLm7J/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

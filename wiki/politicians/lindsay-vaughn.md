@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_vaughn_lindsay_1.jp
 openstates_id: ocd-person/4a16a87e-2567-4361-9874-aaee47278840
 contact:
   website: "https://openstates.org/person/lindsay-vaughn-2FnmnGxbezoU1cHX6fm2wS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

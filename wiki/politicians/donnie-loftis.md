@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/788/Low"
 openstates_id: ocd-person/d7308aed-454d-4091-b32c-606f516e9421
 contact:
   website: "https://openstates.org/person/donnie-loftis-6Y3X87OO1KFRxpke0R3Vnl/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

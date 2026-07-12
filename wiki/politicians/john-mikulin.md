@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/017/headshot/
 openstates_id: ocd-person/d0ecfe0a-9f41-4deb-9829-7c1c16a7c498
 contact:
   website: "https://openstates.org/person/john-mikulin-6MEi0XuIQ7z6FW7E0zFyLw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

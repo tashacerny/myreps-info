@@ -12,5 +12,5 @@ photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/HERNANDEZ_L.jp
 openstates_id: ocd-person/7a33e2bd-8394-45d9-967b-0c39430ff39b
 contact:
   website: "https://openstates.org/person/lydia-hernandez-3iam5t6UtYZmt62feOfPqd/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

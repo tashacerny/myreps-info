@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/a78a22ef-aefe-43ee-a40e-86026b341381
 contact:
   website: "https://openstates.org/person/dan-ruby-568qWRXd3nj0kiFmP8fmk5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

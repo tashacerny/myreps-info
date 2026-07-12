@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c
 contact:
   website: "https://openstates.org/person/jason-dockter-LIFrqgAdASa5A00vQ1mns/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

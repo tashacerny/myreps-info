@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/d1a172a6-548d-4c74-9d9d-ea2f1bab1443/-/pro
 openstates_id: ocd-person/5f8f629e-daed-4a92-ab9b-98c4127d8a0e
 contact:
   website: "https://openstates.org/person/spencer-deery-2uJnUfE06ZbXaCIujizRcs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

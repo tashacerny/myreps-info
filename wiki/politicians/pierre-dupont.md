@@ -12,5 +12,5 @@ photo_url: "https://www.manchestergop.com/wp-content/uploads/2024/07/Pierre_Dupo
 openstates_id: ocd-person/040f626d-c4bc-4c7b-a99a-1fcc5df165d9
 contact:
   website: "https://openstates.org/person/pierre-dupont-7f0098jxnw8MQP9gAJfyb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2023/01/Bellino-580x7
 openstates_id: ocd-person/e394293d-abd7-46a9-a60f-6c75e369468e
 contact:
   website: "https://openstates.org/person/joe-bellino-6vQy18FAwf0TerhgpHFL8I/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

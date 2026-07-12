@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/052/headshot/
 openstates_id: ocd-person/21da6116-bec3-44a4-9e0b-a68eef91222d
 contact:
   website: "https://openstates.org/person/jo-anne-simon-11sXsJcUcNTdiHqVP06nKX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

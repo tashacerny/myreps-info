@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d02/img/headshot.jpg"
 openstates_id: ocd-person/013d69b7-a958-490c-a4a2-7224a30efa08
 contact:
   website: "https://openstates.org/person/bob-hall-2L3bRQIJsEbDjJR4WlyFk/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

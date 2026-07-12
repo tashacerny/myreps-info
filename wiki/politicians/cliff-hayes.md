@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/77b071e3-b8fa-4455-b2e6-3d487a8145c8
 contact:
   website: "https://openstates.org/person/cliff-hayes-3dqin5RhJvPxQCxHcK23lg/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

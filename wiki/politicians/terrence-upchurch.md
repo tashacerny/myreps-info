@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/terrence-upchurch/hea
 openstates_id: ocd-person/a4c53220-d4a7-4591-b2d8-109516dc9401
 contact:
   website: "https://openstates.org/person/terrence-upchurch-50urLEw31mmP0Y0QozWFe5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

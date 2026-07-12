@@ -12,5 +12,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b
 contact:
   website: "https://openstates.org/person/juan-carrillo-HIyDWp1TyLOWBNwbhe5wx/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

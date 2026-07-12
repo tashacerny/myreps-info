@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/638e0e4731cb8444ce5a20
 openstates_id: ocd-person/df116f27-98bd-497d-a5bc-9f1d7ddff506
 contact:
   website: "https://openstates.org/person/justin-pearson-6mvFtTqu1SsiO1oSqkNT7u/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

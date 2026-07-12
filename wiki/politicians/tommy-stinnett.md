@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Tom_S
 openstates_id: ocd-person/ed22e9c7-ddb2-4772-b664-04d4e31cce5b
 contact:
   website: "https://openstates.org/person/tommy-stinnett-7DT8U9HGkeJXKiq1euQL4V/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

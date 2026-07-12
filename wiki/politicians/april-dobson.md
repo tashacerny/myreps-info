@@ -12,5 +12,5 @@ photo_url: "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/
 openstates_id: ocd-person/571be1bf-e0ba-45a3-97be-d5df3bc98738
 contact:
   website: "https://openstates.org/person/april-dobson-2eN4cJ3WB8CW79MXyhdXZ2/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

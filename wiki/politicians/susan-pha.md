@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mn/graphics/38Pha.jpg"
 openstates_id: ocd-person/bd086574-4116-4b0a-ad6b-7c0352293f06
 contact:
   website: "https://openstates.org/person/susan-pha-5khNzKVCjHuloUJHPIprbK/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

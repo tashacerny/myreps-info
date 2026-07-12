@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Will_
 openstates_id: ocd-person/695c8e66-9ee6-4431-8bd4-b7435b04e2c7
 contact:
   website: "https://openstates.org/person/will-carpenter-3CoUXmZwNcOZtoPrfi7Ubn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

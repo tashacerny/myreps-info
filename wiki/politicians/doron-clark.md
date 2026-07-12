@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/60Clark.jpg"
 openstates_id: ocd-person/2c27d592-c50b-45ae-b62a-ff657c828a5c
 contact:
   website: "https://openstates.org/person/doron-clark-1LJrjaszDa6R6Az5fsuJWG/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s05_
 openstates_id: ocd-person/03362949-948c-415d-a5b6-f99e8fbc6495
 contact:
   website: "https://openstates.org/person/tracie-davis-63jBKdQvM0iGa0YltyJTJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

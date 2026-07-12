@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/5ca31513-814c-44b9-9206-aae55c05d056
 contact:
   website: "https://openstates.org/person/anna-ferguson-2onp1Hm2rRQUWzXa2gIRuA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

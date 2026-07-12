@@ -13,5 +13,5 @@ photo_url: "https://sdlegislature.gov/inc/img/Legislators/Howard_2017.jpg"
 openstates_id: ocd-person/f06bd3c9-8cac-4cc6-be62-f949e51f28eb
 contact:
   website: "https://openstates.org/person/taffy-howard-7JfR0mdc2GfWCG8h4HtOvb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/75229920-399d-4216-9b76-c27ea398665a
 contact:
   website: "https://openstates.org/person/tri-ta-3Z1ue5czwsFWe0AVQqjBaU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

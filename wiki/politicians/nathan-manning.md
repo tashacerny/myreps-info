@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/nathan-h-manning/head
 openstates_id: ocd-person/d3508136-3927-461f-a2f0-a85665845ab1
 contact:
   website: "https://openstates.org/person/nathan-manning-6QkAeFHgFduKkywpVIhW6L/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

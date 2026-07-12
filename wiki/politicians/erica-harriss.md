@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{7762DCAD-269B-472B-BDD4-5F5
 openstates_id: ocd-person/4dadb374-d534-4ba0-8323-6e41a19933f5
 contact:
   website: "https://openstates.org/person/erica-harriss-2MZn1fekFzhcsMDIEmBwk1/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

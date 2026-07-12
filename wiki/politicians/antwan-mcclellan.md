@@ -12,5 +12,5 @@ photo_url: "http://www.njleg.state.nj.us/members/memberphotos/mcclellan_antwan_2
 openstates_id: ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab
 contact:
   website: "https://openstates.org/person/antwan-mcclellan-2OaU1MkiAUAzaG9sRTCBh5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

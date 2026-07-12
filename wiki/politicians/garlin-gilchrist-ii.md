@@ -12,5 +12,5 @@ photo_url: "https://www.michigan.gov/whitmer/-/media/Project/Websites/Whitmer/Im
 openstates_id: ocd-person/e077b72e-8c9e-4506-a4b5-1fd83d6f6226
 contact:
   website: "https://openstates.org/person/garlin-gilchrist-ii-6pYzSxpwXuTu2lb6V9285m/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

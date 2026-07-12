@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/410/Low"
 openstates_id: ocd-person/91615553-5509-4625-ab20-7a81896438e0
 contact:
   website: "https://openstates.org/person/carl-ford-4QKMrstYJDRHjavBsAEkxk/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

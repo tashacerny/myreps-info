@@ -12,5 +12,5 @@ photo_url: "https://house.vga.virginia.gov/delegate_photos/H0345.jpg"
 openstates_id: ocd-person/9fd6fbd7-5e4e-4426-9d5a-43173ab01489
 contact:
   website: "https://openstates.org/person/anne-ferrell-tata-4rc1j1PcD5KczIN3qR07CL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

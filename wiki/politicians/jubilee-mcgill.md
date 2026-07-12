@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/McGill,Jubilee
 openstates_id: ocd-person/829926f6-054a-45e2-be75-1c1da860f0c4
 contact:
   website: "https://openstates.org/person/jubilee-mcgill-3yQza4ZPU2JRkBEA8a1fQS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

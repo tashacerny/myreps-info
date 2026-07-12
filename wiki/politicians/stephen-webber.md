@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9
 contact:
   website: "https://openstates.org/person/stephen-webber-32RyyR9E3BXJ0xwduzRS25/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

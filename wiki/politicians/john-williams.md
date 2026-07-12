@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2021/house/williams_john
 openstates_id: ocd-person/2c8a36d4-5afa-4b68-a6a0-1a9b170401b0
 contact:
   website: "https://openstates.org/person/john-williams-1M2pEqYQg9pP9Ogm3WgUnA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

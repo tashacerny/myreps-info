@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0103409079.jpg"
 openstates_id: ocd-person/d4974849-0939-472c-9862-4d760889125e
 contact:
   website: "https://openstates.org/person/bruce-bannister-6T9VajDESLGPUc2JyAmCJq/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

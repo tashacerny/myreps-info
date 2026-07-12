@@ -13,5 +13,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/19b8cf37-0b98-4194-9d2c-db6da3fae35c
 contact:
   website: "https://openstates.org/person/joe-tate-mXGVjy33XKWhLs659P2dw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

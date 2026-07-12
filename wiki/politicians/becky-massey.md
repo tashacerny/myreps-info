@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/senate/members/images/s6.jpg"
 openstates_id: ocd-person/592971a7-2e11-4bed-a57d-71187e174329
 contact:
   website: "https://openstates.org/person/becky-massey-2iFFw4adN2uaJqyMVsXVyj/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

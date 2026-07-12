@@ -13,5 +13,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/GONZALES.
 openstates_id: ocd-person/3c965e03-1e51-4f10-a037-4fb2f35292c5
 contact:
   website: "https://openstates.org/person/sally-gonzales-1qKFyMHADaJIbfmUmKfRen/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://californiaglobe.com/wp-content/uploads/2024/10/Screenshot-20
 openstates_id: ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737
 contact:
   website: "https://openstates.org/person/jeff-gonzalez-2aiA6etiuVMbbIVnu0TCkB/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/13546.jpg"
 openstates_id: ocd-person/3aa56ec5-a087-40b1-960a-acb9426ccb2a
 contact:
   website: "https://openstates.org/person/marko-liias-1mf9n3By37JOSLYTn4vsug/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

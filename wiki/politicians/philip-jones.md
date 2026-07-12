@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/cont
 openstates_id: ocd-person/09cfaba9-f3ee-41d6-8cf7-0c93613109cd
 contact:
   website: "https://openstates.org/person/philip-jones-IVps6J7MBCNPY62WkyKCL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/
 openstates_id: ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3
 contact:
   website: "https://openstates.org/person/dave-lawson-25zSF7be9fsOIyEsU02lhD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/561516c4-4e4f-45bc-b1d0-6ed359006597
 contact:
   website: "https://openstates.org/person/joe-alfieri-2cQycclMqx8xTAoMHoTyrv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

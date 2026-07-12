@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/new-kim
 openstates_id: ocd-person/fc1a5e1f-6ce4-47ab-987b-095afa166359
 contact:
   website: "https://openstates.org/person/kimberly-new-7fi7DfEgCXUL7m5EL0fTuz/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

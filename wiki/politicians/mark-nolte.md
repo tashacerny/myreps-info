@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/443938dd-c7a0-4061-890a-8bd4ec4a1924
 contact:
   website: "https://openstates.org/person/mark-nolte-24jczCElYUlpqMBsPKUz00/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

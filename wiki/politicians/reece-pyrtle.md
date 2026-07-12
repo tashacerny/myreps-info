@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/787/Low"
 openstates_id: ocd-person/837ec59b-a7db-41dc-9e9f-a7a83b462213
 contact:
   website: "https://openstates.org/person/reece-pyrtle-407vdzSLQ78TisOxPSvDwx/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

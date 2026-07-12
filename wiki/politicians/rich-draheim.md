@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mn/graphics/20Draheim.jpg"
 openstates_id: ocd-person/f9fb7c65-e0ab-484c-8517-b20267cc3f07
 contact:
   website: "https://openstates.org/person/rich-draheim-7bi1AJ7AhN5TQcYZzbj7G3/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

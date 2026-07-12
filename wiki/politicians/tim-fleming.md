@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/fleming
 openstates_id: ocd-person/cf955c60-cbda-4414-9266-3d8dca3553fe
 contact:
   website: "https://openstates.org/person/tim-fleming-6JhfWeqahtE9l9nk9CBHxe/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/a664e2a6-fb83-4186-82cc-d4e33ff0591f/-/pro
 openstates_id: ocd-person/b5e2b0b8-ae2a-4852-9c40-c9bf4a32fe1a
 contact:
   website: "https://openstates.org/person/aaron-freeman-5XDCxCVSWglnb4ymMcKrkY/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

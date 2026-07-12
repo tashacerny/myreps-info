@@ -13,5 +13,5 @@ photo_url: "https://lawmakerdocuments.blob.core.usgovcloudapi.net/photos/miskimi
 openstates_id: ocd-person/169a02e3-c161-4cca-8adb-10e55934a94f
 contact:
   website: "https://openstates.org/person/paul-miskimins-geDIj1A0reWvgHveTq9Lb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/e6b59654-1e8f-4f6b-b01f-7d69bb76ffec
 contact:
   website: "https://openstates.org/person/jim-creighton-71LDgkYi29OENvEYs1r4Zw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

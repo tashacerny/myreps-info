@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2237"
 openstates_id: ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b
 contact:
   website: "https://openstates.org/person/jamie-burger-47qjp5mlrRr6jcj6EQagrz/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/mireku01.jpg"
 openstates_id: ocd-person/c5a06a0d-f611-4526-8674-23e035caab74
 contact:
   website: "https://openstates.org/person/bernice-mireku-north-60unTIgCRYIfgmoRiuE2XU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

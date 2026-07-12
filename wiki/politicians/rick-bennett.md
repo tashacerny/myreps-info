@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/bennett-5x7.jpg"
 openstates_id: ocd-person/4276be86-7dfa-4817-9792-52622b93ff40
 contact:
   website: "https://openstates.org/person/rick-bennett-21Pl6rbkvCpGIuSP2LjGGu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

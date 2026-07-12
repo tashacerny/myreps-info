@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/533fb85c-c4f0-41f3-9bc6-8b1c422a9693
 contact:
   website: "https://openstates.org/person/judy-aron-2X5TxwizhSorYIIREc3D8d/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

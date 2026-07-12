@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/81ab0331-83cd-4551-bf74-b732623c86b8
 contact:
   website: "https://openstates.org/person/brian-reynolds-3wgA6xPEPaWCh0fbk2GJaK/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

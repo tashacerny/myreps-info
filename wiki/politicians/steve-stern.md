@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/010/headshot/
 openstates_id: ocd-person/a6956643-33f7-4b99-bcfb-fd44f9d92481
 contact:
   website: "https://openstates.org/person/steve-stern-54L07meg4mih1KGDTfEzBZ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

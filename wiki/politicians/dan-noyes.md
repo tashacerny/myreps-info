@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Noyes.Daniel.j
 openstates_id: ocd-person/95cd4184-c07f-48a5-993a-e924ad71184f
 contact:
   website: "https://openstates.org/person/dan-noyes-4YfeqyombyR7XN0CnZZvIN/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

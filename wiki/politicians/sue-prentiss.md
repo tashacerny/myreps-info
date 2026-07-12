@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/de206392-deba-4ecf-96a3-33494c415417
 contact:
   website: "https://openstates.org/person/sue-prentiss-6l966CO0rkFZFxZABFpNup/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

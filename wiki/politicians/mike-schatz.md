@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/a8e9d4c9-c6fa-41cf-8440-30ba429d4c63
 contact:
   website: "https://openstates.org/person/mike-schatz-58jZT7gWQLTjaT1HYcNtDv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

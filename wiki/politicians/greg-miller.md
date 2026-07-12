@@ -12,5 +12,5 @@ photo_url: "https://senate.la.gov/SenPics/Sen19.jpg"
 openstates_id: ocd-person/77166b5f-e299-431c-869d-ab2fff79cd33
 contact:
   website: "https://openstates.org/person/greg-miller-3ciKcakoIyL0hAX4wPLlQ3/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

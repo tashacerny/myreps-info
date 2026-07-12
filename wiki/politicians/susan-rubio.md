@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc
 contact:
   website: "https://openstates.org/person/susan-rubio-6BATYbrTpWkxpvEmwVNgM8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

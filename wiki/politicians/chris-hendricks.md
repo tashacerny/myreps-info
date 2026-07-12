@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/C_H1.jpg"
 openstates_id: ocd-person/9750bdb4-4dce-4003-85ec-672185a3a5a4
 contact:
   website: "https://openstates.org/person/chris-hendricks-4bWjt3guL4N7FGg9wysdGO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

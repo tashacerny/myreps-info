@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2075"
 openstates_id: ocd-person/419c30c0-b3f2-4d4b-a2f1-ee08050e845b
 contact:
   website: "https://openstates.org/person/jon-patterson-1znsaaClpl6wGnTXPuqAqR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

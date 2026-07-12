@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Toof,Casey.jpg
 openstates_id: ocd-person/704de547-43b6-4dfa-bf95-c4137f263e00
 contact:
   website: "https://openstates.org/person/casey-toof-3Pujon5qFPdhKii3SnXm40/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

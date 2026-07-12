@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Stuart
 openstates_id: ocd-person/52e67ab6-2039-458e-b7a8-9bb5f3694e11
 contact:
   website: "https://openstates.org/person/richard-stuart-2WQhPRFYPUcryktVd6K7mr/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

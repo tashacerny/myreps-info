@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/DPL1.jpg"
 openstates_id: ocd-person/06867e5f-9de5-4cb2-a3ae-a039e890718c
 contact:
   website: "https://openstates.org/person/david-linsky-CJPtkn9E8koYoFNbbs5Xw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

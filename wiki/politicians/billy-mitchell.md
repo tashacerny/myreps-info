@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/mitchel
 openstates_id: ocd-person/96307d79-07d4-4f59-9dd3-b7f994d566d5
 contact:
   website: "https://openstates.org/person/billy-mitchell-4ZP0YyPhQOVq3hKIvdScgX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

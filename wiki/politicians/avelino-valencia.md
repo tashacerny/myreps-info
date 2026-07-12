@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/87062971-b583-4983-8ac5-4af98bef354d
 contact:
   website: "https://openstates.org/person/avelino-valencia-46mmMq6nyGgDmnVKC8leVZ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/54fe68ba-6857-483f-b2ae-ba3233a548c4
 contact:
   website: "https://openstates.org/person/dunixi-guereca-2aNcU9cLgaOXWqyJsGHshA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/KIG1.jpg"
 openstates_id: ocd-person/47c42957-b618-41b7-a557-5d24c33568cf
 contact:
   website: "https://openstates.org/person/ken-gordon-2BQ6HHOMtmoLXWH3KenhUd/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

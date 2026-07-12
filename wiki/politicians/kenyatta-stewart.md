@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/0bf3c2a3-9004-40cb-8d3a-eeeca4b0b967
 contact:
   website: "https://openstates.org/person/kenyatta-stewart-MYJUQxDSBTC7YgPOEGfTT/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b
 contact:
   website: "https://openstates.org/person/jill-carter-1HEqQSSxJELuXsDon9dm1b/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

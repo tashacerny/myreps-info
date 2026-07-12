@@ -13,5 +13,5 @@ photo_url: "https://www.house.mi.gov/media/Representatives/Schriver-066.jpg"
 openstates_id: ocd-person/f6df9fad-c6ec-4abf-b175-ac1e9d672759
 contact:
   website: "https://openstates.org/person/josh-schriver-7VqJ8vxn7m3uqJUpr9cksD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

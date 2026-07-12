@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/06A.gif?v=112221"
 openstates_id: ocd-person/f5597924-50c0-4bfc-bd63-3d3b814274f8
 contact:
   website: "https://openstates.org/person/ben-davis-7Sy0aS6NCOzL14klSy7GrQ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

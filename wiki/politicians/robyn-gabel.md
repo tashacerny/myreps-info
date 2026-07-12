@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{739CC8F9-E9E4-40A1-AB86-883
 openstates_id: ocd-person/7d68f174-3504-4479-80c5-e3fbe69fd354
 contact:
   website: "https://openstates.org/person/robyn-gabel-3oe009cbuouzh7DJgMATie/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

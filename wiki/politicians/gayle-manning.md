@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/gayle-manning/headsho
 openstates_id: ocd-person/b29aadca-f2da-4f09-8a1d-7aa328768507
 contact:
   website: "https://openstates.org/person/gayle-manning-5R1K0G9oNUMFbghiqa69zD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/8641b3dd-3687-4665-a96c-2e406740affc
 contact:
   website: "https://openstates.org/person/greg-oblander-45KzsFvkOZ7Yo0C904oV6S/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

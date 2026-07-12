@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s02_
 openstates_id: ocd-person/29c38853-2773-45d3-bc17-0979def1ab54
 contact:
   website: "https://openstates.org/person/jay-trumbull-1Go2jCYa1oXixfmJ8iJVWm/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

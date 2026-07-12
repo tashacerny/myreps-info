@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33997"
 openstates_id: ocd-person/3dd459aa-4a08-4a98-bce4-37536a9414fa
 contact:
   website: "https://openstates.org/person/ken-croken-1sfZjEZ28ixZMjVfQYNSNG/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

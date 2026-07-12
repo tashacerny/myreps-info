@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/senators/Pictures/Lauria%202023.jpg"
 openstates_id: ocd-person/c5991f11-e719-473e-93c4-cfc52fae3e6d
 contact:
   website: "https://openstates.org/person/pam-lauria-60rSpkmgKyXhKp0iXDmUiT/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

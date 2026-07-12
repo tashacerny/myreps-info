@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/JBL0.jpg"
 openstates_id: ocd-person/d0956cb2-93df-4096-82ce-d39fbf0b9e36
 contact:
   website: "https://openstates.org/person/joan-lovely-6Lagr9KYr6LSaICOW8v8xK/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

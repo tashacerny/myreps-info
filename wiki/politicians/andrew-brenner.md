@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/andrew-o-brenner/head
 openstates_id: ocd-person/c61c8eaf-1de9-419d-a5dc-c96787315578
 contact:
   website: "https://openstates.org/person/andrew-brenner-61pWx3hWVa8dGs6JkGfU9Q/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://chourasia4nh.com/wp-content/uploads/2024/08/Manoj-Chourasia-
 openstates_id: ocd-person/ce051501-985a-4008-913f-38b1b05351c6
 contact:
   website: "https://openstates.org/person/manoj-chourasia-6GkjzjEigdXkk0sPk0RSmE/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

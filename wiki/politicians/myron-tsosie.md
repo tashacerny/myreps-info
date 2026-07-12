@@ -12,5 +12,5 @@ photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/TSOSIE.jpg"
 openstates_id: ocd-person/a437a3ce-e3ba-44ec-af75-3308e70f5a87
 contact:
   website: "https://openstates.org/person/myron-tsosie-4zsAU62dgrmET15TT1LFyx/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

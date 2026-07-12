@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/4b68fc91-27b5-4065-af3d-b541877116f5
 contact:
   website: "https://openstates.org/person/linda-mcgrath-2IIP1AQ7ewkR8QEXmZYXTB/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

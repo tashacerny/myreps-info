@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3850.jpg?v=1"
 openstates_id: ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c
 contact:
   website: "https://openstates.org/person/joe-moody-2hArUDZD2PhWaSb8tM3spY/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/b680cb39-442c-4dd2-81bd-88696cfe9df2
 contact:
   website: "https://openstates.org/person/mike-weissman-5YNSfhfro9JEO6wGqH5iio/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

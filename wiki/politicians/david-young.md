@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/e0df02a4-7910-4538-8c3b-8152fb8f657c
 contact:
   website: "https://openstates.org/person/david-young-6qKCEDVGVfDcCDnyznB3K0/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

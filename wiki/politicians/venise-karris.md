@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Venis
 openstates_id: ocd-person/c1af6bc9-bae5-4174-a2f1-6b4d3c5fc496
 contact:
   website: "https://openstates.org/person/venise-karris-5tTgZryS2trGjqCTtH2QS6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

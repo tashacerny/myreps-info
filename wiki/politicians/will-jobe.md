@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoeSt
 openstates_id: ocd-person/9c6a9708-529e-422f-82b7-e92385a32688
 contact:
   website: "https://openstates.org/person/will-jobe-4l9VukMZlqCcnulyqQ4SN6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

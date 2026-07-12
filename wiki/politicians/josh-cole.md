@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/986f0601-025b-4fa7-acda-b2d3c2280784
 contact:
   website: "https://openstates.org/person/josh-cole-4ddZR5AaBHQXZpv2pl55XA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

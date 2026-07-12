@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/bonner-
 openstates_id: ocd-person/0e45048c-c1a4-415f-9ee4-5d09ea857e2e
 contact:
   website: "https://openstates.org/person/josh-bonner-QvQtTr6Xo3V7Tj9jKlQvG/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

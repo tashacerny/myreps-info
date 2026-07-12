@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/982.jpg?17034156456
 openstates_id: ocd-person/171af8ac-41e0-4047-be38-654cc912053b
 contact:
   website: "https://openstates.org/person/marty-causer-hb9Ga69WIzBWMP3jU4qvz/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

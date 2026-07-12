@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/039/headshot/
 openstates_id: ocd-person/864e417d-df2e-4207-83e4-98450555f48a
 contact:
   website: "https://openstates.org/person/catalina-cruz-45QjYgL8hnZawqS73evF0s/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

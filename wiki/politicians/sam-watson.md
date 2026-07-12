@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/watson-
 openstates_id: ocd-person/cbcdfca3-e47d-4b32-9164-ec0709a134bf
 contact:
   website: "https://openstates.org/person/sam-watson-6CZZsIyrJSVTRidvK3CwW7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

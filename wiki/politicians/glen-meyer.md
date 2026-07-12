@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/dae0883f-3a53-4873-99df-b0e10ea64066
 contact:
   website: "https://openstates.org/person/glen-meyer-6f0wCiQdu5vukzPdibSPig/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

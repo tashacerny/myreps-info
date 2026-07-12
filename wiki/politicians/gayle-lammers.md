@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/bf4594_51bb3c90d2b140bc9f3286324b
 openstates_id: ocd-person/29925f97-152a-473e-951e-27d55dba532e
 contact:
   website: "https://openstates.org/person/gayle-lammers-1GRZqk1DoHuUTYNrjPAb0w/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/sandra-obrien/headsho
 openstates_id: ocd-person/d665e333-f7e3-43e2-b440-17920f62c60b
 contact:
   website: "https://openstates.org/person/sandy-o-brien-6WYv5A998TbwHJ9Yy063dz/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

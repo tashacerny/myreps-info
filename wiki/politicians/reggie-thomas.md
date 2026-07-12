@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate11
 openstates_id: ocd-person/42b259db-9ddb-4588-a463-b1a38c944c66
 contact:
   website: "https://openstates.org/person/reggie-thomas-21r00qG7oBmhPb9LM2MIVi/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

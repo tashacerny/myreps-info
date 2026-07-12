@@ -12,5 +12,5 @@ photo_url: "https://www.fosters.com/gcdn/authoring/authoring-images/2024/10/15/N
 openstates_id: ocd-person/91c36b59-79ca-4370-b855-43c3d1c78b61
 contact:
   website: "https://openstates.org/person/david-walker-4R3C2sjQodMCSNgCK7Y7gv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

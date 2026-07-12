@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api/storage/uploads/thumbs/200/
 openstates_id: ocd-person/936e2bdf-97c6-4297-80e7-faef3bb2e3d7
 contact:
   website: "https://openstates.org/person/jeff-helfrich-4UCDfi9TMsyFSqZ8O67u1H/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

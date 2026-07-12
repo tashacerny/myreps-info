@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/powell-
 openstates_id: ocd-person/bb48e87c-29db-4a4d-a278-fa299be2020e
 contact:
   website: "https://openstates.org/person/alan-powell-5hOsp6K6KiT8jtyX5KChKA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

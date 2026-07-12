@@ -12,5 +12,5 @@ photo_url: "https://www.governor.nd.gov/sites/www/files/documents/portraits/LtGo
 openstates_id: ocd-person/a6e733ce-ccdc-425a-bb9b-9010a09c3933
 contact:
   website: "https://openstates.org/person/michelle-strinden-54wNw0wNGsXKGzBLQkcHqd/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

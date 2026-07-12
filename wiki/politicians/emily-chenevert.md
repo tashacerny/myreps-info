@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep66.jpg"
 openstates_id: ocd-person/9661594c-df1e-402a-b2c5-fe2c88366506
 contact:
   website: "https://openstates.org/person/emily-chenevert-4ZlKvgVJ47IqA7fr2HQEbO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

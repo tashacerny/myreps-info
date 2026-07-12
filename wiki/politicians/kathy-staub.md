@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kathy
 openstates_id: ocd-person/4f2dee8b-bbd5-41d9-8bd4-bf2f60556ed7
 contact:
   website: "https://openstates.org/person/kathy-staub-2PPNquSIxOoMSM9o7BOR1T/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

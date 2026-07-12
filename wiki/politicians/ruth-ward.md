@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/9089a509-1f26-4770-adc6-199ed716e692
 contact:
   website: "https://openstates.org/person/ruth-ward-4OjnWsaMhCa2cH0bAFgsba/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

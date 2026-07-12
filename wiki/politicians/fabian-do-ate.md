@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Senators/Images/
 openstates_id: ocd-person/bcad4dc1-c812-409b-9cc9-e1d8c91fdafa
 contact:
   website: "https://openstates.org/person/fabian-donate-5k1kxqDQueHx5ONMZXqwna/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

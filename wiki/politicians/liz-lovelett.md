@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/29548.jpg"
 openstates_id: ocd-person/f82a6162-120e-4bf2-90c4-02e22278d96e
 contact:
   website: "https://openstates.org/person/liz-lovelett-7YHSpQL6S8kNan546o3Cxi/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

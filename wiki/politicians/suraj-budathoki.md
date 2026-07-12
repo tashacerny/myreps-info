@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Suraj
 openstates_id: ocd-person/128e737d-1ff8-45c1-937e-34e66c08069d
 contact:
   website: "https://openstates.org/person/suraj-budathoki-Z0xep7DN0Cli102Q7ypGX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d01/img/Hughes_86-0702D-030-web.jpg
 openstates_id: ocd-person/8326538c-c907-43b2-a6db-76434036afd7
 contact:
   website: "https://openstates.org/person/bryan-hughes-3zTVcZMQ7FvNUVTQ6DoXqx/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

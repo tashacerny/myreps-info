@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/burchet
 openstates_id: ocd-person/dbce462d-74e3-42d3-bd6c-3b9f8eeb69fe
 contact:
   website: "https://openstates.org/person/james-burchett-6glaP0dQMf5s5DbjpAPvOI/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

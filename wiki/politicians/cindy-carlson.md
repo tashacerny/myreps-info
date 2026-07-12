@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/4f02e826-da06-4286-8aaf-b89ef3f659bc
 contact:
   website: "https://openstates.org/person/cindy-carlson-2P5imNSIT43f26L7xyOMhQ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

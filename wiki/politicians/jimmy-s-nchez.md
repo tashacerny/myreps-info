@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/37cdaa0f-2531-44f6-95d0-41f9eefa6c97
 contact:
   website: "https://openstates.org/person/jimmy-sanchez-1hIZ8tFkTrrCgRTx85WXV1/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

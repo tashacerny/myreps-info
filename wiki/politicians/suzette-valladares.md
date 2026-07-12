@@ -13,5 +13,5 @@ photo_url: "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos
 openstates_id: ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08
 contact:
   website: "https://openstates.org/person/suzette-valladares-7dpwonUHUBn45oHA9yAFlQ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

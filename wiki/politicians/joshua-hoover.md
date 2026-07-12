@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b
 contact:
   website: "https://openstates.org/person/joshua-hoover-3STyPpHwhUuWRyRJDetQkN/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

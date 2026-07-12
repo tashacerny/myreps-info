@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6
 contact:
   website: "https://openstates.org/person/janice-rich-14swfOuo6boTYRgKB2Tg4k/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

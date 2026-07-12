@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/86a9643e-4777-48d4-a79a-5ed192fb7f70
 contact:
   website: "https://openstates.org/person/woody-wordekemper-466No1mIRUwLmiI5WWK0v2/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

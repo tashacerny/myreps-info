@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Scott
 openstates_id: ocd-person/3e251c9a-ef4d-436d-9c10-9aa447b3fcbd
 contact:
   website: "https://openstates.org/person/scott-miller-1tGU1yaioEfrwY4J8dffLR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

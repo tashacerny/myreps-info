@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/fevella.jpg"
 openstates_id: ocd-person/e6bafd21-a2de-41b8-8139-fcbf5ea94cf4
 contact:
   website: "https://openstates.org/person/kurt-fevella-71NgjlPj7PexbLzXAQgpca/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

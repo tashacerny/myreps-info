@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Lipscomb_30.pn
 openstates_id: ocd-person/63e7d9b8-136c-4ebc-bb87-19660eb7b624
 contact:
   website: "https://openstates.org/person/craig-lipscomb-32WCAh120s0WQ4VdjCK7YC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

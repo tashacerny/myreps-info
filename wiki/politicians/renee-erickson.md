@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_erickson_renee_1.jp
 openstates_id: ocd-person/3093633a-62dc-4e93-a305-258a20bfd0f2
 contact:
   website: "https://openstates.org/person/renee-erickson-1TezFx7duYZv6wKwUOy4xu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

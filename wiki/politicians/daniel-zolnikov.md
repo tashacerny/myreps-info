@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/afffd4a2-fd6b-4cc5-8eff-8aa1f696db3a
 contact:
   website: "https://openstates.org/person/daniel-zolnikov-5M6ZTIm5pdLFSb8mdjbE0w/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

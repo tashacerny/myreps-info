@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house32.
 openstates_id: ocd-person/77db7bcf-dfa8-4365-bb3a-4ca0351a8368
 contact:
   website: "https://openstates.org/person/tina-bojanowski-3eAOFpcCYIIwGo1KXnwq40/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

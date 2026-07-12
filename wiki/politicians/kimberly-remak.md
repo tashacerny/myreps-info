@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kimbe
 openstates_id: ocd-person/58bd4b77-f7d6-45bd-bb3e-0386cf36bbf3
 contact:
   website: "https://openstates.org/person/kimberly-remak-2hRpd3EYwlVvJ4nXfrgHnn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

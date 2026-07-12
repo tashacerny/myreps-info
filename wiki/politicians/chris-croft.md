@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_croft_chris_1.jpg"
 openstates_id: ocd-person/e0cd5e74-7229-4c04-be9e-aa688868e703
 contact:
   website: "https://openstates.org/person/chris-croft-6qC8NPq0tpr1WODooQzJTv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

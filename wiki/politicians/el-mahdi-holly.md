@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/holly-e
 openstates_id: ocd-person/4615e308-db74-408f-89df-02be56b5013b
 contact:
   website: "https://openstates.org/person/el-mahdi-holly-28FSqGOGh9aY06PrssyBR5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

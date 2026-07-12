@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-CampbellElissa.jpg"
 openstates_id: ocd-person/c0c75f8e-6d58-4197-9076-154528191d47
 contact:
   website: "https://openstates.org/person/elissa-campbell-5rldiXTQqav82HAZDKfahr/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

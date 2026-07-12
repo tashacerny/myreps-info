@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_owens_stephen_1.jpg
 openstates_id: ocd-person/413cc3ff-a3b9-465b-827d-4aeb4b0b42c1
 contact:
   website: "https://openstates.org/person/stephen-owens-1z6GoZHmqNahKO0mebRS3V/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

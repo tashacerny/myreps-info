@@ -12,5 +12,5 @@ photo_url: "http://akleg.gov/images/legislators/450x600/MEA.jpg"
 openstates_id: ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee
 contact:
   website: "https://openstates.org/person/donna-mears-7fJoL2T6JRRke5CZc1eaZK/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

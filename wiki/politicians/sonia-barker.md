@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/520_sm.jpg"
 openstates_id: ocd-person/bd3c22f6-b1b5-4089-b03b-f8198ca843a2
 contact:
   website: "https://openstates.org/person/sonia-barker-5l5208IHrWEUBURa8YkWva/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

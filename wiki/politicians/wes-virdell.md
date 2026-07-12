@@ -12,5 +12,5 @@ photo_url: "https://www.house.texas.gov/images/members/4775.jpg?v=1"
 openstates_id: ocd-person/436ab2a5-12ca-4a9c-b8ec-73b1bae4ee68
 contact:
   website: "https://openstates.org/person/wes-virdell-23DFJHt0Ct2I1zvvCLF4cC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

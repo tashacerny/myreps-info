@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Gulick,Martine
 openstates_id: ocd-person/a1812863-f6a9-4ce2-8131-d701923dd507
 contact:
   website: "https://openstates.org/person/martine-gulick-4ukmyQQ5d87C8lQ5Jzd9ct/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

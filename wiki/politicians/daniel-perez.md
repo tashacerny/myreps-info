@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4690.jpg"
 openstates_id: ocd-person/ed30b061-bbdc-44f3-8a40-e574646d6cf8
 contact:
   website: "https://openstates.org/person/daniel-perez-7DZQoFTSUCUawxB5dgxn6O/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

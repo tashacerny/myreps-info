@@ -13,5 +13,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/6bc40502-e00f-4b16-8c1d-9f5a613a4e88
 contact:
   website: "https://openstates.org/person/gregory-porter-3HLl894wDKoHseniHeYefg/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

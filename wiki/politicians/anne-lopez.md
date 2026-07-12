@@ -12,5 +12,5 @@ photo_url: "https://www.naag.org/wp-content/uploads/2023/01/ag-HI-Lopez-2024.jpg
 openstates_id: ocd-person/8145b3ac-aaee-43d1-a534-d51d5e80f178
 contact:
   website: "https://openstates.org/person/anne-lopez-3vvrZHWTZcYzZgYgMh5JG4/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

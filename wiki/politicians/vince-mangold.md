@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/mangold.jpg"
 openstates_id: ocd-person/c0d8a1af-3036-4aee-89e7-f98cc40203cd
 contact:
   website: "https://openstates.org/person/vince-mangold-5rtWiRHlGaLSee0CJ5XuGb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

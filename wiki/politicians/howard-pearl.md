@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c4122c6a-ed23-492e-b813-59a0fed1ec86
 contact:
   website: "https://openstates.org/person/howard-pearl-5xyngbH2jo7M1xledU0TIs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

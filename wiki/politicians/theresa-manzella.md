@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/97c7ced5-ba80-4a9a-80ca-349fd2040a64
 contact:
   website: "https://openstates.org/person/theresa-manzella-4cP9XRo2bT8uXvXUBMmpGu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

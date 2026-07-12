@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/f338ea4f-b539-450c-bca4-161c427bb81a
 contact:
   website: "https://openstates.org/person/david-boyer-7Ox92VHasBVbQAZrtVq17q/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

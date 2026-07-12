@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/f28da3_b29a2e74679b49238353ddcbc6
 openstates_id: ocd-person/552456a4-62fc-4f94-a9f9-1c5dd8ebe57a
 contact:
   website: "https://openstates.org/person/garrett-bascom-2aexB8Sw8ftRlYImsKtJUY/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "http://www.leg.state.nv.us/Session/83rd2025/legislators/Senators/Ima
 openstates_id: ocd-person/f3c4b2a7-2a24-4ba2-9894-421daed2d117
 contact:
   website: "https://openstates.org/person/lori-rogich-7Pz1eNGjEEX6fveRDDI4hz/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

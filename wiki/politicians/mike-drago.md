@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/07c09a56-23ba-4c8b-90bd-5668f22c5103
 contact:
   website: "https://openstates.org/person/mike-drago-EcxtUgGnKPtK1ny7N5AGJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

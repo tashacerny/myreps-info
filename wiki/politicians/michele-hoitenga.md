@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2023/01/Hoitenga-580x
 openstates_id: ocd-person/0c9a2c44-5a9a-44cd-8470-5dad5c7b2c53
 contact:
   website: "https://openstates.org/person/michele-hoitenga-NmMdc6hUKsRZDSzocJ0lf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

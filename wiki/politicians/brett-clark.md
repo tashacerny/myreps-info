@@ -12,5 +12,5 @@ photo_url: "https://cdn.myocv.com/ocvapps/a106646122/files/654a84bda94ee-6526d35
 openstates_id: ocd-person/08d4ca65-7f96-4df8-80cf-33b1cb156a47
 contact:
   website: "https://openstates.org/person/brett-clark-GfBQ3J9r9GY2TyLiY5MoR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

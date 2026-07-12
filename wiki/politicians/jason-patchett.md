@@ -12,5 +12,5 @@ photo_url: "https://media.lasvegassun.com/media/img/photos/2016/06/08/Patchett_J
 openstates_id: ocd-person/4e25af9f-4cb3-4812-8a12-2f1012aa6cb7
 contact:
   website: "https://openstates.org/person/jason-patchett-2NScguT1I1NnQlvDJtxZsV/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

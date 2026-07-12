@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/gary-click/headshots/
 openstates_id: ocd-person/04e3c98a-4ede-4501-b914-4fa13fbad194
 contact:
   website: "https://openstates.org/person/gary-click-9E4EqoLlN3dhPLUxCuhoi/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

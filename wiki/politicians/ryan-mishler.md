@@ -13,5 +13,5 @@ photo_url: "https://cdn.zephyrcms.com/8b844e0e-016b-4425-bb3b-2134052d1240/-/pro
 openstates_id: ocd-person/010e5ebe-683c-4fe2-9696-46f7f0b4bea6
 contact:
   website: "https://openstates.org/person/ryan-mishler-1zYgdDnDKexRFtOTsVuQo/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

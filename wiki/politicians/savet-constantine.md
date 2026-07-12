@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/03b035_84584b31716748b38130ccb28d
 openstates_id: ocd-person/09dcfeba-575f-44d2-9566-1ba8471c0b4f
 contact:
   website: "https://openstates.org/person/savet-constantine-IbvPMp7WxdKLkQSDyW28t/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/phil-plummer/headshot
 openstates_id: ocd-person/1e218942-95f6-43fe-b935-b19ab70fd5fc
 contact:
   website: "https://openstates.org/person/phil-plummer-ur5wZdp0eZpfzjh5CUy2W/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef
 contact:
   website: "https://openstates.org/person/josh-lowenthal-5PthMRwpBlOFmOrf44uGnH/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

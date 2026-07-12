@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/b12abcbf-fbbe-4464-854e-6960b024e62a
 contact:
   website: "https://openstates.org/person/brian-seaworth-5OJAiXzQyneCb47j0iYgP4/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

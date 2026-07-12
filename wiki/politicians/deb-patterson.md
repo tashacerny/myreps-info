@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/patterson/PublishingImages/member_
 openstates_id: ocd-person/6c867cbf-9d0b-4dd8-9537-55e834a42dc4
 contact:
   website: "https://openstates.org/person/deb-patterson-3ImdC6dy6bLNtl5OGfTcnc/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

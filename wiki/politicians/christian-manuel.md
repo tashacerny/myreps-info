@@ -12,5 +12,5 @@ photo_url: "https://house.texas.gov/images/members/4255.jpg?v=1"
 openstates_id: ocd-person/26090510-8782-4d64-b981-3d1cde573090
 contact:
   website: "https://openstates.org/person/christian-manuel-19lpUMAq9cACfEUEzoPy5o/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

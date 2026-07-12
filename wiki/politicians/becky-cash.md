@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/172ba652-d80a-45cd-a387-f072925561f7
 contact:
   website: "https://openstates.org/person/becky-cash-hilpbgb4Lp21O5gE2HvDL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

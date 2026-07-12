@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/628/Low"
 openstates_id: ocd-person/eab6e9df-d2e4-4476-b09d-cda1de0cf654
 contact:
   website: "https://openstates.org/person/phil-shepard-78tnMmpwValQhsIvpfHUnM/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

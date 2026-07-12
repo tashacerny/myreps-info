@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/May16
 openstates_id: ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53
 contact:
   website: "https://openstates.org/person/leticia-castillo-CtDZbaL4hJFpE6MJj6qmZ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

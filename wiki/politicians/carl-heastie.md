@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/083/headshot/
 openstates_id: ocd-person/2049da3a-132c-47b4-b53d-c28b574fff63
 contact:
   website: "https://openstates.org/person/carl-heastie-yvVJhtMx2YRqSRe7GqCXr/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

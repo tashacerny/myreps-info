@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate12
 openstates_id: ocd-person/a7cd8577-c315-4bf0-b95f-3259ab7dfce7
 contact:
   website: "https://openstates.org/person/don-douglas-56ddoLbZKK0khhBepoudBX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

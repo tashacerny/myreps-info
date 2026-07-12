@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/782561/782
 openstates_id: ocd-person/49a5c100-0379-4ce8-af49-de4c4f817abc
 contact:
   website: "https://openstates.org/person/dani-o-halloran-2EyBkt2PblQdCLEdgrdNFc/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

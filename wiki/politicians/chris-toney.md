@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/toney_christo
 openstates_id: ocd-person/cdd73d73-98d4-43f0-9eec-a030c4ce080f
 contact:
   website: "https://openstates.org/person/chris-toney-6GPn6TdXPEZJOKCKfQRvZ9/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

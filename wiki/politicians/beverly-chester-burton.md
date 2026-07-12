@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house44.
 openstates_id: ocd-person/c8a9f2cf-9a79-45f6-94df-346b546e1d9b
 contact:
   website: "https://openstates.org/person/beverly-chester-burton-66e8Bfx8GqwbWROuDbAYFH/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

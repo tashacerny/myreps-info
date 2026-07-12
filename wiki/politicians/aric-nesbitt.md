@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2019/01/Nesbitt-580x7
 openstates_id: ocd-person/6d11944d-f19f-4697-811c-0c9dca750c57
 contact:
   website: "https://openstates.org/person/aric-nesbitt-3JoCEqU538JLkawagWtE8d/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

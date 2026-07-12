@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/2011.jpg?1703415645
 openstates_id: ocd-person/d31e549e-2c3d-4ea3-850b-5285955c3c2f
 contact:
   website: "https://openstates.org/person/joe-mcandrew-6QNF0aauopT0yR7Z0iq5FP/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

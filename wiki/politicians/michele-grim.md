@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/michele-grim/headshot
 openstates_id: ocd-person/100ae6b0-0c5d-4b97-9ac5-8ccb42b9168b
 contact:
   website: "https://openstates.org/person/michele-grim-UGrGDsYufWLiPD175Lsk7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HANYA.jpg"
 openstates_id: ocd-person/bc8985ad-c6e6-42cd-b2d5-30688e4616a1
 contact:
   website: "https://openstates.org/person/janelle-anyanonu-5jlP7vAoQL1gATXGuXodbF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

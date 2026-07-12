@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/47c165c7-ecd9-4b88-b9f7-2e58e8e290d4
 contact:
   website: "https://openstates.org/person/dick-ames-2BOpxsW6WURTDGsbx5UCQO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

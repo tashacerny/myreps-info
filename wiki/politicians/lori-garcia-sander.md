@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LoriS
 openstates_id: ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f
 contact:
   website: "https://openstates.org/person/lori-garcia-sander-6SdHDHvxi3o7b7RwSss00V/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

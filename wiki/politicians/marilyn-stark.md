@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Stark,%20Marilyn.jpg"
 openstates_id: ocd-person/aefe24ff-5a23-48bd-a5df-faa7b3dd0af9
 contact:
   website: "https://openstates.org/person/marilyn-stark-5KCoAosbzjir8i54lerOwL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.lgo.nm.gov/wp-content/uploads/2019/08/lt-gov-howie-moral
 openstates_id: ocd-person/56e025c5-7367-4e17-98eb-d7a5cf0b5688
 contact:
   website: "https://openstates.org/person/howie-c-morales-2dvm6J9t3iKm9BFoH8IAhc/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

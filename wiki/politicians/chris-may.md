@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/f1571a79-9c64-42b2-82d2-ec9f512722eb
 contact:
   website: "https://openstates.org/person/chris-may-7LOxLO6uSFA9ZF0Gq9vlKF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

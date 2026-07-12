@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4793.jpg"
 openstates_id: ocd-person/67c201cf-9aaa-4a06-8dda-28e93ea27f6b
 contact:
   website: "https://openstates.org/person/robin-bartleman-39ms0jsngLysXHzesgWDSF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30546"
 openstates_id: ocd-person/c6cbc677-2d42-4497-ae57-989a30aaddae
 contact:
   website: "https://openstates.org/person/jesse-green-637babDwj2CKRjEtBBopgs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

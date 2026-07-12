@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/lumsden
 openstates_id: ocd-person/f33d979c-554c-433e-ad0f-837eef1da589
 contact:
   website: "https://openstates.org/person/eddie-lumsden-7OzHYYxLwSvxBKbIATWpHF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

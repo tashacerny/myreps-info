@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c4ba3022-267a-4ca0-8aad-2a2daa3af0db
 contact:
   website: "https://openstates.org/person/john-leavitt-5zDaDroJceiX1kJapzwmCJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

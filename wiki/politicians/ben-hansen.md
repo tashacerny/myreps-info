@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist16/hig
 openstates_id: ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764
 contact:
   website: "https://openstates.org/person/ben-hansen-5ptmll9dT66TUJhrhUnO9U/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

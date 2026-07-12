@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33969"
 openstates_id: ocd-person/c9679bfc-5a21-405a-bae1-e2de9a85baf8
 contact:
   website: "https://openstates.org/person/josh-turek-682o3JuWFdm7w95RLWIc9Y/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

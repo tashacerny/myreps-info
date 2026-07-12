@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/b50abef6-0b19-4d5c-97c9-f757f3b571ad
 contact:
   website: "https://openstates.org/person/mark-proulx-5VcWMvYKAJ3Q2IFejIs4Lt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

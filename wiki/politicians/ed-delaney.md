@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/45d8ea46-0d3f-4a80-bf4e-ca016bd458a8
 contact:
   website: "https://openstates.org/person/ed-delaney-27nbGS2ku5KJbd33PB9b2G/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

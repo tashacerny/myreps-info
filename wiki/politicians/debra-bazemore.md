@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/bazemor
 openstates_id: ocd-person/1bb8d14b-9d5d-4edd-8c93-37e95991a8e4
 contact:
   website: "https://openstates.org/person/debra-bazemore-qJFn1fkdK2iyiW309rRaO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

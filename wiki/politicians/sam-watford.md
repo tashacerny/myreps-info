@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/687/Low"
 openstates_id: ocd-person/4f490403-b729-4f33-b3ba-5417db20cb0b
 contact:
   website: "https://openstates.org/person/sam-watford-2PblFTnf0Ah7vAOlG94IyB/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

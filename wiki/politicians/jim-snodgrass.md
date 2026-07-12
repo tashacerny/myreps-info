@@ -12,5 +12,5 @@ photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Jon-Snodgrass-2-7
 openstates_id: ocd-person/4bb909b9-4651-4272-8d8d-3b649850e965
 contact:
   website: "https://openstates.org/person/jim-snodgrass-2IszCU1vsa6W0rdFcrC8eb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

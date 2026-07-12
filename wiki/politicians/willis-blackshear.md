@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/willis-e-blackshear-j
 openstates_id: ocd-person/23c443b0-e2f7-4c7a-af1e-d67d7aa366ce
 contact:
   website: "https://openstates.org/person/willis-blackshear-15UQJuNUBGwuRtpgfh35Ty/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

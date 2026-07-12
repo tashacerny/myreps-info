@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/1Aug2
 openstates_id: ocd-person/12e6200c-0859-4582-9f55-31dd55eb3b0e
 contact:
   website: "https://openstates.org/person/ronnie-glynn-Zf1oy7shOGvZjKDq9VDMk/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

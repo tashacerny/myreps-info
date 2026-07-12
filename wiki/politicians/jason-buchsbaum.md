@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JAB_P
 openstates_id: ocd-person/ff87fec9-1c97-45e5-bdcc-a0ed0b3025cc
 contact:
   website: "https://openstates.org/person/jason-buchsbaum-7mBBzNdBtpNG0ATy2X9bkC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/2c6f93a7-f08a-4ad4-9424-cdd857401e6e
 contact:
   website: "https://openstates.org/person/natalie-price-1LqeUaXaHr2oEzNVsExh9C/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

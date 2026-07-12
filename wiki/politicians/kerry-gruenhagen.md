@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34009"
 openstates_id: ocd-person/2ff1622d-f1f4-4344-8821-57bcf8d99b83
 contact:
   website: "https://openstates.org/person/kerry-gruenhagen-1SSx1GWcP3YLZ338BMQkwF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://sos.iowa.gov/img/Pate.png"
 openstates_id: ocd-person/f0883baf-9a96-4631-8dd8-2a768fe9357b
 contact:
   website: "https://openstates.org/person/paul-pate-7JsPriKtre3vU7ENCnVYlv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

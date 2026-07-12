@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/b64009_9f1620ff00c14cdcbfec5e257b
 openstates_id: ocd-person/f09abfed-0fb2-4ef3-966c-4cc0246b701d
 contact:
   website: "https://openstates.org/person/nicole-cole-7K0sVzztiFRtZ3HhheqSKL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

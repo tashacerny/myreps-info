@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/adam-c-bird/headshots
 openstates_id: ocd-person/0c6a7bcf-e990-41a0-b59c-923f05771880
 contact:
   website: "https://openstates.org/person/adam-bird-NQZPFHYZ23Qy211E9jM00/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

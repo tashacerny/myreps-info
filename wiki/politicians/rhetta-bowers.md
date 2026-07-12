@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3565.jpg?v=1"
 openstates_id: ocd-person/69ef7d69-9a5e-42be-b463-8873cb52ad10
 contact:
   website: "https://openstates.org/person/rhetta-bowers-3Dtdm0HORr0z2lEDI19v5k/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

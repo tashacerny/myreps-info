@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/dbf39ca6-e569-4078-b150-f63c51784d80
 contact:
   website: "https://openstates.org/person/victoria-sullivan-6h2eKmuUo3EtKqEHMrRCDo/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

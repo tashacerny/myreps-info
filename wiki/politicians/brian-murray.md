@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/BWM1.jpg"
 openstates_id: ocd-person/66e7c819-cd52-4034-bace-bfec476c106d
 contact:
   website: "https://openstates.org/person/brian-murray-38B8nJB4GIm2DbUt1vCN9J/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

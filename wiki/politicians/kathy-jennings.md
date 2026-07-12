@@ -12,5 +12,5 @@ photo_url: "https://attorneygeneral.delaware.gov/wp-content/themes/dosgic_AG_the
 openstates_id: ocd-person/d1ed8b9a-53e1-4cd6-b1b2-ef6632fbde5d
 contact:
   website: "https://openstates.org/person/kathy-jennings-6O7xCT2hbYvqfE0hCTCwqj/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

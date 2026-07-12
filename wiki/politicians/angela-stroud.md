@@ -12,5 +12,5 @@ photo_url: "https://www.northland.edu/wp-content/uploads/2015/08/AngelaStroud-80
 openstates_id: ocd-person/68856392-7181-4a63-bcc0-2c414a67045e
 contact:
   website: "https://openstates.org/person/angela-stroud-3BE9ybnlqMwYpdko2x8prC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

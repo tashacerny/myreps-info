@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/647e5e14-6813-4fc7-a20d-be175157ffb0
 contact:
   website: "https://openstates.org/person/josh-wheeler-33cyvuRNtkhW9lRM6ZBjrE/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/33B.gif?v=112221"
 openstates_id: ocd-person/4558fb30-435a-4fde-acdd-bdcc82c7da45
 contact:
   website: "https://openstates.org/person/josiah-hill-26r8NGtakao789Ob1tAhM5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

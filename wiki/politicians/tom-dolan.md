@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/330b6b4b-dfa6-4379-ae45-bedd9b276fcd
 contact:
   website: "https://openstates.org/person/tom-dolan-1YJpHsTicJI0PXIbiWtxin/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

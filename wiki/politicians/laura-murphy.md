@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{E8C6FBF1-611C-4DD5-A81D-F0F
 openstates_id: ocd-person/55be467f-1dd9-4cb7-96b8-050c113f5975
 contact:
   website: "https://openstates.org/person/laura-murphy-2bnIq87vIl24SAyVGZpRZt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

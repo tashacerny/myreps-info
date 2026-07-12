@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/kean_sean_2020.jp
 openstates_id: ocd-person/ac95c4e3-057b-43bc-8bee-752137bb2d12
 contact:
   website: "https://openstates.org/person/sean-kean-5Ff7k8lXjkHc9obGdsdOKI/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

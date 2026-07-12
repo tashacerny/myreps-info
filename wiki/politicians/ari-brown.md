@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/020/headshot/
 openstates_id: ocd-person/38ed0365-1654-4a2d-bb23-4428736df57f
 contact:
   website: "https://openstates.org/person/ari-brown-1jPsuX00hs5z4BnhgocFot/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

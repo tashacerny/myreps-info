@@ -12,5 +12,5 @@ photo_url: "https://scstatehouse.gov/images/members/1433984204.jpg"
 openstates_id: ocd-person/ec3b270f-6396-440c-89c1-e42262d02477
 contact:
   website: "https://openstates.org/person/jordan-pace-7BlDlGKtN379yl33hrP9zb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

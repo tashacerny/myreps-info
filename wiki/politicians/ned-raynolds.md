@@ -12,5 +12,5 @@ photo_url: "https://www.gannett-cdn.com/authoring/2019/10/15/NPOH/ghows-SO-94f3f
 openstates_id: ocd-person/f20b1b61-dfc7-4ea0-b0cf-3705e7c7283e
 contact:
   website: "https://openstates.org/person/ned-raynolds-7MjDZwBqfcUuXNNtFob7qo/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

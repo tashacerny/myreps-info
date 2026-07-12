@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33993"
 openstates_id: ocd-person/c29c02a4-8429-4846-bc19-817f545f3935
 contact:
   website: "https://openstates.org/person/adam-zabner-5vDo7Ixu5CsFtWQNMS7tqv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

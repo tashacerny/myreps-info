@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Sessions_35.p
 openstates_id: ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa
 contact:
   website: "https://openstates.org/person/david-sessions-7c4LibnMobsZifeLTUcv1u/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

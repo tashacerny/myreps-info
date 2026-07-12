@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/garcia_joey
 openstates_id: ocd-person/387d11ce-ecf1-4c80-a338-bd8c86f52004
 contact:
   website: "https://openstates.org/person/joey-garcia-1iaj5anrmheUSDQZJXFuwW/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

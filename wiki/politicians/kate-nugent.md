@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/vtcng.com/content/tncms
 openstates_id: ocd-person/edf5128d-7630-41be-8b16-c183d7cb24e5
 contact:
   website: "https://openstates.org/person/kate-nugent-7F1B9duXRmJI5gqpMubyRJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

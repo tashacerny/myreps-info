@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep34.jpg"
 openstates_id: ocd-person/3ced6b49-7f72-41d0-a84c-0e7cff17e88b
 contact:
   website: "https://openstates.org/person/wilford-carter-1qy2VTZurRIaTUnO5wlVCV/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

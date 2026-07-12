@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/8c4e2d6b-46c5-472e-b027-82db8d3fa31d/-/pro
 openstates_id: ocd-person/0482a330-c9fb-4f41-b136-88a4aef2de6a
 contact:
   website: "https://openstates.org/person/brian-buchanan-8VfaXLddocnTuSWQejWKw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

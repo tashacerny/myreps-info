@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/senate/rucker_patr
 openstates_id: ocd-person/61c66718-ebd4-4ded-827d-14b21ed01b0a
 contact:
   website: "https://openstates.org/person/patricia-rucker-2yUvPbXZbdWf2s902QqdoI/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

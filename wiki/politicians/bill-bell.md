@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/bell_bill.jp
 openstates_id: ocd-person/4d4f0511-706a-406b-9259-05c4008d8b64
 contact:
   website: "https://openstates.org/person/bill-bell-2LsWJyeTxtEq6puBuHvtZ6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

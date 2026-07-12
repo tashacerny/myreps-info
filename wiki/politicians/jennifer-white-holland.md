@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2024RS/images/white01.jpg"
 openstates_id: ocd-person/e9d8fb0f-3272-47c8-8926-28c7bdfc19ca
 contact:
   website: "https://openstates.org/person/jennifer-white-holland-77GN6RnBHA8ZVYNSSjYBr8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

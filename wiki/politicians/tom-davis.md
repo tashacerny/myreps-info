@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0456818127.jpg"
 openstates_id: ocd-person/33fe6bed-f8b0-4002-90fa-870813b72caf
 contact:
   website: "https://openstates.org/person/tom-davis-1a6sXSZeqnyOmWib8QVpzr/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

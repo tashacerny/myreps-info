@@ -13,5 +13,5 @@ photo_url: "https://run.imgix.net/b5819a9c-e1d0-4b20-bdf9-c7cb2ad13f53/051f0dfd-
 openstates_id: ocd-person/d55adf3d-ba23-47c8-a844-ee28227983c0
 contact:
   website: "https://openstates.org/person/erik-bottcher-6UatRd2SYf56wRyB2FNsXo/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Clint
 openstates_id: ocd-person/12581dac-c07b-40a8-b309-3c9ea167f913
 contact:
   website: "https://openstates.org/person/clint-okerlund-Yc87SPSTj73QXYKIm3JL9/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

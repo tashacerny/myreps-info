@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1952.jpg?1703415645
 openstates_id: ocd-person/70d0ff46-746e-47a0-8c5f-cbe73dbf72ce
 contact:
   website: "https://openstates.org/person/dallas-kephart-3QseSZnsOKZnH8xEMQVSEI/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

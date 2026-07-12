@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s37_
 openstates_id: ocd-person/42278250-8dc9-4fcc-ab11-964aa8e369e7
 contact:
   website: "https://openstates.org/person/jason-pizzo-20pY3MtoRHAGlheblrbSGF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/042/headshot/
 openstates_id: ocd-person/b2811e4c-0b05-4775-a778-0539d22f1a6c
 contact:
   website: "https://openstates.org/person/rodneyse-bichotte-hermelyn-5QpdlkKWBVKIvcA9eZfzx6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

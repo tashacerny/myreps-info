@@ -13,5 +13,5 @@ photo_url: "https://i0.wp.com/lettsgoohio.com/wp-content/uploads/2024/07/Meet-Cr
 openstates_id: ocd-person/aede29b6-7798-45b7-8401-5004cf1c29f9
 contact:
   website: "https://openstates.org/person/crystal-lett-5JyC0MbfJhj5O7idwFQiVd/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

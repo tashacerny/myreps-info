@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2498.jpg"
 openstates_id: ocd-person/43c33bdc-3c41-47cc-8ffb-10a043ecdc93
 contact:
   website: "https://openstates.org/person/kevin-petersen-23rhtcNpDdZTkhpdPS49mF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

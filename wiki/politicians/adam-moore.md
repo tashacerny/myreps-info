@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AdamM
 openstates_id: ocd-person/1ce736fd-c1ca-4366-a235-9509fdb2dcaf
 contact:
   website: "https://openstates.org/person/adam-moore-sXRwB6OVKEuYnmESe2J83/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

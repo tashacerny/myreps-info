@@ -12,5 +12,5 @@ photo_url: "https://www.gannett-cdn.com/presto/2020/05/22/PSIF/4cc05ff5-5458-4aa
 openstates_id: ocd-person/ba249bd9-5b3e-42f3-a367-061bf63d620a
 contact:
   website: "https://openstates.org/person/taylor-rehfeldt-5fFIn2jPDYOWBuWDDcBaig/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/f8cafb3b-ed12-40e9-b062-318790434179
 contact:
   website: "https://openstates.org/person/don-scott-7ZSrJEujaO3MU5gpu7mgfp/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

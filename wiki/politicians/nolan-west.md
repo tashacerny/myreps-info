@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/32A.gif?v=112221"
 openstates_id: ocd-person/171224fc-8a8d-4516-aa87-a2f5bcf1ea46
 contact:
   website: "https://openstates.org/person/nolan-west-hX7AFh0GucyDwG6rvuwi6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

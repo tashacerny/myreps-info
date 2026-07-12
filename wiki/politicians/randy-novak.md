@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/74acd892-bd86-453a-8a48-87954ad68c19
 contact:
   website: "https://openstates.org/person/randy-novak-3YA6FLtLCMgqu9vRUQhaRt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

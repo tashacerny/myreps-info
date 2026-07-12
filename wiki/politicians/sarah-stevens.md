@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/592/Low"
 openstates_id: ocd-person/09099128-27fc-463f-af36-28253d1e7a60
 contact:
   website: "https://openstates.org/person/sarah-stevens-H3In36vu4iU4PtgLDvBeS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

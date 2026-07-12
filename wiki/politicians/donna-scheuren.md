@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1973.jpg?1703415645
 openstates_id: ocd-person/5913495d-53f8-4c39-8507-650cfe51c08b
 contact:
   website: "https://openstates.org/person/donna-scheuren-2i587vHtw28QeTBUrYNUDb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

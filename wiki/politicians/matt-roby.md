@@ -13,5 +13,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/mykxlg.com/content/tncm
 openstates_id: ocd-person/8ea8be55-3862-4034-b0c9-8aa418dfc915
 contact:
   website: "https://openstates.org/person/matt-roby-4LC1dZ0KgSbqZm7oo71fcL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

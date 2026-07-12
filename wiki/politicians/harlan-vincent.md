@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HVINC.jpg"
 openstates_id: ocd-person/e7e8e973-411b-45fd-8fd7-7e4ea7d9f1be
 contact:
   website: "https://openstates.org/person/harlan-vincent-73bfS0VL6i5owmttOf8fpm/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

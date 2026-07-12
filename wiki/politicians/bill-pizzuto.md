@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/f7127b57-a72f-4b84-abf6-77b021cddf3f
 contact:
   website: "https://openstates.org/person/bill-pizzuto-7WDY9wiCIox9rLTF2FUSJr/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

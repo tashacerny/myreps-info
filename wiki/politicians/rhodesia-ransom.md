@@ -12,5 +12,5 @@ photo_url: "https://ca.emergeamerica.org/wp-content/uploads/sites/4/2023/01/Rhod
 openstates_id: ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff
 contact:
   website: "https://openstates.org/person/rhodesia-ransom-46OjIMhaTtKO5LKfvZoLKJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

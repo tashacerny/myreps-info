@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/86812673-e63a-4f36-aa3e-26de84380657
 contact:
   website: "https://openstates.org/person/carol-glanville-45nzbUjRqXZ7ExwCUCq8O7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

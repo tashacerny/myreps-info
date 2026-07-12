@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SBRAN.jpg"
 openstates_id: ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7
 contact:
   website: "https://openstates.org/person/craig-brandt-1eaXrdtowtTc0pkWqfdHyZ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

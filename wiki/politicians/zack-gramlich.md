@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/619_sm.jpg"
 openstates_id: ocd-person/417afb72-31e7-4152-bf79-0ba67e3cb63f
 contact:
   website: "https://openstates.org/person/zack-gramlich-1zYhfG3kVFhPkszmgeUgut/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s23_
 openstates_id: ocd-person/55815523-33b5-4d42-9864-28e00b805e68
 contact:
   website: "https://openstates.org/person/danny-burgess-2bLS56xFBKYZMuvEBQPHdw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

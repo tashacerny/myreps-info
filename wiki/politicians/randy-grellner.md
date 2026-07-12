@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Randy
 openstates_id: ocd-person/812abf8c-ed2d-4b91-8d69-0917a39adeed
 contact:
   website: "https://openstates.org/person/randy-grellner-3vjXrWo5OVPYbdEmjkq8bt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

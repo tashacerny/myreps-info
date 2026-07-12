@@ -12,5 +12,5 @@ photo_url: "https://billstatus.ls.state.ms.us/members/senate/taylor.jpg"
 openstates_id: ocd-person/b273517c-b673-4bf0-a084-b960bc943953
 contact:
   website: "https://openstates.org/person/lane-taylor-5QjKl2YiW6DqIivvvqpOVf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

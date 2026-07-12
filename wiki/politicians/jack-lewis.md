@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jack_
 openstates_id: ocd-person/e3dc06b1-8523-4a33-959f-21ed0d5da851
 contact:
   website: "https://openstates.org/person/jack-lewis-6vxoFOJrZJp1GyWHalUVjl/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

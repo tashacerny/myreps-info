@@ -12,5 +12,5 @@ photo_url: "https://dailyjournalonline.com/wp-content/uploads/2023/09/Hewkin-1.j
 openstates_id: ocd-person/5fae2678-d379-4ef0-9481-0f78f544d0c4
 contact:
   website: "https://openstates.org/person/john-hewkin-2uXrC109douocFW4Y2XtKu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

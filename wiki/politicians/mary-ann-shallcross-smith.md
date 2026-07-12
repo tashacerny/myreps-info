@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/Pictures/shallcross%20s
 openstates_id: ocd-person/20543a6c-f763-4297-a19b-c670fbe8a68b
 contact:
   website: "https://openstates.org/person/mary-ann-shallcross-smith-z0FIy37fjkYtel45Ices7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

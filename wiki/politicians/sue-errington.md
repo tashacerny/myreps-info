@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/98feacbe-3be5-407e-a437-66d65a836a5e
 contact:
   website: "https://openstates.org/person/sue-errington-4ehDfDeiuM44ghDjCU8vyI/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

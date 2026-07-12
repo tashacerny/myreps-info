@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/35429.jpg"
 openstates_id: ocd-person/80b680f5-3fef-4c62-9064-4a8b516deb0f
 contact:
   website: "https://openstates.org/person/natasha-hill-3usQBJLAik1kGj23vqXSW7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

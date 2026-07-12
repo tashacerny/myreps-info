@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house41.
 openstates_id: ocd-person/86342422-7a28-4631-b3d7-3912eb444ffd
 contact:
   website: "https://openstates.org/person/mary-lou-marzian-45Ench4g6Pcnq5yMQLwXuf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/85c0e0b8-2654-4da5-96e6-8745ec68d0af
 contact:
   website: "https://openstates.org/person/lucas-lanigan-44O7k5uFZNpHQ2MRKPxS19/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

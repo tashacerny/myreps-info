@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ryan_
 openstates_id: ocd-person/3d4582f2-ed69-468c-ad02-33cbd612199d
 contact:
   website: "https://openstates.org/person/ryan-spaude-1rcIWaEbcQKbfaUOKjQJeX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

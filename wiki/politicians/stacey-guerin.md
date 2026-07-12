@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/guerin-headshot-ou
 openstates_id: ocd-person/3439fe0c-fb43-4977-ac8c-1dd1f8f10e96
 contact:
   website: "https://openstates.org/person/stacey-guerin-1aY6QECoPKhhWwo5zepubu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

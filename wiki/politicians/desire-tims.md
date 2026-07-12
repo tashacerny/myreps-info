@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/651c6aab7b083a0ae328c9
 openstates_id: ocd-person/86352961-5ebc-408a-9f16-8d801c7476dc
 contact:
   website: "https://openstates.org/person/desiree-tims-45FGXP4H2byti4t5exRglw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

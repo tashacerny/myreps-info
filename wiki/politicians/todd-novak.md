@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2493.jpg"
 openstates_id: ocd-person/c1e8d1c1-380d-4f59-893e-a18f77be21dd
 contact:
   website: "https://openstates.org/person/todd-novak-5ttuuDYFQYFiOHbZ2HPlO9/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/b5b4cf71-98db-47f1-84ec-087a4b46641a
 contact:
   website: "https://openstates.org/person/sonia-galaviz-5WsEzEDtmLD3Ptm7lqGqmA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/sharon-a-ray/headshot
 openstates_id: ocd-person/352d7ee9-256c-4195-a673-17b7ee200948
 contact:
   website: "https://openstates.org/person/sharon-ray-1cLNriu9YiGTRnFS2xayV6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

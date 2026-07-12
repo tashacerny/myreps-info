@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house1.j
 openstates_id: ocd-person/f73e54d0-9547-4688-b97d-4818b104d160
 contact:
   website: "https://openstates.org/person/steven-rudy-7WXaavnxtxW9wZS24v4pTU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

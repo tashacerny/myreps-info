@@ -13,5 +13,5 @@ photo_url: "https://governor.hawaii.gov/wp-content/uploads/2023/02/governor_gree
 openstates_id: ocd-person/c7e5e0d4-7a5d-42dc-a3cc-d7b54b1dc51b
 contact:
   website: "https://openstates.org/person/josh-green-65CWiYbPTRxYRzKHoFC6lH/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

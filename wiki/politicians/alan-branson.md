@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/alan_
 openstates_id: ocd-person/6ca8b8ee-96ed-4b21-94cf-d67e49f9c1c8
 contact:
   website: "https://openstates.org/person/alan-branson-3J2HDKlNZ9DjiBcSdOvOIq/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

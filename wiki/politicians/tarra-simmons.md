@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/31527.jpg"
 openstates_id: ocd-person/b6b3538a-d8ce-409f-a0e8-8f517037d748
 contact:
   website: "https://openstates.org/person/tarra-simmons-5YkYSn0XIVc44fIcpjj7RQ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

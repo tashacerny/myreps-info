@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house86.
 openstates_id: ocd-person/5764151d-bf80-422b-bc46-93ac2be910cc
 contact:
   website: "https://openstates.org/person/tom-smith-2eu4M7dm6dFhzHhIZKPfno/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/newman.jpg"
 openstates_id: ocd-person/2fe9c09d-6213-4576-b0e4-6e89330f41bc
 contact:
   website: "https://openstates.org/person/gene-newman-1SPSnan78iTjMOU605msN2/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

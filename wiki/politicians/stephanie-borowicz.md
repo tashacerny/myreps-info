@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1838.jpg?1703415645
 openstates_id: ocd-person/bccfe530-42ce-47b0-aadf-ae863b37cf9a
 contact:
   website: "https://openstates.org/person/stephanie-borowicz-5kHZ5EB9OQ9yGx2gLTEgVm/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

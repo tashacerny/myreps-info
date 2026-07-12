@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist46/hig
 openstates_id: ocd-person/bf280e36-3547-4d6a-b5aa-d6c32bb5547a
 contact:
   website: "https://openstates.org/person/danielle-conrad-5ohq4TvBxiBXoarmgpDjys/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

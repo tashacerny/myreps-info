@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/027/headshot/
 openstates_id: ocd-person/4d3e092b-0cef-41ca-89a0-e73e1f9fda01
 contact:
   website: "https://openstates.org/person/sam-berger-2Lkl5zcnugkr08Mb8zzUtF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/b266a1bc-d8f5-472c-ba8d-e98e0d904ee3
 contact:
   website: "https://openstates.org/person/daniele-monroe-moreno-5QdXISqzV5YzAe9zBHHGNf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

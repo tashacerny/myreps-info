@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0957954431.jpg"
 openstates_id: ocd-person/00d450b3-f427-4e64-b0bd-45609b0a433b
 contact:
   website: "https://openstates.org/person/jay-jordan-1Z1kvrzXinevQf79uuCLL/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

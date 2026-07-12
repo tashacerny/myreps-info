@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/LegislationPictures/gordon_rogers.jpg"
 openstates_id: ocd-person/961061c2-4ce9-4ac4-85c4-28b20c800e9d
 contact:
   website: "https://openstates.org/person/gordon-rogers-4ZAKnz3n5Xj1MRh7g9vzzR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

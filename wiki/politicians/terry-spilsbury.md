@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/236f5df6-87b6-488d-86cd-a1ed3a5adb81
 contact:
   website: "https://openstates.org/person/terry-spilsbury-14rcpat2rlc8m1BStburUv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

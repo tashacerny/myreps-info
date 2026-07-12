@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632
 contact:
   website: "https://openstates.org/person/tom-umberg-6ID4EiKp0yaDhEG3FSCAmg/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

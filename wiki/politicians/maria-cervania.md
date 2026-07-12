@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/798/Low"
 openstates_id: ocd-person/7a50ad08-1f2a-4f5f-9463-b1672d3a60a3
 contact:
   website: "https://openstates.org/person/maria-cervania-3invq0OiJSwN7JmM7GEnqN/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

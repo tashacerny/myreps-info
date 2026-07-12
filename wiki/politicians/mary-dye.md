@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/21490.jpg"
 openstates_id: ocd-person/69c32c6a-707c-4789-823c-30462b054bcf
 contact:
   website: "https://openstates.org/person/mary-dye-3DZO6p5JrzsvvtBjo1ZROR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

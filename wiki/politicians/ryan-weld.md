@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2021/senate/weld_ryan.jp
 openstates_id: ocd-person/680aa2ce-6408-4047-a36b-0b3badc82851
 contact:
   website: "https://openstates.org/person/ryan-weld-3AK3sqNKT2wgd52JFnkIdN/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

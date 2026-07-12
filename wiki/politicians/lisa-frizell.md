@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea
 contact:
   website: "https://openstates.org/person/lisa-frizell-7hD4u66w7U6jUl1skNxpHe/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

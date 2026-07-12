@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jubil
 openstates_id: ocd-person/a5fc1d39-03f4-427f-9266-8baf789b6ac6
 contact:
   website: "https://openstates.org/person/jubilee-underwood-53CwvUvRHV4000aZVq5N1q/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

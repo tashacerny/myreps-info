@@ -12,5 +12,5 @@ photo_url: "https://i0.wp.com/www.theindustrycosign.com/wp-content/uploads/2021/
 openstates_id: ocd-person/c38da14f-37fd-48fd-9903-e63ce18c1215
 contact:
   website: "https://openstates.org/person/lawrence-blackmon-5x0EBug5mXeMnHxemZSh6b/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

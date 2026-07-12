@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/MATTHA.jpg"
 openstates_id: ocd-person/8a770a9d-d24e-4468-9194-fa2ff1f422e3
 contact:
   website: "https://openstates.org/person/ashlee-matthews-4DHLHMulC0y1y7qESKWsz5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

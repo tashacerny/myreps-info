@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Steagall,%20Jay.jpg"
 openstates_id: ocd-person/0389a5f1-0777-4a48-8faf-98779dc16849
 contact:
   website: "https://openstates.org/person/jay-steagall-6fshtqHPyKUHPkpkRPlm5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTiG4g-g9POWTgtx8A4J
 openstates_id: ocd-person/ab33209c-a8c8-4a6e-a480-ef298eeaa74a
 contact:
   website: "https://openstates.org/person/joe-hoxha-5D33IURQe59kwakn5Y3hve/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

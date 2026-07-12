@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/047/headshot/
 openstates_id: ocd-person/664246f6-8749-4d3e-8b03-524dd4273b0a
 contact:
   website: "https://openstates.org/person/william-colton-36xVNVvtjjZ7wDgdzbtygs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

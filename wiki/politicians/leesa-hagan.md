@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hagan-l
 openstates_id: ocd-person/df874c28-6403-42c1-9cbb-0855508cda85
 contact:
   website: "https://openstates.org/person/leesa-hagan-6nn7RRvyHTrlqfmrvJntzR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

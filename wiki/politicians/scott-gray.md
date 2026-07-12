@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/116/headshot/
 openstates_id: ocd-person/556d38b7-19bd-491e-aa78-ac9bc94bc431
 contact:
   website: "https://openstates.org/person/scott-gray-2bCGFoa0ynRTpHnLmW2Cgb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

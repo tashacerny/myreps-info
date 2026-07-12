@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1632.jpg?1703415645
 openstates_id: ocd-person/dcd0037e-7833-416d-9523-5f25802bd43a
 contact:
   website: "https://openstates.org/person/keith-greiner-6ifNDLZGHS6Ap4avBemJbO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

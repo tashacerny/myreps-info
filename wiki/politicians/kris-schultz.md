@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/8698b473-ea4e-4126-8766-a2b5b5878702
 contact:
   website: "https://openstates.org/person/kris-schultz-45yl0Jp5LdfxbhUTSqdadu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

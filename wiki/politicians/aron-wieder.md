@@ -12,5 +12,5 @@ photo_url: "https://monseyscoop.com/wp-content/uploads/2024/11/63852582546377000
 openstates_id: ocd-person/46209ced-aa04-4316-8a17-97fb02e83320
 contact:
   website: "https://openstates.org/person/aron-wieder-28KMl1d1SV7MrpUrO12ZDk/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

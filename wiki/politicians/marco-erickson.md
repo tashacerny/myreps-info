@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/a9af8eba-9dc3-4961-9305-fa325cb86948
 contact:
   website: "https://openstates.org/person/marco-erickson-5ABvrWOfK64oZ0dJqnpt0q/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

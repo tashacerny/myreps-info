@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/citynewsokc.com/content
 openstates_id: ocd-person/19a4841c-4571-4803-8f5d-262f664fb31a
 contact:
   website: "https://openstates.org/person/brian-guthrie-mNzW6Q4pCvETfiFTPi5yk/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

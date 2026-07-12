@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/0f9ba178-89fb-439e-afa2-c327414d966d
 contact:
   website: "https://openstates.org/person/dick-campbell-TS0W73po74ivgyAOfUJnZ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

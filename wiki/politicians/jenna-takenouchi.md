@@ -12,5 +12,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Takenouchi.jp
 openstates_id: ocd-person/928645f2-46ed-4153-ab60-5b7a8250dab3
 contact:
   website: "https://openstates.org/person/jenna-takenouchi-4SUF3EVciiXUN5dvvj4rdT/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

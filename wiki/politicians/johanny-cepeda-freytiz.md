@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1969.jpg?1703415645
 openstates_id: ocd-person/8d5ab463-45d5-4cf0-9c65-85820c08e506
 contact:
   website: "https://openstates.org/person/johanny-cepeda-freytiz-4IjMxCshGyNwHXC4q8psz0/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

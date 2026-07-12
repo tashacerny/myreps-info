@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Cathy
 openstates_id: ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd
 contact:
   website: "https://openstates.org/person/cathy-loy-P7mcuNLSRiP3bpj89vsDt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

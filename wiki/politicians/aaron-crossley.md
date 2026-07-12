@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2366"
 openstates_id: ocd-person/ba6eb394-0402-49ba-9917-c5618d8a1589
 contact:
   website: "https://openstates.org/person/aaron-crossley-5fnA8dDTbOVSGUlPE0b9Mv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

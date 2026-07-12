@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/3e0ee111-2332-4742-b073-a23cc37a8b51
 contact:
   website: "https://openstates.org/person/barbara-comtois-1t6K5jONjCjeLHBpDct2zx/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

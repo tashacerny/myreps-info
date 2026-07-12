@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/MDS1.jpg"
 openstates_id: ocd-person/7446bdd1-f6b4-40cb-a039-41f4be68833e
 contact:
   website: "https://openstates.org/person/mark-sylvia-3XPRD3GabEwlw8zBtjv1SA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

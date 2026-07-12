@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/ca122856-dfc5-4ba1-84bb-48fdcf7a36f5
 contact:
   website: "https://openstates.org/person/marcus-simon-69IkNdyA9ov9iIAFifWq5V/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

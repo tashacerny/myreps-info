@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/gooch-s
 openstates_id: ocd-person/e2c141e9-9e04-4e2b-8e5b-57db594c7abc
 contact:
   website: "https://openstates.org/person/steve-gooch-6tsaG0c1I1I662fIuHoDCW/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

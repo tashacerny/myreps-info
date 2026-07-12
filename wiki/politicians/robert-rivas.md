@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/68f5ee30-aa70-489b-84b7-6501e6188751
 contact:
   website: "https://openstates.org/person/robert-rivas-3C3ajfqG87onDc0PwKAYBl/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

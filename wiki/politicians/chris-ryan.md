@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/66bb81005c9c9e5a6b4e49
 openstates_id: ocd-person/58b03f1c-af64-4079-8c24-e76dd0028166
 contact:
   website: "https://openstates.org/person/chris-ryan-2hLruzTYaDHFmpbbbohCsw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

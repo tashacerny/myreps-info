@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/dephillips_christ
 openstates_id: ocd-person/33050562-f29d-4c4f-9e21-022822792a5c
 contact:
   website: "https://openstates.org/person/chris-dephillips-1YGu0HKCCF0gG5rAe8TAuC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

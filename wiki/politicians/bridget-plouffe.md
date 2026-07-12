@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/BMP1.jpg"
 openstates_id: ocd-person/2b6d0884-6638-410e-87b7-243c7ca18a16
 contact:
   website: "https://openstates.org/person/bridget-plouffe-1JwUtrfuwyTeAw2UkeqfzC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

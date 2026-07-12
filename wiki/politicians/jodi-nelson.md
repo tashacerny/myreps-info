@@ -12,5 +12,5 @@ photo_url: "https://nhjournal.com/wp-content/uploads/2021/12/Nelson-300x300.jpeg
 openstates_id: ocd-person/1f649bd8-815d-47b9-aca3-6e11ef2da422
 contact:
   website: "https://openstates.org/person/jodi-nelson-xEjuNhX8AchIMarVMINAg/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

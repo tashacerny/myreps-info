@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/724/Low"
 openstates_id: ocd-person/11c903f8-ce25-4463-8a24-a49394c21955
 contact:
   website: "https://openstates.org/person/larry-potts-XYjV8LObNnxGPbwYB8c6P/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

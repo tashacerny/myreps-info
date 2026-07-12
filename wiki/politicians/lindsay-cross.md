@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4887.jpg"
 openstates_id: ocd-person/8bcd1df3-2697-42a9-842a-f3cced1fcb0f
 contact:
   website: "https://openstates.org/person/lindsay-cross-4FnffqtLHEQYkZIq7karDr/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

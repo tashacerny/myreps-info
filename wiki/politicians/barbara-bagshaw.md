@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/72cc3b25-8e1e-4095-93be-216ee191572c
 contact:
   website: "https://openstates.org/person/barbara-bagshaw-3UcSSryGqGe6rloRbQDWHs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

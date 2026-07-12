@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Stutts_6.png"
 openstates_id: ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877
 contact:
   website: "https://openstates.org/person/larry-stutts-5E8S5YdOskoqF1f79LsCV5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

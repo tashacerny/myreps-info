@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/5660bc77e4b02bc8dd3c05
 openstates_id: ocd-person/c655558e-dfac-468a-a633-85f380c538b6
 contact:
   website: "https://openstates.org/person/trey-lamar-62FTfgfMIttgkXzMoppZig/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

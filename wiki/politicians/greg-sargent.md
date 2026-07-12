@@ -12,5 +12,5 @@ photo_url: "https://victoryfund.org/wp-content/uploads/2024/09/IMG_0539-500x500-
 openstates_id: ocd-person/f1292af8-a209-4ff7-87b5-086acddcc10e
 contact:
   website: "https://openstates.org/person/greg-sargent-7L3xnnFuLrZB6vSyyTokN4/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

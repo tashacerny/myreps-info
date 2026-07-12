@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/ac23d4_f90c7e4f91684d28939b38f61d
 openstates_id: ocd-person/5df981dc-0f0f-498e-8e0e-72cfa5410b2a
 contact:
   website: "https://openstates.org/person/nikki-rivera-2rKJJadytQ4ssTdN4Go9Fq/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

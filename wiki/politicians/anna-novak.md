@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091
 contact:
   website: "https://openstates.org/person/anna-novak-5xs6FzPCN18xCsYZRktlx3/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

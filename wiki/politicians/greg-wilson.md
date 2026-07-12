@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/abilene-rc.com/content/
 openstates_id: ocd-person/68b27ef7-a338-4295-b31b-2c984bdbdbf1
 contact:
   website: "https://openstates.org/person/greg-wilson-3BYm2gFmQaHYEvujNSoY7d/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

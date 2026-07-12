@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/063/headshot/
 openstates_id: ocd-person/ec764287-6c45-40e2-929d-383838a4c4c7
 contact:
   website: "https://openstates.org/person/sam-pirozzolo-7CCEVou6CCX2GWGDPtrY5X/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

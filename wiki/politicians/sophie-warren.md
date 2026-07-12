@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/140459ab-ba63-410a-819c-aec28c2f2f66
 contact:
   website: "https://openstates.org/person/sophie-warren-blpkHihOy5hHgxjnkcHJu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

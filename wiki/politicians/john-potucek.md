@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/433c67d6-bfdc-410e-87e2-463c93d55a17
 contact:
   website: "https://openstates.org/person/john-potucek-22s5fABLo9Tq0dqBq1fpcF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

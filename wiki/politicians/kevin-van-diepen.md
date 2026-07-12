@@ -12,5 +12,5 @@ photo_url: "https://www.plainsman.com/uploads/original/20240109-142336-0a240151f
 openstates_id: ocd-person/e94f9d65-3b95-40cb-b3c2-74126023b55f
 contact:
   website: "https://openstates.org/person/kevin-van-diepen-76Fay2eZS011VIOL1c9TVn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

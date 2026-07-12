@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H01
 openstates_id: ocd-person/b251a648-d2d3-4799-8213-e803fed621de
 contact:
   website: "https://openstates.org/person/vivian-watts-5QTwmh5hNi4uESEQmEyHPC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

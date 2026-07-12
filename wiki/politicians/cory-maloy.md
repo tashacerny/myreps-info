@@ -13,5 +13,5 @@ photo_url: "https://le.utah.gov/images/legislator/MALOYC.jpg"
 openstates_id: ocd-person/8487aadf-5bd8-46b1-97a3-2db855c534a0
 contact:
   website: "https://openstates.org/person/cory-maloy-424zDRpPV9PXpih0R3c1Uu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

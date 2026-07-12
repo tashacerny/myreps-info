@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/31f696d4-f806-4eb3-a8ce-5b1d2a2eba93
 contact:
   website: "https://openstates.org/person/jordan-ulery-1WHJZ9K9w7QPUo9tC5ho8Z/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

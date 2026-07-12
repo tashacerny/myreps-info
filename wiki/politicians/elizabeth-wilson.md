@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33985"
 openstates_id: ocd-person/75ee3e5c-bf95-4f36-8366-264872631c3c
 contact:
   website: "https://openstates.org/person/elizabeth-wilson-3aWykgnBrc6D3nmgGpexK8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

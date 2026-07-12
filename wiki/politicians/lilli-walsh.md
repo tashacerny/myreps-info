@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/554fe6ba-061a-413f-b2c7-c0e10c47ad01
 contact:
   website: "https://openstates.org/person/lilli-walsh-2ayrUWPDWruXWFHWYl0Wkj/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

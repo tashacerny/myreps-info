@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Drummond_103.p
 openstates_id: ocd-person/375419e1-4626-4a9a-92ed-15962de5be09
 contact:
   website: "https://openstates.org/person/barbara-drummond-1gP0lFPC3DfiiH5W5R4Vs9/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

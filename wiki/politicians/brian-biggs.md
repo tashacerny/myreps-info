@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/793/Low"
 openstates_id: ocd-person/c476ab83-c1f7-44a7-b7c9-4cfa4679bed8
 contact:
   website: "https://openstates.org/person/brian-biggs-5yijA3EISAlD9ZS91zXVhA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

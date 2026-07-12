@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/026c8d4d-bdd5-4b1f-838e-12c191323540
 contact:
   website: "https://openstates.org/person/penelope-tsernoglou-4ZaleSRqmxIdmbBDGCSVE/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

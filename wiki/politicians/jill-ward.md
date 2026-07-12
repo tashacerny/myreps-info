@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JillW
 openstates_id: ocd-person/6d763b0e-63b6-4b79-9d38-bad4095c9d28
 contact:
   website: "https://openstates.org/person/jill-ward-3KYC6PhnTqT5OjY6uVxoBU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

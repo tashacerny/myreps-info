@@ -12,5 +12,5 @@ photo_url: "https://azleg.gov/alisImages/MemberPhotos/57leg/House/HERNANDEZ_C.jp
 openstates_id: ocd-person/0a4e4b0a-a16e-475b-8aa1-75088657d8c1
 contact:
   website: "https://openstates.org/person/consuelo-hernandez-JRhbbP111xAz4nP46plWz/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/53937ad8-9c5b-4493-95fc-a18565577dd8
 contact:
   website: "https://openstates.org/person/will-davis-2XhlDhEVbtb13GzzZTDPVg/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

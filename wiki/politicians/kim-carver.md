@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep89.jpg"
 openstates_id: ocd-person/bd6d41fc-8ad8-468f-8259-223d38d42bd8
 contact:
   website: "https://openstates.org/person/kim-carver-5lRTnwu9V2HSodkT6GBWTg/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

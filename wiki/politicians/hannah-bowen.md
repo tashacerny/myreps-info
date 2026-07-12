@@ -12,5 +12,5 @@ photo_url: "https://www.resolutionnorthshore.org/images/staff/AG22-Hannah_Bowen-
 openstates_id: ocd-person/f9a6f401-206b-43df-a1b9-0fc1cd8a3417
 contact:
   website: "https://openstates.org/person/hannah-bowen-7b5O0T6iiDVpyzVgB8m7t9/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

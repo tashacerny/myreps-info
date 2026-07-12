@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Hamil
 openstates_id: ocd-person/c7b115f3-0fa8-4a8b-b01f-9b222f44018f
 contact:
   website: "https://openstates.org/person/hamilton-grant-64oOtHrfUppPQTd4MdLYAJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

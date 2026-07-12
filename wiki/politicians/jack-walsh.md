@@ -12,5 +12,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4
 contact:
   website: "https://openstates.org/person/jack-walsh-3SEZwvXeYxkeuYm2pzRpRs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

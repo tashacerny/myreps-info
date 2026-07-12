@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hilton-
 openstates_id: ocd-person/91abe321-5ea4-4f17-b8d8-573d7cb913e6
 contact:
   website: "https://openstates.org/person/scott-hilton-4QsRHj98yK64rQZVWXqxU6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

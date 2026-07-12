@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/jwm1.jpg"
 openstates_id: ocd-person/6c3b63a2-ef13-43e5-b6de-d5e0901aa65a
 contact:
   website: "https://openstates.org/person/joe-mcgonagle-3IEJMJbLwNt9Sylmflt8qA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

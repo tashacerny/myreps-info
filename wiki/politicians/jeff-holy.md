@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/17223.jpg"
 openstates_id: ocd-person/0396b4de-01b1-4784-a604-aafc516f5e39
 contact:
   website: "https://openstates.org/person/jeff-holy-6lqhads6biIoUOZTDYTvN/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

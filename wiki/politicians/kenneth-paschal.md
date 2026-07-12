@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Paschal_73.png
 openstates_id: ocd-person/ab6d4114-8d0a-4439-934b-10197234473c
 contact:
   website: "https://openstates.org/person/kenneth-paschal-5DTcGdqGBSDkyWWkikwSNg/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

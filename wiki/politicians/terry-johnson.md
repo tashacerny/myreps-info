@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/terry-johnson/headsho
 openstates_id: ocd-person/57300c34-0e2d-4e85-bdce-c4fb8c781541
 contact:
   website: "https://openstates.org/person/terry-johnson-2eWHztCtfkOco0ktUXUoHx/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

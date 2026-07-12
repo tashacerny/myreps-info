@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/fc07db44-bc3c-412b-a15e-dd013220411a
 contact:
   website: "https://openstates.org/person/tracy-brown-may-7fZeitAmMkd3jcM3mPgpsw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

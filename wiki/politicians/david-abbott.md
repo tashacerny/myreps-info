@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/a080b584-c899-4694-a797-73cca22610fe
 contact:
   website: "https://openstates.org/person/david-abbott-4srajeSW7Xmv2chHEPZ3Us/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

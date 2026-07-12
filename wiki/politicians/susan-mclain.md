@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/mclain/PublishingImages/member_pho
 openstates_id: ocd-person/62f98553-cc00-497f-ac14-97e0fc0e62c2
 contact:
   website: "https://openstates.org/person/susan-mclain-30lHJuX3WEvNIqR6czyCME/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

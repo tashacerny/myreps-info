@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/nelson-
 openstates_id: ocd-person/059c0e54-cc7b-4605-aee6-58388026a2fb
 contact:
   website: "https://openstates.org/person/sheila-nelson-AaHK54umQO03r5KVfK0E7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

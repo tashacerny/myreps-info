@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Weaver_14.png
 openstates_id: ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d
 contact:
   website: "https://openstates.org/person/april-weaver-fMdK4Bm5Dr84tOXsTCOr7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

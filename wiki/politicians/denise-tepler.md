@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/0321d169-de06-4377-8cd5-6cdb51471393
 contact:
   website: "https://openstates.org/person/denise-tepler-5uQm4LEwtnc8lJPq7Ujbf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

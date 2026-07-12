@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/cont
 openstates_id: ocd-person/214b10b8-1ed6-4964-8aab-32c6609965f6
 contact:
   website: "https://openstates.org/person/jonathan-smith-10p3CrO8rnBspQSUryQzPa/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

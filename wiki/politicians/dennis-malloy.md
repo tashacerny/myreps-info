@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/d6200a81-3d99-4ff7-93e0-e2f3b49cfd65
 contact:
   website: "https://openstates.org/person/dennis-malloy-6W302xF0Se8m45u1HKK6Ef/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

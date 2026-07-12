@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_johnson_timothy_1.j
 openstates_id: ocd-person/ecff64bf-dfd7-4df4-a1c2-681348e68fa8
 contact:
   website: "https://openstates.org/person/tim-johnson-7DCu4JbzZ43Ots1q1VjrGC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

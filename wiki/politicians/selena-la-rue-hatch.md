@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/
 openstates_id: ocd-person/99f4f903-1c4f-49f0-835f-c0b9b1aa0317
 contact:
   website: "https://openstates.org/person/selena-la-rue-hatch-4gVmHxvHH5zrD9Xl6BURxX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/pennacchio_color.
 openstates_id: ocd-person/4bf4c8e4-5a97-4100-b34d-cb01da6ab266
 contact:
   website: "https://openstates.org/person/joe-pennacchio-2JKI4N95Zcq1Kv441mh930/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

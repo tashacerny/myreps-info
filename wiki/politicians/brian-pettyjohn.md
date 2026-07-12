@@ -13,5 +13,5 @@ photo_url: "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/
 openstates_id: ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b
 contact:
   website: "https://openstates.org/person/brian-pettyjohn-4EzWSRQl2uqefDVM5tOntb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Bergstrom%2C%20Micheal%2020
 openstates_id: ocd-person/49a41053-6a43-44a8-92b9-9fd5e97a56fe
 contact:
   website: "https://openstates.org/person/micheal-bergstrom-2ExPro6SiF1BBXLOQpcs3i/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

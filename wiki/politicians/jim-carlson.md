@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/51Carlson.jpg"
 openstates_id: ocd-person/ac087885-bab6-4fbf-b88a-daf71262c8b6
 contact:
   website: "https://openstates.org/person/jim-carlson-5EcYBaxvaGjGaI2zCGVL6c/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

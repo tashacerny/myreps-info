@@ -12,5 +12,5 @@ photo_url: "https://www.cranstonri.gov/_resources/common/userfiles/image/IMG-010
 openstates_id: ocd-person/4f6ac85b-f69f-4916-beaf-a30087ba1214
 contact:
   website: "https://openstates.org/person/chris-paplauskas-2PrC0M2crfjHUUF3ROeAFg/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

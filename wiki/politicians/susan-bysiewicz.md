@@ -12,5 +12,5 @@ photo_url: "https://portal.ct.gov/lt-governor/-/media/otlg/02-site-images/offici
 openstates_id: ocd-person/e5e49f6f-a9d8-4f9c-b235-53f7f571c3e3
 contact:
   website: "https://openstates.org/person/susan-bysiewicz-6znisFX9Ukw4Zy6ODFZx7D/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

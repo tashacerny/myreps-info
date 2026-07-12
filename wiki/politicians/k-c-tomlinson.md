@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1876.jpg?1703415645
 openstates_id: ocd-person/26925ace-f614-409d-80a2-9b6a42e7ddb5
 contact:
   website: "https://openstates.org/person/k-c-tomlinson-1AmakPhHnlDalcmSHGLCcP/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_mosley_brooklynne_1
 openstates_id: ocd-person/7191d22a-a111-4e14-b3d2-87c4084bea1b
 contact:
   website: "https://openstates.org/person/brooklynne-mosley-3SIlwcoUMEcX8btq9bmpPH/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://static.votesmart.org/static/canphoto/181654.jpg"
 openstates_id: ocd-person/3972ae32-865b-4f83-961f-d8a7ca703ad5
 contact:
   website: "https://openstates.org/person/lesley-lopez-1kOyFQF1qs1whq2VFGMe4D/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

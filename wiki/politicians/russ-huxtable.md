@@ -12,5 +12,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0
 contact:
   website: "https://openstates.org/person/russ-huxtable-6cFtGyuZZ1IbfcGybW4K5g/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

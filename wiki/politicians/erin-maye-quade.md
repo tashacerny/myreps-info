@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/56MayeQuade.jpg"
 openstates_id: ocd-person/5233b98b-0b6d-47c9-9fc0-9218a592f8d8
 contact:
   website: "https://openstates.org/person/erin-maye-quade-2V70YzNFGHhY9YRqkKJYzY/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

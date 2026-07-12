@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2021/di
 openstates_id: ocd-person/f7a93a62-fa0b-4d95-a9ad-10a938fd47a0
 contact:
   website: "https://openstates.org/person/dustin-manwaring-7XKRPrI0yErNRrftPKc5tA/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/6c313875-2dc9-4ef5-b869-c3cc0b7d5c97
 contact:
   website: "https://openstates.org/person/rick-mason-3I9fEt2OdCPnuAFK6aSWnP/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

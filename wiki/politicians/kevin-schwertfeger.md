@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_schwertfeger_kevin_
 openstates_id: ocd-person/d0ddb22e-8135-4ca0-856a-4c00c29f1d47
 contact:
   website: "https://openstates.org/person/kevin-schwertfeger-6M7ibI2Qg5yvJsDnPOmwmV/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep2.jpg"
 openstates_id: ocd-person/9c50a5a9-a217-4644-b29d-68d498d9e16d
 contact:
   website: "https://openstates.org/person/steven-jackson-4kxeqbarlbhc3IUyx5tuov/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

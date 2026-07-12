@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/e26fdc8a-3099-4ea4-ad2d-1ccdc45ce1e6
 contact:
   website: "https://openstates.org/person/michele-meyer-6tHNycwMazj0NIE8xHNHdu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

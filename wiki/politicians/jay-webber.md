@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/webber_jay_2019.j
 openstates_id: ocd-person/dbe67894-e4cd-46ea-bb59-877a8b4f26d0
 contact:
   website: "https://openstates.org/person/jay-webber-6gwe002sh6sqH9zEIxTWBU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

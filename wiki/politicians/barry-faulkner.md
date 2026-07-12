@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a8bcce41-eef2-4b18-b99f-8bb34c7f94ea
 contact:
   website: "https://openstates.org/person/barry-faulkner-58OziEBDAnkvH7As02SNS6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

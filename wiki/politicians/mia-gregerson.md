@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/18264.jpg"
 openstates_id: ocd-person/e9244579-d4da-4320-bbae-a1c604a17c75
 contact:
   website: "https://openstates.org/person/mia-gregerson-75vms4KEBrSr3C96RExuGD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

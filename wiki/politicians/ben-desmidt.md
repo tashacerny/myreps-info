@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ben_D
 openstates_id: ocd-person/d4c9b78d-bb0b-40e8-b717-f606299c9737
 contact:
   website: "https://openstates.org/person/ben-desmidt-6TWYbumZqDkYk2CRSZJwAB/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

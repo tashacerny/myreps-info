@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/9dfc9308-ec16-4da8-b5c7-8a9cc55df534
 contact:
   website: "https://openstates.org/person/chris-measmer-4o7Dlu6uD3zVYjR6WAOMOi/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

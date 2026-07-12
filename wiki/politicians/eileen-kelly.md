@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Eilee
 openstates_id: ocd-person/956f70c5-6a5c-455f-b17d-c25f04b25db1
 contact:
   website: "https://openstates.org/person/eileen-kelly-4XymgDmMRBwYVUjkweFNVB/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

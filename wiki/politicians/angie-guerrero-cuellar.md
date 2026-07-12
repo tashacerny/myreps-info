@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{22FBB36E-8A65-4E83-81F1-A20
 openstates_id: ocd-person/8b2bc102-d62b-47b2-91d8-5f9b3a172cea
 contact:
   website: "https://openstates.org/person/angie-guerrero-cuellar-4EbvbJTpyot8JrdY7P7CDS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/1282c789-f53b-485a-b949-3148759dbbde/-/pro
 openstates_id: ocd-person/9569c3da-b86b-4b33-a9ad-8d6174323569
 contact:
   website: "https://openstates.org/person/mike-bohacek-4XwBs4erp9bfCPP8GzBHbt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

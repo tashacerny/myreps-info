@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_roeser_angelina_1.j
 openstates_id: ocd-person/372f4e97-d36e-41c3-aae3-fd69da828ee5
 contact:
   website: "https://openstates.org/person/angel-roeser-1g8CEayuxhVaaYvHVReAQX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

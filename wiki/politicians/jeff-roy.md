@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/JNR1.jpg"
 openstates_id: ocd-person/b23d4ed5-1994-4355-a102-cdf15ae57230
 contact:
   website: "https://openstates.org/person/jeff-roy-5QKeQKGgkDkD0VMvK7uQca/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

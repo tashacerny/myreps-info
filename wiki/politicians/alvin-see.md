@@ -12,5 +12,5 @@ photo_url: "https://andoverbeacon.com/wp-content/uploads/2022/10/010-Town-News-N
 openstates_id: ocd-person/e3a1815a-a84c-4bd1-9e20-b73b07d2576f
 contact:
   website: "https://openstates.org/person/alvin-see-6vX472xxCCu7CoWWYZEfgV/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

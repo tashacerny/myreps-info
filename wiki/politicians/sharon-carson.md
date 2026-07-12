@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560
 contact:
   website: "https://openstates.org/person/sharon-carson-16gwDRn0eYT4NXaHjR584/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

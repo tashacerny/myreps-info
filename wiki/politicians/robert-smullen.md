@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/118/headshot/
 openstates_id: ocd-person/1aed07cb-5108-40a1-a845-93f6848062dc
 contact:
   website: "https://openstates.org/person/robert-smullen-oo7fZWwQ3s6pUJMfNFecm/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

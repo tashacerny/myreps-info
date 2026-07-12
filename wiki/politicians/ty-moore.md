@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ty_Mo
 openstates_id: ocd-person/392b392f-7424-4826-9f65-6b84a805473b
 contact:
   website: "https://openstates.org/person/ty-moore-1jsJZqnhskjjUBXISeD1Ex/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

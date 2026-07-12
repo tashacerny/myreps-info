@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1823.jpg?1703415645
 openstates_id: ocd-person/fbb14b8a-8940-4679-9ed8-3ec48096a3a2
 contact:
   website: "https://openstates.org/person/josh-kail-7ew65IZvs1v6vhXbFULKkM/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

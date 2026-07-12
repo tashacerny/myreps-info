@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/662d9bb55b29343555b12d
 openstates_id: ocd-person/8750be20-9a0c-41e4-bb32-4061c787a7e2
 contact:
   website: "https://openstates.org/person/mark-sigrist-47KrXsmF9FAbGlXCDPRC8g/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

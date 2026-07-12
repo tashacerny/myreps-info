@@ -12,5 +12,5 @@ photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/2
 openstates_id: ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16
 contact:
   website: "https://openstates.org/person/jeff-hilovsky-5AqTe7nAHbGOtBeRWlDiju/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

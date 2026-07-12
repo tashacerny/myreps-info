@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/ea254169-e403-4e29-ab06-8f40fb869ac2
 contact:
   website: "https://openstates.org/person/stephanie-young-77pEHPWWt4DhZSf4S0qGsE/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

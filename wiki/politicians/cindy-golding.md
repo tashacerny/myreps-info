@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33990"
 openstates_id: ocd-person/6729badd-57a5-484c-bb4c-23afa6e96cdf
 contact:
   website: "https://openstates.org/person/cindy-golding-38fHNX1ZXZC88rohc1xxNf/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

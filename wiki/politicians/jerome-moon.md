@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h8.jpg"
 openstates_id: ocd-person/27331b48-e198-4de9-ac44-e30509c8c26b
 contact:
   website: "https://openstates.org/person/jerome-moon-1By3VHXIwZR8vgtN8nyr0d/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

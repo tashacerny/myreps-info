@@ -12,5 +12,5 @@ photo_url: "https://housedems.com/sites/default/files/Images/Representative_Imag
 openstates_id: ocd-person/f5c9b37d-39a5-4c63-a526-6f35f45cf5cf
 contact:
   website: "https://openstates.org/person/kara-hope-7TnISgdWsrmponjMwcX82R/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

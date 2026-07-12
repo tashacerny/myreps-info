@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Gidley_29.png"
 openstates_id: ocd-person/97514731-a41d-4328-841f-afdcaac1c6e2
 contact:
   website: "https://openstates.org/person/mark-gidley-4bWz6XB5nXItFQmiGyZBru/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4786.jpg"
 openstates_id: ocd-person/8eff1a19-557d-4a5d-8a3b-c77015a7babe
 contact:
   website: "https://openstates.org/person/kelly-skidmore-4LpUWaTN1hcNPzWFdyZEjO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/37B.gif"
 openstates_id: ocd-person/ad111cf3-f5f9-4e94-a087-dc39ce1fb136
 contact:
   website: "https://openstates.org/person/kristin-bahner-5GZUa9Vr93cdbx0R1VAdYU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

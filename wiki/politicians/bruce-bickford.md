@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/0b3965de-8fe2-42b4-bc21-115d6b2b470f
 contact:
   website: "https://openstates.org/person/bruce-bickford-LB95EW5YxWbCbQYAD3bQt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/rushing.jpg"
 openstates_id: ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa
 contact:
   website: "https://openstates.org/person/randy-rushing-5KX69gyOVKOldEnc4SWzta/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

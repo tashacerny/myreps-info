@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/2024-08/samantha-j
 openstates_id: ocd-person/d699ae32-c8ba-43d2-a127-fdc38e722bc7
 contact:
   website: "https://openstates.org/person/samantha-jacobs-6WwaaVXifjIOWPXpVynCKd/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9
 contact:
   website: "https://openstates.org/person/tina-mckinnor-oHbXZ9lVE1tOp1IM5o9O5/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

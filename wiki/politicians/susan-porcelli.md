@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/64a835c6-0e89-411f-bc32-331e246b10f0
 contact:
   website: "https://openstates.org/person/susan-porcelli-33w6VGURU8UvupC0ccra1g/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

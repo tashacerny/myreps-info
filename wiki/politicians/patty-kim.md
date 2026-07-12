@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1636.jpg?1703415645
 openstates_id: ocd-person/b5ff17d0-36e8-4f29-8c9b-e51bb9b3ea29
 contact:
   website: "https://openstates.org/person/patty-kim-5XQBiayz3yUGyxbKuOM3mj/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

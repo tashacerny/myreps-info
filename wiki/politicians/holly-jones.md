@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2388"
 openstates_id: ocd-person/c47d84db-02de-4687-bd5b-c6dbc71cc8c4
 contact:
   website: "https://openstates.org/person/holly-jones-5ylrDkwIU8paI50fZ0LTnw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

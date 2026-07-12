@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep5.jpg"
 openstates_id: ocd-person/a900feca-75c7-434e-8d00-dd67170f2b01
 contact:
   website: "https://openstates.org/person/dennis-bamburg-58u9nkUe7BLyPfJyPPXImn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

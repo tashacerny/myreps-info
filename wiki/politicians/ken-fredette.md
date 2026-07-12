@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/1c52b583-18c3-4e12-ae7a-2b07d589f753
 contact:
   website: "https://openstates.org/person/ken-fredette-rRaAA2Ac9VC3n2Ff3cBIh/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

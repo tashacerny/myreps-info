@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/711423e3-ff28-4150-8a89-ec568a4f2c5d
 contact:
   website: "https://openstates.org/person/cassandra-levesque-3RNKtbOZqigfC22gVh3O3B/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

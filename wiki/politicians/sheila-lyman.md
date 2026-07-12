@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/7498179f-e3de-47b7-9aee-9abee716522a
 contact:
   website: "https://openstates.org/person/sheila-lyman-3Y0cD38JWUhyo76zlENVwQ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

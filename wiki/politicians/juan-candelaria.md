@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Candelaria/images/Candelaria_HS.jpg"
 openstates_id: ocd-person/6af561a7-e6d7-4a29-8f65-9a22a5734639
 contact:
   website: "https://openstates.org/person/juan-candelaria-3FpKEJcB1eCEDcyvGK3GdV/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

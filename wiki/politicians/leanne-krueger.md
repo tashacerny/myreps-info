@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1735.jpg?1703415645
 openstates_id: ocd-person/8187ecb2-3e4b-4ba0-819e-a7cfb4b9ac93
 contact:
   website: "https://openstates.org/person/leanne-krueger-3wQ7vctC4IOA9jVPUIIkLr/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.cthousegop.com/odea/wp-content/uploads/sites/46/2018/05/
 openstates_id: ocd-person/03642345-7acb-4294-91b5-84dcc3c18cc7
 contact:
   website: "https://openstates.org/person/tom-o-dea-6OjsqJdYKA2Tq4ZrjMWfP/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Haste%2C%20John%202022%20Fl
 openstates_id: ocd-person/08dca8d5-4264-4509-aebd-bbf7736b9e90
 contact:
   website: "https://openstates.org/person/john-haste-GimNRDX2TkkN6kSrzutLk/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

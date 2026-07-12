@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/01d85172-f83f-48ee-8c35-8979a95c9190
 contact:
   website: "https://openstates.org/person/gaby-grossman-3TqhPQt02ehvSgMYWdjv6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

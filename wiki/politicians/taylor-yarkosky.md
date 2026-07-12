@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4868.jpg"
 openstates_id: ocd-person/4ba15ff2-a717-4ea5-ad72-34e673ef63d8
 contact:
   website: "https://openstates.org/person/taylor-yarkosky-2IiAj3cA7MxsAiK920Ddm4/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

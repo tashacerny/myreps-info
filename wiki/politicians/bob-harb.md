@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c62fca24-e8c3-4f87-95dd-cb52a3d58c05
 contact:
   website: "https://openstates.org/person/bob-harb-61yJsd3I03f2Ojt0v31KPV/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

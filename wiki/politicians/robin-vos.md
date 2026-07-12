@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2531.jpg"
 openstates_id: ocd-person/c8381cb6-1fcf-4a82-a6c5-5c60773a85e1
 contact:
   website: "https://openstates.org/person/robin-vos-65o6jvpDWk3fX2C7enS8qv/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep52.jpg"
 openstates_id: ocd-person/2dafe5b8-cb5a-411a-b270-322dcaf18293
 contact:
   website: "https://openstates.org/person/jerome-zeringue-1OD2TruB8FtjjAe9d9LQG3/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

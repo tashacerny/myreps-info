@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/PETERM.jpg"
 openstates_id: ocd-person/e9792114-e077-4663-96c4-94d679c66ace
 contact:
   website: "https://openstates.org/person/mike-petersen-76YZEvExiPkjwAXienUFOY/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

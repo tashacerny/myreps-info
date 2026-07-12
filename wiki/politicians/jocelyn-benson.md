@@ -12,5 +12,5 @@ photo_url: "https://www.michigan.gov/sos/-/media/Project/Websites/sos/22lawensn/
 openstates_id: ocd-person/bcdc22e9-cca9-47d9-96a4-757fef25f866
 contact:
   website: "https://openstates.org/person/jocelyn-benson-5kN9vLckpf9y7Dpqoy6Q0k/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

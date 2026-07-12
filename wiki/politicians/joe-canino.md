@@ -12,5 +12,5 @@ photo_url: "http://ctlobby.com/wp-content/uploads/2022/03/Joe-Headshot-BW.png"
 openstates_id: ocd-person/5c3f590e-c576-43b7-ab1a-5607efbf7ad7
 contact:
   website: "https://openstates.org/person/joe-canino-2o4F8UjOCx2nxtS0W0jcVb/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

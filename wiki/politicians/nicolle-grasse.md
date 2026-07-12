@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{D2D7C6E1-5147-4488-90CD-D4F
 openstates_id: ocd-person/0394df12-4d09-4844-80aa-269ccc9c1d54
 contact:
   website: "https://openstates.org/person/nicolle-grasse-6l0hmDNlOmTzZrVaJenWW/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

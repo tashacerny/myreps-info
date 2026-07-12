@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/5c985922-36b3-4d80-986d-1f9c363920f1
 contact:
   website: "https://openstates.org/person/vanessa-sheehan-2oiusSsbhDPKtRI58FZAuX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

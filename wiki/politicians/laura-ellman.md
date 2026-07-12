@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{423E6DDE-1AFB-4F10-A767-C86
 openstates_id: ocd-person/9bc8c9e8-ed36-42a1-ae80-4b2dfe591839
 contact:
   website: "https://openstates.org/person/laura-ellman-4jxZQNrpJXTxLBozlOOwTh/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2023/house/stephens_jef
 openstates_id: ocd-person/0092e49c-3dfe-4a2b-b053-e7a0360accf1
 contact:
   website: "https://openstates.org/person/jeff-stephens-1584qPixfDkugxLLUA3sX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

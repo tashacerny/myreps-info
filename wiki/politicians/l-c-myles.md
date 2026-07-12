@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/1d9bb111-bf4f-4e4f-aa63-a2f6a94b566c
 contact:
   website: "https://openstates.org/person/l-c-myles-trvaDmAiFKvKldZ6vSRie/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/1a1bb56f-cf92-4af0-b65e-3831e8a07b64
 contact:
   website: "https://openstates.org/person/henry-giasson-nGSjQLaiOMqyItzMJxxfo/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

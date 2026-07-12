@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Ingalls,%20Rus
 openstates_id: ocd-person/ec8b2fa8-32e3-43ef-a8e9-101958b5d652
 contact:
   website: "https://openstates.org/person/russ-ingalls-7CLnRHxXuLoyK7P0G1Ytzm/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

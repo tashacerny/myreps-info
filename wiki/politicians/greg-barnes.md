@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/319cc74b-3113-4053-8bda-0e1903227207
 contact:
   website: "https://openstates.org/person/greg-barnes-1VcGrXYJZHePkOmVpYx0kx/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

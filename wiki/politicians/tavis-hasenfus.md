@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/194ff967-ad0b-4f2d-8cb7-ef1e062b235c
 contact:
   website: "https://openstates.org/person/tavis-hasenfus-llM6OoDBVBAmRbM9wTf4e/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

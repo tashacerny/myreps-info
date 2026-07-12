@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/34c31079-0077-4ce5-9985-d0f2a95a12a7
 contact:
   website: "https://openstates.org/person/liz-guzman-1bYkEJM49L0T5knpj7vJbT/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

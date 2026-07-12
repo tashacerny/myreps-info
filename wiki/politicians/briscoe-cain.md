@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3265.jpg?v=2"
 openstates_id: ocd-person/065c24a0-401a-4dc5-a19c-e7d96dcbffc5
 contact:
   website: "https://openstates.org/person/briscoe-cain-C03vwwHpROe8Px6fQSTmH/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

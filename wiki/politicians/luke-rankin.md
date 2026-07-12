@@ -13,5 +13,5 @@ photo_url: "https://lirp.cdn-website.com/44a83ceb/dms3rep/multi/opt/P1011798-192
 openstates_id: ocd-person/94b1b04a-1be7-4128-b7ac-0c3b299b7d53
 contact:
   website: "https://openstates.org/person/luke-rankin-4Wa4Edp8NOzwxrx2x2OCjz/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

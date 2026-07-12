@@ -13,5 +13,5 @@ photo_url: "https://victoryfund.org/wp-content/uploads/2024/06/AC-headshot-scale
 openstates_id: ocd-person/e47f88fc-e402-4b8d-a253-ee77ea95847d
 contact:
   website: "https://openstates.org/person/angelina-cruz-6xAX7hFuARqtovyTi6PrcT/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

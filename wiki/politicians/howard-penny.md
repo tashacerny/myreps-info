@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/768/Low"
 openstates_id: ocd-person/9b6a3a48-9827-421f-9925-4717340110ab
 contact:
   website: "https://openstates.org/person/howard-penny-4jGM7metDfKBGOSKG8JMIF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

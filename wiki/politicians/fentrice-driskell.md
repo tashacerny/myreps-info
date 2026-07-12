@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4745.jpg"
 openstates_id: ocd-person/5a138490-70a4-46fa-967e-8739d1ea7456
 contact:
   website: "https://openstates.org/person/fentrice-driskell-2jyECfJpldfyVoASXEmx4o/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

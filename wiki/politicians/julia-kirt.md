@@ -13,5 +13,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Kirt%2C%20Julia%202023%20Fl
 openstates_id: ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a
 contact:
   website: "https://openstates.org/person/julia-kirt-4dcWqinVSC6PEyETtcC6J8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

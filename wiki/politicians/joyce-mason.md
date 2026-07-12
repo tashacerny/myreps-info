@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{26C52E17-9395-4BF8-B6E6-3E1
 openstates_id: ocd-person/96f00b4c-0a56-4fe0-bd59-7d49eb93531c
 contact:
   website: "https://openstates.org/person/joyce-mason-4aoY4MNRCwIbAWqMMOmda8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

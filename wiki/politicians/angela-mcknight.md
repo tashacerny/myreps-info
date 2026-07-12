@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/mcknight_color.jp
 openstates_id: ocd-person/d8c826c4-95c7-465b-8448-1f05495bfc45
 contact:
   website: "https://openstates.org/person/angela-mcknight-6b3oLg9bh5dOgof91Hsayj/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

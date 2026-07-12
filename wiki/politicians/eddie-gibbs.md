@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/068/headshot/
 openstates_id: ocd-person/5764a626-de74-4d88-bc53-b43b523aa75c
 contact:
   website: "https://openstates.org/person/eddie-gibbs-2euKPNcDokPgqjeYo7kzTY/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

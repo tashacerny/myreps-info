@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist30/hig
 openstates_id: ocd-person/4a8d555a-4bba-4f76-a3e1-88eee6030413
 contact:
   website: "https://openstates.org/person/myron-dorn-2Gg1LaYS9JtGdV4vl6WndT/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

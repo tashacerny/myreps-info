@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/7ef7472f-0bda-4708-9239-76adeca1e87e
 contact:
   website: "https://openstates.org/person/debra-desimone-3ra2SBTyDONuwNVqcSG2ta/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

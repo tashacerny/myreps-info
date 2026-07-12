@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/429/Low"
 openstates_id: ocd-person/8be9deca-bbd6-404f-8726-0aecaeb19ca7
 contact:
   website: "https://openstates.org/person/amy-galey-4G0oN7wAbZ7jEsr93dEzkl/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

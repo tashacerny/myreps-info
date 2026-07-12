@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/94df7a3f-b27d-42c1-9ecc-1ebdc707c9ae
 contact:
   website: "https://openstates.org/person/erica-layon-4WuzcbECuH3InaC0tkKCPG/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

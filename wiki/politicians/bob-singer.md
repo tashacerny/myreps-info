@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/singer_color.jpg"
 openstates_id: ocd-person/45219a29-080f-4452-9b05-92488e96f2f1
 contact:
   website: "https://openstates.org/person/bob-singer-26RpGEpEZkNvCBZXC6FX9N/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

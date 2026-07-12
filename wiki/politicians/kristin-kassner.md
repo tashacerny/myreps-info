@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/K_K2.jpg"
 openstates_id: ocd-person/1129a0d9-c280-4bf0-af34-20879293a2b5
 contact:
   website: "https://openstates.org/person/kristin-kassner-WNtPawi2r3Wj9zQLDBUQP/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

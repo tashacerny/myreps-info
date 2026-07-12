@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/9361fe_da91e496f1294126bbe3a43b18
 openstates_id: ocd-person/a05f602f-6eb8-4668-9f25-f438adb5faea
 contact:
   website: "https://openstates.org/person/paul-sawyer-4scMGYPpajN0pNrySNFM2U/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

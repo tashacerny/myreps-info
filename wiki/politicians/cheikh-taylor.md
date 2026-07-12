@@ -13,5 +13,5 @@ photo_url: "http://www.starkvilledailynews.com/sites/default/files/styles/galler
 openstates_id: ocd-person/74ef0a3e-35c9-4729-b6fd-2c07c165864d
 contact:
   website: "https://openstates.org/person/cheikh-taylor-3YeLnFKaYDNxuT8C1r5TJt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

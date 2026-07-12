@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/4655.jpg?v=1"
 openstates_id: ocd-person/0941f4bf-2ac8-48d0-8675-191514e06850
 contact:
   website: "https://openstates.org/person/don-mclaughlin-HT4WNExy8eCJ8TnjmkdKi/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

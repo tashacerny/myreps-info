@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b795e4ca-6b0d-4101-902d-8db5c1b54485
 contact:
   website: "https://openstates.org/person/lydia-crafts-5aQ62cljYUVH6nDVHibyir/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

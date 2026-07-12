@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/May,%20Stan.jpg"
 openstates_id: ocd-person/1ba99d3e-ebea-4426-b91a-0560da625e83
 contact:
   website: "https://openstates.org/person/stan-may-qCJ19y4IO1iEWvARIctXP/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

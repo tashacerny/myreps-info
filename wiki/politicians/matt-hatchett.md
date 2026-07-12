@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/hatchet
 openstates_id: ocd-person/c81779f3-65bf-4714-b295-79cac3b0da28
 contact:
   website: "https://openstates.org/person/matt-hatchett-65ZC2EFy784rhH3tVuPWZM/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

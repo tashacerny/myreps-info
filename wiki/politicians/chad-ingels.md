@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30653"
 openstates_id: ocd-person/623b4ac1-3411-4109-b0eb-31bec2780313
 contact:
   website: "https://openstates.org/person/chad-ingels-2zMLMWUz5uhmgdCCuOXhat/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=774&pType
 openstates_id: ocd-person/5c955d7c-30ce-4930-9d96-588735b89dc2
 contact:
   website: "https://openstates.org/person/beth-wessel-kroeschell-2ohYMBd5mAa4cfMt84ir1G/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

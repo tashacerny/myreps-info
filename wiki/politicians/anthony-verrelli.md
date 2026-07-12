@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/verrelli_anthony_
 openstates_id: ocd-person/c6d61a12-eeb5-4400-943d-68a81b0728f0
 contact:
   website: "https://openstates.org/person/anthony-verrelli-63CKBSl16eIBFgkQxTx5aC/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

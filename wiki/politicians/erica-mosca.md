@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/
 openstates_id: ocd-person/39e0ca55-992e-4558-aec5-279adb467de7
 contact:
   website: "https://openstates.org/person/erica-mosca-1lDI6vHnniZYeSS1BlCuu7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

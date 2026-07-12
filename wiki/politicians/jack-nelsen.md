@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/6e4d92d8-1f64-4284-95cf-d9c50e3d5730
 contact:
   website: "https://openstates.org/person/jack-nelsen-3M8be6YCgxleAgslyMuUO8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

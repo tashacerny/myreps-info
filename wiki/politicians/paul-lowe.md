@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/394/Low"
 openstates_id: ocd-person/a73e339a-9724-45a5-9ebd-f1ca506374a0
 contact:
   website: "https://openstates.org/person/paul-lowe-55a8ydbjArBqmj1bomkrui/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://msa.maryland.gov/msa/mdmanual/36loc/ha/leg/images/1198-1-094
 openstates_id: ocd-person/ecb19095-2750-4bef-bb87-1f646818a9b1
 contact:
   website: "https://openstates.org/person/andre-johnson-7CdKrUx73QWBvrt1xLKYwD/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

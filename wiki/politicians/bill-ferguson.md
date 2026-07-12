@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/ferguson.jpg"
 openstates_id: ocd-person/86f0d40f-05f4-46a2-9c24-21ff52fdc6fe
 contact:
   website: "https://openstates.org/person/bill-ferguson-46d1twJE5so1vvvl9C9OOs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

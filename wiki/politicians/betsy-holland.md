@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/holland
 openstates_id: ocd-person/c2c81ffc-f4b1-40f4-96b0-6309f89902ee
 contact:
   website: "https://openstates.org/person/betsy-holland-5vXy42vXYzX8kMu5DYegeM/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

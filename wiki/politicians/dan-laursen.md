@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-LaursenDan.jpg"
 openstates_id: ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412
 contact:
   website: "https://openstates.org/person/dan-laursen-4d9Kf4yerUXHlIRj8nMaxO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

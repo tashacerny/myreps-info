@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/PRF0.jpg"
 openstates_id: ocd-person/b390af07-1fa2-4516-b8f0-b6bd1b62121a
 contact:
   website: "https://openstates.org/person/paul-feeney-5SpkK6v4jBbkDOv13ELnNi/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

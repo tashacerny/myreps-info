@@ -12,5 +12,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/a0876791-c573-4028-8c61-f7bbac545074
 contact:
   website: "https://openstates.org/person/lea-webb-4sueRk2e7xtPlxLZQkqFOe/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

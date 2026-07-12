@@ -12,5 +12,5 @@ photo_url: "https://lammisvargas.com/wp-content/uploads/2024/07/Lammis-Headshot-
 openstates_id: ocd-person/5ab817c5-d86c-4bf0-9a8f-78ca20cdc56b
 contact:
   website: "https://openstates.org/person/lammis-vargas-2lBRHkfR2pLjBpO0zh4D9P/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

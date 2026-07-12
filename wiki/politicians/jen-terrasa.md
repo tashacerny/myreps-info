@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2019RS/images/terrasa01.jpg"
 openstates_id: ocd-person/51573cf9-a7d7-40d5-bd9a-90e3042c4cab
 contact:
   website: "https://openstates.org/person/jen-terrasa-2TUFHLN7b79zhDHGNjLOEV/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

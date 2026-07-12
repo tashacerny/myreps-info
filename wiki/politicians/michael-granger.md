@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/6d72216e-2f3d-4c60-9ce0-dc2c365d2033
 contact:
   website: "https://openstates.org/person/michael-granger-3KWJviJ4toWAXZvA5kWDa7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

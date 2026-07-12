@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/8a65569e-4ed6-4952-86b8-d499bcbf1cae
 contact:
   website: "https://openstates.org/person/alek-skarlatos-4D9Fg4c2FXaFLpPdrY3fgs/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

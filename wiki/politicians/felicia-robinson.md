@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4791.jpg"
 openstates_id: ocd-person/1d219f7c-140b-48fd-ac39-4683c48dbc87
 contact:
   website: "https://openstates.org/person/felicia-robinson-sy8sZrytsqzmFkSDObZgN/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

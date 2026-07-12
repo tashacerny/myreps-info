@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/McCoy,%20Patti
 openstates_id: ocd-person/599c54f9-34b6-4e31-bb50-e36708c3509b
 contact:
   website: "https://openstates.org/person/pattie-mccoy-2j5lBFnNwrGIp2ko1vBuwN/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

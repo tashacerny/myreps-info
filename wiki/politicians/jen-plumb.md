@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/PLUMBJ.jpg"
 openstates_id: ocd-person/bd870ade-5b3f-4ed3-9e6f-6bbab93a7d35
 contact:
   website: "https://openstates.org/person/jen-plumb-5ldGOFz31uxVo6Vu7qaKCz/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

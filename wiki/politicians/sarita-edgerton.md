@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Sarit
 openstates_id: ocd-person/60078bba-44b1-4606-9943-470d3b3ffbb2
 contact:
   website: "https://openstates.org/person/sarita-edgerton-2vCi8IRYdIZF3MlLFtB4Ve/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house46.
 openstates_id: ocd-person/dfaa3769-decc-4c1c-9c0b-7195153ab6c8
 contact:
   website: "https://openstates.org/person/al-gentry-6o34q3EsWsZwrvtdSNgA36/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

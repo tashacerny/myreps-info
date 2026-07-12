@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/15de6eda-2f2d-4807-9ff1-e770c60ca46c
 contact:
   website: "https://openstates.org/person/james-thibault-fGURYSIK6eR48NnVjhuoO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

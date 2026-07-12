@@ -12,5 +12,5 @@ photo_url: "https://ctsenaterepublicans.com/wp-content/uploads/2021/08/225217195
 openstates_id: ocd-person/c5800b0c-c84a-4e63-83fa-8aaad9b6535f
 contact:
   website: "https://openstates.org/person/ryan-fazio-60g0GYBayUbW84OFhq90jX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

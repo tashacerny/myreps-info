@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house80.
 openstates_id: ocd-person/3643503c-1da8-4a57-90f1-54f063b1d25e
 contact:
   website: "https://openstates.org/person/david-meade-1eOLZcAyEQN6XowWfsqxJu/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

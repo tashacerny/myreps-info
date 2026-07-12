@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/jamie-callender/heads
 openstates_id: ocd-person/4b7cbc16-7a67-4a61-8fd5-77a857270774
 contact:
   website: "https://openstates.org/person/jamie-callender-2IRQYxUwRkR02rkVs19QDU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1
 contact:
   website: "https://openstates.org/person/marc-berman-17mLN7UhRdWcQpFfpdR9RR/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

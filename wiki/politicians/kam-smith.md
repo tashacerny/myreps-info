@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c
 contact:
   website: "https://openstates.org/person/kam-smith-2mDDqc4Sqmrw3IVkA8ZJJU/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

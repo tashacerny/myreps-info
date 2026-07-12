@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/farrin-bradlee-1.j
 openstates_id: ocd-person/72193c8f-2b94-4e56-bff4-482bde6037eb
 contact:
   website: "https://openstates.org/person/brad-farrin-3TIeox4kgjTpI5RpgdeRgZ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

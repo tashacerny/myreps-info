@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Johns,%20Ronny.jpg"
 openstates_id: ocd-person/e5d78f97-752b-4bff-a413-4704ed7c230a
 contact:
   website: "https://openstates.org/person/ronny-johns-6zhkmFniyHdrllevEWE1jG/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

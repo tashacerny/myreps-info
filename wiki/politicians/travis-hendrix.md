@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Hendrix_55.png
 openstates_id: ocd-person/03ab8e26-365c-4dab-8e49-df2a8b7613f8
 contact:
   website: "https://openstates.org/person/travis-hendrix-6vNQs9JUCIWsmvtc5Qsjw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

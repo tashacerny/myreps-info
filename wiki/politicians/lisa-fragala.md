@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/fragala/PublishingImages/member_ph
 openstates_id: ocd-person/d75fd48f-fff7-4ccb-a46e-93854b4de3eb
 contact:
   website: "https://openstates.org/person/lisa-fragala-6YP8yvOKauV0QICw5uLZAx/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/745d2197-96c4-4e10-be1d-19f70c35f541
 contact:
   website: "https://openstates.org/person/holly-seibold-3XZfbO3GqxD6dU9uuyz3r7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

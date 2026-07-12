@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/cb28efe4-6e12-4488-bf75-491066cec97f
 contact:
   website: "https://openstates.org/person/dan-gaiewski-6BM9LCGgMKp2wTDLcsAUjH/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

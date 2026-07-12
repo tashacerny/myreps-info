@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/811/Low"
 openstates_id: ocd-person/f836e608-2d16-4792-bec5-0993fa2db3aa
 contact:
   website: "https://openstates.org/person/tim-reeder-7YNBWEiRxmJnrihGoeANn0/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

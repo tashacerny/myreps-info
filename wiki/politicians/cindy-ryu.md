@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/15736.jpg"
 openstates_id: ocd-person/c7438b67-c6a5-4048-8a13-a8bc2d99cba6
 contact:
   website: "https://openstates.org/person/cindy-ryu-640L8rtjpHc4CDG9qCKEIo/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

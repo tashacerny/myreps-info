@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/simpson01.jpg"
 openstates_id: ocd-person/fd61aa90-0a23-4cc2-8c6f-9fae2aa49a81
 contact:
   website: "https://openstates.org/person/karen-simpson-7i7gvKQQIMInwNNbeQY9rt/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

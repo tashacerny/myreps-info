@@ -13,5 +13,5 @@ photo_url: "https://le.utah.gov/images/legislator/WEILET.jpg"
 openstates_id: ocd-person/6d49f384-ea91-41f2-b703-229a0a7452d9
 contact:
   website: "https://openstates.org/person/todd-weiler-3KDxU9BmAikCSSK8DxNaWn/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Tedford,%20Mark.jpg"
 openstates_id: ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5
 contact:
   website: "https://openstates.org/person/mark-tedford-3J3qmOkdeRtvqzPxnsYuMX/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

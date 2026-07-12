@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Ode,Carol.jpg"
 openstates_id: ocd-person/e9036574-9eac-4f0c-9bd2-1b425e96bb8c
 contact:
   website: "https://openstates.org/person/carol-ode-75glNzZjCQ2ordtF1VYCUO/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

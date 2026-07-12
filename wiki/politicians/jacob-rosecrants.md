@@ -13,5 +13,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Rosecrants,%20Jacob.j
 openstates_id: ocd-person/df4d2b89-39a6-4157-90ea-fd229c84f98b
 contact:
   website: "https://openstates.org/person/jacob-rosecrants-6nMYSFGNT1sxXIcmBHqXSl/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

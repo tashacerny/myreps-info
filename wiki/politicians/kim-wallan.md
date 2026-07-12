@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/wallan/PublishingImages/member_pho
 openstates_id: ocd-person/a2e34475-ba6f-41af-bf61-83c7160d6c10
 contact:
   website: "https://openstates.org/person/kim-wallan-4xMcLPbEyE4JrnTetiC2Ge/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

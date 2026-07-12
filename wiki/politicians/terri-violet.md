@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Terri
 openstates_id: ocd-person/ea5a5b0f-1c94-4c8d-a39f-e76357ebb2bf
 contact:
   website: "https://openstates.org/person/terri-violet-78DUpB4x9sMdsYfMRZV9eJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

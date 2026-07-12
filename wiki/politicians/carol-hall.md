@@ -12,5 +12,5 @@ photo_url: "https://www.cthousegop.com/hall/wp-content/uploads/sites/34/2016/11/
 openstates_id: ocd-person/5e47f657-ab56-4673-bebb-5a7c1a0410db
 contact:
   website: "https://openstates.org/person/carol-hall-2ruAGWMSsr2kVSsiW8j0aB/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

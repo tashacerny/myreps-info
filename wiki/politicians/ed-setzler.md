@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/setzler
 openstates_id: ocd-person/777f58bb-9d6b-4755-ab7b-b94d11629cb5
 contact:
   website: "https://openstates.org/person/ed-setzler-3dUHdWcbYBWXOfg3toTy2n/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/cindy-abrams/headshot
 openstates_id: ocd-person/9ae0194c-0f5b-44c6-b84f-a0ec4d3f3a61
 contact:
   website: "https://openstates.org/person/cindy-abrams-4iFEN2mXxVk2yiJPN4iVH7/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

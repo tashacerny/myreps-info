@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/bill-roemer/headshots
 openstates_id: ocd-person/4cece9f3-e252-438b-8255-a2150a4ed599
 contact:
   website: "https://openstates.org/person/bill-roemer-2L9ga2da6ie30UtRuPxVsH/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

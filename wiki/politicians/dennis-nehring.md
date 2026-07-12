@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/4e998af9-35f0-457c-8f37-b2fdaa914dbd
 contact:
   website: "https://openstates.org/person/dennis-nehring-2OJZO7LXVJ1nyU6O7bXUzN/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

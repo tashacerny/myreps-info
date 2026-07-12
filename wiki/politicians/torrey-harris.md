@@ -13,5 +13,5 @@ photo_url: "https://capitol.tn.gov/house/members/images/H91.jpg"
 openstates_id: ocd-person/8036dedc-9be1-4935-9a37-df3f95033110
 contact:
   website: "https://openstates.org/person/torrey-harris-3tw5oRP4ldPa24RUMn8FNo/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

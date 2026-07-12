@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/7d5a163c-a37a-48be-9a3f-2e4b54e3fdd6
 contact:
   website: "https://openstates.org/person/steven-foster-3oXD3s3jQ88XVShJqnsQ5O/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

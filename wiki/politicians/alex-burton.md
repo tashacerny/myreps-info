@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AlexB
 openstates_id: ocd-person/ea9905ae-ca94-4184-853c-d7d622dd46ee
 contact:
   website: "https://openstates.org/person/alex-burton-78g8QE2rw4jFQmO7Appw3q/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

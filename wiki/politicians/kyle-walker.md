@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/020c0a65-17de-4aa9-a073-80954fb48637/-/pro
 openstates_id: ocd-person/da010a7d-0344-48cb-b9ba-2eca71007cc6
 contact:
   website: "https://openstates.org/person/kyle-walker-6dMnmlE53cg90UgCSVhrio/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LaKei
 openstates_id: ocd-person/6c8d86c3-4157-4673-a7d9-524c9d49f859
 contact:
   website: "https://openstates.org/person/la-keisha-jackson-3IpqdodcSAgLVWJqgIg357/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

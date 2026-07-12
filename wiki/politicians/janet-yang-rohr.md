@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{4B315A2D-F104-4613-BD17-77E
 openstates_id: ocd-person/dc08395b-8a74-4795-b104-d7b11c1e42ca
 contact:
   website: "https://openstates.org/person/janet-yang-rohr-6hC4MNwle8iWfDNhPUIwd0/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

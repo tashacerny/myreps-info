@@ -13,5 +13,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7
 contact:
   website: "https://openstates.org/person/melissa-minor-brown-1Mmk4WnZCr8n5EZbkGJjq3/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

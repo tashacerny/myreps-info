@@ -12,5 +12,5 @@ photo_url: "https://gray-ksfy-prod.cdn.arcpublishing.com/resizer/fX4I5GWdwjL88Z9
 openstates_id: ocd-person/0c864308-04a8-4b22-af5b-5d718046b99f
 contact:
   website: "https://openstates.org/person/karla-lems-NdGTZGUOn1Vg7Z4uRfFMd/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2210"
 openstates_id: ocd-person/1ff1dec0-c449-4ff8-aa22-0830817c2070
 contact:
   website: "https://openstates.org/person/ashley-aune-yHIQ1v4fLoUjQP73tCcvQ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

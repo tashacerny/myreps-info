@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/solomon.jpg"
 openstates_id: ocd-person/0b700db6-fe30-4fb4-a988-05ae0d618720
 contact:
   website: "https://openstates.org/person/joseph-solomon-La7hVpnF2biE2pdwsgqkS/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/b99b0bbb-4710-43c7-a6b5-0e04524eedf0
 contact:
   website: "https://openstates.org/person/kevin-avard-5eER4PvHmPsvsmUMZT9rUm/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

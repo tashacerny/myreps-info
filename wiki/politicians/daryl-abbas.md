@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/6dfd683a-1f79-49db-95a9-07f4f9898a22
 contact:
   website: "https://openstates.org/person/daryl-abbas-3LXyCcrwhC6sO28l46HHRy/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

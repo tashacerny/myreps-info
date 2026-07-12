@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/5692ad8b-7258-409d-bbf3-63d6748e8b68
 contact:
   website: "https://openstates.org/person/jonathan-karlen-2dMN4OrJIZP0v95geRhUu8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

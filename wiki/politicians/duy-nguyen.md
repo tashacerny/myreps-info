@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/
 openstates_id: ocd-person/fb919fa4-e37e-4268-9f5d-e4c3e9490475
 contact:
   website: "https://openstates.org/person/duy-nguyen-7ehchc5cBQ4fmawgpgOJ8v/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

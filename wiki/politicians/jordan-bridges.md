@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2021/house/bridges_jorda
 openstates_id: ocd-person/be682c29-e66f-4a19-89cc-761c60330eea
 contact:
   website: "https://openstates.org/person/jordan-bridges-5nI9F8bWAwaajAdtSNr6U6/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

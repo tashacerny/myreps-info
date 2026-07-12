@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_ruiz_susan_1.jpg"
 openstates_id: ocd-person/c06bc779-d072-495b-95f8-e5f4e67bdd4c
 contact:
   website: "https://openstates.org/person/susan-ruiz-5r5mU3z7fTMiGY1jkJ3xPw/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

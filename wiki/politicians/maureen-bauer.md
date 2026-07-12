@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/7e493895-2f49-4a56-a4a3-f888373769b5
 contact:
   website: "https://openstates.org/person/maureen-bauer-3qIUhwY4K0ygG1fLAGsBBF/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

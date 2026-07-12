@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/jackson.jpg"
 openstates_id: ocd-person/843ed177-0a3d-4f96-9df2-28ad7333c5a6
 contact:
   website: "https://openstates.org/person/lataisha-jackson-41Xh6EWuxn7zGbBp4WzFN0/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

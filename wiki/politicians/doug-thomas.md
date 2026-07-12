@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/5db11498-80a8-4136-9c50-2c7f1a2f6826
 contact:
   website: "https://openstates.org/person/doug-thomas-2qnDATSqoOEPY3ihbXqeGM/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

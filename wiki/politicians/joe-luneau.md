@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/251355/251
 openstates_id: ocd-person/36a9b7c9-0c31-4aff-82da-7d54b3e0721a
 contact:
   website: "https://openstates.org/person/joe-luneau-1f996uabShzUGGRSZHWFVi/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2090"
 openstates_id: ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53
 contact:
   website: "https://openstates.org/person/dirk-deaton-4QARBSeb0QR1PFXEwxhTBT/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

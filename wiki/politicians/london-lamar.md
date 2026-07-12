@@ -13,5 +13,5 @@ photo_url: "https://www.capitol.tn.gov/senate/members/images/s33.jpg"
 openstates_id: ocd-person/44fda210-d5be-4785-ae5e-0072b4111a67
 contact:
   website: "https://openstates.org/person/london-lamar-26BO6p1qPqMqjZSRgREMYJ/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---

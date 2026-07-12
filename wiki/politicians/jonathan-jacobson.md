@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/104/headshot/
 openstates_id: ocd-person/105874fa-018e-4e77-8190-7f6d59538386
 contact:
   website: "https://openstates.org/person/jonathan-jacobson-UqIjWg7uHd4Q6oBFE32v8/"
-last_updated: "2026-07-05"
+last_updated: "2026-07-12"
 ---
