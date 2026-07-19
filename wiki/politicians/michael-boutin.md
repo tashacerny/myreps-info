@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Boutin,Michael
 openstates_id: ocd-person/86bf6469-26ea-4367-bda5-b191686ca556
 contact:
   website: "https://openstates.org/person/michael-boutin-46GRArRGP5ntZzngLnL7IM/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

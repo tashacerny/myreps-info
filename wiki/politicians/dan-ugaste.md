@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{2552FBE4-D977-4283-B00C-78F
 openstates_id: ocd-person/ab6db17a-e7dc-43c8-9770-32c1da1d7f40
 contact:
   website: "https://openstates.org/person/dan-ugaste-5DTohwmnBn0vkBRILHahgO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

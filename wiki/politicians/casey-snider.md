@@ -13,5 +13,5 @@ photo_url: "https://le.utah.gov/images/legislator/SNIDEC.jpg"
 openstates_id: ocd-person/5d8ada2a-75c6-4aa6-b359-29720794fb7e
 contact:
   website: "https://openstates.org/person/casey-snider-2qVk0QdgRZESmteftAcw3C/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/59Champion.jpg"
 openstates_id: ocd-person/c7436be4-472a-4d5e-82f5-f46359395d3a
 contact:
   website: "https://openstates.org/person/bobby-joe-champion-640HecHpJJxY3JfYHCoy0w/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

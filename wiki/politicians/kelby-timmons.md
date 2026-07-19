@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/ed4f6720-01ed-42c3-9e33-8fa6ca237b49
 contact:
   website: "https://openstates.org/person/kelby-timmons-7DnT3eJr3Ef9g1yrOavWfZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

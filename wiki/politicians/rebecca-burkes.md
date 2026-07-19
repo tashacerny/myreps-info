@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/606_sm.jpg"
 openstates_id: ocd-person/8f012092-5f3f-4047-8047-f2520efe0fad
 contact:
   website: "https://openstates.org/person/rebecca-burkes-4LqPuQknSf3J2Tw3ujbtE5/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

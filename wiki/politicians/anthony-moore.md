@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Moore,%20Anthony.jpg"
 openstates_id: ocd-person/c1f71291-89c1-4109-a15c-2483743d333a
 contact:
   website: "https://openstates.org/person/anthony-moore-5u0QkxcRKcGvDFdkvWAUDC/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

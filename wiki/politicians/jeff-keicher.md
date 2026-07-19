@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{FD009EA6-624D-45C7-A093-BC6
 openstates_id: ocd-person/1055f952-0000-4628-9584-c2a3fc9e991c
 contact:
   website: "https://openstates.org/person/jeff-keicher-UpANYEUZMQndG4qkWSbLI/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

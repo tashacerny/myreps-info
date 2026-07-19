@@ -12,5 +12,5 @@ photo_url: "https://lopez4nc.com/wp-content/uploads/2023/12/FAV1127_LOPEZ_-121.w
 openstates_id: ocd-person/196e72cf-7987-4847-8e2f-03b540064e86
 contact:
   website: "https://openstates.org/person/jordan-lopez-lzHYtFaImZF2bb1tyrKcA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/f3a41618-3c28-4bab-9a56-ef49c9cafcec
 contact:
   website: "https://openstates.org/person/joe-addabbo-7Pk7dEVUluN3Auzt0J8IQe/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

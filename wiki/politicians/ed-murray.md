@@ -12,5 +12,5 @@ photo_url: "https://ed4nola.com/wp-content/uploads/2025/11/EdMurray_CampaignShoo
 openstates_id: ocd-person/807a71ac-5657-4933-add4-024d35529e38
 contact:
   website: "https://openstates.org/person/ed-murray-3uQyReKcedarjpUETWAUg4/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

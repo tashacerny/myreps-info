@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/felsher.jpg"
 openstates_id: ocd-person/9967ba62-2eb6-452e-8445-d3422c62a813
 contact:
   website: "https://openstates.org/person/kevin-felsher-4fTEFg4SgbDb0gLOBKS91n/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

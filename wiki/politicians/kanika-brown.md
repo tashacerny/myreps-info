@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/795/Low"
 openstates_id: ocd-person/91f28923-c52e-4a47-aed2-944672902823
 contact:
   website: "https://openstates.org/person/kanika-brown-4ROj2oVuf4CKrBLus0XUvb/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

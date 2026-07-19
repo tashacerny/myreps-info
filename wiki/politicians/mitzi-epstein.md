@@ -12,5 +12,5 @@ photo_url: "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/EPSTEIN.j
 openstates_id: ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d
 contact:
   website: "https://openstates.org/person/mitzi-epstein-7J2pagnP5Iqypo4Ysv58gf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

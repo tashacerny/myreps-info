@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/0ae0ba8c-757e-459f-aecc-4a0501a25cbb
 contact:
   website: "https://openstates.org/person/paul-strommen-KWciroQSkPoZ2l27579YZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

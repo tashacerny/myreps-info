@@ -13,5 +13,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/8b2a92f1-4b70-4dfc-8f4f-789aca1b5e8b
 contact:
   website: "https://openstates.org/person/renee-pack-4EbOATFM1LxYYShtNej8KR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

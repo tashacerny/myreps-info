@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/ricentral.com/content/t
 openstates_id: ocd-person/6e9979b1-f131-4d71-8146-71f10bd06e57
 contact:
   website: "https://openstates.org/person/earl-read-3MhIFhytlgjjsO6xhjysoJ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

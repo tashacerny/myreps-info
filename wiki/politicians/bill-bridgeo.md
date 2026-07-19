@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/44cd2c44-aa58-4129-bc5f-eefc64bf836f
 contact:
   website: "https://openstates.org/person/bill-bridgeo-25pF2FzDIvpDk2axn6ysd5/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

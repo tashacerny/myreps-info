@@ -12,5 +12,5 @@ photo_url: "https://ago.vermont.gov/sites/ago/files/inline-images/Charity%20R%20
 openstates_id: ocd-person/5ff8e24a-93df-4bc3-a669-7ea42d42c59b
 contact:
   website: "https://openstates.org/person/charity-clark-2v60hcIz3UOB0xaAHHFTD9/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

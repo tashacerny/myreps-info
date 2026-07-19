@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Gregg
 openstates_id: ocd-person/ec53a7aa-4a63-4c8f-8f74-8002d5c654e5
 contact:
   website: "https://openstates.org/person/gregg-bush-7BwQ0sgJt1d4LVcTDauBEr/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

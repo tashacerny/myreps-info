@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/c924901e-1cc8-4574-ae7c-19f3e52d2031
 contact:
   website: "https://openstates.org/person/mike-bordes-67YAM78wf1pwHGUYGCtA25/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

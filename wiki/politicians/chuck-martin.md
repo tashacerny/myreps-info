@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/martin-
 openstates_id: ocd-person/42517dd7-eccb-4d22-a795-cbd010b69ee6
 contact:
   website: "https://openstates.org/person/chuck-martin-218jad1ZLQbjjPe1RX7QeM/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

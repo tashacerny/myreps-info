@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/8588302c-ac8c-4b58-9444-0c9f29448aa0
 contact:
   website: "https://openstates.org/person/wayne-macdonald-43yDUgzqSD0xiUJMLohO0O/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

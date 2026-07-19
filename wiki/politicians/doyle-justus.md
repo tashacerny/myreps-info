@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2364"
 openstates_id: ocd-person/f3eb420f-df97-4edf-b8c9-e0fa231c6860
 contact:
   website: "https://openstates.org/person/doyle-justus-7QGeDYoPBnve2xeag0JESu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

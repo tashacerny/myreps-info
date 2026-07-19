@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house3.j
 openstates_id: ocd-person/c033dd77-f8d7-4558-8582-9e0088ae5406
 contact:
   website: "https://openstates.org/person/randy-bridges-5qgED3gasQS7Ymkb6ipIfe/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

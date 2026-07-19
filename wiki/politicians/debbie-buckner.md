@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/buckner
 openstates_id: ocd-person/5061bc6b-83af-46d0-a78d-30ebe10a63db
 contact:
   website: "https://openstates.org/person/debbie-buckner-2Rg3CVwR55GKM7o7ogpLb9/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

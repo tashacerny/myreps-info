@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2219"
 openstates_id: ocd-person/da48983a-852b-4d3b-b635-285f37d8d012
 contact:
   website: "https://openstates.org/person/terry-thompson-6dtVC1P8mPpzVzpJ4UZMPa/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

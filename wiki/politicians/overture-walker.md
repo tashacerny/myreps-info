@@ -13,5 +13,5 @@ photo_url: "https://overture4scsenate.com/wp-content/uploads/2024/05/Screenshot-
 openstates_id: ocd-person/3e43cada-6457-40bf-9f6d-ed024f737177
 contact:
   website: "https://openstates.org/person/overture-walker-1tUVL52r2jUU1XqIXeF9ex/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

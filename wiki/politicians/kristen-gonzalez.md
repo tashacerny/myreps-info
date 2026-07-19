@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/f96b188a-83e0-4eab-876f-964e06d721d4
 contact:
   website: "https://openstates.org/person/kristen-gonzalez-7ae20PklBuJqKqyVgGNt92/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

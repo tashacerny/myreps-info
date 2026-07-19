@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/9cbfadc5-8393-444c-bb39-b1c79390d01b
 contact:
   website: "https://openstates.org/person/jordan-redman-4lmOpNo5D31TSY4BTqyJQ3/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

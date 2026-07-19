@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/KPS1.jpg"
 openstates_id: ocd-person/1eece00d-5b31-4be0-9263-b594863b295c
 contact:
   website: "https://openstates.org/person/ken-sweezey-wM1MsLrUEwR3vnKHokI8K/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

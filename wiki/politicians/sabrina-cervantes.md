@@ -13,5 +13,5 @@ photo_url: "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos
 openstates_id: ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db
 contact:
   website: "https://openstates.org/person/sabrina-cervantes-2yXhH6Omrc8HWh33A4zIoV/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

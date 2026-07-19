@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/28ef2003-b65a-4c46-92f1-b777498c5a00
 contact:
   website: "https://openstates.org/person/chris-mcaleer-1FEyMGpsspyEAFNEC8zaxE/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

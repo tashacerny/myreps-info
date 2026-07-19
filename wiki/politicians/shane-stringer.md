@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Stringer_102.p
 openstates_id: ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b
 contact:
   website: "https://openstates.org/person/shane-stringer-3EI2JTizdRykUrA1Il59cx/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

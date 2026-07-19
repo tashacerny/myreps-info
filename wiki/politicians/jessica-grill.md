@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jessi
 openstates_id: ocd-person/d607d081-ecb8-4d5d-bc2f-d3ee78a627c7
 contact:
   website: "https://openstates.org/person/jessica-grill-6VrvbrF1Um25OYk8Ri14p5/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

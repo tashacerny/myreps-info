@@ -12,5 +12,5 @@ photo_url: "https://www.sos.state.mn.us/media/1810/steve-simon-official-portrait
 openstates_id: ocd-person/029aa632-cefd-431d-bba0-e2ed611b2151
 contact:
   website: "https://openstates.org/person/steve-simon-4uetHGQHAq5CbWkMV1viT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/357_sm.jpg"
 openstates_id: ocd-person/3220c1b9-f133-47fa-8ef9-9944493fbb2c
 contact:
   website: "https://openstates.org/person/jon-eubanks-1WaaLRLL9bf9L71tFFFWJw/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

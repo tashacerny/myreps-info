@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/0bba07ba-7713-4ca7-8f44-699c832e0d2a
 contact:
   website: "https://openstates.org/person/tom-garrett-M7vlBiDSwJsPzfJc8jxAw/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

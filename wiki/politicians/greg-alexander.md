@@ -12,5 +12,5 @@ photo_url: "https://www.house.mi.gov/media/Representatives/Alexander-098.jpg"
 openstates_id: ocd-person/fc7627d7-6c08-49e7-9edc-6f419443ffaa
 contact:
   website: "https://openstates.org/person/greg-alexander-7gO3wlUxf7pIdsgtD9jBc2/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

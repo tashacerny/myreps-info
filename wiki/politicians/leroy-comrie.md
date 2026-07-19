@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/dbc5723f-2fad-4c3e-b051-5ea05706340f
 contact:
   website: "https://openstates.org/person/leroy-comrie-6ghYH0Gi3UIvEbHwWrGCP1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

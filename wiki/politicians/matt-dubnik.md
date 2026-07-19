@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/dubnik-
 openstates_id: ocd-person/99f0a2a7-8817-4756-a40e-575e259890e7
 contact:
   website: "https://openstates.org/person/matt-dubnik-4gTnOVt4iC4ETT89DwaS9f/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

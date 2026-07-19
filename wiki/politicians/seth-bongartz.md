@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Bongartz,Seth%
 openstates_id: ocd-person/28f82298-2bd5-4f82-9e4a-3e2261f0062c
 contact:
   website: "https://openstates.org/person/seth-bongartz-1FJ5eOH9Je6bgacCDz55fY/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

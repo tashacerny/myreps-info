@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/haney.jpg"
 openstates_id: ocd-person/c38f3e52-9594-4580-a280-bdaa11a33b66
 contact:
   website: "https://openstates.org/person/greg-haney-5x0xu4je69vRtuT4fPdrBm/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

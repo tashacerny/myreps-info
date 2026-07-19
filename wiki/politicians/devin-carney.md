@@ -13,5 +13,5 @@ photo_url: "https://www.cthousegop.com/carney/wp-content/uploads/sites/13/2016/1
 openstates_id: ocd-person/79d4059c-5faa-443f-a842-7b494ea2d57e
 contact:
   website: "https://openstates.org/person/devin-carney-3hsxsjfqef5I2WYPUeMUe6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

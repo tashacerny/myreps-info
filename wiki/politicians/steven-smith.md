@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/129a2970-07b9-4136-aae1-15c689edca40
 contact:
   website: "https://openstates.org/person/steven-smith-Z6JTEAWH4U2DP4VntQblA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

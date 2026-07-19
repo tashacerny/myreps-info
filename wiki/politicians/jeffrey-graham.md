@@ -13,5 +13,5 @@ photo_url: "https://www.grahamrealtyinc.com/files/images/agents/g/4d80bc35-8f04-
 openstates_id: ocd-person/2a153d17-d828-4285-a361-fb9f736dd388
 contact:
   website: "https://openstates.org/person/jeffrey-graham-1HPNnPNYvfypFXALgUaYPo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33998"
 openstates_id: ocd-person/aec12ca2-6ad3-4026-9f01-7a691566c6fc
 contact:
   website: "https://openstates.org/person/matt-rinker-5JkwdjpobAkKbqSHAHZShg/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

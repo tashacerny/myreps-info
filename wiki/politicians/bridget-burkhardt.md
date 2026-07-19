@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Burkhardt,Brid
 openstates_id: ocd-person/65f7d469-b06a-41d9-96b6-eb4e14ced390
 contact:
   website: "https://openstates.org/person/bridget-burkhardt-36PTyhI8zoVhRT87Lv9Sym/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

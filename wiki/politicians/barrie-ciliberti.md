@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/ciliberti01.jpg"
 openstates_id: ocd-person/515dbb17-6f5d-482a-8799-a2490be688fb
 contact:
   website: "https://openstates.org/person/barrie-ciliberti-2TXDF3G3phTGqOGUo0nXyt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

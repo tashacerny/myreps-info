@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/Pictures/McEntee.jpg"
 openstates_id: ocd-person/7daab32c-5d7f-4db2-b141-026d3595f69f
 contact:
   website: "https://openstates.org/person/carol-mcentee-3p839pJKDqtI5cCqCbWTYV/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

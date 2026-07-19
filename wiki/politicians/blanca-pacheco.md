@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2
 contact:
   website: "https://openstates.org/person/blanca-pacheco-7O1NKHCiplVUpeHDMBj86M/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

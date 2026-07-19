@@ -12,5 +12,5 @@ photo_url: "https://le.utah.gov/images/legislator/THURSNK.jpg"
 openstates_id: ocd-person/8e36fabe-9e2a-4ccd-b29a-1395d6318560
 contact:
   website: "https://openstates.org/person/norm-thurston-4KM2EqYT4Ws4YwiCy4mFeq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

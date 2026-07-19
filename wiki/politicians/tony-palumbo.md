@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/f13bda4e-bfb4-49fc-a986-ba8d2b3e7e43
 contact:
   website: "https://openstates.org/person/tony-palumbo-7LCVDoPoqlUjpFXjYGkxDX/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

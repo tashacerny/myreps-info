@@ -12,5 +12,5 @@ photo_url: "https://www.roundupweb.com/IMG/CW6HaGsPAQMKLKOUSxVmirLDbYqbX/XPATH/h
 openstates_id: ocd-person/181afb1f-2892-49da-bcd0-b7bc0da57b5a
 contact:
   website: "https://openstates.org/person/morgan-thiel-jU93tGmjp8lpp8BGOP0eo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

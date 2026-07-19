@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house87.
 openstates_id: ocd-person/e7f7a316-4eb0-4be9-adf9-e7067b20dcfc
 contact:
   website: "https://openstates.org/person/adam-bowling-73iOfrGXyKJW9N6hx5lcLM/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

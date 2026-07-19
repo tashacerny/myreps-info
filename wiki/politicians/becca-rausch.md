@@ -13,5 +13,5 @@ photo_url: "https://www.brandeis.edu/now/2019/january/images/rausch620.jpg"
 openstates_id: ocd-person/fb97b139-c0dd-41b5-ae52-159528f47b11
 contact:
   website: "https://openstates.org/person/becca-rausch-7ekOeXPYLP0nzyw4cNGdkX/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

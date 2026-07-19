@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=161"
 openstates_id: ocd-person/d3b3bc8e-ab0c-4ee2-ba3d-de78040274af
 contact:
   website: "https://openstates.org/person/herman-quirmbach-6RTWI3tY1Jmpa9yJ9qGxMF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

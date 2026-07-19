@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h94.jpg"
 openstates_id: ocd-person/e7a2a416-0d33-4d78-8ee5-cf79628df4bd
 contact:
   website: "https://openstates.org/person/ron-gant-735YO7G99HGF3Bbk2uM5Cn/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

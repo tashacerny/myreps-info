@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4779.jpg"
 openstates_id: ocd-person/217f848d-99c2-43aa-98d2-6fee2812c1e6
 contact:
   website: "https://openstates.org/person/traci-koster-11D1OnnYVZZ304F7moDUd4/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

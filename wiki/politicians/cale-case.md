@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-CaseCale.jpg"
 openstates_id: ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251
 contact:
   website: "https://openstates.org/person/cale-case-KoTfnENfyZd6N8eNHtrnd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

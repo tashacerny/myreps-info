@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Duke,%20Abbey.
 openstates_id: ocd-person/90da5348-421e-435b-8458-67123462addf
 contact:
   website: "https://openstates.org/person/abbey-duke-4PKfXcWkVwlzfQ7sohJlcN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

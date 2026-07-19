@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/creekmore_iv.jpg"
 openstates_id: ocd-person/d79acfe3-5991-41ae-b245-f7b7f877febb
 contact:
   website: "https://openstates.org/person/sam-creekmore-6Yq6AuT5X7i3umwXcEflWd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/jones-t
 openstates_id: ocd-person/45567c87-3ba6-49ec-9ea2-5ebb880aa94c
 contact:
   website: "https://openstates.org/person/todd-jones-26pzggO13gGwjbpjOCxmSS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2024RS/images/woorman01.jpg"
 openstates_id: ocd-person/3347216b-1b03-4426-b469-1f69a709de40
 contact:
   website: "https://openstates.org/person/teresa-woorman-1Yl79goqvH0GW104GbgMrI/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/147/headshot/
 openstates_id: ocd-person/67c280c8-c9a5-4eff-93de-480570d6a414
 contact:
   website: "https://openstates.org/person/dave-dipietro-39n643CVG1j9xldAim8xKG/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

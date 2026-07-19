@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ahyse
 openstates_id: ocd-person/9dc4ee36-43d6-4392-b0f8-2d6b7d4121f3
 contact:
   website: "https://openstates.org/person/andrew-hysell-4nhn9eY7K4yY1YfE4YeApH/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

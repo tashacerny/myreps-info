@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/960dc748-e7c7-4859-ab1d-b07f9bb7b269
 contact:
   website: "https://openstates.org/person/tony-caplan-4Z992X0WlEMBXlzkZ7XYmv/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

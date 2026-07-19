@@ -12,5 +12,5 @@ photo_url: "https://upload.wikimedia.org/wikipedia/commons/6/65/Official_portrai
 openstates_id: ocd-person/34dac893-eae3-495e-9237-9689a1114895
 contact:
   website: "https://openstates.org/person/jay-collins-1bjaI4DQFDk74SwJ1JH19R/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

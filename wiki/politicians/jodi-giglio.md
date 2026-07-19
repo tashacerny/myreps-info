@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/002/headshot/
 openstates_id: ocd-person/983d7603-0ccc-4995-8afe-2ece30a487c7
 contact:
   website: "https://openstates.org/person/jodi-giglio-4dGv83NW3nVvqvvkPlaOqV/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

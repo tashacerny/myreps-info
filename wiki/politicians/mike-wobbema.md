@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8
 contact:
   website: "https://openstates.org/person/mike-wobbema-526VlVNVq3PeymVpRxoTpg/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/631_sm.jpg
 openstates_id: ocd-person/6b90e69a-b1af-402f-a219-daacb99f3926
 contact:
   website: "https://openstates.org/person/jim-petty-3GyOj86AmDaZV7qRvwxakA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

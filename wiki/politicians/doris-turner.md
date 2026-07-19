@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{D114C73A-2295-431C-8250-38A
 openstates_id: ocd-person/5db8d260-f850-406c-8e26-d618762c10cd
 contact:
   website: "https://openstates.org/person/doris-turner-2qqkVmooAUM0KGJPqwEoRB/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

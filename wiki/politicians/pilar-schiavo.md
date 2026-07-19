@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9
 contact:
   website: "https://openstates.org/person/pilar-schiavo-6Mi3BrLAZvmvGz93yfBHmT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

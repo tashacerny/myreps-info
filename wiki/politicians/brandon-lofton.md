@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/751/Low"
 openstates_id: ocd-person/4142addf-2eb1-4557-b3d3-bcea559cbbd3
 contact:
   website: "https://openstates.org/person/brandon-lofton-1z8yN0Yq0sLWRohySintFT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

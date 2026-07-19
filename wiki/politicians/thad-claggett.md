@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/thaddeus-j-claggett/h
 openstates_id: ocd-person/081534e7-8952-47f0-a722-ed627fb32069
 contact:
   website: "https://openstates.org/person/thad-claggett-FFd433ZmtCyoJpZ5ipPsf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

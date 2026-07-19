@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/pstra
 openstates_id: ocd-person/15741bd0-a194-4a29-9339-d088add2e6b8
 contact:
   website: "https://openstates.org/person/peter-strand-eTtqAf0o1RCfaKG5Sex3o/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7
 contact:
   website: "https://openstates.org/person/lena-gonzalez-6Br9EouplEmSq5IrGp6l79/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

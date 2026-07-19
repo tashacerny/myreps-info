@@ -12,5 +12,5 @@ photo_url: "https://www.nhnonprofits.org/sites/default/files/profile-photos/cons
 openstates_id: ocd-person/077af83c-d03f-45d9-8bcd-28574d9422c0
 contact:
   website: "https://openstates.org/person/thomas-oppel-E78txEFtI69jn1wLd4HBY/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

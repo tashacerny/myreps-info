@@ -12,5 +12,5 @@ photo_url: "https://assets.civicengine.com/uploads/candidate/headshot/830128/830
 openstates_id: ocd-person/e2026731-25f3-42b3-bd92-f6b3fc101f01
 contact:
   website: "https://openstates.org/person/peter-mehegan-6sTMZf0VGp3NdJ0Yimee2b/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

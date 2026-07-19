@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33964"
 openstates_id: ocd-person/078e02d7-0d26-49f2-9176-8044701e540f
 contact:
   website: "https://openstates.org/person/bob-henderson-EFqQFuNf9zFQeN3FmFSZz/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

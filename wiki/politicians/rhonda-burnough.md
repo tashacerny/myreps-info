@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/burnoug
 openstates_id: ocd-person/e04bd985-5b75-4551-84a1-f9797ac495d2
 contact:
   website: "https://openstates.org/person/rhonda-burnough-6pEwZEii7MJwJ7Ed6FC350/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

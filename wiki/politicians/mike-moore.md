@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/MOM0.jpg"
 openstates_id: ocd-person/7b48bd48-8d27-4dd8-958d-703571efe150
 contact:
   website: "https://openstates.org/person/mike-moore-3kdIUKRMqA2bYcHMc9PP3g/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

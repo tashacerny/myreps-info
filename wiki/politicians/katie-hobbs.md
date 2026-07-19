@@ -13,5 +13,5 @@ photo_url: "https://azgovernor.gov/sites/default/files/styles/panopoly_image_ori
 openstates_id: ocd-person/6e522a2a-e7b7-4713-a40f-c897e4341a87
 contact:
   website: "https://openstates.org/person/katie-hobbs-3MAhjMTGr7iVHyOTVrQg8F/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

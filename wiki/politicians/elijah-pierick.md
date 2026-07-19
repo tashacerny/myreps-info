@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Pierick.jpg"
 openstates_id: ocd-person/313f96df-c94e-45d7-8cc6-19465ad40612
 contact:
   website: "https://openstates.org/person/elijah-pierick-1UvgQyctCSnPwVI8M4laZ0/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

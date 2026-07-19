@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/wilkers
 openstates_id: ocd-person/83a7bbf2-d69c-4813-bbeb-52820e6b9af4
 contact:
   website: "https://openstates.org/person/david-wilkerson-40QeGw1dkdwyqke80Xl7Y4/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/pigott.jpg"
 openstates_id: ocd-person/2fed984f-0f51-40d2-9881-ec16131a6a2f
 contact:
   website: "https://openstates.org/person/bill-pigott-1SRDfrGj1m02WP5ND1o3fL/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

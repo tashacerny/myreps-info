@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2025RS/images/vogel01.jpg"
 openstates_id: ocd-person/08182b0f-8c65-4ff2-994e-a0e04063cd4d
 contact:
   website: "https://openstates.org/person/joe-vogel-FGyydcFil5X3QQGNlxBvR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

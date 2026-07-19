@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/elmer/PublishingImages/member_phot
 openstates_id: ocd-person/20f31b04-63fd-45a8-8075-5e6e1beae485
 contact:
   website: "https://openstates.org/person/lucetta-elmer-10Aqwn2wswRN1h7z2azHtN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

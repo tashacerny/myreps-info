@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Kirkland_23.pn
 openstates_id: ocd-person/c2e0fa74-36df-4d34-8203-962c546442fa
 contact:
   website: "https://openstates.org/person/mike-kirkland-5vjKGIt7yFubmT25hO4Fpa/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

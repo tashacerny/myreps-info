@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/31528.jpg"
 openstates_id: ocd-person/faa48cee-18ae-434e-8079-c8137dfd4acf
 contact:
   website: "https://openstates.org/person/cyndy-jacobsen-7cxHSEdK48ym6oSpcZcHZH/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

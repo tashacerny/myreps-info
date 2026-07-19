@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/representatives/Pictures/Brandon%20Voa
 openstates_id: ocd-person/f0206346-2c07-4316-a556-cee7fe595e9a
 contact:
   website: "https://openstates.org/person/brandon-voas-7J6xVEQezDZHcbY7o2M5hi/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

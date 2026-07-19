@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/48A.gif?v=112221"
 openstates_id: ocd-person/d7012c12-e223-4409-823b-ba3e55be6677
 contact:
   website: "https://openstates.org/person/jim-nash-6XhsviMSC2m8NiYYGTPbDr/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/d88b76c4-5b6b-4f93-9347-6ae335208679
 contact:
   website: "https://openstates.org/person/julie-mcguire-6ac4p9rX83Vln12DX5Lt3R/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

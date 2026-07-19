@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/81123167-ba38-419a-92e5-fe0102d6a553
 contact:
   website: "https://openstates.org/person/drew-gattine-3vYK6zigkPFkQ2WL8KeM31/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

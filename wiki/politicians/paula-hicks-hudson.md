@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/paula-hicks-hudson/he
 openstates_id: ocd-person/3329274c-22b6-4b0a-b12a-e64c5733bef9
 contact:
   website: "https://openstates.org/person/paula-hicks-hudson-1YXPme3o3ew1AXhLNwbxub/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

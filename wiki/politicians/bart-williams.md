@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/williams.jpg"
 openstates_id: ocd-person/5f65f3a3-db2a-4573-a5c8-59b6cc0dbf40
 contact:
   website: "https://openstates.org/person/bart-williams-2u0rVrw301Uq1BAJVkEZI8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

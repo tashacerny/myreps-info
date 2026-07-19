@@ -13,5 +13,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d
 contact:
   website: "https://openstates.org/person/dave-sokola-17rxiOMBUCZsif4APMOpcj/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

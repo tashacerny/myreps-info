@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/1e7a6a8f-7160-4bee-80d1-b1dc47b3db4f
 contact:
   website: "https://openstates.org/person/amanda-collamore-vViHM8cdawKlhA5KF14pz/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/149/headshot/
 openstates_id: ocd-person/869acf23-9c50-48da-897c-515c5a7adcfe
 contact:
   website: "https://openstates.org/person/jon-rivera-45zics1DX2LMUIhbhVBNZm/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

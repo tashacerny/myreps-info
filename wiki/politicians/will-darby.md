@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4c6a4d79-307b-4e5f-9d63-ba4f60a6892c
 contact:
   website: "https://openstates.org/person/will-darby-2KBzpZrdBSGIjquU1J8agW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

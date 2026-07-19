@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Calvi
 openstates_id: ocd-person/205741ac-701b-416e-9716-c725bc7d7665
 contact:
   website: "https://openstates.org/person/calvin-beaulier-z1d6qJTsTI2kFJg4Yz7hd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

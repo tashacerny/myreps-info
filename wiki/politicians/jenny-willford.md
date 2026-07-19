@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/655c629d-72f6-45d1-bd8f-a241e200d089
 contact:
   website: "https://openstates.org/person/jenny-willford-35GRbIVGaXdHZFRkopDFaD/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

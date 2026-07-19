@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/3055e426-4c34-404c-b286-820e978cb05c
 contact:
   website: "https://openstates.org/person/david-dolan-1TCsoQrh3YQfvANlB3LrTQ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

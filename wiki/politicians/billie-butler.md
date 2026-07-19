@@ -12,5 +12,5 @@ photo_url: "https://www.fosters.com/gcdn/authoring/authoring-images/2025/06/11/N
 openstates_id: ocd-person/1c179bc8-d192-44c1-aed6-4801e9d6b338
 contact:
   website: "https://openstates.org/person/billie-butler-r0ZbYHTQw6jpcGNhHL3QO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

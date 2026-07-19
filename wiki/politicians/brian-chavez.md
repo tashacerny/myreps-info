@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/brian-m-chavez/headsh
 openstates_id: ocd-person/eb5ff860-2126-4ac5-8267-9d2d924c3967
 contact:
   website: "https://openstates.org/person/brian-chavez-7A93QmIRjdBePpVFXTQkAZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

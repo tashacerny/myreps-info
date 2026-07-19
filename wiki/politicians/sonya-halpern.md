@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/halpern
 openstates_id: ocd-person/2abbbe23-8cb6-4f33-afaf-38ce88a4e10c
 contact:
   website: "https://openstates.org/person/sonya-halpern-1IdTXHeguTGekIBduzRhoC/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

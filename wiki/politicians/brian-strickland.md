@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/strickl
 openstates_id: ocd-person/3a5721a0-d848-40d0-a48a-66b797e7d7d9
 contact:
   website: "https://openstates.org/person/brian-strickland-1m5NC4TmZfmQIdJ10bBd6H/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/58f80179be65944c6f5eeb
 openstates_id: ocd-person/f954892c-82e4-48ff-ae0c-c7e10c251335
 contact:
   website: "https://openstates.org/person/jake-mccalmon-7aTimvCvYsyFuUVqhjf5Mb/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

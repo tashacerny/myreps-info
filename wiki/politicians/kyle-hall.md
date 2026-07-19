@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/704/Low"
 openstates_id: ocd-person/6d8e0e56-939e-45c4-a9db-2fc370fbbdef
 contact:
   website: "https://openstates.org/person/kyle-hall-3Kj5Af3kH96RCbdUXribV9/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/676247d1-048f-45de-b265-34069edb2be0
 contact:
   website: "https://openstates.org/person/george-borrello-3957gglYXcfsLDZfUodpTc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MarkC
 openstates_id: ocd-person/a688f8ac-d265-4830-963f-617b726524ed
 contact:
   website: "https://openstates.org/person/mark-chapman-54FJzDqqTGLjkGS6vNS6vN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

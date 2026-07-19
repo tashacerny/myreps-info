@@ -12,5 +12,5 @@ photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/2
 openstates_id: ocd-person/4932afab-9381-40d2-837f-f735d1c14b88
 contact:
   website: "https://openstates.org/person/jesse-vanderwende-2E7bPywdx96NzFDlxFBEK0/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

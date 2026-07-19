@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/78a712_6c314e5806da4a328efc91387d
 openstates_id: ocd-person/afbbce75-a054-458a-ad5f-95ac385510f2
 contact:
   website: "https://openstates.org/person/scott-montgomery-5LbU4R22bK4VRzZnTtAu3O/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

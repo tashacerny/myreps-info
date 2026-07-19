@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Faulkner_46.pn
 openstates_id: ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592
 contact:
   website: "https://openstates.org/person/david-faulkner-4jeqe5odLmETLVBru7HqGw/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

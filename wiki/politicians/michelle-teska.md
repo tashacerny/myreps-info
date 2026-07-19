@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/57b3a5_db008a611c184fbeb2cf20bb55
 openstates_id: ocd-person/d06c06f8-2f63-4a29-8388-ed0747b97f48
 contact:
   website: "https://openstates.org/person/michelle-teska-6LHltqUvHzqVSG7CGqoR2m/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

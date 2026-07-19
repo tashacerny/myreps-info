@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/8dae5ba5-6741-4aca-8c1e-24f014fda187
 contact:
   website: "https://openstates.org/person/julie-gonzales-4JLbC8DrHhKo0uke0vk61H/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

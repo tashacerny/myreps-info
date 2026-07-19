@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/jaspers
 openstates_id: ocd-person/4d1f5379-01e9-4f58-9868-42acc07ec7a8
 contact:
   website: "https://openstates.org/person/rick-jasperse-2LWixmYn3vIufw52HOs1zk/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/a76836f8-24c9-4f90-8e13-29f417a7ad9f
 contact:
   website: "https://openstates.org/person/elaine-marzola-55tLNfrjJAwUR5XNvfOwmd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

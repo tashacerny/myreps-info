@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/greenstein_color.
 openstates_id: ocd-person/27646653-40e2-4c79-b608-0f2edcaa0322
 contact:
   website: "https://openstates.org/person/linda-greenstein-1CKaB9daK9zawhyavwJOWQ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

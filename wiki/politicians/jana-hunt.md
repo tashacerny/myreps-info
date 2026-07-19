@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jana_
 openstates_id: ocd-person/3900be26-2367-48af-8083-6ec4b4f18cf1
 contact:
   website: "https://openstates.org/person/jana-hunt-1jYtvc4TN8x5FGZhpUeYan/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

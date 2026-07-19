@@ -13,5 +13,5 @@ photo_url: "http://www.njleg.state.nj.us/members/memberphotos/scharfenberger_ger
 openstates_id: ocd-person/4323bf03-63e6-4f8b-9b2e-3554df7723bf
 contact:
   website: "https://openstates.org/person/gerry-scharfenberger-22goxXqr9Rq3WT26ohqaSN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

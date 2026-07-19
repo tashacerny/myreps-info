@@ -12,5 +12,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb
 contact:
   website: "https://openstates.org/person/dan-cruce-14WlHfkfEEW1kOSNLYzbOl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

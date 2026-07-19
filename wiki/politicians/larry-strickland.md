@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/727/Low"
 openstates_id: ocd-person/3ed64eae-ecec-4cbf-a436-e7c1471a4cef
 contact:
   website: "https://openstates.org/person/larry-strickland-1uZShnz1CSkGHPSzcYh3Al/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

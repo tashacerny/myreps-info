@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2373"
 openstates_id: ocd-person/350514c2-7875-44c4-8ef3-20da25540793
 contact:
   website: "https://openstates.org/person/travis-wilson-1c2ukmUv4HdXgXCMZXKyrz/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

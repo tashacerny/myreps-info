@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1528408908.jpg"
 openstates_id: ocd-person/c2a237ba-67b6-4280-9cf2-430f1d10d28e
 contact:
   website: "https://openstates.org/person/mike-reichenbach-5vGdzrbQ5UEt8texbKGJUU/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

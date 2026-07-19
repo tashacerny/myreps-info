@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{F4164483-CA9E-423B-ADF4-FA5
 openstates_id: ocd-person/ed666567-961a-43f1-8ca3-ddd29e07f8af
 contact:
   website: "https://openstates.org/person/rachel-ventura-7DxyYEyoYXZSnvbV8LhpyZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

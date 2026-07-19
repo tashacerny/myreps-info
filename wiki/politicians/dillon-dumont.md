@@ -12,5 +12,5 @@ photo_url: "https://www.hudsonnh.gov/sites/default/files/styles/full_node_primar
 openstates_id: ocd-person/8be0bff9-f1a4-410d-9177-0080a7c40f0a
 contact:
   website: "https://openstates.org/person/dillon-dumont-4FwdxFWRjOB1tzmIcG7Cgc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

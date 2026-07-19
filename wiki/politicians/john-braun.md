@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/17289.jpg"
 openstates_id: ocd-person/b4856c5b-d3e0-4227-a4c0-ff6abe81fda7
 contact:
   website: "https://openstates.org/person/john-braun-5UdanHNiAYNuuT9tbezSGV/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/Pictures/marszalkowski.
 openstates_id: ocd-person/7769ff96-3f6e-4747-b14b-de0a8648af61
 contact:
   website: "https://openstates.org/person/alex-marszalkowski-3dKWkouhnqPdHVmXHB9DNJ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

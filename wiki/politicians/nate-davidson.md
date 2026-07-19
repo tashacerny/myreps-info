@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c7f76970-11d0-483e-81b4-b4750220932c
 contact:
   website: "https://openstates.org/person/nate-davidson-65KXW6K63i5mFagIIFnlFc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

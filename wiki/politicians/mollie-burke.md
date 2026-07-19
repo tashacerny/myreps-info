@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Burke.Mollie.j
 openstates_id: ocd-person/2bf6abc2-667f-494f-896a-812721ee77d3
 contact:
   website: "https://openstates.org/person/mollie-burke-1KxOjj9zwq8zvcZw4tBQ3P/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

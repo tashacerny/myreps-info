@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/embry01.jpg"
 openstates_id: ocd-person/cded392e-47da-4c74-998d-7276520db9ad
 contact:
   website: "https://openstates.org/person/elizabeth-embry-6GZpyr20VyIVeboOylLkTd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

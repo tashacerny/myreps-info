@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/kramer%20b.jpg"
 openstates_id: ocd-person/f43bc1a5-01e8-416f-86ca-bd857bf6ed80
 contact:
   website: "https://openstates.org/person/ben-kramer-7QrR45LFLKxzOdUL2ZDorQ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

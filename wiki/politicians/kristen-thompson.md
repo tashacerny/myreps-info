@@ -12,5 +12,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Thompson%2C%20Kristen%20Fla
 openstates_id: ocd-person/c768c730-142e-4582-a137-ee09a0240784
 contact:
   website: "https://openstates.org/person/kristen-thompson-64HM7Tz10Bxoszb0EkVmCq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

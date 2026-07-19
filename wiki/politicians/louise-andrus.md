@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4f84e968-9226-470f-bde4-4163efc19593
 contact:
   website: "https://openstates.org/person/louise-andrus-2Q38LgBSqTNCjVL9xzKWId/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

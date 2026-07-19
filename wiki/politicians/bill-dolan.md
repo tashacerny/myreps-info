@@ -12,5 +12,5 @@ photo_url: "http://dolanforrep.com/wp-content/uploads/2022/10/Professional-Photo
 openstates_id: ocd-person/967b5d85-d526-49ad-941a-1401fa855998
 contact:
   website: "https://openstates.org/person/bill-dolan-4ZxE5CCBoQDJZhiSxyDCpM/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

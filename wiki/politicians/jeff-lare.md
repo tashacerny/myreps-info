@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/jeff-lare/headshots/t
 openstates_id: ocd-person/60fdc824-a8ab-44fa-80ca-053d8698218e
 contact:
   website: "https://openstates.org/person/jeff-lare-2x1F0FnFrPk8DGPnEkD68E/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/steve-demetriou/heads
 openstates_id: ocd-person/854b6ce3-a4e1-46db-959a-aa286e4e8942
 contact:
   website: "https://openstates.org/person/steve-demetriou-43WRpq5ZxIlM343aBK8p9e/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

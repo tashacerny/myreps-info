@@ -12,5 +12,5 @@ photo_url: "https://senatedems.com/polehanki/wp-content/uploads/sites/11/2022/12
 openstates_id: ocd-person/f266a938-3705-4c7c-994f-859b2b6024dc
 contact:
   website: "https://openstates.org/person/dayna-polehanki-7NP3g7eF4jGEv7P6fN2xye/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

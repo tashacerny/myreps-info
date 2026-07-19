@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/29Holmstrom.jpg"
 openstates_id: ocd-person/564bbace-b157-416d-ae59-81cd8a1fbaf8
 contact:
   website: "https://openstates.org/person/mike-holmstrom-2cpwonHwj8Z4qidaFji9iS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

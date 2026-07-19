@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/704cecad-ef53-44e4-ad55-6c7a7e385e5c
 contact:
   website: "https://openstates.org/person/eric-phillips-3PuIIrhWkBnTcd1Vfl3mqC/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

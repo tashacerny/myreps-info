@@ -12,5 +12,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/67th-SmithScott.jpg"
 openstates_id: ocd-person/201b5fe9-4060-4dfa-ae2c-c59a3a3120ff
 contact:
   website: "https://openstates.org/person/scott-smith-yaGPYyPh5zbFx3aD4ZB3H/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

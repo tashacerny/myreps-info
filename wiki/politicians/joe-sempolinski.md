@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/45837ecf-38a2-41cb-9de1-eae175a32dfe
 contact:
   website: "https://openstates.org/person/joe-sempolinski-27AYyPx5yjCg2o18iyveQQ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

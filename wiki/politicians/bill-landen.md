@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-LandenBill.jpg"
 openstates_id: ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770
 contact:
   website: "https://openstates.org/person/bill-landen-6q75bT1K6g0J8wsA7wRGiW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

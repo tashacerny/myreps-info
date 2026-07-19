@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/T_C1.jpg"
 openstates_id: ocd-person/6b420d2a-f12d-40ca-a13f-04cf9061a66b
 contact:
   website: "https://openstates.org/person/tackey-chan-3GOMbRFD7taaugaRj0DU0x/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

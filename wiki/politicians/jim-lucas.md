@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/70f005b9-1417-4132-9956-ad93942ca87d
 contact:
   website: "https://openstates.org/person/jim-lucas-3R6pWvEhpCvF7lfCrlToWD/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

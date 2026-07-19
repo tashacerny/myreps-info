@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/MRS1.jpg"
 openstates_id: ocd-person/a25fd374-e502-43bb-91fe-99c4b6c493a5
 contact:
   website: "https://openstates.org/person/margaret-scarsdale-4wOY4ZfUcRr9lndodqs2C5/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

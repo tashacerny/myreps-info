@@ -12,5 +12,5 @@ photo_url: "https://www.rilegislature.gov/LegislationPictures/stefano_famigliett
 openstates_id: ocd-person/a2ff0de0-40d1-4ac1-a347-e1e9dedb6d30
 contact:
   website: "https://openstates.org/person/stefano-famiglietti-4xZJeoHcecKU8dWHqOkUG8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

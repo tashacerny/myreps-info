@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/562def54-c2da-4b6a-bdfa-5038a4c04e0c
 contact:
   website: "https://openstates.org/person/treg-bernt-2ccKbpgvpkxmxBZeba12OS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

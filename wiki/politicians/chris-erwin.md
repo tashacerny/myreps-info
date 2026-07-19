@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/erwin-c
 openstates_id: ocd-person/d79c3e9b-b73d-416b-9bfd-8a0338d8256c
 contact:
   website: "https://openstates.org/person/chris-erwin-6YqklP09rrvjWI4Y1m087w/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

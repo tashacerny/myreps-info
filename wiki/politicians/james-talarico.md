@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3685.jpg?v=1"
 openstates_id: ocd-person/5e4e2fd2-e8a9-46f3-aab5-ffbc782afa8b
 contact:
   website: "https://openstates.org/person/james-talarico-2rx0dFFgYWCgtwueUfIfqF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

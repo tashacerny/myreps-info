@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c975be5b-c686-4489-92d2-5b8ba36f9974
 contact:
   website: "https://openstates.org/person/keith-ammon-689GXAji1TkNI34pPxowmi/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

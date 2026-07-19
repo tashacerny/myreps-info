@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/06d54403-a57b-40f8-96a6-94b58f4b2a0c
 contact:
   website: "https://openstates.org/person/joe-gedeon-CtPpbRvuiIHwGgVFDd4Ie/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

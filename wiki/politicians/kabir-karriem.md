@@ -12,5 +12,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/karriem.jpg"
 openstates_id: ocd-person/a1fef221-e3ca-4598-a7f9-cf6862b3007a
 contact:
   website: "https://openstates.org/person/kabir-karriem-4vgH3vLphYZk7b1554LNtK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

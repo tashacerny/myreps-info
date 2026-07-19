@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate12
 openstates_id: ocd-person/139d004c-7a19-4153-a58b-919a1b70180e
 contact:
   website: "https://openstates.org/person/greg-elkins-b0bRZNY7BlZMAdmmzR4la/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

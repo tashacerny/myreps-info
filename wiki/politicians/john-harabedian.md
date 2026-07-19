@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8
 contact:
   website: "https://openstates.org/person/john-harabedian-4OFV68csDRS47x1slTI6a/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

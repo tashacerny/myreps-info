@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b
 contact:
   website: "https://openstates.org/person/keith-kempenich-1TRC26DrErGM44eMZVusHb/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

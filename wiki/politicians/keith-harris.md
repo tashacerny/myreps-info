@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/99c32bc9-33c2-4394-94e6-2f9d0ff43133
 contact:
   website: "https://openstates.org/person/keith-harris-4g91CjoOFYYxPMicEdwyn5/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

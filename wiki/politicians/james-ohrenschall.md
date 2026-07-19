@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/80th2019/legislators/Senators/Images/
 openstates_id: ocd-person/75d6c9b4-d0ee-49bb-aa17-ec20bb33e9eb
 contact:
   website: "https://openstates.org/person/james-ohrenschall-3aMG9mRDjk5OcNwY3xpr3b/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

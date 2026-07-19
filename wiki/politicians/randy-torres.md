@@ -12,5 +12,5 @@ photo_url: "https://arkelect.com/storage/candidates/vtmHAyGq960CeWT3A0LweElNVr1R
 openstates_id: ocd-person/aaa584ee-c86a-4631-a37d-8d006ecb8a7b
 contact:
   website: "https://openstates.org/person/randy-torres-5C0KxfrBrG8sThB7a2ZRoh/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

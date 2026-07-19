@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/stewart-harold-tre
 openstates_id: ocd-person/bd417e77-81d9-4e60-8b2a-b940da10bc37
 contact:
   website: "https://openstates.org/person/trey-stewart-5l7TnbgDA1sZgDlm0U4Opz/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

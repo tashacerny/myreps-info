@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1943.jpg?1703415645
 openstates_id: ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab
 contact:
   website: "https://openstates.org/person/tim-brennan-6lfrW9iDz94KRfOtD0hmPL/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

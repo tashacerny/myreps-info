@@ -12,5 +12,5 @@ photo_url: "https://vote-usa.org/Image.aspx?Id=NHLoveDavidC&Col=Profile300&Def=P
 openstates_id: ocd-person/1c956ef6-b705-4e9d-af0c-f66d6f44591e
 contact:
   website: "https://openstates.org/person/david-love-rw4joNqN6cdYgd5zzqHV8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

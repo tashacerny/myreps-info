@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{1EA869A9-B93D-4E72-824B-E14
 openstates_id: ocd-person/c5786e99-12fd-41eb-b40e-372187dde261
 contact:
   website: "https://openstates.org/person/dan-didech-60cWbxftBmkZtTgU6RbZZJ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb
 contact:
   website: "https://openstates.org/person/dawn-addis-7ErSjyICge36yuZGbXTBdL/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

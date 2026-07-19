@@ -13,5 +13,5 @@ photo_url: "https://governor.ohio.gov/wps/wcm/connect/gov/e9a970b4-a222-4dde-a81
 openstates_id: ocd-person/37478cd9-ed21-43f7-b2cc-578df43ad32d
 contact:
   website: "https://openstates.org/person/mike-dewine-1gJH8vmumkd6lFH5Aotnpd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house4.j
 openstates_id: ocd-person/66619aa2-a521-4318-b5d7-b4c36954b43d
 contact:
   website: "https://openstates.org/person/wade-williams-37BozmrjMVLBC2cRfLTukn/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://senate.texas.gov/members/d29/img/SCBBio88th-web.jpg"
 openstates_id: ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0
 contact:
   website: "https://openstates.org/person/cesar-blanco-1t6P6FAKteIokjU90fp0hk/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

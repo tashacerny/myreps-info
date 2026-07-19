@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/17Gruenhagen.jpg"
 openstates_id: ocd-person/7a52595e-fa21-4e21-88d6-b03e4d9f1f77
 contact:
   website: "https://openstates.org/person/glenn-gruenhagen-3iohFL19YUUMsSsjUI8atr/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

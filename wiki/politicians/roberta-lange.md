@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/
 openstates_id: ocd-person/05dee0b4-bfea-4473-b253-739895818b0d
 contact:
   website: "https://openstates.org/person/roberta-lange-B4oel5dVfSV4MM3Tf3h7N/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

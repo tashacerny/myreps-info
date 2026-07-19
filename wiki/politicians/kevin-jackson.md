@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house20.
 openstates_id: ocd-person/0e905c68-fbcc-4392-865e-a4dbc5d2ea42
 contact:
   website: "https://openstates.org/person/kevin-jackson-RTrfrNXBdrgxfrNVqEahO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

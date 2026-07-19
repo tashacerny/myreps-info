@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/bf16c102-641d-4296-96c4-eccab1c1d43f
 contact:
   website: "https://openstates.org/person/nathan-toman-5oZvqaRn3R9uSbQUjaf0gx/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

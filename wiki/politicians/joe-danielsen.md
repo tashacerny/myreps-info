@@ -12,5 +12,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/danielsen_joe_202
 openstates_id: ocd-person/03acbfd3-a81b-4461-aff4-db7ecf5e8e48
 contact:
   website: "https://openstates.org/person/joe-danielsen-6vvGTqLcCUOO02Kf0RQK0/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

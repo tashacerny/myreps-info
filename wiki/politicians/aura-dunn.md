@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/dunn_aura_2020.jp
 openstates_id: ocd-person/03aa8bec-9d7e-41e7-ad20-b5ba1991cab6
 contact:
   website: "https://openstates.org/person/aura-dunn-6uuqtJoeCSsFCGF7CruSM/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

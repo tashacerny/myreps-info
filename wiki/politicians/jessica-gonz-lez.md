@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3335.jpg?v=1"
 openstates_id: ocd-person/8eeb1aad-24b6-487b-bbc0-31c2238b1ccd
 contact:
   website: "https://openstates.org/person/jessica-gonzalez-4LgLuI75TLht9VAvRx5bFl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

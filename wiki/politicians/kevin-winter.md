@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Winter,Kevin.j
 openstates_id: ocd-person/c7254a9c-7d0d-499a-adad-25f869fd7406
 contact:
   website: "https://openstates.org/person/kevin-winter-63mVwqzCHioxIKAmyQYzvq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

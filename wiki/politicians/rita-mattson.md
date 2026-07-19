@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/6554d13d-8086-437d-8b44-e5a164b34933
 contact:
   website: "https://openstates.org/person/rita-mattson-35CzAipJJR8waYzUzddvmN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

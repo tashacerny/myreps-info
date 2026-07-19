@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/b4735fd9-309f-40b0-a554-c646dde34fc1
 contact:
   website: "https://openstates.org/person/peter-varney-5UVLObDTvRkGIDS08MkeDB/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

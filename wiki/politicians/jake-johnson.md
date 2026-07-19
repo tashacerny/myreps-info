@@ -12,5 +12,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/762/Low"
 openstates_id: ocd-person/11c5404c-5cb6-4f99-84a5-711a23e6295f
 contact:
   website: "https://openstates.org/person/jake-johnson-XX0qFdtx9BPHxlSeqeaDf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

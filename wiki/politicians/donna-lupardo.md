@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/123/headshot/
 openstates_id: ocd-person/d6939215-ec08-437b-beea-3b9898d0f61b
 contact:
   website: "https://openstates.org/person/donna-lupardo-6WtnTJfF5vfGFNnLyDMnOd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

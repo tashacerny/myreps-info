@@ -12,5 +12,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/maynor_jordan
 openstates_id: ocd-person/487dd54b-3091-4b0e-b798-0df99523b4c6
 contact:
   website: "https://openstates.org/person/jordan-maynor-2Cmx77jNIWYmH1G0jEdHlO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

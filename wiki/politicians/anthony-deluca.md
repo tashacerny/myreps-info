@@ -13,5 +13,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{64399002-8B14-4D8E-80A4-54A
 openstates_id: ocd-person/aecf9fb4-3e54-4963-941f-8dc6b4658584
 contact:
   website: "https://openstates.org/person/anthony-deluca-5JrY3LSwQsCgIjqyfwPdbw/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

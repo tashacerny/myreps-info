@@ -12,5 +12,5 @@ photo_url: "https://img1.wsimg.com/isteam/ip/68dec262-1b58-48db-9d8d-810d96aa4e9
 openstates_id: ocd-person/f3ab13ac-5040-4533-b5f3-ce49dec5020f
 contact:
   website: "https://openstates.org/person/marie-bjelobrk-7PnJhbe01r6HeQP36mECWF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

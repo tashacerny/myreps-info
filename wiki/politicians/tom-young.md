@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1996590730.jpg"
 openstates_id: ocd-person/b01d47f8-2131-4fe5-a611-d1b571696346
 contact:
   website: "https://openstates.org/person/tom-young-5MK1vPHZFVwf0DGydMNwVK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

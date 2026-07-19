@@ -13,5 +13,5 @@ photo_url: "https://apps.senate.virginia.gov/Senator/images/member_photos/Marsde
 openstates_id: ocd-person/22817a2c-911a-458a-b2a6-b7f237ef68f0
 contact:
   website: "https://openstates.org/person/dave-marsden-136uRVhdMd7DjMibXULcCO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

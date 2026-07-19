@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/6c410f28-9316-45db-935d-52764c90b4ae
 contact:
   website: "https://openstates.org/person/julia-salazar-3IGu0tK620WgMWZEieX92M/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

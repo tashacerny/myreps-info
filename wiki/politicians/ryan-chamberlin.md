@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4901.jpg"
 openstates_id: ocd-person/baa03ffb-0948-4975-9e3a-c3fb9c0fcf40
 contact:
   website: "https://openstates.org/person/ryan-chamberlin-5g9o31nSVj2FP3LnwgEpNo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

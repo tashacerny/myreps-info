@@ -13,5 +13,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc
 contact:
   website: "https://openstates.org/person/nicole-poore-2s03CqjAgpbtMuM8MSOmWS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

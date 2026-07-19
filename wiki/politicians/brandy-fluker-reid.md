@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/BFO1.jpg"
 openstates_id: ocd-person/99c9c9e7-f0e3-480b-ad38-de297e6c635a
 contact:
   website: "https://openstates.org/person/brandy-fluker-reid-4gC2i3ojqRsdJzwYnvBCR8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

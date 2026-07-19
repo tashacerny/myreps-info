@@ -12,5 +12,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4881.jpg"
 openstates_id: ocd-person/7cf27467-9070-4d4a-9a45-24bfe980dfb8
 contact:
   website: "https://openstates.org/person/kevin-steele-3nlqjvDsKAbL1hWGXD5eR6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

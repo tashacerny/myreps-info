@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37380"
 openstates_id: ocd-person/c9617375-c6c8-453d-8807-32714cd85c21
 contact:
   website: "https://openstates.org/person/sam-wengryn-67zzYwtepHQwHSGIFAcbQn/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

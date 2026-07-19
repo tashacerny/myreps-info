@@ -12,5 +12,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Sayama.jpg"
 openstates_id: ocd-person/451d1a20-20d4-4c75-95b9-ca4ba6dd3d1d
 contact:
   website: "https://openstates.org/person/jackson-sayama-26Plkn7vpE0OdbzQg2km7x/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

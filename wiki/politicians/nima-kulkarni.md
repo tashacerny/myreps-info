@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house40.
 openstates_id: ocd-person/bee3f0dd-450a-41a2-b9b9-e056d0a0f14d
 contact:
   website: "https://openstates.org/person/nima-kulkarni-5oCi6cJw83iBj8Q9Xv5WU1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

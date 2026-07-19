@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/055/headshot/
 openstates_id: ocd-person/88a4af90-81b8-4d72-a57c-518a20a0881b
 contact:
   website: "https://openstates.org/person/latrice-walker-49qDWL5UOa6rQoRqqqETr1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/lahood-
 openstates_id: ocd-person/9249be26-54d2-467a-88ec-2588b886148d
 contact:
   website: "https://openstates.org/person/john-lahood-4S2ZybGNqXrK22famnUSUv/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36
 contact:
   website: "https://openstates.org/person/melanie-ross-levin-7ByzvL8lqCZfZ7wvUkffUs/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

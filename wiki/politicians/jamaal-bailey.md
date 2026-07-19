@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/6872ad9e-fcba-426f-a9ef-b4495dba17f5
 contact:
   website: "https://openstates.org/person/jamaal-bailey-3B5bpCQixRhv3cqrrTFuo1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

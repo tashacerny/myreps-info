@@ -12,5 +12,5 @@ photo_url: "https://senate.la.gov/SenatorPics/Sen17.jpg"
 openstates_id: ocd-person/75f165af-66d1-464e-99b0-4176b8636501
 contact:
   website: "https://openstates.org/person/caleb-kleinpeter-3aYQ6fSZpRjTOkYWuSEZ8r/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/rodney-creech/headsho
 openstates_id: ocd-person/c34a852a-71fc-4b21-a594-bc4a75b799c8
 contact:
   website: "https://openstates.org/person/rodney-creech-5wVYh1QSqxW4nSXYcsDDUO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

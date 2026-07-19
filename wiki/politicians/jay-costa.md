@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/254.jpg?17034156456
 openstates_id: ocd-person/ee6b52c3-d92c-4cd6-a6ea-6869a8c93df0
 contact:
   website: "https://openstates.org/person/jay-costa-7FtDgOzrC2YVVyxzEh2mhc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

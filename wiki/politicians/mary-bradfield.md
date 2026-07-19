@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162
 contact:
   website: "https://openstates.org/person/mary-bradfield-4oMsNQJbvkpPfB9F0oGomQ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37381"
 openstates_id: ocd-person/6c4e422c-1d04-48c1-8e75-7af2e6ad1002
 contact:
   website: "https://openstates.org/person/rob-johnson-3IMw0DxWRfX2va8bK9u7Dm/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

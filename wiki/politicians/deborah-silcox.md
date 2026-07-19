@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/silcox-
 openstates_id: ocd-person/b824f8fd-7343-449d-8027-fcd0afaf1949
 contact:
   website: "https://openstates.org/person/deborah-silcox-5bTU3BJmLYhRugPHXfBDLd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

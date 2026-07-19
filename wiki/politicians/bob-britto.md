@@ -13,5 +13,5 @@ photo_url: "https://www.rilegislature.gov/senators/Pictures/Britto%202023.jpg"
 openstates_id: ocd-person/01ddc920-772c-4098-b9f8-8704783940e5
 contact:
   website: "https://openstates.org/person/bob-britto-3WLcDmt7ygwxpqWPZ4oXl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

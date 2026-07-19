@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34000"
 openstates_id: ocd-person/a5bbbe7f-202c-4427-89e1-da8d2786d1dc
 contact:
   website: "https://openstates.org/person/liz-bennett-52jX3qUoCiYBunc5f3kkHc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

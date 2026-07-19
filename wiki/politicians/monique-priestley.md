@@ -13,5 +13,5 @@ photo_url: "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQJv2ebRwLbq8oEHztEt
 openstates_id: ocd-person/64ee14bb-3a28-4062-ba6d-4ec89c25b64c
 contact:
   website: "https://openstates.org/person/monique-priestley-34S2EQXfP5VgvmFz9Hf2r6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

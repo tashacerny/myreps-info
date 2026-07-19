@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/ce0bbcca-54b7-40f4-817f-4f17e7a212a1
 contact:
   website: "https://openstates.org/person/dan-leclerc-6GnmZMqm9ESZaS0EwWxvM1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

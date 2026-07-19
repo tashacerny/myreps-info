@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house47.
 openstates_id: ocd-person/4342be62-2791-4d48-b601-43949239cd94
 contact:
   website: "https://openstates.org/person/felicia-rabourn-22uzFK6OHKJqYCa7rnp47w/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

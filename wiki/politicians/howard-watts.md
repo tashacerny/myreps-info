@@ -13,5 +13,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/b88fd854-c97b-4908-a554-583b93bca5c4
 contact:
   website: "https://openstates.org/person/howard-watts-5cGKBLvmXmsaB5kmqp8z5g/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

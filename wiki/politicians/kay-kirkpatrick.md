@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/kirkpat
 openstates_id: ocd-person/fc31ab02-026c-4173-86db-570c0b297c64
 contact:
   website: "https://openstates.org/person/kay-kirkpatrick-7fslPeuQMgvkumJPQeEJ6K/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

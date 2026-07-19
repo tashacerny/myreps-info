@@ -13,5 +13,5 @@ photo_url: "https://peterabbarno.houserepublicans.wa.gov/wp-content/uploads/site
 openstates_id: ocd-person/e227d7d6-49f5-4c75-a754-e54f2447e664
 contact:
   website: "https://openstates.org/person/peter-abbarno-6skTP1iDite0XkcejaR2Iu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

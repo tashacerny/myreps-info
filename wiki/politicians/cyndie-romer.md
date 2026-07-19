@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4
 contact:
   website: "https://openstates.org/person/cyndie-romer-6NND8S5pfpdRwRFGnAqvVU/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

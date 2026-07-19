@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Nicol
 openstates_id: ocd-person/f2ed2dd1-ba2d-48cd-8365-cbb149b459e9
 contact:
   website: "https://openstates.org/person/nicole-chavez-7OOX7ZXv0hSpL1MIBoEOuf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://straffordcountydemocraticcommittee.org/wp-content/uploads/20
 openstates_id: ocd-person/26cadaaa-59d2-4c71-b23b-9f103dbd3e81
 contact:
   website: "https://openstates.org/person/gary-gilmore-1BCPbiB1Asdgy59GSQ5FFh/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

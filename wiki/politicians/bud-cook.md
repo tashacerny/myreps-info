@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1745.jpg?1703415645
 openstates_id: ocd-person/9b9857aa-5fad-4678-a4f9-7e40bc642f64
 contact:
   website: "https://openstates.org/person/bud-cook-4jbQkCXkTl1xNFk7YWPZ8m/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

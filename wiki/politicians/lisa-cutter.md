@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/5226ebdd-0710-49da-b446-61fac19765ce
 contact:
   website: "https://openstates.org/person/lisa-cutter-2V19n1iJmY1KOAJ0y0TY0k/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

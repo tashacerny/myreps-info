@@ -12,5 +12,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27019"
 openstates_id: ocd-person/f8bf5332-b8b7-4d55-8652-e9b883cae35e
 contact:
   website: "https://openstates.org/person/ann-meyer-7ZNX2J9iZA3vJmwMWkDI4c/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

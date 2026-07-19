@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/3055.jpg?v=2"
 openstates_id: ocd-person/fff5eb4f-2c41-4d00-a1c5-e566a15b063e
 contact:
   website: "https://openstates.org/person/dustin-burrows-7mzQa9OmiqSUQSnumS2tLS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

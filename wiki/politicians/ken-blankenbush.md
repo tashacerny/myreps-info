@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/117/headshot/
 openstates_id: ocd-person/f9d3d599-6a28-4110-9347-8a5e35d2274a
 contact:
   website: "https://openstates.org/person/ken-blankenbush-7bPtfu9APHl6jU2wKQAw8Y/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2019/house/phillips_chri
 openstates_id: ocd-person/eb6d633a-5526-413b-872d-bd36f4d9a906
 contact:
   website: "https://openstates.org/person/chris-phillips-7AFBbHed5fTlzHL61D96Mo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

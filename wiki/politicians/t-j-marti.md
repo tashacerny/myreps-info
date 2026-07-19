@@ -12,5 +12,5 @@ photo_url: "https://www.okhouse.gov/Members/Pictures/HiRes/Marti,%20TJ.jpg"
 openstates_id: ocd-person/71996394-7250-43ab-b69f-8c0afa3b144a
 contact:
   website: "https://openstates.org/person/t-j-marti-3SMENStTu564cbzBEEzDVS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

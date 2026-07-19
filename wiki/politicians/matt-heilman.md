@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/27436563-29f4-4508-be92-0adf91ea442a
 contact:
   website: "https://openstates.org/person/matt-heilman-1C5V3C0nd2m1SFg1FZh5zO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

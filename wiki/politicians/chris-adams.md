@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2016RS/images/adams01.jpg"
 openstates_id: ocd-person/b7e16db2-0bde-4bed-8eb1-09f30ae66d4e
 contact:
   website: "https://openstates.org/person/chris-adams-5aycFYTtMkyD0PL7RYqRxu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

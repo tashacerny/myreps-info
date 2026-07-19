@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate13
 openstates_id: ocd-person/64af8584-1675-47fd-acfb-1cec59dfdda5
 contact:
   website: "https://openstates.org/person/mike-wilson-33zRfSZNYaZI7m1wQAiKcX/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

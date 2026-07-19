@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede
 contact:
   website: "https://openstates.org/person/diane-papan-zqm7WzD59uX5wjaTfg7VW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

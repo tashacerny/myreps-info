@@ -12,5 +12,5 @@ photo_url: "https://antthorntonfornm.com/wp-content/uploads/2024/02/Ant-Thornton
 openstates_id: ocd-person/02d806fd-fb8f-4d66-b9b8-6dacd2bd9656
 contact:
   website: "https://openstates.org/person/ant-thornton-5Mhyyj21bUmhrCZGaAUHG/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

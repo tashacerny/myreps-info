@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/0842c8ba-66a3-4896-aede-def84a65605b
 contact:
   website: "https://openstates.org/person/valli-geiger-FaSSWF32QkcI2xpO1Q2ih/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

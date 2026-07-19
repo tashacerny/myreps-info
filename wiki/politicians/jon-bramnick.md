@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/08a758f9-92fb-4e59-ac8f-edc75aaf3390
 contact:
   website: "https://openstates.org/person/jon-bramnick-GKPpedS0wLJXt02psRrKy/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

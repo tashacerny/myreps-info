@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/d9426884-2195-45ee-8130-4a8cf0d61adf
 contact:
   website: "https://openstates.org/person/dale-hawkins-6bxgNpRd0vyZ55UuGjlgel/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

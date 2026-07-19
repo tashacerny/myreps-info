@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/watson-
 openstates_id: ocd-person/fd2717f1-6294-4601-a027-8fc41195372c
 contact:
   website: "https://openstates.org/person/ben-watson-7hgvJqrG0XNBlugC6jN5eG/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.sgvtribune.com/wp-content/uploads/2024/10/LDN-L-ELX-VG-A
 openstates_id: ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb
 contact:
   website: "https://openstates.org/person/mark-gonzalez-2GSJsaYsUu9eLn9JSwRZAx/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

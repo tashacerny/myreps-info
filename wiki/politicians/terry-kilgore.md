@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H00
 openstates_id: ocd-person/9303514b-3bce-4ddc-87d2-17a6ba4d6194
 contact:
   website: "https://openstates.org/person/terry-kilgore-4TPO4DORxVzsI4Bo1pdx7U/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

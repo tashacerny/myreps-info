@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/S/439/Low"
 openstates_id: ocd-person/a370c6f1-338d-49c3-a0b4-41e885dc0d80
 contact:
   website: "https://openstates.org/person/lisa-grafstein-4yPHtK4NnnQGCPY6qJ8KLg/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

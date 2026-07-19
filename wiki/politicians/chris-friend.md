@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/124/headshot/
 openstates_id: ocd-person/a73679bf-ac98-4319-95b8-d226bc9aba77
 contact:
   website: "https://openstates.org/person/chris-friend-55Wc4HPNnxh0TGMOaxAtBH/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

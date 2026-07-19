@@ -13,5 +13,5 @@ photo_url: "https://governor.kansas.gov/wp-content/uploads/2019/01/Kansas-Govern
 openstates_id: ocd-person/2654d836-700f-464d-a0dd-81cb0bd77b9e
 contact:
   website: "https://openstates.org/person/laura-kelly-1AKTukyrByPk0SHkQXzSHe/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2019/01/Outman-580x77
 openstates_id: ocd-person/9c525554-fb85-45f3-87fa-cf6a3208ce32
 contact:
   website: "https://openstates.org/person/rick-outman-4kyQcmzxj3evAoxO2Tx3OU/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

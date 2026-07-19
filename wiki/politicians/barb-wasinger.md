@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_wasinger_barbara_1.
 openstates_id: ocd-person/7aac5ab6-1590-4cfe-8c02-d61f292497c8
 contact:
   website: "https://openstates.org/person/barb-wasinger-3jTpShH62L44rALrqBav0K/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

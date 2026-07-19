@@ -12,5 +12,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/66b053e6-9766-40f0-8da3-2a40f517d9e1
 contact:
   website: "https://openstates.org/person/ryan-braunberger-37lnYiOQQuHTTSmloq41Y1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

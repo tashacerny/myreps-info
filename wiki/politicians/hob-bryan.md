@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/bryan.jpg"
 openstates_id: ocd-person/717de4df-c8b0-4387-a767-4d37b577f370
 contact:
   website: "https://openstates.org/person/hob-bryan-3S9fKk2ecxaBqaDuMo2z6u/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

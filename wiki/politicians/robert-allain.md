@@ -12,5 +12,5 @@ photo_url: "https://senate.la.gov/SenatorPics/Sen21.jpg"
 openstates_id: ocd-person/655ddc35-ecd0-4db2-a3fe-cd86f1cb7d61
 contact:
   website: "https://openstates.org/person/robert-allain-35H7OQ1yaLHisc8yfDR0ZF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

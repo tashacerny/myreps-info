@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Livingston_8.
 openstates_id: ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce
 contact:
   website: "https://openstates.org/person/steve-livingston-6jtNl5V0IozNvuQqUoJad4/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

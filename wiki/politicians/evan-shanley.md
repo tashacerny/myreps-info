@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/Pictures/shanley.jpg"
 openstates_id: ocd-person/c5f9a1f5-502b-41b6-8848-bfa359b1bad9
 contact:
   website: "https://openstates.org/person/evan-shanley-61ZZOMyKUqOkKvboo6LMrp/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

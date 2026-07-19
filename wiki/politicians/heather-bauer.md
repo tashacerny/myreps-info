@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0125568167.jpg"
 openstates_id: ocd-person/573c5456-8b53-4a00-9538-1013f0fc12c5
 contact:
   website: "https://openstates.org/person/heather-bauer-2ebtzRby8nI6Aaz8tN5Zor/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

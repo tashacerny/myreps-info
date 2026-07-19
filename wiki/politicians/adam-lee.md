@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/dff0e200-fd8c-4ada-ac3d-e014a529dd59
 contact:
   website: "https://openstates.org/person/adam-lee-6oZN6ZaE0o5CosjRfFb9Q1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/e3347d94-a591-4c55-98fe-910536a94b2c
 contact:
   website: "https://openstates.org/person/nelly-nicol-6ujFHRgBPwdySy5H4catS8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

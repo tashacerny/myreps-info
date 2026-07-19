@@ -13,5 +13,5 @@ photo_url: "http://www.senatedems.ct.gov/templates/Lesser/images/Lesser1x1.jpg"
 openstates_id: ocd-person/f55ef0f9-f0ed-48ba-80b9-23ac643626cc
 contact:
   website: "https://openstates.org/person/matt-lesser-7T0VWL9LKiB22PHxCJve8K/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

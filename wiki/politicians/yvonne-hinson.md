@@ -12,5 +12,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4768.jpg"
 openstates_id: ocd-person/0f5d2710-6b7c-4444-8a45-ea3e917805ba
 contact:
   website: "https://openstates.org/person/yvonne-hinson-SzSFwDghRetQJASqgJU78/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

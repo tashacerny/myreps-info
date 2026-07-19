@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/75e58364-853b-4b08-b902-7c84deb98e4a
 contact:
   website: "https://openstates.org/person/judy-lee-3aSzNyE0Wj0FSuh8BopxiE/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

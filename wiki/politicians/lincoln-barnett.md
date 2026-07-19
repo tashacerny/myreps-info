@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/e0590d_a448445eb66f44af836ca4edce
 openstates_id: ocd-person/6e3a7643-abe7-4d0f-8d03-47b514558a67
 contact:
   website: "https://openstates.org/person/lincoln-barnett-3Lzs8RJmgQ42WEzEchPGSt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

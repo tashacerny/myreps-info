@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/13198.jpg"
 openstates_id: ocd-person/c9f41cc2-815d-4a97-b354-b6ef3383c1e1
 contact:
   website: "https://openstates.org/person/joe-fitzgibbon-69514nNxtWDayTtbRZKcxF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

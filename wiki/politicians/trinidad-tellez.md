@@ -12,5 +12,5 @@ photo_url: "https://i0.wp.com/healthequitystrategiesllc.com/wp-content/uploads/2
 openstates_id: ocd-person/6164e59b-1d52-4ee4-aa53-28ea86884757
 contact:
   website: "https://openstates.org/person/trinidad-tellez-2xmMfrSr3adTZQGjP2jtF1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/49be7512-9343-4189-8769-4497ed129a92
 contact:
   website: "https://openstates.org/person/shama-haider-2F9ThgOpQBQDjKVjby0nvW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

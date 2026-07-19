@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/121/headshot/
 openstates_id: ocd-person/cc6881df-b386-488d-bbc1-71e71b808306
 contact:
   website: "https://openstates.org/person/joe-angelino-6DiC4Mc0aBKYkB9BblJeA2/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

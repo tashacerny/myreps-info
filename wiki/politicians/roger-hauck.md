@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2023/01/Hauck-580x770
 openstates_id: ocd-person/b6d8b86d-2975-4d07-83fe-a1841f39806b
 contact:
   website: "https://openstates.org/person/roger-hauck-5Z1dzRvvpGEXDhCyI3Dzf1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

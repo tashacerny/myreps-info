@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Dolan,%20Karen
 openstates_id: ocd-person/b2d2f2a9-28a3-40c5-a818-9f839adac1fa
 contact:
   website: "https://openstates.org/person/karen-dolan-5RR2KlXlldh7Co4BgsL7NK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

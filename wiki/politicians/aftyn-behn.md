@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Aftyn
 openstates_id: ocd-person/6dc4d8e8-aa2c-423b-8f5c-8ed4666a27db
 contact:
   website: "https://openstates.org/person/aftyn-behn-3L87dEMKyZkNj9T4mJBZb1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1067613508.jpg"
 openstates_id: ocd-person/d2019dc3-160d-4229-b681-280c52561435
 contact:
   website: "https://openstates.org/person/brian-lawson-6OH7tKxW2sv1ACO3tHdDPx/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

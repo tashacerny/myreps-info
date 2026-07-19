@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/7777fc5c-d508-4332-aac4-ec4799cf1721
 contact:
   website: "https://openstates.org/person/art-bell-3dQv4fw9f4HBjYuF76QyNl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

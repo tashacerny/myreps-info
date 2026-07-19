@@ -12,5 +12,5 @@ photo_url: "https://www.gannett-cdn.com/presto/2022/09/08/NFDD/05d04a1f-87b2-4f2
 openstates_id: ocd-person/1d25683b-5c85-41cb-8585-6e18ddd0f648
 contact:
   website: "https://openstates.org/person/geoff-smith-szs6H9SFel4kojfeQjYFc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/upstatetoday.com/conten
 openstates_id: ocd-person/0970c995-247f-4cc0-b0a3-8ee4a0e4ebcb
 contact:
   website: "https://openstates.org/person/adam-duncan-HoTRgIf5DedfUOqAsR0Z9/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

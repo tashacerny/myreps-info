@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/publi
 openstates_id: ocd-person/3d51aca8-81d1-4f3e-8cef-47c999626a9a
 contact:
   website: "https://openstates.org/person/toby-stavisky-1rhr9M1S5orjT4nozSAZTu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

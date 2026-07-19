@@ -12,5 +12,5 @@ photo_url: "https://www.fosters.com/gcdn/authoring/authoring-images/2024/10/10/N
 openstates_id: ocd-person/0d466dcc-c612-4c5e-b080-0bd257ec589d
 contact:
   website: "https://openstates.org/person/myles-england-P35LvnoPmdw9vWnLl0WZJ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

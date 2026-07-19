@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/c5c492e5-7c34-4b6f-862e-185248e89f18
 contact:
   website: "https://openstates.org/person/cordell-cleare-61BK1EEiwZ5HZsf6HQAtjc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

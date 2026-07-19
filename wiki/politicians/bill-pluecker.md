@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/30ae681d-e01b-4305-9c6e-60df2e62b49b
 contact:
   website: "https://openstates.org/person/bill-pluecker-1TrKokQ6tTk1mu3rOQ9At9/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

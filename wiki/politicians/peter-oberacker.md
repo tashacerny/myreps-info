@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/publi
 openstates_id: ocd-person/fe80b36a-56ba-49d6-a14c-05f35ba6f610
 contact:
   website: "https://openstates.org/person/peter-oberacker-7kErmgNCOAVAYu2c2knPP6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

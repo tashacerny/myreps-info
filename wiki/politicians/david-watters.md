@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/cf24defe-6df3-49f3-88ca-c6774b144f19
 contact:
   website: "https://openstates.org/person/david-watters-6IsGEPBRvzydXJ2mYGrUAT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

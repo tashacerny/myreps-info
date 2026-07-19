@@ -13,5 +13,5 @@ photo_url: "https://lirp.cdn-website.com/4c846247/dms3rep/multi/opt/_DSC0892-a9d
 openstates_id: ocd-person/16296fb0-76bf-4e65-b7e6-5dc6abceb7b4
 contact:
   website: "https://openstates.org/person/lee-gilreath-folalbVTXFox9nFLgnujs/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

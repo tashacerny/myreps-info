@@ -13,5 +13,5 @@ photo_url: "https://static.wixstatic.com/media/599b12_afa74a3390064dd386df25e882
 openstates_id: ocd-person/b3bd4f95-946f-4b4b-b58f-ab78345847b7
 contact:
   website: "https://openstates.org/person/adam-lowe-5TA8nF7D3yoTztj8VGhnB1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/fogarty.jpg"
 openstates_id: ocd-person/570c899e-34b2-4e30-93e2-79f588ff8aef
 contact:
   website: "https://openstates.org/person/kathleen-fogarty-2eG3qq93sqMHEOOuJ2jSLH/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

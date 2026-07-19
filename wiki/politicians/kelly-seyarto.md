@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40
 contact:
   website: "https://openstates.org/person/kelly-seyarto-6bzPMDM9yxMwPrHPAGHy9g/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

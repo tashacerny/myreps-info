@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/1af6f404-0dfc-424a-b6df-227f45782504
 contact:
   website: "https://openstates.org/person/tanya-flanagan-oseoykcm3HjeyIHvbfDuO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

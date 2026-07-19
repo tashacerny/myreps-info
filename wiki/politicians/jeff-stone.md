@@ -13,5 +13,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Senators/Images/
 openstates_id: ocd-person/00ad1837-b472-4ce8-872d-e1eac1c1c6db
 contact:
   website: "https://openstates.org/person/jeff-stone-1H6TW8roEohJbUK5K3phT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

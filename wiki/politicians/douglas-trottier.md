@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/464c15d2-0b67-47e6-8c0a-fc556b336d4a
 contact:
   website: "https://openstates.org/person/douglas-trottier-28eEVGGdINsorAicpYmGkc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

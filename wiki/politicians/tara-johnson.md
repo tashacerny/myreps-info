@@ -12,5 +12,5 @@ photo_url: "https://wisconsinpublictv.s3.us-east-2.amazonaws.com/wp-content/uplo
 openstates_id: ocd-person/17b43cb0-9999-42ee-a5b4-c68aebc129b6
 contact:
   website: "https://openstates.org/person/tara-johnson-ijBuOqQRqAQQjVxWQXHhm/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

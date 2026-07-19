@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/83rd2025/legislators/Assembly/Images/
 openstates_id: ocd-person/1707682b-c409-4d5e-9a2d-9505180de66c
 contact:
   website: "https://openstates.org/person/lisa-cole-hSCvRNqyyJqTeMk08qFFk/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/053d119b-847e-43bf-9a22-18b5f309067f
 contact:
   website: "https://openstates.org/person/carl-demaio-9srwpvjrafwNYfgGi85ap/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

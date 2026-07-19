@@ -13,5 +13,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/morgan03.jpg"
 openstates_id: ocd-person/c08afca2-f312-4cb0-a9c5-58be80d81df1
 contact:
   website: "https://openstates.org/person/todd-morgan-5rK2ixcQB8mnCZZ3cPEWaP/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

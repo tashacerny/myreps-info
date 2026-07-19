@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/brian-e-lampton/heads
 openstates_id: ocd-person/1895e223-ba42-4e25-8cd0-915ca5cc2829
 contact:
   website: "https://openstates.org/person/brian-lampton-kOJO9ANxOEwXiwXSGPoID/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

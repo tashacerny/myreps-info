@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/2f7e7649-5c68-4f8f-8c9a-7993b66d383a
 contact:
   website: "https://openstates.org/person/annie-graham-1RcQpG7QW5WHHbcgk4VPFi/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

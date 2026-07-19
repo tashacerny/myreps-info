@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/80.jpg?170341564567
 openstates_id: ocd-person/34472dfb-dae9-4db4-8901-088457d74904
 contact:
   website: "https://openstates.org/person/steve-samuelson-1ae84Q8TsQhbsnrDfeV5S0/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

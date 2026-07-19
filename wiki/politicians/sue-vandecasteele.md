@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/b3316ac6-b023-4dec-9e07-33600f4027bb
 contact:
   website: "https://openstates.org/person/sue-vandecasteele-5S8D21vXwf204VhThIm6yR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

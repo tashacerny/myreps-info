@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Catel
 openstates_id: ocd-person/96941816-29ce-4c03-ab43-efa1ef2930ab
 contact:
   website: "https://openstates.org/person/catelin-drey-4a8WkXIePFA2y7SNC3wFv1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

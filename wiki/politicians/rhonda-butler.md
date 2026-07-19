@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep38.jpg"
 openstates_id: ocd-person/6c232d36-fe39-4006-8397-de9cb1e5454c
 contact:
   website: "https://openstates.org/person/rhonda-butler-3I3FJktGsIlDiEIiYnWdem/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

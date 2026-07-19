@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/62a8e44d3687d77bbd38c9
 openstates_id: ocd-person/1f0c898f-0199-4b66-a432-d81c85ad9528
 contact:
   website: "https://openstates.org/person/marc-mihaly-waUU9kC4ov5gIvLCuFU5o/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

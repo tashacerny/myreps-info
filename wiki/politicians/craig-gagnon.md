@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/0632954470.jpg"
 openstates_id: ocd-person/52ab3f52-ec8b-4268-bfb2-16322df47839
 contact:
   website: "https://openstates.org/person/craig-gagnon-2Vzd7qmJu3YQxjnwwO5tY9/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

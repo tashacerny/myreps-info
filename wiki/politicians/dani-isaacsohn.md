@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/dani-isaacsohn/headsh
 openstates_id: ocd-person/1cc15373-6101-48fb-9597-d731c115eb70
 contact:
   website: "https://openstates.org/person/dani-isaacsohn-sG8ONfvAmean6yxc3BkWW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

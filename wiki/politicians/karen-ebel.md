@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/947e2e2b-04eb-4f92-9f83-aef8760517e0
 contact:
   website: "https://openstates.org/person/karen-ebel-4WCWnMvRmsdglCy9kHaBgO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

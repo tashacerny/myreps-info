@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/McFaun,Topper.
 openstates_id: ocd-person/a7c7d0f6-8795-4f50-928b-15b6c3831ac4
 contact:
   website: "https://openstates.org/person/topper-mcfaun-56b2A87lkNltSqPZPc7Kg0/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

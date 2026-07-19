@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/3853d2fe-2580-4041-abb1-b4136172e9c0
 contact:
   website: "https://openstates.org/person/tracy-quint-1iHsRJT4l7uuOs40j4eaFk/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

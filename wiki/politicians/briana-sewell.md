@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/23775904-887c-4a2c-9424-0683608193ba
 contact:
   website: "https://openstates.org/person/briana-sewell-14vGxMUbaeH1CNIMNcfexO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

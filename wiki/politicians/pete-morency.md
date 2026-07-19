@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/cont
 openstates_id: ocd-person/622ea33c-23b7-4074-9ed6-75d2086677e8
 contact:
   website: "https://openstates.org/person/pete-morency-2zGYoQ9GO4QdgwJ4v1LTVg/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

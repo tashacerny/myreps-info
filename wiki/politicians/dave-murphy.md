@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2488.jpg"
 openstates_id: ocd-person/1e2717f2-3426-47b6-8e86-a63f0a507c81
 contact:
   website: "https://openstates.org/person/dave-murphy-utdPGxl5g7ASVxLDM7mIT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

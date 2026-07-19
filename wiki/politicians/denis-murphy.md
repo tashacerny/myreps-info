@@ -12,5 +12,5 @@ photo_url: "https://kfne.org/x/cdn/?https://storage.googleapis.com/production-ho
 openstates_id: ocd-person/72264eda-ca33-468c-bc9d-f745c55bce68
 contact:
   website: "https://openstates.org/person/denis-murphy-3TOdBlWfBYVaacbvavbDIm/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

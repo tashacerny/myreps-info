@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/publi
 openstates_id: ocd-person/04f9beb9-b562-4f2f-9f23-4856fe0fd0dc
 contact:
   website: "https://openstates.org/person/mario-mattera-9O6OK0H5KFkrZ8SEOfYK4/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

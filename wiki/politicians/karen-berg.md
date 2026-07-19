@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate12
 openstates_id: ocd-person/b45a3156-f662-4884-9c13-b33a4c2d9105
 contact:
   website: "https://openstates.org/person/karen-berg-5UJptctheEYoOwUbcTFwHd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/McCampbell_71.
 openstates_id: ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e
 contact:
   website: "https://openstates.org/person/a-j-mccampbell-2AXHVwSs7HVhhslb98y9mA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

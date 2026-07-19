@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/26d443c0-53fe-480b-bf4c-7b7a28a109e9
 contact:
   website: "https://openstates.org/person/larry-gagne-1BGiFFAJbLk402C3epWFRp/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

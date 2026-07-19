@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics20/rep58.jpg"
 openstates_id: ocd-person/43a80737-e614-475d-aace-2d1324cb516a
 contact:
   website: "https://openstates.org/person/ken-brass-23fH38FkWocqUK8y6QxTC6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

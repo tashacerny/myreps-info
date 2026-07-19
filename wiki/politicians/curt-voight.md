@@ -12,5 +12,5 @@ photo_url: "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressiv
 openstates_id: ocd-person/6dce0110-114c-467d-adb2-50e0309a8079
 contact:
   website: "https://openstates.org/person/curt-voight-3LCJ5BnuevIueAzeWcmONd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

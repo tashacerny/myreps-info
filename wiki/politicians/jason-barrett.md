@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/barrett_jaso
 openstates_id: ocd-person/bcbe03de-3df0-4c07-8973-0304dafa2cb8
 contact:
   website: "https://openstates.org/person/jason-barrett-5k9OSvKgv9lF7YKB5angwi/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

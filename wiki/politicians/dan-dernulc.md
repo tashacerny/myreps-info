@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/563c4788-f7fa-4983-83c8-36c8dbf3d3d4/-/pro
 openstates_id: ocd-person/bb961150-43c0-4535-bc67-a63127c90047
 contact:
   website: "https://openstates.org/person/dan-dernulc-5hy94APOOQ25UItK4k53xv/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

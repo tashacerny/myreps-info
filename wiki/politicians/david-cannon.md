@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/cannon_david
 openstates_id: ocd-person/79e71ddf-33fc-4e28-8324-dd52aaa0e653
 contact:
   website: "https://openstates.org/person/david-cannon-3i1gulRQOnFDIJU16ijHkJ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

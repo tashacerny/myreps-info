@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/senate/2439.jpg"
 openstates_id: ocd-person/86a5289a-d18f-4869-ac53-432022c7f9c7
 contact:
   website: "https://openstates.org/person/eric-wimberger-464RrvXHey4SuCRoaoUDG3/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

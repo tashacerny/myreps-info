@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/8285be34-48a9-4bbe-b231-f8e5f40df301
 contact:
   website: "https://openstates.org/person/bill-weber-3yI7dfZxGAyUEW7hyprAZN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

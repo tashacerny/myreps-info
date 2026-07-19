@@ -13,5 +13,5 @@ photo_url: "https://gunleash.com/wp-content/uploads/2023/11/Aaron_Reed.jpg"
 openstates_id: ocd-person/e46eb488-2e34-4f33-840f-917496473c64
 contact:
   website: "https://openstates.org/person/aaron-reed-6x2qGNr9nWRhTcblRvsZ4W/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

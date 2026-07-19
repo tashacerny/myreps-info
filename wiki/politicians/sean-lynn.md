@@ -12,5 +12,5 @@ photo_url: "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/
 openstates_id: ocd-person/6fd6e720-822c-45ee-8fac-933b4eb9ccb5
 contact:
   website: "https://openstates.org/person/sean-lynn-3P2MGdk438I4p3IJc8JCEv/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

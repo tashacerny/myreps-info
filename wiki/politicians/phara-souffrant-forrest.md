@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/057/headshot/
 openstates_id: ocd-person/8683c8ab-0d6c-471f-9259-a1b506109912
 contact:
   website: "https://openstates.org/person/phara-souffrant-forrest-45pCE4KIyx6HyKZYyDq7so/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

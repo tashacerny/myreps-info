@@ -12,5 +12,5 @@ photo_url: "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2484/
 openstates_id: ocd-person/be12c20b-e96b-4326-a1c2-8cabe83f4f2b
 contact:
   website: "https://openstates.org/person/jennifer-wortz-5mf76LcGRxlFUlSdKc1EUN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

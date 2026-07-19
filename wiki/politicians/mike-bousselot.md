@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=32076&pTy
 openstates_id: ocd-person/37784f85-492c-422c-93a3-9910867f68f9
 contact:
   website: "https://openstates.org/person/mike-bousselot-1gfYj0Fm2Kgps0bqCBLg9R/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

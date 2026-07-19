@@ -12,5 +12,5 @@ photo_url: "https://mgaleg.maryland.gov/2023RS/images/phillips02.jpg"
 openstates_id: ocd-person/bae5d58b-dc40-476e-8845-063ed7fd81bd
 contact:
   website: "https://openstates.org/person/scott-phillips-5gfbeYweUP3pcnT4CxcWiL/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

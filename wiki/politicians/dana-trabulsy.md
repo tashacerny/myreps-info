@@ -13,5 +13,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4788.jpg"
 openstates_id: ocd-person/767d2aef-21ee-4b6d-b64b-ed9350abaa60
 contact:
   website: "https://openstates.org/person/dana-trabulsy-3baINJeaU3bUD34wW1BVya/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

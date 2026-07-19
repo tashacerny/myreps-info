@@ -12,5 +12,5 @@ photo_url: "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/c
 openstates_id: ocd-person/943e92d3-98ad-490f-a93a-16182c624a1f
 contact:
   website: "https://openstates.org/person/william-valentine-4VjSYTeYm4qMUhAGttqESl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

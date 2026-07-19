@@ -12,5 +12,5 @@ photo_url: "https://indianahousedemocrats.org/images/made/images/remote/https_as
 openstates_id: ocd-person/5fd5f8d8-b47c-4b69-ba1a-d89f0fb106a7
 contact:
   website: "https://openstates.org/person/blake-johnson-2uq3VRTy2zWHZACuoL4rG3/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

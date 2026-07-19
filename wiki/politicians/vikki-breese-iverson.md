@@ -13,5 +13,5 @@ photo_url: "https://www.oregonlegislature.gov/breese-iverson/PublishingImages/me
 openstates_id: ocd-person/a3140c7f-befe-4b83-bc54-1451b5fe00f5
 contact:
   website: "https://openstates.org/person/vikki-breese-iverson-4xiuWKeMWTH9RhFMxAHmdB/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

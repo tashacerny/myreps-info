@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist10/hig
 openstates_id: ocd-person/bc906a77-5932-4042-9ede-a13b24924236
 contact:
   website: "https://openstates.org/person/wendy-deboer-5joYSArei2xh3utqp9kAv0/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

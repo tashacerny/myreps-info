@@ -12,5 +12,5 @@ photo_url: "https://patch.com/img/cdn20/users/546351/20240905/101328/styles/patc
 openstates_id: ocd-person/84047292-5618-45d3-afbf-16bb611f415d
 contact:
   website: "https://openstates.org/person/john-schneller-4171Di9JO1RKHZrjV0U0QX/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

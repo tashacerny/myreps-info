@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.c
 openstates_id: ocd-person/dabda7b3-b4b9-485d-aabd-9ceab215232b
 contact:
   website: "https://openstates.org/person/katie-fire-thunder-6ekzzc410YfXQSwYHv3L8F/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/2024-06/erin-kerwi
 openstates_id: ocd-person/b30166c7-822f-4680-9aa0-0b62e3caf9bd
 contact:
   website: "https://openstates.org/person/erin-kerwin-5RmGYNr5Uz0HuvmHRppFGf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

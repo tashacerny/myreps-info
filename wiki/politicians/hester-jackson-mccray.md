@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/mccray.jpg"
 openstates_id: ocd-person/3a2e8f7d-e657-45e2-93d7-2f5e8499ccfd
 contact:
   website: "https://openstates.org/person/hester-jackson-mccray-1lmpek7FjRk952xUazVMcP/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://vtdigger.org/wp-content/uploads/2024/07/David-Yacovone-2024-
 openstates_id: ocd-person/4d489014-c6ba-41df-9f4f-d8846ee2ebba
 contact:
   website: "https://openstates.org/person/dave-yacovone-2LpZMut8k3QbMGFwYkVrwo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

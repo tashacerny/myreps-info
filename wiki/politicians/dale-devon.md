@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/da8afc87-2b9a-4544-8fb9-2f03f426a451
 contact:
   website: "https://openstates.org/person/dale-devon-6eNqLLPSuDejSi7B2AxgzR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

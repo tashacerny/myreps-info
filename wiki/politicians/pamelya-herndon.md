@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HHEPA.jpg"
 openstates_id: ocd-person/800d2a2e-1622-4ab2-b290-3c537b38bdf8
 contact:
   website: "https://openstates.org/person/pamelya-herndon-3td27LRHhlwrtyCEitdseu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

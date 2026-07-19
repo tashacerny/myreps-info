@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/May16
 openstates_id: ocd-person/41f72deb-7981-4053-bb15-7eb3580b9ade
 contact:
   website: "https://openstates.org/person/ray-reed-20TSg1AGKogLVqSiwvyEDG/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

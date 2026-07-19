@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Angel
 openstates_id: ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed
 contact:
   website: "https://openstates.org/person/angela-cockerham-412EDs601H2pREXQULlSUX/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://upload.wikimedia.org/wikipedia/commons/4/42/Robert_J._Lynn.p
 openstates_id: ocd-person/ce46c52e-8598-4888-8a1f-d16b283a7238
 contact:
   website: "https://openstates.org/person/bob-lynn-6HElD0ofJ0NjbJa03YNq1Y/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

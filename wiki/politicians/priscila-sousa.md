@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/PSS1.jpg"
 openstates_id: ocd-person/a148ff77-2e73-4e42-a525-20e8d1ed569a
 contact:
   website: "https://openstates.org/person/priscila-sousa-4uL7jfWcohzl6DZsxOUXSU/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

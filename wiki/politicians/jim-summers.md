@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/14936ed1-5203-4f3e-be18-4243f1fff521
 contact:
   website: "https://openstates.org/person/jim-summers-cpDrLO3VzVuawFO8AV5OL/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2024/house/akers_james.
 openstates_id: ocd-person/33e56ab1-3106-45fa-a992-fab181983a99
 contact:
   website: "https://openstates.org/person/j-b-akers-1ZvS3968EQOKKiShuMEHRR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

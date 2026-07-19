@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h46.jpg"
 openstates_id: ocd-person/7fa67dd6-999c-4116-a136-32633710f6b0
 contact:
   website: "https://openstates.org/person/clark-boyd-3ss6xzWp6Lp5VzQ5vQwxSC/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

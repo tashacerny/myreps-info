@@ -13,5 +13,5 @@ photo_url: "https://governor.maryland.gov/PublishingImages/governor-wes-moore-of
 openstates_id: ocd-person/a6a4f3ad-59c0-471c-8fd3-ea06a8e21a87
 contact:
   website: "https://openstates.org/person/wes-moore-54S6mt4X90CqkolXF3n287/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

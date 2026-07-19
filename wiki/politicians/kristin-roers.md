@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd
 contact:
   website: "https://openstates.org/person/kristin-roers-6jqNxVMrSycao2z9TJEGVx/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

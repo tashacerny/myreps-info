@@ -12,5 +12,5 @@ photo_url: "https://venolaforthefuture.com/wp-content/uploads/2026/02/Venola-Cam
 openstates_id: ocd-person/b9050158-4a6d-4332-8ad2-769472f52e3e
 contact:
   website: "https://openstates.org/person/venola-mason-5d7roCoRO66ao9TzUraK7C/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

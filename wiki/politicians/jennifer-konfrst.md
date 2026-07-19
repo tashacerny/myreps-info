@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27026"
 openstates_id: ocd-person/522b14b8-b82f-4336-a7fb-a0f782d5509a
 contact:
   website: "https://openstates.org/person/jennifer-konfrst-2V33eFmgCdANHrLFmjHPdy/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.cairoklahoma.com/wp-content/uploads/2024/09/emily-200x20
 openstates_id: ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8
 contact:
   website: "https://openstates.org/person/emily-gise-IJ2d9ehnVDfJcQvQoyrRg/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

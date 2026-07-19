@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/3787c84d-f615-4e9d-bac8-42f86ea308db
 contact:
   website: "https://openstates.org/person/jess-edwards-1gmd6XEkmP7s8JTECJQWlP/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

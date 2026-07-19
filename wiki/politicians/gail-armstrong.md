@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HARMG.jpg"
 openstates_id: ocd-person/9564298b-dc55-4037-8205-5eca1c2063dc
 contact:
   website: "https://openstates.org/person/gail-armstrong-4Xtd7ch9TNSZg4HozG4quy/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

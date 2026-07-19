@@ -12,5 +12,5 @@ photo_url: "https://www.legis.nd.gov/files/styles/medium/public/person/photo/ksk
 openstates_id: ocd-person/d9bd764d-f08a-4056-ba7d-82bad9e9d17b
 contact:
   website: "https://openstates.org/person/kathy-skroch-6crv08O6KhNRCaq2LmZBdL/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

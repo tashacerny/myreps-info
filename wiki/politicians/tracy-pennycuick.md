@@ -12,5 +12,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1912.jpg?1703415645
 openstates_id: ocd-person/d9ad47a6-7e74-45f2-93a5-1b7e40ad36db
 contact:
   website: "https://openstates.org/person/tracy-pennycuick-6ckWUa1D24kQRYOS9TiLsZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

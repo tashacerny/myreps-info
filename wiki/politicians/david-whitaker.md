@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/440_sm.jpg"
 openstates_id: ocd-person/7c229d62-dd8f-491c-8aab-15118335cfe9
 contact:
   website: "https://openstates.org/person/david-whitaker-3mErmrL0ZhWzkjvBTuoAPZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

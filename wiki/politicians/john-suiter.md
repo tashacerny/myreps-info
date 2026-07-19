@@ -12,5 +12,5 @@ photo_url: "https://www.ledgertranscript.com/attachments/35/47349035.jpg"
 openstates_id: ocd-person/fe4b2b32-0709-486c-910c-fa3bcfc54056
 contact:
   website: "https://openstates.org/person/john-suiter-7jqP08QzY9VTVJDC6caXzC/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

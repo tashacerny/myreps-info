@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/f0fa561d-39cf-48f3-ae8c-84b4d30d2662
 contact:
   website: "https://openstates.org/person/katie-wallace-7KiYsLAX92hkxsOrzSGezS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://cdn.zephyrcms.com/f9fc698d-3a8c-4782-b57e-476b26b9bc36/-/pro
 openstates_id: ocd-person/91572a47-dcdf-4be5-8fec-99630da33a39
 contact:
   website: "https://openstates.org/person/ron-alting-4QFilNJNLAkJIXlPPg4ArR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

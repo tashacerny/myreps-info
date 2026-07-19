@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/03b035_5852c1c382df416699f58f64d9
 openstates_id: ocd-person/cd552354-5729-4c68-8872-3e0f6693bcc1
 contact:
   website: "https://openstates.org/person/larry-pemberton-6FSKmXpq5Ru5EfGi1dslYf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

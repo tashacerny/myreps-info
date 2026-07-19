@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/9e529237-916b-407c-a60e-abd8e0708329
 contact:
   website: "https://openstates.org/person/matt-soper-4okWPbPk0L6Xsmi1awmZNh/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

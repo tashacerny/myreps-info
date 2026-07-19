@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/524f6cce-8333-442a-aff3-2e92bd9df894
 contact:
   website: "https://openstates.org/person/tiffany-roberts-2VJfQNA4UGq7o9aDZjmfum/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

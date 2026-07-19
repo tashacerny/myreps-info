@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/uploads/visual_edit/pierce-web-748x102
 openstates_id: ocd-person/0d692e7b-535a-498b-8072-a258806fecb4
 contact:
   website: "https://openstates.org/person/teresa-pierce-PIy2NrMd036mBsmeNfhrA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Alice
 openstates_id: ocd-person/ef4b9cee-5a72-452c-8720-a59d5d5ca9ef
 contact:
   website: "https://openstates.org/person/alice-wade-7HXij27RB2AopAbpdYLVhn/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

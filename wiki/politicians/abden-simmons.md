@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b6cdaab7-6aec-4c65-a239-e18c6e839fbc
 contact:
   website: "https://openstates.org/person/abden-simmons-5YwanWmXR7AvYm2ui7Xb9I/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

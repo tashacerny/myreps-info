@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/d87034c7-fd93-4ba1-a61b-f4ea810506c9
 contact:
   website: "https://openstates.org/person/charles-skold-6aPcV6X2F3wvojXrU875Yn/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

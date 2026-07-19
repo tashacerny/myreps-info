@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/22809c1b-0676-4ad9-8d0e-8a0a9d19063a
 contact:
   website: "https://openstates.org/person/tom-buco-136VrdmZOVZDU4dqNJiXHe/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/jackson
 openstates_id: ocd-person/8e209d95-2333-4aa2-a628-1bdcec0674f5
 contact:
   website: "https://openstates.org/person/mack-jackson-4KBoZrzki8FCcPsY64m69l/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Darin
 openstates_id: ocd-person/69c394b0-4299-4776-82aa-f847907f5308
 contact:
   website: "https://openstates.org/person/darin-harbick-3DZZeMKQBdKmCNn2Srx1Oy/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

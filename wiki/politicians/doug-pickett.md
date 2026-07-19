@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/6dbb9465-3ef5-4754-a482-08ae17c4cb9b
 contact:
   website: "https://openstates.org/person/doug-pickett-3L3t2fHUExh2SH6MIAPUrr/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

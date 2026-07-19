@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/nguyend/PublishingImages/member_ph
 openstates_id: ocd-person/4b30682c-7833-4375-815b-2412cb9c61c7
 contact:
   website: "https://openstates.org/person/daniel-nguyen-2HsXswgcc4qtArrdapxOUB/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/lucas-d
 openstates_id: ocd-person/4b05e770-4423-4b64-8ae1-9600e8c73244
 contact:
   website: "https://openstates.org/person/david-lucas-2HZ7bbO7ukeabxJYuHwFBU/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

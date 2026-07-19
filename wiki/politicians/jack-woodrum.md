@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/senate/woodrum_jack
 openstates_id: ocd-person/b4df4940-ac0e-4e1a-ba3c-940d604b4ad2
 contact:
   website: "https://openstates.org/person/jack-woodrum-5VIeyXOwjRH2XcTIK6WqTS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

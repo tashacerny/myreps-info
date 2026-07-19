@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/publi
 openstates_id: ocd-person/0f3cecb9-87fb-48c7-96af-fd3ff8e0cd8b
 contact:
   website: "https://openstates.org/person/michelle-hinchey-Skj6n4psag1u2ij1amXwR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.misenategop.com/wp-content/uploads/2019/01/McBroom-580x7
 openstates_id: ocd-person/4fc7e235-2446-405d-9a56-5e010017f617
 contact:
   website: "https://openstates.org/person/ed-mcbroom-2QXjw1xkDVcuYV9CZqQti3/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

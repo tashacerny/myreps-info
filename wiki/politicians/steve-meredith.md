@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate10
 openstates_id: ocd-person/8915acb8-6089-451f-be08-c79b0be59c40
 contact:
   website: "https://openstates.org/person/steve-meredith-4AfqxNdOThpaNbjZz2NXiC/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

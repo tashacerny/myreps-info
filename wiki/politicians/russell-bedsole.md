@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Bedsole_49.png
 openstates_id: ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9
 contact:
   website: "https://openstates.org/person/russell-bedsole-5KnUNv3zXLypkE9LifaDaD/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

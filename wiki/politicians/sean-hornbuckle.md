@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/hornbuckle_se
 openstates_id: ocd-person/916ee127-a228-4dac-b945-312a5f76121a
 contact:
   website: "https://openstates.org/person/sean-hornbuckle-4QQYggQIwrTJo8QLkRKAI6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

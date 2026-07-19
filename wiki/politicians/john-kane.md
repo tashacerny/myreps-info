@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1925.jpg?1703415645
 openstates_id: ocd-person/c45052c1-f3e4-485e-a3d2-f346fa51839b
 contact:
   website: "https://openstates.org/person/john-kane-5yRCdta0ZIhun9Mee9z0rT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

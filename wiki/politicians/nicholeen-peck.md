@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Nicho
 openstates_id: ocd-person/08c69398-e218-46a2-a843-9f1bfe088caa
 contact:
   website: "https://openstates.org/person/nicholeen-peck-GYgg1w2g7zREnC4dyYxC6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

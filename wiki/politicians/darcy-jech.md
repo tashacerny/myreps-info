@@ -13,5 +13,5 @@ photo_url: "https://oksenate.gov/sites/default/files/1200px-DarcyJech_0.jpg"
 openstates_id: ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261
 contact:
   website: "https://openstates.org/person/darcy-jech-3Rj5hAvfx5j5mHK8rYF3Hl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

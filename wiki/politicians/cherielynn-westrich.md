@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30654"
 openstates_id: ocd-person/f4803b48-80d4-43aa-86cd-fe78d268e77a
 contact:
   website: "https://openstates.org/person/cherielynn-westrich-7RMjFGbxCubMmMP0ntS7Yo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

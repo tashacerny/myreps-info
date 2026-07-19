@@ -13,5 +13,5 @@ photo_url: "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/
 openstates_id: ocd-person/eb221993-26e9-4046-a626-ca753e4e7f6d
 contact:
   website: "https://openstates.org/person/wanda-paige-79gmOOe5YH70p3r6rlmzZl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

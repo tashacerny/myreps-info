@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mn/graphics/03Hauschild.jpg"
 openstates_id: ocd-person/6a13cdd4-3646-4fe9-a2a3-5f1399c2c146
 contact:
   website: "https://openstates.org/person/grant-hauschild-3EAEhUz3LCuwLODOOjQ5mI/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/senate/2412.jpg"
 openstates_id: ocd-person/91a901ca-e295-4843-b368-e9da162c0ae4
 contact:
   website: "https://openstates.org/person/julian-bradley-4Qr7fzsw9W7BAouRhdgvZ6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-DockstaderDan.jpg"
 openstates_id: ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9
 contact:
   website: "https://openstates.org/person/dan-dockstader-2XiW54QFRQg3XnFsyvyI93/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

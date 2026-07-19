@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/thomas-f-patton/heads
 openstates_id: ocd-person/a57f6c78-ac58-4f7d-870e-0d8052984cd9
 contact:
   website: "https://openstates.org/person/tom-patton-52HxwCWk1o1XBO1A6epM5Z/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

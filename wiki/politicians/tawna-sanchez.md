@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/sanchez/PublishingImages/member_ph
 openstates_id: ocd-person/c138ec96-0a6f-4dee-be06-be286b68cfbb
 contact:
   website: "https://openstates.org/person/tawna-sanchez-5sbX4rm6Ts032XL55pXeSB/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

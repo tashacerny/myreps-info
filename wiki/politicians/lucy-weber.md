@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/a6790cd1-6b7a-48f9-b48c-b298929578a4
 contact:
   website: "https://openstates.org/person/lucy-weber-5482s2XvCNl94suUggIkNA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

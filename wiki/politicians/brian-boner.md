@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-BonerBrian.jpg"
 openstates_id: ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f
 contact:
   website: "https://openstates.org/person/brian-boner-6KLyUnu9iUJ9WqeFctXIZb/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

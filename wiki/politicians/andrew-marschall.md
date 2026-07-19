@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/6fbb2691-956f-4427-8927-66309b08ed68
 contact:
   website: "https://openstates.org/person/andrew-marschall-3Opfw1eL495VfDCIz9vsSW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

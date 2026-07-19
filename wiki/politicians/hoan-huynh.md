@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{A6CE6A23-9F62-4C37-B297-4E4
 openstates_id: ocd-person/c7156dc3-31a6-4582-bf3a-b325c9dc868f
 contact:
   website: "https://openstates.org/person/hoan-huynh-63fGUezYtvEDXu1xOKpTLT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

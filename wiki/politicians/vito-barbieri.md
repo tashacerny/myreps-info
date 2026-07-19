@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2019/di
 openstates_id: ocd-person/1abcdba2-7ed6-4871-889e-9e4c47c4d000
 contact:
   website: "https://openstates.org/person/vito-barbieri-oS6kK63kLQCmZyHpZ7QmW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

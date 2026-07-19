@@ -12,5 +12,5 @@ photo_url: "https://images.squarespace-cdn.com/content/620c2499aa05237b7428dec9/
 openstates_id: ocd-person/0ab172d4-ecc7-46e4-a4f1-ee71429595bd
 contact:
   website: "https://openstates.org/person/emilie-krasnow-KB15E92Qt1PHZhzVdgY4z/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/058/headshot/
 openstates_id: ocd-person/24fb9f1e-0bd6-4ac2-8a49-1091016863d2
 contact:
   website: "https://openstates.org/person/monique-chandler-waterman-17miL0QaoluV5MtW9eCi6k/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

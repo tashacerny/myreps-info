@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/riekesmith/PublishingImages/member
 openstates_id: ocd-person/0f296591-6b7e-40b0-8a92-9198dd72bd7e
 contact:
   website: "https://openstates.org/person/sue-rieke-smith-SbnnmKUHrmvq9fxLIpRza/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

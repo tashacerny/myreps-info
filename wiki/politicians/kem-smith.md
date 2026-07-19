@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KemSm
 openstates_id: ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba
 contact:
   website: "https://openstates.org/person/kem-smith-6xXiKJ4OKFBk3hXZucO8ug/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

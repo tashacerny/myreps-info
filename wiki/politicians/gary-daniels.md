@@ -13,5 +13,5 @@ photo_url: "http://www.livefreeordiealliance.org/Portals/0/images_candidates/GDa
 openstates_id: ocd-person/281c916b-4280-41ff-9ee1-ba183d838536
 contact:
   website: "https://openstates.org/person/gary-daniels-1DgkQ2vdFg3DfH82oExd9a/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

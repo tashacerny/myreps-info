@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/715df6f2-cef6-4b88-b745-0207c8ffb4ff
 contact:
   website: "https://openstates.org/person/cleave-simpson-3Rv4dxPs4mKIT4Q8tIm70Z/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

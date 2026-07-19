@@ -13,5 +13,5 @@ photo_url: "https://img1.wsimg.com/isteam/ip/27b7dcd4-adbb-4603-9579-073f083153b
 openstates_id: ocd-person/d9d8a84f-96df-4dbf-b638-d63e216166d4
 contact:
   website: "https://openstates.org/person/brian-mulder-6d4LYXEhIHizkfrcAT7aKK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

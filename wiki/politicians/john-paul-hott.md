@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2021/house/hott_john.jpg
 openstates_id: ocd-person/06c041be-0a45-4bfe-8e2d-49055af1205f
 contact:
   website: "https://openstates.org/person/john-paul-hott-CjoZ2eVGLwwPjQad7CK7j/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

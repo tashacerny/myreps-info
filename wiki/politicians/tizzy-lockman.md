@@ -12,5 +12,5 @@ photo_url: "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites
 openstates_id: ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5
 contact:
   website: "https://openstates.org/person/tizzy-lockman-6AAziEDRqXmPcaqR71DDWf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

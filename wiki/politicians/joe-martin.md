@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoeMa
 openstates_id: ocd-person/8f4aa04f-f106-456f-a09f-e901c78939b6
 contact:
   website: "https://openstates.org/person/joe-martin-4MO0R356cgjfnuTItkWQHm/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

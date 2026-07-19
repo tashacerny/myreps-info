@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/20Drazkowski.jpg"
 openstates_id: ocd-person/a947d529-ab68-4ae8-b1e8-7ff012dde193
 contact:
   website: "https://openstates.org/person/steve-drazkowski-59QWuhtF9GLTWyj1FJigDL/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

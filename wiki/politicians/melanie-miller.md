@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/melanie-miller/headsh
 openstates_id: ocd-person/fb957ddc-f41c-400d-ae32-47f7e729555b
 contact:
   website: "https://openstates.org/person/melanie-miller-7ejOIedO2upYKucPttPCCx/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/publi
 openstates_id: ocd-person/d04bd8aa-6178-419b-8738-a5f92141753a
 contact:
   website: "https://openstates.org/person/patricia-canzoneri-fitzpatrick-6L345Htp6mGSawGYuwKrzW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

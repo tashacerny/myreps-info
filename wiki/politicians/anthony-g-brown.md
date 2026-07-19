@@ -12,5 +12,5 @@ photo_url: "https://oag.maryland.gov/our-office/PublishingImages/AttorneyGeneral
 openstates_id: ocd-person/1ad81709-e1d6-42bd-86bc-afdec934288c
 contact:
   website: "https://openstates.org/person/anthony-g-brown-oeYLD6sNWqEsi8LAUTlzI/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ed_Su
 openstates_id: ocd-person/6cabdb85-c770-42ce-9eaf-68326c9dc0aa
 contact:
   website: "https://openstates.org/person/ed-sutton-3J3i2q40CDvpauYN7rFpTW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

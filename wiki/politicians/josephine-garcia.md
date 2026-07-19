@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/3f6c9b_7103450fc62d4fb8acfceb568e
 openstates_id: ocd-person/6ca3c0b7-e0d2-4d68-8b33-725c378ff130
 contact:
   website: "https://openstates.org/person/josephine-garcia-3J00PCSx6t1D2exwZNdPGK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

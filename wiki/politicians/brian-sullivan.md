@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/4c78e7fc-43a2-467b-abe3-6ba04ad8853e
 contact:
   website: "https://openstates.org/person/brian-sullivan-2KIfbqPOyCHi5VhsY80t8o/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://raymondrepublicans.com/wp-content/uploads/Bennett-Headshot.j
 openstates_id: ocd-person/24af30d5-efc3-40b2-9493-b9ef94217ada
 contact:
   website: "https://openstates.org/person/cindy-bennett-17Dmk3QR6oveP7UdWQAzFq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

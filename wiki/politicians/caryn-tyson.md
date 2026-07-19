@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_tyson_caryn_1.jpg"
 openstates_id: ocd-person/cc84252c-b7c6-484d-a036-dd38a90b1b04
 contact:
   website: "https://openstates.org/person/caryn-tyson-6DupAD0SLY0CoEze5305zQ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

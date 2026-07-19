@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/31d058e9-909a-46b5-8e66-21a3e86b5a56
 contact:
   website: "https://openstates.org/person/jose-serrano-1Vzq19nMkacoEMLi73aXfq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

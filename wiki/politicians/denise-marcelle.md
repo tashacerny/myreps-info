@@ -12,5 +12,5 @@ photo_url: "https://house.louisiana.gov/H_Reps/RepPics/rep61.jpg"
 openstates_id: ocd-person/20def39d-ba5c-45d7-ba6c-5cf43590d4b0
 contact:
   website: "https://openstates.org/person/denise-marcelle-101du9iZM9xbpvH862iRqi/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

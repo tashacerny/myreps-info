@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/f086a8e8-70ea-40bc-a77f-2012b74f3a00
 contact:
   website: "https://openstates.org/person/ken-gucker-7JrhHms2kdFuiH22qfsD7w/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

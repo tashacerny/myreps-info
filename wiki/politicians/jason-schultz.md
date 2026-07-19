@@ -13,5 +13,5 @@ photo_url: "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6588"
 openstates_id: ocd-person/32126238-17ce-4338-923a-3867b6517039
 contact:
   website: "https://openstates.org/person/jason-schultz-1WU164cFeJDLwvNzfwtcjp/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

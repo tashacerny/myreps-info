@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Shaver_39.png"
 openstates_id: ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05
 contact:
   website: "https://openstates.org/person/ginny-shaver-GxVmWTXlVI85AY5csxah3/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

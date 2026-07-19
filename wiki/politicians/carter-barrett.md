@@ -12,5 +12,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/barrett
 openstates_id: ocd-person/72370a62-92f4-46f1-ab7b-193a643085b8
 contact:
   website: "https://openstates.org/person/carter-barrett-3TWHI2HEYaagPD5tGV7TU8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

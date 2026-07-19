@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Figures_33.pn
 openstates_id: ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3
 contact:
   website: "https://openstates.org/person/vivian-figures-32LaTNOMo5HJOINFzbGY3H/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

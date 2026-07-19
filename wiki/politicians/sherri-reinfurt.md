@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Sherr
 openstates_id: ocd-person/19278cc6-c610-4ae1-b1eb-b33f60658f0b
 contact:
   website: "https://openstates.org/person/sherri-reinfurt-lSsiSMVbFAPmqV6xqZXNj/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.tn.gov/house/members/images/h5.jpg"
 openstates_id: ocd-person/646c2358-84c6-46bf-aca7-555283f31744
 contact:
   website: "https://openstates.org/person/david-hawk-33UeQ2FZYGsZj5TFCL4aiS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/p
 openstates_id: ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d
 contact:
   website: "https://openstates.org/person/steve-padilla-7AIN63Z7hros7nhjbmWHdt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

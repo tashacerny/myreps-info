@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Chambliss_30.
 openstates_id: ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b
 contact:
   website: "https://openstates.org/person/clyde-chambliss-6MjXpO70u5YN1slO3haRYZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

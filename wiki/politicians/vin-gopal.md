@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/gopal_vin_2021.jp
 openstates_id: ocd-person/76afbcca-bed8-4e2e-bc3a-0fd6d53158a5
 contact:
   website: "https://openstates.org/person/vin-gopal-3bxPDrTL0ZgsSctSDCm0Mn/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

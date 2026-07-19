@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SDIAM.jpg"
 openstates_id: ocd-person/1ed6a003-54c1-4da3-b297-0cec8ddf4882
 contact:
   website: "https://openstates.org/person/crystal-brantley-wBqvkEP2ISfesFXVoz7Hm/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

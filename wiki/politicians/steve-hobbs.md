@@ -12,5 +12,5 @@ photo_url: "https://www.sos.wa.gov/sites/default/files/styles/max_650x650/public
 openstates_id: ocd-person/4a203502-87b1-49f6-8cf2-8cbf4dedb954
 contact:
   website: "https://openstates.org/person/steve-hobbs-2Fs9LwK9HteixVclfRbaJ2/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

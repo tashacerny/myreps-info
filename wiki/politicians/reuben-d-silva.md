@@ -12,5 +12,5 @@ photo_url: "http://leg.state.nv.us/Session/82nd2023/legislators/Assembly/Images/
 openstates_id: ocd-person/eae59702-f6de-431e-98f0-9c4bc5b6e059
 contact:
   website: "https://openstates.org/person/reuben-d-silva-79F7tfz0WQLOR70SL2FytF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

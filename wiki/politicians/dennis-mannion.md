@@ -12,5 +12,5 @@ photo_url: "https://img1.wsimg.com/isteam/ip/ebfaec8d-b793-4eb6-ac39-a9bdf899e92
 openstates_id: ocd-person/4568bf8a-b56b-43ec-a00f-718341eb6cb9
 contact:
   website: "https://openstates.org/person/dennis-mannion-26yL7NBLJ7irUQaSNPus81/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

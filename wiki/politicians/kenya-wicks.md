@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kenya
 openstates_id: ocd-person/0a816fbf-e5ec-4056-8b3e-08184400e71b
 contact:
   website: "https://openstates.org/person/kenya-wicks-Jp4hrDaRnptZzdrxo4q7v/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist18/hig
 openstates_id: ocd-person/fdac2d3a-3497-4e34-8247-af670c901dd8
 contact:
   website: "https://openstates.org/person/christy-armendariz-7ifk6j4FCHb6Eat6SauDVY/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

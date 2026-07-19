@@ -13,5 +13,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/015/headshot/
 openstates_id: ocd-person/aa1af232-61bb-427c-b30e-81169c18d15d
 contact:
   website: "https://openstates.org/person/jake-blumencranz-5Az0cMotP5oGP7mUzuTdsr/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/Dale-Swanson-head
 openstates_id: ocd-person/89af0a16-e17b-490b-96d1-8d445071cec2
 contact:
   website: "https://openstates.org/person/dale-swanson-4BnwPAZNjM4JDhdT1NDRJK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

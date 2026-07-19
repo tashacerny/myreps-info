@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/337_sm.jpg
 openstates_id: ocd-person/75b8a2ef-c463-4317-ba03-a368a2f203f2
 contact:
   website: "https://openstates.org/person/jonathan-dismang-3a8TqLhBoPLpfjkWudgD2Y/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

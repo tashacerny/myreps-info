@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/senate/simmons_(13th).jpg"
 openstates_id: ocd-person/f1012c43-9559-4f7a-8b70-8dd9cf88bab1
 contact:
   website: "https://openstates.org/person/sarita-simmons-7Klga9Ft4M8EcbjjZysVW5/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/TCorcoran.jpg"
 openstates_id: ocd-person/bd42ebbc-3e03-4929-bbd8-f2fe5141d604
 contact:
   website: "https://openstates.org/person/timothy-corcoran-5l88E8aZmSIjOknUN8rsDE/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

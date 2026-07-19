@@ -12,5 +12,5 @@ photo_url: "https://flsenate.gov/PublishedContent/Senators/2022-2024/Photos/s36_
 openstates_id: ocd-person/3b65ecb0-8a3d-469c-9db4-b70c8724610f
 contact:
   website: "https://openstates.org/person/ileana-garcia-1o57rzopE4MZPBC9KeSgOt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

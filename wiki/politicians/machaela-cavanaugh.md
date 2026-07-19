@@ -13,5 +13,5 @@ photo_url: "https://www.nebraskalegislature.gov/media/images/senators/dist06/hig
 openstates_id: ocd-person/fd6e1947-c274-4ff5-b2ee-5e5a79d6a729
 contact:
   website: "https://openstates.org/person/machaela-cavanaugh-7iDNBe5cWQ2YIHF44zJMhl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

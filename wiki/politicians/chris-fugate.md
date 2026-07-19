@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house84.
 openstates_id: ocd-person/6843e90b-a30a-4dbf-885c-7321ccc8f73f
 contact:
   website: "https://openstates.org/person/chris-fugate-3AkEhTMKaJLR1JMYmxPS1f/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

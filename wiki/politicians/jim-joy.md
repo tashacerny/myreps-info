@@ -13,5 +13,5 @@ photo_url: "https://www.house.mn.gov/hinfo/memberimgls94/04B.gif?v=112221"
 openstates_id: ocd-person/0897d40e-d8b4-4b1e-b0cf-e0ae4e9685f2
 contact:
   website: "https://openstates.org/person/jim-joy-GDK6rc2JuJSX9eqpI0WRe/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

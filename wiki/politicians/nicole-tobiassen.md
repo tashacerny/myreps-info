@@ -12,5 +12,5 @@ photo_url: "https://nicolefornm.com/wp-content/uploads/2023/06/Nicole-Tobiassen-
 openstates_id: ocd-person/daefbf8d-768f-4dab-8f4f-0a272e2cb697
 contact:
   website: "https://openstates.org/person/nicole-tobiassen-6f7tKvQBjmXMTDpB3ss1nb/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

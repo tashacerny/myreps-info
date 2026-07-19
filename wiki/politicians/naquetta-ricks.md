@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/64f01ef4-238f-4e48-9657-e221e0d030c0
 contact:
   website: "https://openstates.org/person/naquetta-ricks-34Sy2046VAm6pW59zcswbI/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

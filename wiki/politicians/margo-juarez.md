@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/e586486b-002b-4dfb-8eec-a209c915dc95
 contact:
   website: "https://openstates.org/person/margo-juarez-6z6bq6SIzuWeSDV2SlRPVN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

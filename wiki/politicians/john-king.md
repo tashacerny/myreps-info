@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1002272607.jpg"
 openstates_id: ocd-person/12f4e61d-b847-4a7d-8029-613580ebfd9f
 contact:
   website: "https://openstates.org/person/john-king-ZlmQ8CUzdHyrIpp3JpHzT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

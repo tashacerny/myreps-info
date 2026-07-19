@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Sorrells_87.pn
 openstates_id: ocd-person/18af5645-53f2-4571-b24d-3173abf2b567
 contact:
   website: "https://openstates.org/person/jeff-sorrells-kZwasfhQR6PO2SlnslPtf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/c02b7bf5-a583-43c0-b6d6-2e757c7d42b7
 contact:
   website: "https://openstates.org/person/eliza-hamrick-5qcOkEShFFtJAhECwY9cEZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

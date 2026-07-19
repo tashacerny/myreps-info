@@ -12,5 +12,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/murphy_carol_2021
 openstates_id: ocd-person/c33b5f2b-0494-414f-aa84-d2286ae46095
 contact:
   website: "https://openstates.org/person/carol-murphy-5wOdTa7fxaMfxOiuJSge7p/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

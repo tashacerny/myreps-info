@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/roberts
 openstates_id: ocd-person/6da7fe11-4436-4854-8e1b-4c45dc4cdaac
 contact:
   website: "https://openstates.org/person/randy-robertson-3Kuw3XoqHJBC20mOoZN1cy/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

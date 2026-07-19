@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house6.j
 openstates_id: ocd-person/db36edd8-6c2f-4441-aa30-5b4dc48b3357
 contact:
   website: "https://openstates.org/person/chris-freeland-6feQBD6kkU9gcwSq9zhiDf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

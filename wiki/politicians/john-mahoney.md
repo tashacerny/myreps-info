@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/JJM2.jpg"
 openstates_id: ocd-person/2abbc0cb-6339-42d9-9947-69412a24301b
 contact:
   website: "https://openstates.org/person/john-mahoney-1IdTpVUvsQoioUpBZNmgRP/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

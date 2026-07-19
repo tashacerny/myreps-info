@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{6EDEB1E8-2566-4659-ABF5-A91
 openstates_id: ocd-person/0125b0ac-65ba-443e-b418-53cdf42b9f85
 contact:
   website: "https://openstates.org/person/mike-simmons-gessesse-2ADRF7Wq9jw0E0huW4ikH/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

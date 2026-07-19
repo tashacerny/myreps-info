@@ -12,5 +12,5 @@ photo_url: "http://akleg.gov/images/legislators/kop.jpg"
 openstates_id: ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2
 contact:
   website: "https://openstates.org/person/chuck-kopp-3XkUkWmeTJV9LCHSuxmWmI/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Hatcher_26.pn
 openstates_id: ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8
 contact:
   website: "https://openstates.org/person/kirk-hatcher-6psYzgcI9mpod2QaX2vpma/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

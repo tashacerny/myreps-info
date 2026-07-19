@@ -13,5 +13,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2218"
 openstates_id: ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583
 contact:
   website: "https://openstates.org/person/kurtis-gregory-oMHP0cIhC69TTaJYwHbQB/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

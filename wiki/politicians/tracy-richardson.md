@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/tracy-m-richardson/he
 openstates_id: ocd-person/7bcb4dfa-e4d3-46cd-b158-057b1b4b9a0a
 contact:
   website: "https://openstates.org/person/tracy-richardson-3laxvwFXKBsGJ9fq6uHTvG/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

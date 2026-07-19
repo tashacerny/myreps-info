@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house55.
 openstates_id: ocd-person/cd95ada0-14f0-4b63-aeea-f4a92525eeaf
 contact:
   website: "https://openstates.org/person/kim-king-6FvpTBB4kESxcyYm4rQLHz/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

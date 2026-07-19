@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/14000c75-b0e9-451c-a081-9121970897de
 contact:
   website: "https://openstates.org/person/christopher-kessler-bjrrbA5Q9VNJXzWEVDf3u/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

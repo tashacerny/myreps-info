@@ -12,5 +12,5 @@ photo_url: "https://www.flhouse.gov/FileStores/Web/Imaging/Member/4866.jpg"
 openstates_id: ocd-person/8dd703e2-8024-47c5-a22b-87a36db841cb
 contact:
   website: "https://openstates.org/person/jessica-baker-4JeBB82DwwFJim6zIYE7zv/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

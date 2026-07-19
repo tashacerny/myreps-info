@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate10
 openstates_id: ocd-person/db2324a8-1ae2-4e3a-81e5-ac83cb7bbb05
 contact:
   website: "https://openstates.org/person/lindsey-tichenor-6fVNZ4lRL7cQDd6s36OtxV/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Hooper,Robert.
 openstates_id: ocd-person/dec4c236-1cd1-465f-969c-0bb4b8a04992
 contact:
   website: "https://openstates.org/person/bob-hooper-6mMDMXDeN73bqZvixnJkcE/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

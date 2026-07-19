@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/summers
 openstates_id: ocd-person/98850c9f-1c37-4177-9ad8-17d2b4d3c8d4
 contact:
   website: "https://openstates.org/person/carden-summers-4dndWB3TAVcKPpxAmRmbKu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

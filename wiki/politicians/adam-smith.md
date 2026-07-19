@@ -1,18 +1,16 @@
 ---
 name: Adam Smith
 slug: adam-smith
-party: Democratic
-state: Washington
-level: federal
+party: Republican
+state: KS
+level: state
 chamber: House
-office: U.S. Representative, Washington-9
-district: 9
+office: KS State House, District 120
+district: 120
 in_office: true
-photo_url: "https://www.congress.gov/img/member/116_rp_wa_9_smith_adam_200.jpg"
-term_start: "1997-01-03"
-bioguide_id: S000510
+photo_url: "https://www.kslegislature.gov/static/li_pics/rep_smith_adam_1.jpg"
+openstates_id: ocd-person/c1802270-0126-4be5-b7e7-1a9a472f5fd7
 contact:
-  website: "https://adamsmith.house.gov/"
+  website: "https://openstates.org/person/adam-smith-5t84l1IlhVdjxR4pj67bKZ/"
 last_updated: "2026-07-19"
 ---
-

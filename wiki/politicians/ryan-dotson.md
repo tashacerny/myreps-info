@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house73.
 openstates_id: ocd-person/718ec3d2-325d-4ddf-b72b-728cea857222
 contact:
   website: "https://openstates.org/person/ryan-dotson-3SHNM2tAvgUe3VLDZ7WMSo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

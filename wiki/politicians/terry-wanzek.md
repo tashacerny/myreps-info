@@ -13,5 +13,5 @@ photo_url: "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo
 openstates_id: ocd-person/b40f2559-d9ae-41c2-b539-bd9c673cd90d
 contact:
   website: "https://openstates.org/person/terry-wanzek-5TlXVtDdPAl1yu1l1FS3Jt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

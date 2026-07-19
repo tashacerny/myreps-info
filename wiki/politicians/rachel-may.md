@@ -12,5 +12,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/4_3_medium/publi
 openstates_id: ocd-person/92f3f397-dd30-4d35-95dc-6381a8d9dcd5
 contact:
   website: "https://openstates.org/person/rachel-may-4TIMgX4emrFhNsvWU5hjML/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

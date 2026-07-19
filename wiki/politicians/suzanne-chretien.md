@@ -12,5 +12,5 @@ photo_url: "https://nhhousedems.org/wp-content/uploads/2024/10/suzanne_chretien.
 openstates_id: ocd-person/4c5b973d-20c9-4205-a69d-bed3b74ca391
 contact:
   website: "https://openstates.org/person/suzanne-chretien-2K5Gz4d531ueo9xSP0Vpgn/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

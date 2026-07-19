@@ -13,5 +13,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/AEmmons.jpg"
 openstates_id: ocd-person/24194dba-4d25-4b8c-be33-8ff50fcd8a8f
 contact:
   website: "https://openstates.org/person/alice-emmons-167HpNbBbOA7Ha8WWRTL5z/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

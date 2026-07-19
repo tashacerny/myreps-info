@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/
 openstates_id: ocd-person/39c4dae9-aee7-46f6-858d-e1eece72d79e
 contact:
   website: "https://openstates.org/person/gina-galfetti-1l0Waj2lZll2xDFTCCgbcc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

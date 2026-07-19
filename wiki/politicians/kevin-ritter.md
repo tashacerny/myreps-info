@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kevin
 openstates_id: ocd-person/94df9e98-c52e-466a-ba6b-29cc21ee02ea
 contact:
   website: "https://openstates.org/person/kevin-ritter-4Wv3e1bNYClzer8eYBGVxq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

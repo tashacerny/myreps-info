@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/d6bca004-d3ef-4015-9c88-b4d536110436
 contact:
   website: "https://openstates.org/person/jerry-schillinger-6XCYi9pJaqjat7SddFIZIE/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

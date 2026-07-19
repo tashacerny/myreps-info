@@ -13,5 +13,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/b5d0a278-d77b-49fe-88d4-2bd473055144
 contact:
   website: "https://openstates.org/person/kyle-pierce-5X4xMaRtn8EFY1zcTt7SY0/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

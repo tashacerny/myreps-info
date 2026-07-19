@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/06d3f385-e129-46a1-b8a3-88d1b5efa2c8
 contact:
   website: "https://openstates.org/person/lee-deming-CsoaXv9ZuAIt8diPCtIPA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

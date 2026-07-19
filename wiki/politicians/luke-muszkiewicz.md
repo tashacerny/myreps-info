@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/b86dc3b3-7ea1-4fee-a11c-151130205f55
 contact:
   website: "https://openstates.org/person/luke-muszkiewicz-5c0kXXyxMwkgutVNiLdOfl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

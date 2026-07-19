@@ -12,5 +12,5 @@ in_office: true
 openstates_id: ocd-person/0602a63c-7e36-4bb5-9a8a-21b7f684ff75
 contact:
   website: "https://openstates.org/person/george-nikolakakos-BLADC7Vc14WgIlrZj1UFp/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

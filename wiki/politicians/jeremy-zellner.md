@@ -12,5 +12,5 @@ photo_url: "https://ecdems.com/wp-content/uploads/2011/02/Jeremy-J-Zellner-heads
 openstates_id: ocd-person/6409bcf6-2def-4150-bf11-292ec93b72f6
 contact:
   website: "https://openstates.org/person/jeremy-zellner-32lgLasVQBd987zrCTN8pa/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

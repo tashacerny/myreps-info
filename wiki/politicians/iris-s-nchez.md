@@ -12,5 +12,5 @@ photo_url: "https://bloximages.chicago2.vip.townnews.com/newbritainherald.com/co
 openstates_id: ocd-person/30588b22-af2c-4f70-b824-c717ae60139f
 contact:
   website: "https://openstates.org/person/iris-sanchez-1TE5xk3z1jKiWTF8iKHq4V/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

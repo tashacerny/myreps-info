@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/2bf4a05c-14f0-4916-964b-48bdb20f4fdd
 contact:
   website: "https://openstates.org/person/clayton-wood-1KwSo4iiHxAB9jSbsZL4W5/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.vermont.gov/Documents/Legislators/Pinsonault,San
 openstates_id: ocd-person/86633f19-1d0c-437d-93b8-e715452c0d2c
 contact:
   website: "https://openstates.org/person/sandy-pinsonault-45aKJEBh70qg3STtzqJKlo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

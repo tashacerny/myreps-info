@@ -12,5 +12,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/545_sm.jpg
 openstates_id: ocd-person/faf89935-181a-4d19-9e4b-dce4657d4d3a
 contact:
   website: "https://openstates.org/person/ricky-hill-7dZgsMuMu4lHNkaA9XcV6A/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

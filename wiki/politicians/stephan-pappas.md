@@ -13,5 +13,5 @@ photo_url: "https://wyoleg.gov/LegislatorSummary/Photos/68th-PappasStephan.jpg"
 openstates_id: ocd-person/f46abbfe-3a0a-4657-a4ac-fbc418adfcc7
 contact:
   website: "https://openstates.org/person/stephan-pappas-7RCu8oJWHSeyRncoYu3w51/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

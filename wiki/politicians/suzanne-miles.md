@@ -13,5 +13,5 @@ photo_url: "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house7.j
 openstates_id: ocd-person/92576283-508e-4613-b1a0-3d227edf4068
 contact:
   website: "https://openstates.org/person/suzanne-miles-4S8oVkqDj965Dv5r7IzjuC/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

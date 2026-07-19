@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/8e6bc6cb-fe7e-4640-a938-eb32536e95c5
 contact:
   website: "https://openstates.org/person/meg-froelich-4KkAC9nuwiiQ82tCzqJjZF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

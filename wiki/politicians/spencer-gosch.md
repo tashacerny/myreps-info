@@ -13,5 +13,5 @@ photo_url: "https://sdlegislature.gov/inc/img/Legislators/Gosch_2017.jpg"
 openstates_id: ocd-person/138b5508-01b0-43ed-b8b6-ce9b9d07806f
 contact:
   website: "https://openstates.org/person/spencer-gosch-asWoBYp2x4aX8Vb2FqXPD/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

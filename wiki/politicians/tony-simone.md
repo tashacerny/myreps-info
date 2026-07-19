@@ -12,5 +12,5 @@ photo_url: "https://assembly.state.ny.us/write/upload/member_files/075/headshot/
 openstates_id: ocd-person/83e08970-f529-4270-adcb-e15c660d8b7a
 contact:
   website: "https://openstates.org/person/tony-simone-40qbiytw7KnDDEt1Sw0afS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

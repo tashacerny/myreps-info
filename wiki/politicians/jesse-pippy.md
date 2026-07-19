@@ -13,5 +13,5 @@ photo_url: "http://mgaleg.maryland.gov/2019RS/images/pippy01.jpg"
 openstates_id: ocd-person/208e3148-8653-4162-8c92-6ba02e15e59b
 contact:
   website: "https://openstates.org/person/jesse-pippy-zQjfa1bASrxa9kVFJeEEl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

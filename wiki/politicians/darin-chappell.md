@@ -12,5 +12,5 @@ photo_url: "https://house.mo.gov/MemberPhoto.aspx?id=2362"
 openstates_id: ocd-person/1cd15a85-b074-4d67-8fcd-1cbccfc924f4
 contact:
   website: "https://openstates.org/person/darin-chappell-sNSWJUQ4iEZk3u87J3Vsi/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

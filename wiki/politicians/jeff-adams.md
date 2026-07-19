@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/2288cf22-64f4-4f1f-b5e3-b1ada5c72914
 contact:
   website: "https://openstates.org/person/jeff-adams-13AGBVmXguE0aa5Sj0hwF2/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

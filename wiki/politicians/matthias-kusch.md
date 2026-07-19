@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/fb23dd18-ee42-45da-9fc5-8379ced56c88
 contact:
   website: "https://openstates.org/person/matthias-kusch-7dtSktaOh6qZZc1N70KOpE/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

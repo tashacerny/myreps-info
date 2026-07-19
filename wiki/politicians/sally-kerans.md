@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/SPK1.jpg"
 openstates_id: ocd-person/308b15a0-dc30-41be-be53-9e5827522cac
 contact:
   website: "https://openstates.org/person/sally-kerans-1TbBzkQ0wCxWfABNPWGf9w/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

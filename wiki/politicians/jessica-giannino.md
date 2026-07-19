@@ -12,5 +12,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/JAG1.jpg"
 openstates_id: ocd-person/0ed98993-456c-4630-bd52-894bdde0c0b0
 contact:
   website: "https://openstates.org/person/jessica-giannino-S1J3piJJst042dwWJGp4y/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

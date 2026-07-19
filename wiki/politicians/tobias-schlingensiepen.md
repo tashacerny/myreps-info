@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/62a93b88228a337fdf4f80
 openstates_id: ocd-person/9e2cc4ba-4ac7-4554-ac51-b41f2c3667d1
 contact:
   website: "https://openstates.org/person/tobias-schlingensiepen-4oTFJ7kR7W4UUThAM4ns01/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

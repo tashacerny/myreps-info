@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bill_
 openstates_id: ocd-person/eacc546e-93d4-4189-92fb-8c969b1b545c
 contact:
   website: "https://openstates.org/person/bill-stanley-793aAyPFPUAWF0OPtjzxsK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

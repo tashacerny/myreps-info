@@ -13,5 +13,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/drennan_sara
 openstates_id: ocd-person/003871b4-bf51-4bba-bacc-bf1ead7a9947
 contact:
   website: "https://openstates.org/person/sarah-drennan-PnIBu3JrpvrgvWAOILaB/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

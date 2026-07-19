@@ -12,5 +12,5 @@ photo_url: "http://www2.housedems.ct.gov/Parker/images/Parker_HS.jpg"
 openstates_id: ocd-person/7e0711c4-57d1-405e-afe7-33df0bf064d6
 contact:
   website: "https://openstates.org/person/john-michael-parker-3poGMWzbEusdXxdT1BNu9m/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

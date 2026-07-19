@@ -13,5 +13,5 @@ photo_url: "http://malegislature.gov/Legislators/Profile/170/DAS1.jpg"
 openstates_id: ocd-person/8f480d9c-0741-43bb-83a4-179745e1f3b2
 contact:
   website: "https://openstates.org/person/dan-sena-4MMpWvPISww1AnXmz68oGA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

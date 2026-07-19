@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/e603c478-27c7-4f68-ba31-4ef3732ab916
 contact:
   website: "https://openstates.org/person/irene-gifford-701xKTecOS6Su7UfQTf8QY/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

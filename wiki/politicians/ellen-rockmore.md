@@ -12,5 +12,5 @@ photo_url: "https://d34zq6icsxu12y.cloudfront.net/assets/uploads/136FB17E-F543-4
 openstates_id: ocd-person/194a44fa-ae6e-4f8a-80fa-1ba652df02ba
 contact:
   website: "https://openstates.org/person/ellen-rockmore-likSixi9XRcpv9R6fyP8s/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

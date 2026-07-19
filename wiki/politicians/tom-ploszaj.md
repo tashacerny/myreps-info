@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/8f685697-5fb0-4966-8cd0-ad3059650f8d
 contact:
   website: "https://openstates.org/person/tom-ploszaj-4MbaIYDhbXMLSpsMRj8Hlt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

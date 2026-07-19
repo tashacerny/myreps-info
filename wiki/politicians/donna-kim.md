@@ -12,5 +12,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/kim.jpg"
 openstates_id: ocd-person/f196e943-c8d6-4a35-96c2-252171c6529a
 contact:
   website: "https://openstates.org/person/donna-kim-7Ls7HKEvocluW9G5SQRatm/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

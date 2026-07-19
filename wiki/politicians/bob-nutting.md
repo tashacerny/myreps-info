@@ -13,5 +13,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/32f4600c-1bc1-4758-8d94-69878c863e00
 contact:
   website: "https://openstates.org/person/bob-nutting-1Y9IMHu1GP7xWJm7kOCEF6/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

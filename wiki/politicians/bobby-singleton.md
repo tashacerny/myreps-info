@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/senate/members/Singleton_24.
 openstates_id: ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493
 contact:
   website: "https://openstates.org/person/bobby-singleton-3MN8UmRm8fh486arTrCr0l/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

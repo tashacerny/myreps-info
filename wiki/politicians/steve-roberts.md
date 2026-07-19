@@ -12,5 +12,5 @@ photo_url: "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Roberts-2
 openstates_id: ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831
 contact:
   website: "https://openstates.org/person/steve-roberts-zf0KHGi0pdPIfK4qSmFLV/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

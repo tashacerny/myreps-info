@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/e6443187-eb51-42eb-8bd7-349ed0ba9641
 contact:
   website: "https://openstates.org/person/james-gray-70VOmV9fcGw0fHdNoF9Z8T/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

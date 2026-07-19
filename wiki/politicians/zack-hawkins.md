@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/742/Low"
 openstates_id: ocd-person/6dea5a89-20c8-4370-94c2-0dac7fe29d77
 contact:
   website: "https://openstates.org/person/zack-hawkins-3LPGL80WQhVLjs2DWHrIAR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

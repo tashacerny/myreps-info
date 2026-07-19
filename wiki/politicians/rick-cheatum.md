@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/di
 openstates_id: ocd-person/bb03d309-94c3-4d63-bb69-ede616be8c72
 contact:
   website: "https://openstates.org/person/rick-cheatum-5gtJOjXDKI0YmxLYSpW8qA/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

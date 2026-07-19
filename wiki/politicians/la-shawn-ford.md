@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{BCC3C8D6-5728-4A69-8A3B-F20
 openstates_id: ocd-person/91164a3d-fc17-4252-a31f-a8d0d113b74b
 contact:
   website: "https://openstates.org/person/la-shawn-ford-4Pm4aMOQbBJkn4jGXirA6t/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

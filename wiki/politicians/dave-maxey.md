@@ -13,5 +13,5 @@ photo_url: "https://docs.legis.wisconsin.gov/2023/legislators/assembly/2537.jpg"
 openstates_id: ocd-person/f20f569f-1f36-4856-9193-b4b938dfcdaf
 contact:
   website: "https://openstates.org/person/dave-maxey-7Ml9TIYtXni0SemS7mRAgJ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

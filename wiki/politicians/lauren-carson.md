@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/carson.jpg"
 openstates_id: ocd-person/320f08df-f7d3-4ebe-a696-9c2b8d98f75b
 contact:
   website: "https://openstates.org/person/lauren-carson-1WSUCq9x6TbHtyOq4OPTuV/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

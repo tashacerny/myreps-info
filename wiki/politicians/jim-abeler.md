@@ -13,5 +13,5 @@ photo_url: "https://www.senate.mn/graphics/35Abeler.jpg"
 openstates_id: ocd-person/fc189dd9-b597-4744-86d3-ac315b93a3f3
 contact:
   website: "https://openstates.org/person/jim-abeler-7fhJbY1QGx63YfijcSCbdD/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/w
 openstates_id: ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e
 contact:
   website: "https://openstates.org/person/scott-wiener-6lsgrCgvjfspYcr3jpsa5e/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

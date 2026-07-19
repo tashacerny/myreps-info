@@ -12,5 +12,5 @@ photo_url: "https://www.oregonlegislature.gov/isadore/PublishingImages/member_ph
 openstates_id: ocd-person/4a77ea61-457a-4111-bd2e-f2ee054ab4dc
 contact:
   website: "https://openstates.org/person/shannon-isadore-2GWEUYN3BNxy1jpDp4hW8a/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

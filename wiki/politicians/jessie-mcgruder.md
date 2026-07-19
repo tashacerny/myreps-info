@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jessi
 openstates_id: ocd-person/f81fdd7f-aa3e-4678-bc4f-870114f8b0ce
 contact:
   website: "https://openstates.org/person/jessie-mcgruder-7YCetHbT65j0ypjjyCp1ck/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

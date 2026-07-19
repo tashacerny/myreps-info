@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/burkhammer_a
 openstates_id: ocd-person/76544899-58ec-4065-a3e8-4a4d8a12b4eb
 contact:
   website: "https://openstates.org/person/adam-burkhammer-3bHbxeU86muRNrfYdD69Kl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

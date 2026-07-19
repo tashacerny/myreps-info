@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/e3cfa300-8d75-4217-9cc4-371aca7f77dd
 contact:
   website: "https://openstates.org/person/cindy-ledbetter-6vs9Cjs0LkiYfs9hmZZADt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

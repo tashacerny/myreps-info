@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/21e95dbc-c226-4f4a-9fa2-8f5b374d0a98
 contact:
   website: "https://openstates.org/person/mike-harrington-11zOW0iFUhodBfs591Kp56/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

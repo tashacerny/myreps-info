@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{EFDA6EE7-57E6-4ACA-BE60-02A
 openstates_id: ocd-person/4c05af2c-7756-4002-a45d-cc9f2f5acbfd
 contact:
   website: "https://openstates.org/person/dee-avelar-2JS0u0b360F5wfTXNSjOYf/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

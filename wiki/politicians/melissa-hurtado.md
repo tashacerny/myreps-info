@@ -13,5 +13,5 @@ photo_url: "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/s
 openstates_id: ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41
 contact:
   website: "https://openstates.org/person/melissa-hurtado-7GE7jO4olKnoRqh4MaC5lh/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

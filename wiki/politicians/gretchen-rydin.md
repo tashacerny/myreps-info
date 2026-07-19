@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Gretc
 openstates_id: ocd-person/e0edd86c-a50d-4e78-96ac-f3e8217de4a8
 contact:
   website: "https://openstates.org/person/gretchen-rydin-6qQyZCfA3bA7nNtCX9IcFE/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

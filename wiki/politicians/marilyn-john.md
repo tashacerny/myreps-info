@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/marilyn-s-john/headsh
 openstates_id: ocd-person/e4f9416c-1043-4737-899e-31410e94af1d
 contact:
   website: "https://openstates.org/person/marilyn-john-6y49xZmnvQo4m8CR32P8Y9/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

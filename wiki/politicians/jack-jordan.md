@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/12a4df88-7cf2-453c-9cb8-dc5d4a2f6b55
 contact:
   website: "https://openstates.org/person/jack-jordan-ZBCxvQo0sCykJlqgQpqPl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

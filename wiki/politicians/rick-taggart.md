@@ -13,5 +13,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b
 contact:
   website: "https://openstates.org/person/rick-taggart-2qlpGlHeOCKZ7nU3i8RYyZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

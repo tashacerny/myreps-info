@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{5F0F6F55-F573-4F05-B495-878
 openstates_id: ocd-person/4a588ccf-b32f-4b66-978a-3415f71d2774
 contact:
   website: "https://openstates.org/person/jason-bunting-2GHtmN0zgFdPflg1THeaQe/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

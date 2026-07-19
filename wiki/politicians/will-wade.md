@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/wade-wi
 openstates_id: ocd-person/97a002db-6151-4fdf-9bce-013a6344764f
 contact:
   website: "https://openstates.org/person/will-wade-4c6xvumknUctjjrL1jLkqt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

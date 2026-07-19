@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{808BAA30-BB82-437A-9A76-386
 openstates_id: ocd-person/c1ebba3c-4fc2-4b66-9ecc-e20aa4f793a9
 contact:
   website: "https://openstates.org/person/theresa-mah-5tvFIxpWcFhPAcXfbEEKNt/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

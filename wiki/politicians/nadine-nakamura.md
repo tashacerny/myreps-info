@@ -13,5 +13,5 @@ photo_url: "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/Nakamura.jpg"
 openstates_id: ocd-person/aa2e4b09-2c1e-4fa2-b135-7d2427dca5b4
 contact:
   website: "https://openstates.org/person/nadine-nakamura-5B7qnXXROQMveuLOcbwD5A/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

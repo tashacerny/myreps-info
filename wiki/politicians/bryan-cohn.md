@@ -12,5 +12,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bryan
 openstates_id: ocd-person/e596d2ce-a208-475c-a9c1-15e25ccb3404
 contact:
   website: "https://openstates.org/person/bryan-cohn-6zEAV9sp9j43JHMgr7Hsgu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

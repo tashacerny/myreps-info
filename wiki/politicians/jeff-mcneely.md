@@ -13,5 +13,5 @@ photo_url: "https://www.ncleg.gov/Members/MemberImage/H/761/Low"
 openstates_id: ocd-person/09d4ccb5-4456-4f33-aea7-36f3e2ef9e43
 contact:
   website: "https://openstates.org/person/jeff-mcneely-IYBCQ5jztF7wnCk2FGJgR/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

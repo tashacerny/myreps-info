@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/339_sm.jpg
 openstates_id: ocd-person/536c6536-294f-499b-a261-120a685297f0
 contact:
   website: "https://openstates.org/person/stephanie-flowers-2XPtnQuC7cf7i0XXezQ28u/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

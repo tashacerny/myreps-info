@@ -13,5 +13,5 @@ photo_url: "https://senate.la.gov/SenatorPics/Sen25.jpg"
 openstates_id: ocd-person/addae848-cfaf-4637-a23e-595e45c6e14f
 contact:
   website: "https://openstates.org/person/mark-abraham-5I3iEjxGE959xPPyTwipl1/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

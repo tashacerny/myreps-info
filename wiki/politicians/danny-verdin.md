@@ -13,5 +13,5 @@ photo_url: "https://scstatehouse.gov/images/members/1874999775.jpg"
 openstates_id: ocd-person/0ed8d824-c5b2-47c6-9970-2c475cbfd9ac
 contact:
   website: "https://openstates.org/person/danny-verdin-S0zQGjMFgN6MJHamC4CUO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2024/house/hillenbrand_
 openstates_id: ocd-person/5e9dad08-2267-4354-b695-814e1014a0ec
 contact:
   website: "https://openstates.org/person/rick-hillenbrand-2sXKslHRSNWeNmXQ9gnG72/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

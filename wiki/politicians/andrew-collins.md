@@ -13,5 +13,5 @@ photo_url: "https://www.arkleg.state.ar.us/Content/photos/2023/House/566_sm.jpg"
 openstates_id: ocd-person/5143965d-c539-411e-8a15-74ebbcbb7cd7
 contact:
   website: "https://openstates.org/person/andrew-collins-2TLGUV93lRCJllnZNnCCEp/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

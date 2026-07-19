@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/18265.jpg"
 openstates_id: ocd-person/4f14e499-9199-43c4-a4c0-9d7320b9d769
 contact:
   website: "https://openstates.org/person/june-robinson-2PDwOptnLsqULkxaXuc3yb/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

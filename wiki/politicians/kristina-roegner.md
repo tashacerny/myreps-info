@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/kristina-d-roegner/he
 openstates_id: ocd-person/936e5d50-e145-494b-a397-f56570530816
 contact:
   website: "https://openstates.org/person/kristina-roegner-4UCJ8zfVIN2VA0SaAUHzOw/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

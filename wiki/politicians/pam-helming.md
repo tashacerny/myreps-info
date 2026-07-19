@@ -13,5 +13,5 @@ photo_url: "https://www.nysenate.gov/sites/default/files/styles/senator_hero/pub
 openstates_id: ocd-person/fb2db4c8-a730-4fe7-b5e3-4d0156e46a1d
 contact:
   website: "https://openstates.org/person/pam-helming-7dxxdO1Bh128fe9z8hBY21/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

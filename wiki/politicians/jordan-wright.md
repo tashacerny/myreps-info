@@ -12,5 +12,5 @@ photo_url: "https://static.wixstatic.com/media/de9c5c_2dc7bbf2df8248b58511913d9e
 openstates_id: ocd-person/3f77833f-4ab3-45b2-9cca-ee51f69e65ba
 contact:
   website: "https://openstates.org/person/jordan-wright-1vl8JHmP6B0lQyLyRsCnv8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

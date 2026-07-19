@@ -12,5 +12,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Chestnut_67.pn
 openstates_id: ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3
 contact:
   website: "https://openstates.org/person/prince-chestnut-5Pgkfy6vjLZc678nHdhzZT/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

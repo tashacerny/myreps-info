@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/6328e7f7-d952-4d28-98b8-75a9a6f50c8d
 contact:
   website: "https://openstates.org/person/dan-innis-316vwJ4rlsfOolZJqG8hxN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

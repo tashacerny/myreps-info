@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/86852522-4c4d-46ae-8a59-d81a16ad179a
 contact:
   website: "https://openstates.org/person/kadeem-roberts-45ponISqQT58lVrHREnu4A/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

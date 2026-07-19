@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Suzan
 openstates_id: ocd-person/e8b970b6-7dee-4073-bc8a-2e6d00193742
 contact:
   website: "https://openstates.org/person/suzanne-wikle-758xuUDECfqq6wHDPfHMPq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

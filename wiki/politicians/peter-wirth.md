@@ -13,5 +13,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/Senate/SWIRT.jpg"
 openstates_id: ocd-person/7595b557-0c70-44e3-a26b-af533d1ca94d
 contact:
   website: "https://openstates.org/person/peter-wirth-3ZsWBgUvsam3VMZeYvxZ3F/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

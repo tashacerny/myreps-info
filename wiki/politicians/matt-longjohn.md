@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/mlong
 openstates_id: ocd-person/cf865d78-f3ea-43f7-b843-a06dbb4bf4be
 contact:
   website: "https://openstates.org/person/matt-longjohn-6JaodTRQLOUBAeWfWYsb1y/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

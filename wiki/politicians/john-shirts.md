@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/7fb821ae-d24a-4e5c-b7bf-70c04b00b269
 contact:
   website: "https://openstates.org/person/john-shirts-3t0AmRGckbeyQ8AUeHr0hN/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

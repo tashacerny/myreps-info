@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/b07e421b-8c1f-473d-aa7a-10d71e8a443b
 contact:
   website: "https://openstates.org/person/katrina-smith-5N2LgKrQoT5irWwUItVRbX/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

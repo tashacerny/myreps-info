@@ -13,5 +13,5 @@ photo_url: "http://www.flsenate.gov/PublishedContent/Senators/2014-2016/Photos/s
 openstates_id: ocd-person/c45cbed2-9b2e-4507-a6d1-3f960d330c34
 contact:
   website: "https://openstates.org/person/don-gaetz-5yWsc0gS1cez67V9vX3Xjo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

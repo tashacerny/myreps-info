@@ -13,5 +13,5 @@ photo_url: "https://www.legis.state.pa.us/images/members/200/1101.jpg?1703415645
 openstates_id: ocd-person/f4071288-fa18-48bb-99f1-41abd60d215e
 contact:
   website: "https://openstates.org/person/dan-moul-7QTMJNtxMCoj6ZYdU7ZTN0/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

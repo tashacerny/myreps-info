@@ -12,5 +12,5 @@ photo_url: "https://leg.wa.gov/memberphoto/30127.jpg"
 openstates_id: ocd-person/193dce49-ab25-4608-b4d2-65d80fd3d46c
 contact:
   website: "https://openstates.org/person/alex-ramel-ld3JgoThlxqYUAvBvhpMq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

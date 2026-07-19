@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_francisco_marci_1.j
 openstates_id: ocd-person/4fca7c3e-1f7c-455e-b555-a293ff578e60
 contact:
   website: "https://openstates.org/person/marci-francisco-2QYveTBwAJSO4r50MP5rgu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

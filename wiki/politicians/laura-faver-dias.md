@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{B0DFD215-F36D-47A7-B7BE-909
 openstates_id: ocd-person/f0ab36db-6498-4d90-9b11-0191637421d2
 contact:
   website: "https://openstates.org/person/laura-faver-dias-7K8P1Wr6DSZ2QD9er9zqlO/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

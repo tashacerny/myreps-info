@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.state.al.us/pdf/house/members/Daniels_53.png
 openstates_id: ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688
 contact:
   website: "https://openstates.org/person/anthony-daniels-4YyswWygCvjxXIdZtx055k/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/bergen_brian_2020
 openstates_id: ocd-person/006c1bd9-54e9-49be-9d02-12dda1119149
 contact:
   website: "https://openstates.org/person/brian-bergen-nPA65aatPkHFD7jjZlPd/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

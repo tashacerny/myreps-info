@@ -13,5 +13,5 @@ photo_url: "http://www2.housedems.ct.gov/Gilchrest/images/Gilchrest_HS.jpg"
 openstates_id: ocd-person/26149cc4-f15a-46fb-a9a5-7bc0544dc287
 contact:
   website: "https://openstates.org/person/jill-gilchrest-19r7xDkk27TufKsfCr9C2J/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

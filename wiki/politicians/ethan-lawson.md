@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/bab7e849-4075-4199-b251-34d5f35cc157
 contact:
   website: "https://openstates.org/person/ethan-lawson-5gKcMMeS78a8Oqub9UcBM7/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

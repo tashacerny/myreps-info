@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/772f5157-b959-4aed-beaa-6bd67ab8fefe
 contact:
   website: "https://openstates.org/person/joe-guthrie-3cti5mOpijLRl0HbxYBkwI/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

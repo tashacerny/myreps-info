@@ -13,5 +13,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2023/di
 openstates_id: ocd-person/bcb4f50c-1f70-484a-90c2-65652b6a1133
 contact:
   website: "https://openstates.org/person/james-ruchti-5k5FonyGvHUrbT03MOn9ff/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

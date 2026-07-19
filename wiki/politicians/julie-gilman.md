@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/77ca15e6-ebe1-4ef5-8bc9-ed3dff861f38
 contact:
   website: "https://openstates.org/person/julie-gilman-3e2RIODHYpPBTkJTeqP9ei/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

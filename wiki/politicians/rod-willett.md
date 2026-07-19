@@ -12,5 +12,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H03
 openstates_id: ocd-person/8ec90d7b-fd5f-4157-b779-1979e7a54e76
 contact:
   website: "https://openstates.org/person/rod-willett-4LQn5WhzLXATmFhgLRXIk2/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

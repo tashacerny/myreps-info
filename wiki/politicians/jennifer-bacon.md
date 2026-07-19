@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26
 contact:
   website: "https://openstates.org/person/jennifer-bacon-2H0XntI4KKBHGXdml0x11S/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

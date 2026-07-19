@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_rahjes_ken_1.jpg"
 openstates_id: ocd-person/782cdea1-59a1-4930-8126-ffd1264420f9
 contact:
   website: "https://openstates.org/person/ken-rahjes-3elaFgT06eFJFnEph0wNXF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmF
 openstates_id: ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2
 contact:
   website: "https://openstates.org/person/karen-mccormick-3b1UVZ9yya3A6mrYJJYJ7q/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

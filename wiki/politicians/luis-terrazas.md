@@ -12,5 +12,5 @@ photo_url: "https://www.nmlegis.gov/Images/Legislators/House/HTERR.jpg"
 openstates_id: ocd-person/6f02eec7-0afe-4f15-ad56-653148da00c0
 contact:
   website: "https://openstates.org/person/luis-terrazas-3NTUI0CSc3LAMo0GYq3A2q/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

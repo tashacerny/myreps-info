@@ -13,5 +13,5 @@ photo_url: "https://www.legislature.ohio.gov/assets/people/susan-manchester/head
 openstates_id: ocd-person/0e44b586-f6a4-44ee-b6b7-37fa8dc2e8cd
 contact:
   website: "https://openstates.org/person/susan-manchester-QvI9DMxUYLgPkyAq7LRAj/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

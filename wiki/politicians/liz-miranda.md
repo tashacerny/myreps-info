@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/L%20M0.jpg"
 openstates_id: ocd-person/703d6d4e-3a1d-4a2e-82e3-3c9693b75953
 contact:
   website: "https://openstates.org/person/liz-miranda-3PnDC6zN1arbIqrGvfkOlH/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

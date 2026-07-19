@@ -13,5 +13,5 @@ photo_url: "https://webapi.assembly.ca.gov/district-media/assets/members/assembl
 openstates_id: ocd-person/62102f53-b531-4290-9699-05a0d7687cae
 contact:
   website: "https://openstates.org/person/stephanie-nguyen-2z2dxeeS7Oi6uNxZ5WWhYc/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

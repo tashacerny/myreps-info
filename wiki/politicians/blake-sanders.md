@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Blake
 openstates_id: ocd-person/ddb2ac02-4d91-4379-8c8b-da2353f2163a
 contact:
   website: "https://openstates.org/person/blake-sanders-6kKxMqDRTNcpnP0fQxwxQY/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

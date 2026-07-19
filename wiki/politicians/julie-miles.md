@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/44b33c8b-b7ee-41e3-a7a4-601a53746e36
 contact:
   website: "https://openstates.org/person/julie-miles-25dO9Q7hfxp4ObC8rHLY7q/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

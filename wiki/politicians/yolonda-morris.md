@@ -12,5 +12,5 @@ photo_url: "https://cdn.ilga.gov/assets/img/members/{2EDE65F3-F463-4E44-B703-6B0
 openstates_id: ocd-person/753dc145-9162-4e02-9b76-836be48498cb
 contact:
   website: "https://openstates.org/person/yolonda-morris-3ZEK6pFybBXGIg6pQGECtv/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

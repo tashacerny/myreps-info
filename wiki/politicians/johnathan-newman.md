@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Johna
 openstates_id: ocd-person/9d7cc971-9ed9-4918-b93f-39d41d35e565
 contact:
   website: "https://openstates.org/person/johnathan-newman-4nAp20yAkEAwtMN0OY5cYP/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

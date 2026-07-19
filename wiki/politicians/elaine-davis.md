@@ -13,5 +13,5 @@ photo_url: "https://images.squarespace-cdn.com/content/v1/62669899a296e67b1d3496
 openstates_id: ocd-person/4c4c679e-fb3d-4ad2-bdfe-f7c077f2d82a
 contact:
   website: "https://openstates.org/person/elaine-davis-2JyKhcSdS5EO6OJNRVRGrS/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

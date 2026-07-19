@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/4280.jpg?v=1"
 openstates_id: ocd-person/2662f888-95e0-4de3-be5b-3d023623c447
 contact:
   website: "https://openstates.org/person/stan-kitzman-1AQwAWpq7Ot9g0Iofnyb4h/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

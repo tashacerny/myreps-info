@@ -13,5 +13,5 @@ photo_url: "https://senatedems.com/cavanagh/wp-content/uploads/sites/12/2022/12/
 openstates_id: ocd-person/a9e6b2e4-016d-481e-9f34-1f1b33d857ca
 contact:
   website: "https://openstates.org/person/mary-cavanagh-5Ab8EsXwKhLJULqck9UCDK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

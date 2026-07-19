@@ -12,5 +12,5 @@ photo_url: "https://www.wvlegislature.gov/images/members/2025/house/hornby_mike.
 openstates_id: ocd-person/b76899a3-5189-495c-af2f-9ca8a4e8036e
 contact:
   website: "https://openstates.org/person/mike-hornby-5a5Ogpj5hl9xXJSCNG5hiY/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

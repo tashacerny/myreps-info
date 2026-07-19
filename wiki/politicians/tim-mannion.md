@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/5e093007-fbc4-44da-a096-5eac6ae040f2
 contact:
   website: "https://openstates.org/person/tim-mannion-2rRTbTd6PSY20SdFnPRj5m/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/2
 openstates_id: ocd-person/85f716aa-751a-4258-a68b-f6ed94b2daa0
 contact:
   website: "https://openstates.org/person/lyndon-yearick-44mtkmU4YP9AftXLuSlSPQ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

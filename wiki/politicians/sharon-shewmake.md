@@ -13,5 +13,5 @@ photo_url: "https://leg.wa.gov/memberphoto/29108.jpg"
 openstates_id: ocd-person/d95d04c7-e3d0-4120-91c6-2bbeba4c8acb
 contact:
   website: "https://openstates.org/person/sharon-shewmake-6c9qMg4j0ooTYp1F1zRMgl/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

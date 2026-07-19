@@ -13,5 +13,5 @@ photo_url: "https://malegislature.gov/Legislators/Profile/170/WNB0.jpg"
 openstates_id: ocd-person/94929da6-2219-4a44-99c3-d6561eead9f5
 contact:
   website: "https://openstates.org/person/will-brownsberger-4WLrocvNAmh5WHS3m85Y9d/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

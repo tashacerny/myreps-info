@@ -13,5 +13,5 @@ photo_url: "https://memdata.virginiageneralassembly.gov/images/display_image/H02
 openstates_id: ocd-person/bf425b62-d078-45bd-957c-baceb4bfad1b
 contact:
   website: "https://openstates.org/person/mike-webert-5otrIbDQJz16z8xpN5TA8x/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

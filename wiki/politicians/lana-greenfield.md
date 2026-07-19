@@ -13,5 +13,5 @@ photo_url: "https://sdlegislature.gov/inc/img/Legislators/GreenfieldLana_2017.jp
 openstates_id: ocd-person/7eefd193-a618-4a9b-b416-cd495239ead6
 contact:
   website: "https://openstates.org/person/lana-greenfield-3rWd69iFDnbRYVMcd0B9xW/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

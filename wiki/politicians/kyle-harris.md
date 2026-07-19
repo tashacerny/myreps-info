@@ -12,5 +12,5 @@ photo_url: "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2025/di
 openstates_id: ocd-person/0c646770-75cb-4f65-b2af-fd7c933dfe24
 contact:
   website: "https://openstates.org/person/kyle-harris-NNn9AMnPCUdtklLjv6Mx2/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

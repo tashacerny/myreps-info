@@ -13,5 +13,5 @@ photo_url: "http://billstatus.ls.state.ms.us/members/house/rosebud.jpg"
 openstates_id: ocd-person/b37913d2-9f6e-4f1c-b6c8-7a19863be463
 contact:
   website: "https://openstates.org/person/tracey-rosebud-5SexSfhZHd2BfsbuQsHLCF/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

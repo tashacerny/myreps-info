@@ -12,5 +12,5 @@ photo_url: "https://img1.wsimg.com/isteam/ip/738dae47-37b5-49b6-abe3-e67d73f8b06
 openstates_id: ocd-person/0e14232e-aea6-4da6-9380-c59375f58e7c
 contact:
   website: "https://openstates.org/person/bill-palmer-QZ5uklHvuL72wDLF0Loxo/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

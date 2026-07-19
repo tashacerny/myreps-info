@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/7daef9db-7675-4d8e-8e78-b943a24fd5b7
 contact:
   website: "https://openstates.org/person/alex-zimmerman-3pA0Jisy4zw1eNI0xrHwgx/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -12,5 +12,5 @@ photo_url: "https://legislature.maine.gov/house/house/Repository/MemberProfiles/
 openstates_id: ocd-person/522f7557-1c06-451b-9c81-78080fc5c21c
 contact:
   website: "https://openstates.org/person/poppy-arford-2V53g7OUGd02SWAbNDUfkK/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

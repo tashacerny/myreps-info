@@ -12,5 +12,5 @@ photo_url: "https://www.citizenscount.org/sites/default/files/styles/profile_140
 openstates_id: ocd-person/db534ca2-9d91-4578-b093-9b3ed61695eb
 contact:
   website: "https://openstates.org/person/merryl-gibbs-6frO1dPvWewaLKwxbKQ69L/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

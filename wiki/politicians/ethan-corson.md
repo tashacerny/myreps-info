@@ -13,5 +13,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/sen_corson_ethan_1.jpg"
 openstates_id: ocd-person/76d729c5-1b4d-4966-8c99-5ac8b74d8719
 contact:
   website: "https://openstates.org/person/ethan-corson-3cFQJUOQQYkyr4epoKoUh7/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/c3c9bb99-9512-4bec-be04-d8b29ea96f3e
 contact:
   website: "https://openstates.org/person/david-luneau-5xRh965jLOTr8lJqXQ7omE/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

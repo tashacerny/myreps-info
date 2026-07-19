@@ -13,5 +13,5 @@ photo_url: "http://www.wvlegislature.gov/images/members/2023/house/sheedy_charle
 openstates_id: ocd-person/338acc2a-d910-4c29-aa94-bf39fbebdeec
 contact:
   website: "https://openstates.org/person/chuck-sheedy-1ZG2RA4couX80QnlxcMX7c/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

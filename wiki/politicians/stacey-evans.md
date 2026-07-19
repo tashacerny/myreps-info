@@ -13,5 +13,5 @@ photo_url: "https://www.legis.ga.gov/api/images/default-source/portraits/evans-s
 openstates_id: ocd-person/fa5d8d09-a0b9-4ba4-93da-a24902530416
 contact:
   website: "https://openstates.org/person/stacey-evans-7cQpkM9vRCm4y7uh01kS5G/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

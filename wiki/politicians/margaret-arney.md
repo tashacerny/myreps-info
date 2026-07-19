@@ -13,5 +13,5 @@ photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brenn
 openstates_id: ocd-person/74ee2a17-e955-441b-9dca-32feb5fba9b0
 contact:
   website: "https://openstates.org/person/margaret-arney-3Ydwz60REbTq5FEi65vbHs/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

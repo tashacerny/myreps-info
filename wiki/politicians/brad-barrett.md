@@ -12,5 +12,5 @@ photo_url: "https://www.kslegislature.gov/static/li_pics/rep_barrett_bradley_1.j
 openstates_id: ocd-person/cb7f246f-5619-4086-8e6a-79614bcbaca6
 contact:
   website: "https://openstates.org/person/brad-barrett-6BzXt3xY4cqh73LmRZmUQI/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

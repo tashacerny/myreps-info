@@ -12,5 +12,5 @@ photo_url: "https://www.indianahouserepublicans.com/clientuploads/directory/memb
 openstates_id: ocd-person/20851625-bc7c-41ed-841e-27af062bc03e
 contact:
   website: "https://openstates.org/person/bob-morris-zMZex9L24jTdxeRnd6olq/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

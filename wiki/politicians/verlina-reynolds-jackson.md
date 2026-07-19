@@ -13,5 +13,5 @@ photo_url: "https://www.njleg.state.nj.us/members/memberphotos/reynolds-jackson_
 openstates_id: ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf
 contact:
   website: "https://openstates.org/person/verlina-reynolds-jackson-5U1tFmWVWT3Oz9sG4ypksx/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

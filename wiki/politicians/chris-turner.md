@@ -13,5 +13,5 @@ photo_url: "https://house.texas.gov/images/members/4680.jpg?v=1"
 openstates_id: ocd-person/a5e2021c-8221-41ba-b45c-cc89d13b2af2
 contact:
   website: "https://openstates.org/person/chris-turner-5311Ev5ALf0iv5F0m0ZsB8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

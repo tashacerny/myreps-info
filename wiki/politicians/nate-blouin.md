@@ -13,5 +13,5 @@ photo_url: "https://le.utah.gov/images/legislator/BLOUIN.jpg"
 openstates_id: ocd-person/c9f2ef36-ee69-4e91-9da9-6c9311334912
 contact:
   website: "https://openstates.org/person/nate-blouin-694ThXnTt6QLVBfXkDqgXy/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

@@ -13,5 +13,5 @@ photo_url: "https://oksenate.gov/sites/default/files/Weaver%2C%20Darrell_flags.j
 openstates_id: ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888
 contact:
   website: "https://openstates.org/person/darrell-weaver-5niZQWIoMnUkHPjynvQ61I/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

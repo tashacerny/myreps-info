@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/40ae4adb-2124-47ca-82b5-9eee794af4a2
 contact:
   website: "https://openstates.org/person/linda-gould-1y39y2E8Wh6fPxxHwqFyl8/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

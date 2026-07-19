@@ -13,5 +13,5 @@ photo_url: "http://www.rilegislature.gov/representatives/pictures/messier.jpg"
 openstates_id: ocd-person/cad61cfb-b3e8-417a-934e-1add601d4cba
 contact:
   website: "https://openstates.org/person/mary-messier-6AkIbRjlypbRK0rP2gIgxu/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

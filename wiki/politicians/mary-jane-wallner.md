@@ -13,5 +13,5 @@ photo_url: "https://storage.googleapis.com/enview-dev-public-general/legislative
 openstates_id: ocd-person/0e6f806c-ba57-4dc6-b6b4-f2a926288ca3
 contact:
   website: "https://openstates.org/person/mary-jane-wallner-REqdTKQAG3ZRIZFOJa1gZ/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---

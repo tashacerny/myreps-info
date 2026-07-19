@@ -12,5 +12,5 @@ photo_url: "https://storage.googleapis.com/enview-public-general/legislative-peo
 openstates_id: ocd-person/628312bf-7920-44b7-b226-90c92f92a123
 contact:
   website: "https://openstates.org/person/andre-carroll-2zt9DWdNnN8xhKaik0FMKh/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
