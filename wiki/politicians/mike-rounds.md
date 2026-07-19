@@ -12,6 +12,6 @@ term_start: "2015-01-03"
 bioguide_id: R000605
 contact:
   website: "https://www.rounds.senate.gov"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
 

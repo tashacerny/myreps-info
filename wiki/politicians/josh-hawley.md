@@ -12,6 +12,6 @@ term_start: "2019-01-03"
 bioguide_id: H001089
 contact:
   website: "https://www.hawley.senate.gov"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
 

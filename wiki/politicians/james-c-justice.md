@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: J000312
 contact:
   website: "https://www.justice.senate.gov/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
 

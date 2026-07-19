@@ -12,6 +12,6 @@ term_start: "2021-01-03"
 bioguide_id: M001198
 contact:
   website: "https://www.marshall.senate.gov"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
 

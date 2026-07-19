@@ -12,6 +12,6 @@ term_start: "1985-01-03"
 bioguide_id: M000355
 contact:
   website: "https://www.mcconnell.senate.gov/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
 

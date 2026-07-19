@@ -12,6 +12,6 @@ term_start: "2017-01-03"
 bioguide_id: V000128
 contact:
   website: "https://www.vanhollen.senate.gov"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
 

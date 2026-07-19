@@ -12,6 +12,6 @@ term_start: "2001-01-03"
 bioguide_id: C000127
 contact:
   website: "https://www.cantwell.senate.gov"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
 

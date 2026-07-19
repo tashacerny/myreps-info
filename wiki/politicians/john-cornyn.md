@@ -12,6 +12,6 @@ term_start: "2002-01-03"
 bioguide_id: C001056
 contact:
   website: "https://www.cornyn.senate.gov/"
-last_updated: "2026-07-12"
+last_updated: "2026-07-19"
 ---
 
