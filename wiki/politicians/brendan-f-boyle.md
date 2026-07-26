@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: B001296
 contact:
   website: "https://boyle.house.gov/"
-last_updated: "2026-07-19"
+last_updated: "2026-07-26"
 ---
 
