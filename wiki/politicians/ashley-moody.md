@@ -12,6 +12,6 @@ term_start: "2025-01-03"
 bioguide_id: M001244
 contact:
   website: "https://www.moody.senate.gov"
-last_updated: "2026-07-26"
+last_updated: "2026-08-02"
 ---
 

@@ -11,6 +11,6 @@ term_start: "2026-01-03"
 bioguide_id: G000608
 contact:
   website: "https://www.dgraham.senate.gov/"
-last_updated: "2026-07-26"
+last_updated: "2026-08-02"
 ---
 
