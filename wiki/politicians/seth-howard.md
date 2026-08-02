@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 30B
 district: 30B
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/howard01.jpg"
 openstates_id: ocd-person/32a0f09e-394f-446c-93c7-9cff2ea28b83
 contact:

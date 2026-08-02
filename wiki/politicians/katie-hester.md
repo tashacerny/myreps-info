@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 9
 district: 9
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/hester01.jpg"
 openstates_id: ocd-person/232b5c5d-87e8-4ce9-921c-8c05af96afd4
 contact:

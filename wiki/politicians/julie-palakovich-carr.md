@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 17
 district: 17
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/palakovich01.jpg"
 openstates_id: ocd-person/0d479110-74e8-45dd-bc01-330a169918b1
 contact:

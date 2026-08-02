@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 1
 district: 1
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/mckay02.jpg"
 openstates_id: ocd-person/5bdf592a-c502-4b60-8799-8ed681950475
 contact:

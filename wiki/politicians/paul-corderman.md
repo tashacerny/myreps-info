@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 2
 district: 2
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2018RS/images/corderman01.jpg"
 openstates_id: ocd-person/6605f7aa-80cb-4ee0-8d0d-18cff943f158
 contact:

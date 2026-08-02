@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 1A
 district: 1A
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/hinebaugh01.jpg"
 openstates_id: ocd-person/bb4f12c9-db2f-449d-a3a3-a7f77ad5d1f9
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 46
 district: 46
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2020RS/images/clippinger.jpg"
 openstates_id: ocd-person/1403e204-8965-4cb4-adcb-6754808e119a
 contact:

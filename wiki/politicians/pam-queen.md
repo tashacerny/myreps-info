@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MD State House, District 14
 district: 14
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/queen01.jpg"
 openstates_id: ocd-person/aa70aec7-1d13-4ac0-912d-408ae8ee0763
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 30
 district: 30
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/henson02.jpg"
 openstates_id: ocd-person/be45d2a1-057a-49ea-a810-5317478c26b1
 contact:

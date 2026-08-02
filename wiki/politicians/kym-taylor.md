@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 23
 district: 23
-in_office: true
+in_office: false
 photo_url: "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kym_Taylor.jpg"
 openstates_id: ocd-person/f14ad8e7-adc9-44f2-95eb-8b29c34aa4dc
 contact:

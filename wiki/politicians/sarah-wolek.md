@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 16
 district: 16
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/wolek01.jpg"
 openstates_id: ocd-person/80095967-58e7-4c8b-a675-eb1c461104fc
 contact:

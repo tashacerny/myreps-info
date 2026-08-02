@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 47A
 district: 47A
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/fennell01.jpg"
 openstates_id: ocd-person/3235313d-d279-4aaf-97fd-476d4c79c11a
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 46
 district: 46
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/edelson01.jpg"
 openstates_id: ocd-person/d09ea440-65a0-4e4f-81dd-201202f1ff3c
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 27
 district: 27
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2026RS/images/harris03.jpg"
 openstates_id: ocd-person/0b93e4f5-9d81-4c35-a9d3-04ad1375bae9
 contact:

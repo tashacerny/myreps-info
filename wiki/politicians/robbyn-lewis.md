@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 46
 district: 46
-in_office: true
+in_office: false
 photo_url: "http://msa.maryland.gov/msa/mdmanual/06hse/images/1198-1-07944b.jpg"
 openstates_id: ocd-person/d0e4f14b-c4a3-485e-88f7-ea7a86f67ca1
 contact:

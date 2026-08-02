@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 47A
 district: 47A
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/ivey01.jpg"
 openstates_id: ocd-person/e57fb9b8-7870-4bd2-8f46-df05edf038ac
 contact:

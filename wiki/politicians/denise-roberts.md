@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MD State House, District 25
 district: 25
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2024RS/images/roberts01.jpg"
 openstates_id: ocd-person/59787563-473b-4975-a473-4a1e4d505905
 contact:

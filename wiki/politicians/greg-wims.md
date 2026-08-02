@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 39
 district: 39
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/wims01.jpg"
 openstates_id: ocd-person/330c3ef8-92a2-41fc-9ef8-877d389aecdf
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 3
 district: 3
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/simpson01.jpg"
 openstates_id: ocd-person/fd61aa90-0a23-4cc2-8c6f-9fae2aa49a81
 contact:

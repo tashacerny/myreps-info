@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 31
 district: 31
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/nkongolo01.jpg"
 openstates_id: ocd-person/fd113fb7-c248-4277-9e39-d975898d4a1a
 contact:

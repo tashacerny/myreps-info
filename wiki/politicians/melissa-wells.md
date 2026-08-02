@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 40
 district: 40
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/wells02.jpg"
 openstates_id: ocd-person/55cb04cb-cd28-44ed-a4a4-dcb2b064ede9
 contact:

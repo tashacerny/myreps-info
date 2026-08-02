@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 35A
 district: 35A
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/reilly01.jpg"
 openstates_id: ocd-person/ad9925ab-ab4a-46e9-a316-4d3a964736a3
 contact:

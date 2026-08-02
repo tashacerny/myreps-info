@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House
 district: 
-in_office: true
+in_office: false
 photo_url: "https://governor.maryland.gov/PublishingImages/governor-wes-moore-official-portrait-web.jpg"
 openstates_id: ocd-person/a6a4f3ad-59c0-471c-8fd3-ea06a8e21a87
 contact:

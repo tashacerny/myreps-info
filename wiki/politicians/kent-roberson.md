@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MD State House, District 25
 district: 25
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2024RS/images/roberson01.jpg"
 openstates_id: ocd-person/a6771d68-fa3d-4ced-a613-3543f54fe153
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 41
 district: 41
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/ruff01.jpg"
 openstates_id: ocd-person/8ae09510-12a7-41f7-ae83-82b48e3b9af4
 contact:

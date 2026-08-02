@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 16
 district: 16
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2024RS/images/woorman01.jpg"
 openstates_id: ocd-person/3347216b-1b03-4426-b469-1f69a709de40
 contact:

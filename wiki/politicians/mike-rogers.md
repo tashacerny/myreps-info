@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 32
 district: 32
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/rogers01.jpg"
 openstates_id: ocd-person/eb13f926-c0f1-426b-b0a7-63c324f9a558
 contact:

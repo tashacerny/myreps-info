@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 12A
 district: 12A
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/hill02.jpg"
 openstates_id: ocd-person/9b63f31e-5bc0-47bf-a901-0a8dcc2a67b7
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 32
 district: 32
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/chang01.jpg"
 openstates_id: ocd-person/5393ab25-fbd9-455b-8da2-76c53e955823
 contact:

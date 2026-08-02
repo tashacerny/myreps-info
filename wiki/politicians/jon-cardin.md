@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 11B
 district: 11B
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/cardin01.jpg"
 openstates_id: ocd-person/13771198-ddf4-4dfd-80f1-b4069ec55914
 contact:

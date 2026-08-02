@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 42B
 district: 42B
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/guyton01.jpg"
 openstates_id: ocd-person/b120ed9c-3669-44e7-a5ef-710b716071e7
 contact:

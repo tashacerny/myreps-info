@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 20
 district: 20
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2017RS/images/smith02.jpg"
 openstates_id: ocd-person/6e1c09ac-57e7-4a54-bd83-74905670ad7f
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 17
 district: 17
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/vogel01.jpg"
 openstates_id: ocd-person/08182b0f-8c65-4ff2-994e-a0e04063cd4d
 contact:

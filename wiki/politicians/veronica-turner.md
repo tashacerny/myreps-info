@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 26
 district: 26
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/turner01.jpg"
 openstates_id: ocd-person/b982cab0-0d2e-46ae-8e22-51f68e7aac82
 contact:

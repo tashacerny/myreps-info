@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 23
 district: 23
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/holmes.jpg"
 openstates_id: ocd-person/5fff41d7-cea5-4e01-a4da-e4474d267691
 contact:

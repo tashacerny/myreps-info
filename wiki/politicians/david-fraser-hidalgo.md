@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 15
 district: 15
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/fraser01.jpg"
 openstates_id: ocd-person/ccc2ad8a-fa2a-432c-8e95-d301636547fc
 contact:

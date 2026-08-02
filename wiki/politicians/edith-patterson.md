@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 28
 district: 28
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2018RS/images/patterson02.jpg"
 openstates_id: ocd-person/c8851cc0-d707-49c5-939a-485fc7e14075
 contact:

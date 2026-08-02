@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 10
 district: 10
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2024RS/images/white01.jpg"
 openstates_id: ocd-person/e9d8fb0f-3272-47c8-8926-28c7bdfc19ca
 contact:

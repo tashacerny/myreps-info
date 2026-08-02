@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 7B
 district: 7B
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/arikan01.jpg"
 openstates_id: ocd-person/6d88ea30-7b4e-4dcb-8cc7-ed4bb6edc317
 contact:

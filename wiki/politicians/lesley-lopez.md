@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 39
 district: 39
-in_office: true
+in_office: false
 photo_url: "https://static.votesmart.org/static/canphoto/181654.jpg"
 openstates_id: ocd-person/3972ae32-865b-4f83-961f-d8a7ca703ad5
 contact:

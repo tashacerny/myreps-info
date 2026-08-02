@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 34B
 district: 34B
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/mccomas.jpg"
 openstates_id: ocd-person/1cfdc0e8-7eed-411a-b931-cffa6479b51f
 contact:

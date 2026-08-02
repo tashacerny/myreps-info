@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MD State House, District 26
 district: 26
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/valderrama.jpg"
 openstates_id: ocd-person/dcd83c80-dab5-4c22-be2f-0b4081af2f77
 contact:

@@ -5,25 +5,12 @@ party: Democratic
 state: CO
 level: state
 chamber: House
-office: 'CO State House, District 43'
+office: CO State House, District 43
 district: 43
 in_office: true
-photo_url: >-
-  https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1pUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--18c815634a34450ae6caf0855eeb0406ea4582cc/Marshall,%20Bob.jpg
+photo_url: "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1pUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--18c815634a34450ae6caf0855eeb0406ea4582cc/Marshall,%20Bob.jpg"
 openstates_id: ocd-person/ade56d2d-41d7-436d-b76b-85051f036c7a
 contact:
-  website: 'https://openstates.org/person/bob-marshall-5I8WHnXHRQvlwkX1KKq0N8/'
-last_updated: '2026-07-26'
-votes:
-  - bill_slug: co-hb-1207
-    bill_title: Disclosure of Demographic Workforce Data
-    date: '2026-03-05'
-    vote: Yea
-    summary: ''
-  - bill_slug: co-sb-155
-    bill_title: Increase Access Homeowner's Insurance Enterprise
-    date: '2026-05-07'
-    vote: Yea
-    summary: ''
+  website: "https://openstates.org/person/bob-marshall-5I8WHnXHRQvlwkX1KKq0N8/"
+last_updated: "2026-08-02"
 ---
-

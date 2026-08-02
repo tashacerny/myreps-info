@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 33C
 district: 33C
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/bagnall01.jpg"
 openstates_id: ocd-person/396e14a6-1903-4a12-ad7b-aefae5263b0c
 contact:

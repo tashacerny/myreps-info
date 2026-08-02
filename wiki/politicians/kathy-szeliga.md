@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 7A
 district: 7A
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/szeliga.jpg"
 openstates_id: ocd-person/943d1601-904b-40dc-8b98-84bbb02851ab
 contact:

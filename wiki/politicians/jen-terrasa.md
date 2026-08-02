@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 13
 district: 13
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/terrasa01.jpg"
 openstates_id: ocd-person/51573cf9-a7d7-40d5-bd9a-90e3042c4cab
 contact:

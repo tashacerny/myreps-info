@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MD State House, District 30A
 district: 30A
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/behler01.jpg"
 openstates_id: ocd-person/5a00e3a7-f7ac-4f41-b180-1cf821a4c241
 contact:

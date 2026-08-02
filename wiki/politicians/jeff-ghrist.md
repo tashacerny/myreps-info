@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 36
 district: 36
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/ghrist01.jpg"
 openstates_id: ocd-person/297d462e-6cee-4faf-ab3e-4ded2ea6f916
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 3
 district: 3
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/kerr01.jpg"
 openstates_id: ocd-person/38379d8c-a63d-4e2b-88ee-ee6dcd646c95
 contact:

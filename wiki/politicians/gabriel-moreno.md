@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 13
 district: 13
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2026RS/images/moreno01.jpg"
 openstates_id: ocd-person/75e68cdb-a1b8-48ca-a7f9-73dc27f6a6bd
 contact:

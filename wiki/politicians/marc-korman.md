@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 16
 district: 16
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/korman01.jpg"
 openstates_id: ocd-person/b86e252c-2904-4d28-9d2f-b13d854efa66
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 13
 district: 13
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2020RS/images/guzzone.jpg"
 openstates_id: ocd-person/04eec23c-719e-46b1-ae56-f34de9207e8c
 contact:

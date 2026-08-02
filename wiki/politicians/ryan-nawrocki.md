@@ -7,7 +7,7 @@ level: state
 chamber: House
 office: MD State House, District 7A
 district: 7A
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/nawrocki01.jpg"
 openstates_id: ocd-person/bf30221f-f777-4158-bf3b-2ca40dad8144
 contact:

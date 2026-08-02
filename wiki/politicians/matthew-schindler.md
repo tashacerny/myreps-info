@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 2B
 district: 2B
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/schindler01.jpg"
 openstates_id: ocd-person/44ae1380-2bae-4b52-9fe9-03b29bf4e8b1
 contact:

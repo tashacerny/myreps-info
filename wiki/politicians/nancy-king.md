@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 39
 district: 39
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/king.jpg"
 openstates_id: ocd-person/92f41e40-4782-4c52-81a1-de8f78e05ab1
 contact:

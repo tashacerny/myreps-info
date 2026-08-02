@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 20
 district: 20
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2026RS/images/charkoudian01.jpg"
 openstates_id: ocd-person/d4354cae-a994-4b2d-863f-238322fc6135
 contact:

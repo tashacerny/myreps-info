@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 43
 district: 43
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/washington.jpg"
 openstates_id: ocd-person/0bdef1bb-ea31-4a27-937c-eb680ae67343
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 22
 district: 22
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/williams01.jpg"
 openstates_id: ocd-person/0e07b201-0a1a-4a45-af43-f4d9d779b409
 contact:

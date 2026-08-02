@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 21
 district: 21
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/pena.jpg"
 openstates_id: ocd-person/366c0122-84a8-460e-bc98-93d4ca5f0176
 contact:

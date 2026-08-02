@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 29C
 district: 29C
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/morgan03.jpg"
 openstates_id: ocd-person/c08afca2-f312-4cb0-a9c5-58be80d81df1
 contact:

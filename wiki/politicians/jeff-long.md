@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 27B
 district: 27B
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/long02.jpg"
 openstates_id: ocd-person/20f85b73-be94-4030-bac8-4a6e515f9285
 contact:

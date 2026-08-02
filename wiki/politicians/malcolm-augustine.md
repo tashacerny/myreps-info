@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 47
 district: 47
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/augustine01.jpg"
 openstates_id: ocd-person/6c4c1b4d-7c32-4d2b-83ab-d207f92e1818
 contact:

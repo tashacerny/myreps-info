@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 11
 district: 11
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/hettleman02.jpg"
 openstates_id: ocd-person/77cad368-7e81-4ff2-91d8-62ecacd38fe7
 contact:

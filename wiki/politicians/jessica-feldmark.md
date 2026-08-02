@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 12A
 district: 12A
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/feldmark01.jpg"
 openstates_id: ocd-person/5e096a5d-1598-49c1-ba34-758759953f2f
 contact:

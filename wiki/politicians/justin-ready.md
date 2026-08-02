@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 5
 district: 5
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2016RS/images/ready01.jpg"
 openstates_id: ocd-person/eea44ceb-5bec-458e-b22e-16351c5f98f9
 contact:

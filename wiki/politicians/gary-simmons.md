@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 12B
 district: 12B
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/simmons01.jpg"
 openstates_id: ocd-person/e420ea16-5cb8-49b4-ba37-e5b5876a02fc
 contact:

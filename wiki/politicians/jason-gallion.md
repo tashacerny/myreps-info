@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 35
 district: 35
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/gallion01.jpg"
 openstates_id: ocd-person/7c2a7a4b-f847-4efa-baea-2e5633acdcd5
 contact:

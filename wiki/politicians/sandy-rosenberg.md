@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 41
 district: 41
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2022RS/images/rosenberg.jpg"
 openstates_id: ocd-person/9ec0fe7d-36ae-437b-9bcf-754da8e4e247
 contact:

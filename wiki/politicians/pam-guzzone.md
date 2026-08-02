@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 13
 district: 13
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/guzzone01.jpg"
 openstates_id: ocd-person/ba217836-74e4-49ec-8eac-58d21e792e63
 contact:

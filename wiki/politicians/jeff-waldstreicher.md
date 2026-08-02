@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 18
 district: 18
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/waldstreicher1.jpg"
 openstates_id: ocd-person/43ee08fa-dce5-4526-8242-17e3e70baad7
 contact:

@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 32
 district: 32
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/bartlett02.jpg"
 openstates_id: ocd-person/9fbc0383-4845-42ae-a2db-06b16c6f6728
 contact:

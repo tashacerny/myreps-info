@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 19
 district: 19
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2026RS/images/stewart01.jpg"
 openstates_id: ocd-person/5d11064b-6757-42f7-86fa-3023fefb6c10
 contact:

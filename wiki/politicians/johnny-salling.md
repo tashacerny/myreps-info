@@ -7,7 +7,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 6
 district: 6
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2020RS/images/salling01.jpg"
 openstates_id: ocd-person/6a5dec66-3631-424f-aceb-6aa9f107cea1
 contact:

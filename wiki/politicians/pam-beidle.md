@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 32
 district: 32
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2025RS/images/beidle01.jpg"
 openstates_id: ocd-person/15921e4d-a07c-4ad7-863c-1d8dfd2d6725
 contact:

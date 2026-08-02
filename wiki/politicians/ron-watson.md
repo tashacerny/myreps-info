@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MD State Senate, District 23
 district: 23
-in_office: true
+in_office: false
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/watson03.jpg"
 openstates_id: ocd-person/177ee919-8310-4485-9b07-041cd83b2947
 contact:

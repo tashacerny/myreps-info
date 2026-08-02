@@ -8,7 +8,7 @@ level: state
 chamber: House
 office: MD State House, District 45
 district: 45
-in_office: true
+in_office: false
 photo_url: "https://mgaleg.maryland.gov/2023RS/images/addison01.jpg"
 openstates_id: ocd-person/76c59be2-cf5e-49d2-8dd6-7d2506a7bcef
 contact:
