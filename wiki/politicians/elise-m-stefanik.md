@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: S001196
 contact:
   website: "https://stefanik.house.gov/"
-last_updated: "2026-08-02"
+last_updated: "2026-08-09"
 ---
 

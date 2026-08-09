@@ -12,6 +12,6 @@ term_start: "2011-01-03"
 bioguide_id: J000293
 contact:
   website: "https://www.ronjohnson.senate.gov/"
-last_updated: "2026-08-02"
+last_updated: "2026-08-09"
 ---
 
