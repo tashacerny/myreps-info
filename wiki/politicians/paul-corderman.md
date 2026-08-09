@@ -8,10 +8,10 @@ level: state
 chamber: Senate
 office: MD State Senate, District 2
 district: 2
-in_office: false
+in_office: true
 photo_url: "http://mgaleg.maryland.gov/2018RS/images/corderman01.jpg"
 openstates_id: ocd-person/6605f7aa-80cb-4ee0-8d0d-18cff943f158
 contact:
   website: "https://openstates.org/person/paul-corderman-36VwYahUXzTVrW1s6dXR5E/"
-last_updated: "2026-07-26"
+last_updated: "2026-08-09"
 ---

@@ -8,10 +8,10 @@ level: state
 chamber: House
 office: MD State House, District 12A
 district: 12A
-in_office: false
+in_office: true
 photo_url: "http://mgaleg.maryland.gov/2019RS/images/feldmark01.jpg"
 openstates_id: ocd-person/5e096a5d-1598-49c1-ba34-758759953f2f
 contact:
   website: "https://openstates.org/person/jessica-feldmark-2rRa3lO7PD3vZKLXjTJtrb/"
-last_updated: "2026-07-26"
+last_updated: "2026-08-09"
 ---
