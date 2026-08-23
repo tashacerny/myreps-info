@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: M001194
 contact:
   website: "https://moolenaar.house.gov/"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

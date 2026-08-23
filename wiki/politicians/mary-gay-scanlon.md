@@ -13,6 +13,6 @@ term_start: "2018-01-03"
 bioguide_id: S001205
 contact:
   website: "https://scanlon.house.gov/"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

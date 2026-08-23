@@ -13,6 +13,6 @@ term_start: "2008-01-03"
 bioguide_id: S001176
 contact:
   website: "https://scalise.house.gov/"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

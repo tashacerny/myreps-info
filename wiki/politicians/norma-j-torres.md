@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: T000474
 contact:
   website: "https://torres.house.gov/"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

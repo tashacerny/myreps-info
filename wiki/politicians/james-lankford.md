@@ -12,6 +12,6 @@ term_start: "2015-01-03"
 bioguide_id: L000575
 contact:
   website: "https://www.lankford.senate.gov"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

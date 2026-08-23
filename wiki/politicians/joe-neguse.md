@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: N000191
 contact:
   website: "https://neguse.house.gov/"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

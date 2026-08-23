@@ -12,6 +12,6 @@ term_start: "2011-01-03"
 bioguide_id: H001061
 contact:
   website: "https://www.hoeven.senate.gov"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

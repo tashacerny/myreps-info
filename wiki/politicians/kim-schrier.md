@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: S001216
 contact:
   website: "https://schrier.house.gov"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

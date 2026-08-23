@@ -13,6 +13,6 @@ term_start: "1993-01-03"
 bioguide_id: C000537
 contact:
   website: "https://clyburn.house.gov/"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

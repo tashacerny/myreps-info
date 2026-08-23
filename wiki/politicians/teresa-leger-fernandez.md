@@ -8,11 +8,11 @@ chamber: House
 office: U.S. Representative, New Mexico-3
 district: 3
 in_office: true
-photo_url: "https://www.congress.gov/img/member/l000273_200.jpg"
+photo_url: "https://www.congress.gov/img/member/220c9f13e61af5f7a2a250c8deb38b87_200.jpg"
 term_start: "2021-01-03"
 bioguide_id: L000273
 contact:
   website: "https://fernandez.house.gov"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

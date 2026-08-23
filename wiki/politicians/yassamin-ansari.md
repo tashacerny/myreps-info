@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: A000381
 contact:
   website: "https://ansari.house.gov/"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 

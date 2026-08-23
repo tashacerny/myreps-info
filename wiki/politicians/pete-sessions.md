@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: S000250
 contact:
   website: "https://sessions.house.gov"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
 
