@@ -11,5 +11,5 @@ in_office: true
 openstates_id: ocd-person/b8495630-20f7-4f9e-bf84-2a13a6da3794
 contact:
   website: "https://openstates.org/person/renee-burgess-5bk6ONyEUH4Cjor1G8aOXM/"
-last_updated: "2026-08-16"
+last_updated: "2026-08-23"
 ---
