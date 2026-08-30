@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: M001199
 contact:
   website: "https://mast.house.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

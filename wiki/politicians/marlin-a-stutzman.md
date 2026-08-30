@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: S001188
 contact:
   website: "https://stutzman.house.gov/"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

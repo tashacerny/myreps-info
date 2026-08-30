@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: K000388
 contact:
   website: "https://trentkelly.house.gov/"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

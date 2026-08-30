@@ -13,6 +13,6 @@ term_start: "1991-01-03"
 bioguide_id: N000002
 contact:
   website: "https://nadler.house.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

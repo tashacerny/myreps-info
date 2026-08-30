@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: W000788
 contact:
   website: "https://nikemawilliams.house.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

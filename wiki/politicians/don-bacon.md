@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: B001298
 contact:
   website: "https://bacon.house.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

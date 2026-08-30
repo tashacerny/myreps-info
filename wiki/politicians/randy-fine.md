@@ -13,6 +13,6 @@ term_start: "2025-01-03"
 bioguide_id: F000484
 contact:
   website: "https://fine.house.gov/"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

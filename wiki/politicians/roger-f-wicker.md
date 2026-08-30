@@ -12,6 +12,6 @@ term_start: "2007-01-03"
 bioguide_id: W000437
 contact:
   website: "https://www.wicker.senate.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

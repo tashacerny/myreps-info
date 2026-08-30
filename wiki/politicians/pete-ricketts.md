@@ -12,6 +12,6 @@ term_start: "2023-01-03"
 bioguide_id: R000618
 contact:
   website: "https://www.ricketts.senate.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

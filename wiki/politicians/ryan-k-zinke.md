@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: Z000018
 contact:
   website: "https://zinke.house.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: P000608
 contact:
   website: "https://scottpeters.house.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 

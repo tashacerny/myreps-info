@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: S001221
 contact:
   website: "https://scholten.house.gov"
-last_updated: "2026-08-23"
+last_updated: "2026-08-30"
 ---
 
