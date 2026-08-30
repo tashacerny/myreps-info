@@ -8,7 +8,7 @@ level: state
 chamber: Senate
 office: MI State Senate, District 29
 district: 29
-in_office: true
+in_office: false
 photo_url: "https://senatedems.com/brinks/wp-content/uploads/sites/6/2022/12/MDS_Brinks_DSC5456_536.jpg"
 openstates_id: ocd-person/de38477b-6f3e-44cd-96d0-bd81ff831948
 contact:
