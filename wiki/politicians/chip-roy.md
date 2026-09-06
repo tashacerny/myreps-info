@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: R000614
 contact:
   website: "https://roy.house.gov"
-last_updated: "2026-08-30"
+last_updated: "2026-09-06"
 ---
 

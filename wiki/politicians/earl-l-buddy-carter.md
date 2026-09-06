@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: C001103
 contact:
   website: "https://buddycarter.house.gov/"
-last_updated: "2026-08-30"
+last_updated: "2026-09-06"
 ---
 

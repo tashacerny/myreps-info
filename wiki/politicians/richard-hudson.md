@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: H001067
 contact:
   website: "https://hudson.house.gov"
-last_updated: "2026-08-30"
+last_updated: "2026-09-06"
 ---
 

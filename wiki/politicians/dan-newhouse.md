@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: N000189
 contact:
   website: "https://newhouse.house.gov"
-last_updated: "2026-08-30"
+last_updated: "2026-09-06"
 ---
 

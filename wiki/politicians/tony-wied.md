@@ -13,6 +13,6 @@ term_start: "2024-01-03"
 bioguide_id: W000829
 contact:
   website: "https://wied.house.gov/"
-last_updated: "2026-08-30"
+last_updated: "2026-09-06"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: G000600
 contact:
   website: "https://gluesenkampperez.house.gov"
-last_updated: "2026-08-30"
+last_updated: "2026-09-06"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: U000040
 contact:
   website: "https://underwood.house.gov/"
-last_updated: "2026-08-30"
+last_updated: "2026-09-06"
 ---
 

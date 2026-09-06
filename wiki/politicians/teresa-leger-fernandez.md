@@ -13,6 +13,6 @@ term_start: "2021-01-03"
 bioguide_id: L000273
 contact:
   website: "https://fernandez.house.gov"
-last_updated: "2026-08-30"
+last_updated: "2026-09-06"
 ---
 
