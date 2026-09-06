@@ -11,7 +11,7 @@ in_office: true
 term_start: "2026-01-03"
 bioguide_id: W000832
 contact:
-  website: "https://wahab.house.gov/"
+  website: "https://openstates.org/person/aisha-wahab-1G1XVDXnCp2Y7tFkVGjxiG/"
 last_updated: "2026-09-06"
 ---
 
