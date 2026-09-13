@@ -13,6 +13,6 @@ term_start: "2013-01-03"
 bioguide_id: K000385
 contact:
   website: "https://robinkelly.house.gov/"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

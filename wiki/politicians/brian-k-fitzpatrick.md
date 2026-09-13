@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: F000466
 contact:
   website: "https://fitzpatrick.house.gov/"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

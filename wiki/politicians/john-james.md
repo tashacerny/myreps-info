@@ -13,6 +13,6 @@ term_start: "2023-01-03"
 bioguide_id: J000307
 contact:
   website: "https://james.house.gov"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: F000469
 contact:
   website: "https://fulcher.house.gov/"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

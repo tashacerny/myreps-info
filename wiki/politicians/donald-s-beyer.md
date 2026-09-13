@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: B001292
 contact:
   website: "https://beyer.house.gov"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

@@ -13,6 +13,6 @@ term_start: "1993-01-03"
 bioguide_id: T000193
 contact:
   website: "https://benniethompson.house.gov/"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

@@ -13,6 +13,6 @@ term_start: "2019-01-03"
 bioguide_id: O000172
 contact:
   website: "https://ocasio-cortez.house.gov/"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

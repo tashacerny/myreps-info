@@ -13,6 +13,6 @@ term_start: "2026-01-03"
 bioguide_id: B001328
 contact:
   website: "https://blair.house.gov/"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

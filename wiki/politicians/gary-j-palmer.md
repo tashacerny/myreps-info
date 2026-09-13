@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: P000609
 contact:
   website: "https://palmer.house.gov/"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

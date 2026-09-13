@@ -13,6 +13,6 @@ term_start: "1995-01-03"
 bioguide_id: L000397
 contact:
   website: "https://lofgren.house.gov/"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

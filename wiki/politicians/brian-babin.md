@@ -13,6 +13,6 @@ term_start: "2015-01-03"
 bioguide_id: B001291
 contact:
   website: "https://babin.house.gov"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 

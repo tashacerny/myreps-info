@@ -13,6 +13,6 @@ term_start: "2017-01-03"
 bioguide_id: B001302
 contact:
   website: "https://biggs.house.gov"
-last_updated: "2026-09-06"
+last_updated: "2026-09-13"
 ---
 
